@@ -1,0 +1,55 @@
+{
+ "christianity-mary": {
+  "file": "File:Duccio di Buoninsegna 008.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Duccio_di_Buoninsegna_008.jpg/960px-Duccio_di_Buoninsegna_008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Duccio_di_Buoninsegna_008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page": "https://commons.wikimedia.org/wiki/File:Duccio_di_Buoninsegna_008.jpg",
+  "w": 1576,
+  "h": 2412,
+  "meta": {
+   "ObjectName": "Madonna and Child with Six Angels",
+   "Artist": "Duccio di Buoninsegna",
+   "ImageDescription": "Madonna and Child",
+   "DateTimeOriginal": "between 1300 and 1305 date QS:P571,+1300-00-00T00:00:00Z/8,P1319,+1300-00-00T00:00:00Z/9,P1326,+1305-00-00T00:00:00Z/9",
+   "LicenseShortName": "Public domain",
+   "UsageTerms": "Public domain"
+  },
+  "license": "Public domain",
+  "context": true
+ },
+ "mesopotamia-enlil": {
+  "file": "File:Cuneiform tablet- commentary on Enuma Anu Enlil, tablet 5 MET DP-442-001.jpg",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Cuneiform_tablet-_commentary_on_Enuma_Anu_Enlil%2C_tablet_5_MET_DP-442-001.jpg/960px-Cuneiform_tablet-_commentary_on_Enuma_Anu_Enlil%2C_tablet_5_MET_DP-442-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Cuneiform_tablet-_commentary_on_Enuma_Anu_Enlil%2C_tablet_5_MET_DP-442-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page": "https://commons.wikimedia.org/wiki/File:Cuneiform_tablet-_commentary_on_Enuma_Anu_Enlil,_tablet_5_MET_DP-442-001.jpg",
+  "w": 4000,
+  "h": 3000,
+  "meta": {
+   "ObjectName": "Cuneiform tablet: commentary on Enuma Anu Enlil, tablet 5",
+   "ImageDescription": "Cuneiform tablet; Clay-Tablets-Inscribed",
+   "DateTimeOriginal": "ca. late 1st millennium B.C.",
+   "LicenseShortName": "CC0",
+   "UsageTerms": "Creative Commons Zero, Public Domain Dedication"
+  },
+  "license": "CC0",
+  "context": true
+ },
+ "polynesia-tawhirimatea": {
+  "file": "File:Maori carved figure wearing a piupiu and tiki, standing against a wall with weapons and cloaks. ATLIB 273584.png",
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Maori_carved_figure_wearing_a_piupiu_and_tiki%2C_standing_against_a_wall_with_weapons_and_cloaks._ATLIB_273584.png/960px-Maori_carved_figure_wearing_a_piupiu_and_tiki%2C_standing_against_a_wall_with_weapons_and_cloaks._ATLIB_273584.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Maori_carved_figure_wearing_a_piupiu_and_tiki%2C_standing_against_a_wall_with_weapons_and_cloaks._ATLIB_273584.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page": "https://commons.wikimedia.org/wiki/File:Maori_carved_figure_wearing_a_piupiu_and_tiki,_standing_against_a_wall_with_weapons_and_cloaks._ATLIB_273584.png",
+  "w": 4732,
+  "h": 6444,
+  "meta": {
+   "ObjectName": "Maori carved figure wearing a piupiu and tiki, standing against a wall with weapons and cloaks. ATLIB 273584",
+   "ImageDescription": "Traditional Maori wood carving. The figure, with paua shell eyes, wears a piupiu (flax garment worn around the waist), and a tiki, and is alongside a display of weapons and cloaks. Photograph taken by Albert Percy Godber circa 1900. For other photographs with the same figure included, see APG-0095-1/2-G, and APG-0096-1/2-G, and APG-0097-1/2-G.",
+   "DateTimeOriginal": "circa 1900 date QS:P,+1900-00-00T00:00:00Z/9,P1480,Q5727902",
+   "Artist": "Godber, Albert Percy, 1875-1949",
+   "LicenseShortName": "Public domain",
+   "UsageTerms": "Public domain"
+  },
+  "license": "Public domain",
+  "context": true
+ }
+}

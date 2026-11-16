@@ -1,0 +1,307 @@
+{
+ "china-bai-she": {
+  "pick": 1,
+  "file": "Legend white snake1",
+  "note": "Cai opera mural of White Snake"
+ },
+ "china-chiyou": {
+  "pick": 2,
+  "file": "Chi You Rubbing Wu family",
+  "note": "Han shrine rubbing of Chiyou"
+ },
+ "china-erlang": {
+  "pick": 1,
+  "file": "FengShen2",
+  "note": "Fengshen yanyi woodblock of Erlang"
+ },
+ "china-jingwei": {
+  "pick": 1,
+  "file": "Animal Kingdom - pic130",
+  "note": "Gujin tushu jicheng Jingwei bird"
+ },
+ "china-kuafu": {
+  "pick": 1,
+  "file": "Imperial Encyclopaedia",
+  "note": "Kuafu chasing the sun, encyclopedia plate"
+ },
+ "china-sunwukong": {
+  "pick": 3,
+  "file": "The Monkey King Songokū",
+  "note": "Yoshitoshi-style print of Monkey King"
+ },
+ "china-xingtian": {
+  "pick": 1,
+  "file": "Jing Yinghao - Xingtian",
+  "note": "headless Xingtian drawing"
+ },
+ "japan-onamazu": {
+  "pick": 1,
+  "file": "Namazu-e",
+  "note": "Namazu earthquake catfish print"
+ },
+ "japan-shuten": {
+  "pick": 1,
+  "file": "Shutendoji Surrounded by",
+  "note": "Shuten-doji banquet scene"
+ },
+ "japan-yamata-no-orochi": {
+  "pick": 3,
+  "file": "YamataNoOrochi",
+  "note": "Susanoo and the eight-headed serpent"
+ },
+ "japan-yamatotakeru": {
+  "pick": 3,
+  "file": "Yamato Takeru no Mikoto",
+  "note": "ukiyo-e of Yamato Takeru"
+ },
+ "korea-choe-yeong": {
+  "pick": 1,
+  "file": "Korean dance-Cheoyong",
+  "note": "Cheoyong dance painting"
+ },
+ "korea-gumiho": {
+  "pick": null,
+  "file": null,
+  "note": "only newspaper text"
+ },
+ "korea-yuhwa": {
+  "pick": 3,
+  "file": "Lady Yuhwa and King Geumwa",
+  "note": "woodblock of Yuhwa and Geumwa"
+ },
+ "india-agni": {
+  "pick": 1,
+  "file": "Agni god of fire",
+  "note": "Agni on ram, miniature"
+ },
+ "india-garuda": {
+  "pick": 1,
+  "file": "Garuda",
+  "note": "stone Garuda relief"
+ },
+ "india-indra": {
+  "pick": 2,
+  "file": "Tiruchchirappalli painting Indra",
+  "note": "Indra on white elephant"
+ },
+ "india-krishna": {
+  "pick": 2,
+  "file": "VenugopalKrishna",
+  "note": "Krishna playing flute"
+ },
+ "india-nataraja": {
+  "pick": 1,
+  "file": "Shiva as the Lord of Danc",
+  "note": "Chola Nataraja bronze"
+ },
+ "india-rama": {
+  "pick": 3,
+  "file": "The return of Rama",
+  "note": "Rama returning to Ayodhya"
+ },
+ "india-yama": {
+  "pick": 2,
+  "file": "Yama deva",
+  "note": "Yama on buffalo"
+ },
+ "greek-achilles": {
+  "pick": 1,
+  "file": "Leon Benouville The Wrath",
+  "note": "Achilles and Patroclus"
+ },
+ "greek-hercules": {
+  "pick": 1,
+  "file": "Herakles and Telephos Lou",
+  "note": "Heracles statue"
+ },
+ "greek-icarus": {
+  "pick": 2,
+  "file": "Ikarus (Schneider)",
+  "note": "falling Icarus"
+ },
+ "greek-orpheus": {
+  "pick": 2,
+  "file": "The Lament of Orpheus",
+  "note": "Orpheus lamenting"
+ },
+ "greek-persephone": {
+  "pick": 1,
+  "file": "Pluto Serapis and Perseph",
+  "note": "Persephone beside Pluto"
+ },
+ "greek-prometheus": {
+  "pick": 1,
+  "file": "Heinrich fueger 1817 prom",
+  "note": "Prometheus bringing fire"
+ },
+ "greek-theseus": {
+  "pick": 3,
+  "file": "Theseus and the Minotaur",
+  "note": "Theseus mosaic"
+ },
+ "norse-brynhild": {
+  "pick": null,
+  "file": null,
+  "note": "only photos of people"
+ },
+ "norse-fenrir": {
+  "pick": 2,
+  "file": "Fenrir bound manuscript",
+  "note": "Icelandic manuscript of bound Fenrir"
+ },
+ "norse-hel": {
+  "pick": null,
+  "file": null,
+  "note": "no depiction"
+ },
+ "norse-idun": {
+  "pick": 2,
+  "file": "Idun and the Apples",
+  "note": "Idun with golden apples"
+ },
+ "norse-jormungandr": {
+  "pick": 3,
+  "file": "The children of Loki by W",
+  "note": "world serpent with Thor"
+ },
+ "norse-ymir": {
+  "pick": 3,
+  "file": "Ymir",
+  "note": "Ymir nursed by Audhumla"
+ },
+ "egypt-nut": {
+  "pick": 3,
+  "file": "Djedkhonsuiuefankh",
+  "note": "Nut arching over earth, papyrus"
+ },
+ "egypt-ptah": {
+  "pick": 3,
+  "file": "Ptah Statue MET DP216330",
+  "note": "bronze Ptah statue"
+ },
+ "egypt-sekhmet": {
+  "pick": 3,
+  "file": "Statua della dea Sekhmet",
+  "note": "Sekhmet statue"
+ },
+ "mesopotamia-adapa": {
+  "pick": 1,
+  "file": "Chaos Monster and Sun God",
+  "note": "cylinder seal impression"
+ },
+ "mesopotamia-anu": {
+  "pick": null,
+  "file": null,
+  "note": "diagram, not an artwork"
+ },
+ "mesopotamia-ereshkigal": {
+  "pick": 1,
+  "file": "Queen of the Night (Babyl",
+  "note": "Burney relief, contested identification"
+ },
+ "mesopotamia-marduk": {
+  "pick": 1,
+  "file": "Marduk and pet",
+  "note": "Marduk with his dragon"
+ },
+ "mesopotamia-nergal": {
+  "pick": 2,
+  "file": "Ancient Parthian relief",
+  "note": "Parthian relief of Nergal"
+ },
+ "mesopotamia-tiamat": {
+  "pick": 2,
+  "file": "Chaos Monster and Sun God",
+  "note": "seal showing Marduk versus chaos monster"
+ },
+ "mesopotamia-utnapishtim": {
+  "pick": 2,
+  "file": "British Museum Flood Tabl",
+  "note": "Gilgamesh flood tablet XI"
+ },
+ "persia-kay-khosrow": {
+  "pick": 1,
+  "file": "Baysonghor Shahnameh bat",
+  "note": "Baysonghor Shahnameh painting"
+ },
+ "persia-suhrab": {
+  "pick": 3,
+  "file": "Sohrab and Gordafrid by",
+  "note": "Sohrab and Gordafarid"
+ },
+ "persia-zahhak": {
+  "pick": 1,
+  "file": "Baysonghori Shahnameh 6",
+  "note": "Zahhak in the Shahnameh"
+ },
+ "roman-aeneas": {
+  "pick": 3,
+  "file": "History of the Kings (f.1",
+  "note": "medieval Aeneas miniature"
+ },
+ "roman-cupid": {
+  "pick": 3,
+  "file": "Bodleian Libraries, Ticket",
+  "note": "Cupid engraving"
+ },
+ "roman-romulus": {
+  "pick": 1,
+  "file": "Romulus Receiving the Augury",
+  "note": "Romulus and Remus coin"
+ },
+ "roman-saturn": {
+  "pick": null,
+  "file": null,
+  "note": "only Saturn planet photos"
+ },
+ "maya-kukulkan": {
+  "pick": null,
+  "file": null,
+  "note": "sunset photo, unusable"
+ },
+ "yoruba-oya": {
+  "pick": null,
+  "file": null,
+  "note": "public ceremony photo, no portrait"
+ },
+ "yoruba-yemoja": {
+  "pick": null,
+  "file": null,
+  "note": "public ceremony photo, no portrait"
+ },
+ "yoruba-olodumare": {
+  "pick": null,
+  "file": null,
+  "note": "modern posters of other orishas"
+ },
+ "christianity-lucifer": {
+  "pick": 1,
+  "file": "Gustave Dore Inferno34",
+  "note": "Dore engraving of Lucifer"
+ },
+ "christianity-eve": {
+  "pick": 2,
+  "file": "CreacionEva",
+  "note": "Michelangelo creation of Eve"
+ },
+ "christianity-david": {
+  "pick": 2,
+  "file": "King David, the King of Israel",
+  "note": "King David with harp"
+ },
+ "christianity-solomon": {
+  "pick": 1,
+  "file": "Berruguete, Pedro - Salomon",
+  "note": "Berruguete Solomon"
+ },
+ "christianity-judas": {
+  "pick": 2,
+  "file": "Almeida Júnior - Remorso de Judas",
+  "note": "Judas remorse painting"
+ },
+ "christianity-magdalene": {
+  "pick": 3,
+  "file": "Titian - The penitent magdalene",
+  "note": "Titian Penitent Magdalene"
+ }
+}

@@ -1,0 +1,578 @@
+[
+ {
+  "id": "japan-inari",
+  "name": "稻荷大神",
+  "en": "Inari",
+  "myth": "japan"
+ },
+ {
+  "id": "korea-hwanung",
+  "name": "桓雄",
+  "en": "Hwanung",
+  "myth": "korea"
+ },
+ {
+  "id": "korea-ungnyeo",
+  "name": "熊女",
+  "en": "Ungnyeo",
+  "myth": "korea"
+ },
+ {
+  "id": "korea-haemosu",
+  "name": "解慕漱",
+  "en": "Haemosu",
+  "myth": "korea"
+ },
+ {
+  "id": "korea-yuhwa",
+  "name": "柳花",
+  "en": "Yuhwa",
+  "myth": "korea"
+ },
+ {
+  "id": "china-sunwukong",
+  "name": "孙悟空",
+  "en": "Sun Wukong",
+  "myth": "china"
+ },
+ {
+  "id": "china-nezha",
+  "name": "哪吒",
+  "en": "Nezha",
+  "myth": "china"
+ },
+ {
+  "id": "china-erlang",
+  "name": "二郎神",
+  "en": "Erlang Shen",
+  "myth": "china"
+ },
+ {
+  "id": "china-kuafu",
+  "name": "夸父",
+  "en": "Kuafu",
+  "myth": "china"
+ },
+ {
+  "id": "china-jingwei",
+  "name": "精卫",
+  "en": "Jingwei",
+  "myth": "china"
+ },
+ {
+  "id": "china-chiyou",
+  "name": "蚩尤",
+  "en": "Chiyou",
+  "myth": "china"
+ },
+ {
+  "id": "china-xingtian",
+  "name": "刑天",
+  "en": "Xingtian",
+  "myth": "china"
+ },
+ {
+  "id": "china-bai-she",
+  "name": "白蛇",
+  "en": "White Snake",
+  "myth": "china"
+ },
+ {
+  "id": "japan-yamatotakeru",
+  "name": "日本武尊",
+  "en": "Yamato Takeru",
+  "myth": "japan"
+ },
+ {
+  "id": "japan-yamata-no-orochi",
+  "name": "八岐大蛇",
+  "en": "Yamata no Orochi",
+  "myth": "japan"
+ },
+ {
+  "id": "japan-onamazu",
+  "name": "鲶鱼",
+  "en": "Onamazu",
+  "myth": "japan"
+ },
+ {
+  "id": "japan-shuten",
+  "name": "酒吞童子",
+  "en": "Shuten Doji",
+  "myth": "japan"
+ },
+ {
+  "id": "korea-choe-yeong",
+  "name": "处容",
+  "en": "Cheoyong",
+  "myth": "korea"
+ },
+ {
+  "id": "india-rama",
+  "name": "罗摩",
+  "en": "Rama",
+  "myth": "india"
+ },
+ {
+  "id": "india-krishna",
+  "name": "黑天",
+  "en": "Krishna",
+  "myth": "india"
+ },
+ {
+  "id": "india-garuda",
+  "name": "迦楼罗",
+  "en": "Garuda",
+  "myth": "india"
+ },
+ {
+  "id": "india-yama",
+  "name": "阎摩",
+  "en": "Yama",
+  "myth": "india"
+ },
+ {
+  "id": "india-agni",
+  "name": "阿耆尼",
+  "en": "Agni",
+  "myth": "india"
+ },
+ {
+  "id": "india-indra",
+  "name": "因陀罗",
+  "en": "Indra",
+  "myth": "india"
+ },
+ {
+  "id": "korea-bulgasari",
+  "name": "不可杀",
+  "en": "Bulgasari",
+  "myth": "korea"
+ },
+ {
+  "id": "korea-gumiho",
+  "name": "九尾狐",
+  "en": "Gumiho",
+  "myth": "korea"
+ },
+ {
+  "id": "india-nataraja",
+  "name": "舞王湿婆",
+  "en": "Nataraja",
+  "myth": "india"
+ },
+ {
+  "id": "egypt-seth",
+  "name": "塞特",
+  "en": "Seth",
+  "myth": "egypt"
+ },
+ {
+  "id": "mesopotamia-anu",
+  "name": "安努",
+  "en": "Anu",
+  "myth": "mesopotamia"
+ },
+ {
+  "id": "mesopotamia-marduk",
+  "name": "马尔杜克",
+  "en": "Marduk",
+  "myth": "mesopotamia"
+ },
+ {
+  "id": "norse-hel",
+  "name": "赫尔",
+  "en": "Hel",
+  "myth": "norse"
+ },
+ {
+  "id": "roman-saturn",
+  "name": "萨图尔努斯",
+  "en": "Saturn",
+  "myth": "roman"
+ },
+ {
+  "id": "celtic-boann",
+  "name": "博安",
+  "en": "Boann",
+  "myth": "celtic"
+ },
+ {
+  "id": "mesopotamia-ereshkigal",
+  "name": "埃列什基伽勒",
+  "en": "Ereshkigal",
+  "myth": "mesopotamia"
+ },
+ {
+  "id": "greek-prometheus",
+  "name": "普罗米修斯",
+  "en": "Prometheus",
+  "myth": "greek"
+ },
+ {
+  "id": "greek-persephone",
+  "name": "珀耳塞福涅",
+  "en": "Persephone",
+  "myth": "greek"
+ },
+ {
+  "id": "greek-hercules",
+  "name": "赫拉克勒斯",
+  "en": "Hercules (Herakles)",
+  "myth": "greek"
+ },
+ {
+  "id": "greek-theseus",
+  "name": "忒修斯",
+  "en": "Theseus",
+  "myth": "greek"
+ },
+ {
+  "id": "greek-orpheus",
+  "name": "俄耳甫斯",
+  "en": "Orpheus",
+  "myth": "greek"
+ },
+ {
+  "id": "greek-achilles",
+  "name": "阿喀琉斯",
+  "en": "Achilles",
+  "myth": "greek"
+ },
+ {
+  "id": "greek-icarus",
+  "name": "伊卡洛斯",
+  "en": "Icarus",
+  "myth": "greek"
+ },
+ {
+  "id": "norse-fenrir",
+  "name": "芬里尔",
+  "en": "Fenrir",
+  "myth": "norse"
+ },
+ {
+  "id": "norse-jormungandr",
+  "name": "耶梦加得",
+  "en": "Jormungandr",
+  "myth": "norse"
+ },
+ {
+  "id": "norse-ymir",
+  "name": "尤弥尔",
+  "en": "Ymir",
+  "myth": "norse"
+ },
+ {
+  "id": "norse-idun",
+  "name": "伊登",
+  "en": "Idun",
+  "myth": "norse"
+ },
+ {
+  "id": "norse-brynhild",
+  "name": "布伦希尔德",
+  "en": "Brynhild",
+  "myth": "norse"
+ },
+ {
+  "id": "roman-aeneas",
+  "name": "埃涅阿斯",
+  "en": "Aeneas",
+  "myth": "roman"
+ },
+ {
+  "id": "roman-romulus",
+  "name": "罗慕路斯",
+  "en": "Romulus",
+  "myth": "roman"
+ },
+ {
+  "id": "roman-cupid",
+  "name": "丘比特",
+  "en": "Cupid",
+  "myth": "roman"
+ },
+ {
+  "id": "celtic-finn",
+  "name": "芬恩",
+  "en": "Finn mac Cumhaill",
+  "myth": "celtic"
+ },
+ {
+  "id": "celtic-bran",
+  "name": "布兰",
+  "en": "Bran the Blessed",
+  "myth": "celtic"
+ },
+ {
+  "id": "celtic-aengus",
+  "name": "安格斯",
+  "en": "Aengus Og",
+  "myth": "celtic"
+ },
+ {
+  "id": "egypt-sekhmet",
+  "name": "塞赫美特",
+  "en": "Sekhmet",
+  "myth": "egypt"
+ },
+ {
+  "id": "egypt-ptah",
+  "name": "普塔",
+  "en": "Ptah",
+  "myth": "egypt"
+ },
+ {
+  "id": "egypt-nut",
+  "name": "努特",
+  "en": "Nut",
+  "myth": "egypt"
+ },
+ {
+  "id": "mesopotamia-tiamat",
+  "name": "提亚马特",
+  "en": "Tiamat",
+  "myth": "mesopotamia"
+ },
+ {
+  "id": "mesopotamia-adapa",
+  "name": "阿达帕",
+  "en": "Adapa",
+  "myth": "mesopotamia"
+ },
+ {
+  "id": "persia-suhrab",
+  "name": "苏赫拉布",
+  "en": "Suhrab",
+  "myth": "persia"
+ },
+ {
+  "id": "persia-zahhak",
+  "name": "扎哈克",
+  "en": "Zahhak",
+  "myth": "persia"
+ },
+ {
+  "id": "maya-xquic",
+  "name": "伊什基克",
+  "en": "Xquic",
+  "myth": "maya"
+ },
+ {
+  "id": "inca-mama-quilla",
+  "name": "玛玛基利亚",
+  "en": "Mama Quilla",
+  "myth": "inca"
+ },
+ {
+  "id": "yoruba-olodumare",
+  "name": "奥洛杜马雷",
+  "en": "Olodumare",
+  "myth": "yoruba"
+ },
+ {
+  "id": "yoruba-ogun",
+  "name": "奥贡",
+  "en": "Ogun",
+  "myth": "yoruba"
+ },
+ {
+  "id": "west-africa-aso",
+  "name": "阿索",
+  "en": "Aso",
+  "myth": "west-africa"
+ },
+ {
+  "id": "west-africa-ntikuma",
+  "name": "恩蒂库马",
+  "en": "Ntikuma",
+  "myth": "west-africa"
+ },
+ {
+  "id": "west-africa-osebo",
+  "name": "奥塞博",
+  "en": "Osebo",
+  "myth": "west-africa"
+ },
+ {
+  "id": "polynesia-maui",
+  "name": "毛伊",
+  "en": "Maui",
+  "myth": "polynesia"
+ },
+ {
+  "id": "polynesia-hina",
+  "name": "希娜",
+  "en": "Hina",
+  "myth": "polynesia"
+ },
+ {
+  "id": "aboriginal-bunjil",
+  "name": "邦吉尔",
+  "en": "Bunjil",
+  "myth": "aboriginal"
+ },
+ {
+  "id": "aboriginal-waa",
+  "name": "瓦阿",
+  "en": "Waa",
+  "myth": "aboriginal"
+ },
+ {
+  "id": "aboriginal-daramulum",
+  "name": "达拉穆伦",
+  "en": "Daramulum",
+  "myth": "aboriginal"
+ },
+ {
+  "id": "inca-mama-cocha",
+  "name": "玛玛科查",
+  "en": "Mama Cocha",
+  "myth": "inca"
+ },
+ {
+  "id": "yoruba-oya",
+  "name": "奥雅",
+  "en": "Oya",
+  "myth": "yoruba"
+ },
+ {
+  "id": "west-africa-onini",
+  "name": "奥尼尼",
+  "en": "Onini",
+  "myth": "west-africa"
+ },
+ {
+  "id": "west-africa-mmoboro",
+  "name": "姆莫博罗",
+  "en": "Mmoboro",
+  "myth": "west-africa"
+ },
+ {
+  "id": "aboriginal-wagyl",
+  "name": "瓦吉尔",
+  "en": "Wagyl",
+  "myth": "aboriginal"
+ },
+ {
+  "id": "christianity-lucifer",
+  "name": "路西法",
+  "en": "Lucifer",
+  "myth": "christianity"
+ },
+ {
+  "id": "christianity-eve",
+  "name": "夏娃",
+  "en": "Eve",
+  "myth": "christianity"
+ },
+ {
+  "id": "christianity-david",
+  "name": "大卫",
+  "en": "David",
+  "myth": "christianity"
+ },
+ {
+  "id": "christianity-solomon",
+  "name": "所罗门",
+  "en": "Solomon",
+  "myth": "christianity"
+ },
+ {
+  "id": "christianity-judas",
+  "name": "犹大",
+  "en": "Judas",
+  "myth": "christianity"
+ },
+ {
+  "id": "christianity-magdalene",
+  "name": "抹大拉的马利亚",
+  "en": "Mary Magdalene",
+  "myth": "christianity"
+ },
+ {
+  "id": "maya-kukulkan",
+  "name": "库库尔坎",
+  "en": "Kukulkan",
+  "myth": "maya"
+ },
+ {
+  "id": "aztec-xolotl",
+  "name": "索洛特尔",
+  "en": "Xolotl",
+  "myth": "aztec"
+ },
+ {
+  "id": "aztec-ehecatl",
+  "name": "埃埃卡特尔",
+  "en": "Ehecatl",
+  "myth": "aztec"
+ },
+ {
+  "id": "inca-chasca",
+  "name": "查斯卡",
+  "en": "Chasca",
+  "myth": "inca"
+ },
+ {
+  "id": "yoruba-yemoja",
+  "name": "耶莫雅",
+  "en": "Yemoja",
+  "myth": "yoruba"
+ },
+ {
+  "id": "yoruba-oshosi",
+  "name": "奥绍西",
+  "en": "Oshosi",
+  "myth": "yoruba"
+ },
+ {
+  "id": "west-africa-adinkra",
+  "name": "阿丁克拉符号",
+  "en": "Adinkra symbols",
+  "myth": "west-africa"
+ },
+ {
+  "id": "west-africa-sankofa",
+  "name": "桑科法",
+  "en": "Sankofa",
+  "myth": "west-africa"
+ },
+ {
+  "id": "polynesia-kamapuaa",
+  "name": "卡马普阿阿",
+  "en": "Kamapuaa",
+  "myth": "polynesia"
+ },
+ {
+  "id": "polynesia-sina",
+  "name": "西娜",
+  "en": "Sina",
+  "myth": "polynesia"
+ },
+ {
+  "id": "aboriginal-emu",
+  "name": "天空鸸鹋",
+  "en": "Sky Emu",
+  "myth": "aboriginal"
+ },
+ {
+  "id": "persia-kay-khosrow",
+  "name": "凯霍斯鲁",
+  "en": "Kay Khosrow",
+  "myth": "persia"
+ },
+ {
+  "id": "mesopotamia-utnapishtim",
+  "name": "乌特纳皮什提姆",
+  "en": "Utnapishtim",
+  "myth": "mesopotamia"
+ },
+ {
+  "id": "mesopotamia-nergal",
+  "name": "涅尔伽勒",
+  "en": "Nergal",
+  "myth": "mesopotamia"
+ }
+]

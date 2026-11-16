@@ -1,0 +1,2639 @@
+window.FIGURES_EAST = [
+{
+ id:'china-pangu',myth:'china',name:'盘古',title:'开辟天地的原初巨人',tags:['开天','化生','宇宙'],
+ sections:[
+ {title:'身份与来历',text:'盘古是中国开天神话中的原初巨人，其较早成文记载见于三国吴人徐整的著述，今多由后世引文保存。他并非先秦经典中统一的创世神，形象与南方地方传统及后来的道教宇宙叙事相互交织。'},
+ {title:'主要叙事',text:'天地最初混沌如鸡子，盘古生于其中，历经漫长岁月使清轻之气上升为天、重浊之气下沉为地。他随天地分离而不断长高，支撑两者不再合拢。另一组记载说盘古死后，气息成为风云，声音成为雷霆，双目化为日月，血液化作江河，身体化成山岳与土地。'},
+ {title:'象征与辨识',text:'常见图像把他画成披兽皮、持巨斧的巨人，但巨斧不是所有早期文本都有的道具。开辟混沌与身体化生万物，是比具体服饰更稳定的识别线索。'},
+ {title:'流传与文化语境',text:'盘古故事强调天地从混沌中分化以及人与自然共享身体性的联系。各地盘古庙、节俗与口传保存不同谱系，不能把现代通俗版当作唯一古本，也不宜将其等同于女娲造人的叙事。'}],
+ en:{name:'Pangu',title:'Primordial giant who separates heaven and earth',tags:['Creation','Transformation','Cosmos'],sections:[
+ {title:'Identity and origins',text:'Pangu is the primordial giant of a Chinese account of cosmic beginnings. Early written attestations are associated with Xu Zheng, a third-century writer whose works survive mainly through quotations. Pangu was not the single creator of all early Chinese traditions; his story developed through regional transmission and later religious interpretation.'},
+ {title:'Key narratives',text:'Within an egglike chaos, Pangu grows as clear, light elements become heaven and heavy elements become earth. He keeps the two apart while their separation increases over immense spans of time. A related account turns his dying body into the world: breath becomes wind and clouds, voice becomes thunder, eyes become sun and moon, blood becomes rivers, and flesh becomes soil and mountains.'},
+ {title:'Symbols and attributes',text:'Popular images show a towering, roughly clothed figure wielding an axe, although the axe is not present in every early source. His most consistent attributes are separating the cosmos and transforming his own body into its landscape.'},
+ {title:'Tradition and context',text:'Pangu traditions connect cosmic order with the living material of the natural world. Local temples and oral narratives preserve different genealogies and details. Modern retellings often combine sources, so a familiar illustrated version should not be mistaken for a single ancient canonical account.'}]}},
+{
+ id:'china-nuwa',myth:'china',name:'女娲',title:'造人与补天的神圣者',tags:['创造','修复','秩序'],
+ sections:[
+ {title:'身份与来历',text:'女娲是中国古代神话中兼具创造与修复力量的神圣人物，见于《楚辞》《淮南子》等不同文献。早期材料呈现多种面貌，后世又将她与伏羲配为兄妹或夫妇；这些关系不能视为所有时代共同接受的定说。'},
+ {title:'主要叙事',text:'《淮南子》描述四极废坏、洪水烈火并作，女娲炼五色石补苍天，断巨鳌之足立四极，杀黑龙以济冀州，积芦灰止洪水。另一则由《风俗通义》佚文保存的故事说，她以黄土抟造人，又引绳入泥挥洒成人；不同造人方式还被用来解释社会等级的由来。'},
+ {title:'象征与辨识',text:'汉代画像中女娲常为人首蛇身，与伏羲交尾盘绕，手执规矩一类器物。五色石、补天与泥土造人也是识别标志，但蛇身图像不应简单解读为邪恶或怪物。'},
+ {title:'流传与文化语境',text:'女娲在地方祭祀、婚姻起源传说及文学中具有不同地位。她的补天事迹突出灾变后的修复与生命延续，现代文化常强调其女性创造力，但古代资料并不存在整齐统一的女神教义体系。'}],
+ en:{name:'Nüwa',title:'Sacred creator and restorer of the heavens',tags:['Creation','Restoration','Order'],sections:[
+ {title:'Identity and origins',text:'Nüwa is a sacred figure of creation and repair in Chinese traditions, appearing in sources including the Chuci and Huainanzi. These materials do not present one consistent biography. Later traditions frequently pair her with Fuxi as siblings or spouses, relationships that should not be projected unchanged onto every earlier text.'},
+ {title:'Key narratives',text:'In the Huainanzi, cosmic supports fail and fire and flood ravage the world. Nüwa smelts stones of five colors to mend heaven, cuts off a giant turtle’s legs to support its corners, kills a black dragon, and dams floodwaters with reed ashes. Another account describes her molding people from yellow earth and creating further people by drawing a cord through mud and scattering its drops.'},
+ {title:'Symbols and attributes',text:'Han images often depict Nüwa with a human head and serpentine body, intertwined with Fuxi and holding measuring instruments. Colored stones and clay figures provide other clues. Her serpent form does not carry an inherently evil meaning.'},
+ {title:'Tradition and context',text:'Local worship, marriage traditions, and literature give Nüwa different roles. Repairing a damaged cosmos highlights survival and renewed order rather than creation alone. Contemporary interpretations often emphasize female creative power, but surviving ancient accounts never formed one uniform system of goddess theology.'}]}},
+{
+ id:'china-fuxi',myth:'china',name:'伏羲',title:'制卦授艺的文化始祖',tags:['八卦','文明','始祖'],
+ sections:[
+ {title:'身份与来历',text:'伏羲又写作伏戏、包牺，是中国古代传统中的文化始祖，常列入三皇，但三皇名单历代并不一致。《周易·系辞下》以包牺氏解释卦象与技艺的起源，汉代图像和后世谱系进一步丰富了他的神圣身份。'},
+ {title:'主要叙事',text:'《系辞下》说包牺仰观天象、俯察地理，观察鸟兽纹理并取象于自身及万物，由此作八卦以通神明、类万物，又结绳为网罟，教授渔猎。另一些地方洪水故事中，伏羲与女娲成为幸存兄妹，经求取天意后成婚，使人类得以延续；这属于另一类叙事传统。'},
+ {title:'象征与辨识',text:'伏羲常以人首蛇身出现，与女娲相对或交缠，旁有日月及星象。八卦、规矩和琴等物也可伴随其形象，不同器物对应制卦、定秩序或创制音乐的文化功绩。'},
+ {title:'流传与文化语境',text:'伏羲祭祀在甘肃天水等地延续，并与地方祖源认同相连。其故事把观察自然、发明技术和社会组织合为文明起点，既有宗教祭祖意义，也被历代思想家用于讨论知识、秩序与圣王理想。'}],
+ en:{name:'Fuxi',title:'Culture ancestor credited with trigrams and arts',tags:['Trigrams','Civilization','Ancestry'],sections:[
+ {title:'Identity and origins',text:'Fuxi, also called Baoxi in early sources, is a culture ancestor frequently included among the Three Sovereigns, although their membership varies. The appended commentaries to the Book of Changes associate him with trigrams and useful inventions. Han images and later genealogies developed his sacred identity in several different directions.'},
+ {title:'Key narratives',text:'The Book of Changes describes Baoxi observing celestial patterns, earthly forms, animals, and his own body before devising the eight trigrams to classify the world. It also credits him with knotted nets used for fishing and hunting. In a different family of regional flood stories, Fuxi and Nüwa survive as siblings and seek heavenly approval before marrying so that human life can continue.'},
+ {title:'Symbols and attributes',text:'A human head above a serpentine body is a common visual form, especially beside Nüwa. Trigrams, measuring instruments, celestial emblems, and sometimes a zither identify particular achievements. No single object accompanies him in every artistic or ritual setting.'},
+ {title:'Tradition and context',text:'Fuxi ceremonies, notably around Tianshui in Gansu, connect ritual reverence with local ancestral identity. His stories make observation, technology, and social organization parts of civilization’s beginnings. Philosophers also used this culture ancestor to discuss knowledge, ordered government, and the ideal of the sage ruler.'}]}}
+,
+{
+ id:'china-jade-emperor',myth:'china',name:'玉皇大帝',title:'统摄天廷的至高尊神之一',tags:['天廷','治理','祭祀'],
+ sections:[
+ {title:'身份与来历',text:'玉皇大帝是道教及中国民间信仰中统摄天界的重要尊神，通常被尊称为玉皇上帝。他的地位随经典、朝廷封号与地方祭祀逐渐发展；道教三清另有更根本的神学位置，不能简单把天廷想成全中国唯一一致的神谱。'},
+ {title:'主要叙事',text:'道教《高上玉皇本行集经》叙述他原为王子，舍弃王位入山修道，历劫成就慈悲与救度功德，最终成为玉皇。民间故事和《西游记》则常将其置于有奏章、职官及赏罚制度的天廷；孙悟空扰乱天宫时，玉皇调遣天兵，并请如来降伏悟空，呈现文学中的跨宗教神界。'},
+ {title:'象征与辨识',text:'造像多为端坐的帝王，戴垂旒冠冕、着衮服，持笏或有侍臣列班。天宫、奏章、印玺体现治理秩序的意象，不应把小说中具体官署全当作道教经典的统一制度。'},
+ {title:'流传与文化语境',text:'农历正月初九在不少地区称为玉皇诞或天公生，闽台等地有隆重祭拜。玉皇形象借人间官僚制度说明天界秩序，同时承载祈福、悔过和公正裁断的期待；不同地方对其权能边界理解不尽相同。'}],
+ en:{name:'Jade Emperor',title:'Exalted sovereign of the celestial court',tags:['Heavenly court','Governance','Worship'],sections:[
+ {title:'Identity and origins',text:'The Jade Emperor is a major celestial sovereign in Daoism and Chinese popular religion. His prominence developed through scriptures, imperial recognition, and local worship. He should not be described as the universally supreme figure of every Chinese tradition: the Three Pure Ones occupy distinct, foundational positions in many Daoist theological systems.'},
+ {title:'Key narratives',text:'A Daoist scripture recounts his beginnings as a compassionate prince who renounces royal succession, cultivates the Way, and achieves exalted status through successive ages of practice. Popular tales and Journey to the West instead emphasize his administrative court. When the Monkey King disrupts heaven, the emperor deploys celestial forces and requests the Buddha’s assistance, creating a literary universe where several religious traditions interact.'},
+ {title:'Symbols and attributes',text:'He usually appears enthroned in imperial robes and a ceremonial crown with hanging bead strings. A court tablet, attendants, memorials, and seals express celestial government. Specific offices in popular fiction do not constitute a universally binding Daoist administrative chart.'},
+ {title:'Tradition and context',text:'The ninth day of the first lunar month is celebrated as his birthday in many communities, especially in Fujian and Taiwan. Worship joins prayers for protection with expectations of moral oversight. His bureaucratic imagery makes heavenly order understandable through institutions familiar from imperial society.'}]}},
+{
+ id:'china-houyi',myth:'china',name:'后羿',title:'射落烈日的神射英雄',tags:['射日','弓箭','救民'],
+ sections:[
+ {title:'身份与来历',text:'后羿通常指射日英雄羿，但古代材料还记载与夏代权力斗争有关的有穷后羿，二者关系历来有争议。《淮南子》等书中的神射手受命平息灾害，后来与嫦娥奔月故事结合，形成今日最熟悉的英雄形象。'},
+ {title:'主要叙事',text:'《淮南子》说尧时十日并出，庄稼焦枯，凶兽毒害人民，尧遂使羿射日，并诛杀猰貐、九婴、大风等灾害性怪物。后世通行版本说他射落九日，留一日照耀人间。另有羿向西王母求得不死药、嫦娥取药奔月的故事，说明射日与失妻并非同一事件的简单因果。'},
+ {title:'象征与辨识',text:'强弓、长箭、天上的多个太阳是后羿最鲜明的标志。射日图中有时以三足乌代表太阳；箭射日乌表现对失控热力的制约，而不是对正常日照与自然生命的否定。'},
+ {title:'流传与文化语境',text:'后羿在诗赋、画像与现代影视中常被塑造成救民英雄，或因爱情而受苦的人物。阅读时宜分辨先秦两汉材料、夏史传说与后起文学，射落九日及徒弟逢蒙害羿等细节也有各自的文本来源。'}],
+ en:{name:'Hou Yi',title:'Archer who restores balance to the blazing sky',tags:['Sun shooting','Archery','Rescue'],sections:[
+ {title:'Identity and origins',text:'Hou Yi commonly names the archer who subdues excessive suns. Ancient sources also describe a ruler called Yi of Youqiong associated with struggles over Xia power; their relationship remains disputed. The heroic archer of texts such as the Huainanzi was later joined more tightly to traditions about Chang’e and the moon.'},
+ {title:'Key narratives',text:'When ten suns appear together, crops wither and dangerous creatures afflict humanity. In the Huainanzi, the ruler Yao sends Yi to shoot at the suns and eliminate monsters including Jiuying and the Great Wind. Familiar later versions specify that nine suns fall and one remains. Another narrative has Yi obtain an immortality drug from the Queen Mother of the West, only for Chang’e to take it.'},
+ {title:'Symbols and attributes',text:'A powerful bow, arrows, and several suns identify the archer. Some images represent solar bodies as three-legged crows. Shooting them expresses the regulation of destructive excess, rather than a rejection of the ordinary sunlight needed for life.'},
+ {title:'Tradition and context',text:'Poetry, visual art, and modern screen adaptations present Yi as both public rescuer and tragic husband. Readers should distinguish early mythic accounts from Xia royal legends and later fiction. Details such as nine fallen suns or his death at an apprentice’s hands have separate textual histories.'}]}},
+{
+ id:'china-change',myth:'china',name:'嫦娥',title:'奔月而居的月中仙子',tags:['月亮','不死药','离别'],
+ sections:[
+ {title:'身份与来历',text:'嫦娥又称姮娥，是中国月亮传说中的重要女性人物，与羿求不死药的故事相连。汉代材料已经记述其奔月，但动机、结局及月中形态存在差异；今天熟悉的广寒宫仙子形象是在长期文学与图像传统中逐渐形成的。'},
+ {title:'主要叙事',text:'《淮南子》记羿向西王母求不死药，嫦娥窃取后奔月，却没有展开今日常见的爱情情节。《灵宪》所见传统又说她奔月前占问吉凶，入月后化为蟾蜍。后来的故事有误服、独吞或为防逢蒙夺药而吞服等版本，分别把奔月解释为欲望、命运或牺牲，不能混作一个古老定本。'},
+ {title:'象征与辨识',text:'明月、飘带、桂树与月兔常围绕嫦娥出现，早期还可见蟾蜍意象。捣药玉兔与伐桂吴刚原有各自传说，后来汇入月宫图景，并不都属于最初的奔月记载。'},
+ {title:'流传与文化语境',text:'嫦娥成为诗词中孤独、离别与长生代价的象征，也与中秋赏月的节令文化相连。现代航天工程以嫦娥命名，延续了望月想象；民俗、文学及科技命名属于不同语境，不表示统一的祭祀制度。'}],
+ en:{name:'Chang’e',title:'Moon-dwelling immortal of separation and longing',tags:['Moon','Immortality','Separation'],sections:[
+ {title:'Identity and origins',text:'Chang’e, also known as Heng’e, is a central woman in Chinese lunar traditions. Han sources already link her ascent to Yi’s acquisition of an immortality drug. Her motives, fate, and appearance differ across accounts; the elegant inhabitant of a moon palace emerged through a long history of literary and visual elaboration.'},
+ {title:'Key narratives',text:'The Huainanzi says that Yi obtains an immortality drug from the Queen Mother of the West and Chang’e steals it before fleeing to the moon. A tradition recorded in the Lingxian includes divination before her departure and transformation into a toad afterward. Later stories propose accidental ingestion, selfish appropriation, or swallowing the medicine to prevent its theft, giving the episode very different moral meanings.'},
+ {title:'Symbols and attributes',text:'The full moon, flowing ribbons, a cassia tree, and a moon rabbit commonly surround her. Earlier traditions also feature a toad. The medicine-pounding rabbit and the woodcutter Wu Gang have their own narrative histories within the broader lunar landscape.'},
+ {title:'Tradition and context',text:'Poets use Chang’e to explore loneliness, separation, and the cost of immortality. She is also associated with Mid-Autumn moon viewing. China’s lunar exploration program adopts her name, extending an old imaginative connection to the moon without implying one continuous or uniform religious practice.'}]}}
+,
+{
+ id:'china-xiwangmu',myth:'china',name:'西王母',title:'昆仑仙境与长生权能的女神',tags:['昆仑','长生','仙境'],
+ sections:[
+ {title:'身份与来历',text:'西王母是中国古代文献和宗教中的重要女神，早期《山海经》将她描写为居西方、具豹尾虎齿的威严存在。汉代以后她逐渐成为仙界尊长，与昆仑、长生及升仙相联系；后世王母娘娘形象并不完全等同于早期记载。'},
+ {title:'主要叙事',text:'《穆天子传》记周穆王西行，在瑶池与西王母宴饮酬唱，呈现远方圣境与王者相会的情景。羿求不死药的传说则突出她掌握长生资源。后来的汉武帝故事写她降临授桃，仙桃须漫长岁月方能成熟；《西游记》进一步把蟠桃宴写成天界盛会，这是小说对传统的再组织。'},
+ {title:'象征与辨识',text:'早期辨识线索包括豹尾、虎齿、蓬发与戴胜，汉代画像常配青鸟、龙虎及仙人。成熟的宫廷式形象则戴冠端坐，伴随仙桃与瑶池，体现神格历史性的改变。'},
+ {title:'流传与文化语境',text:'西王母在汉代升仙想象、道教女仙谱系与地方宫观中均有地位。她有时被通俗故事写成玉皇配偶，但这不是各类经典一致的关系；其长期独立的权威不应仅被缩减为天帝家庭中的角色。'}],
+ en:{name:'Queen Mother of the West',title:'Goddess of western paradises and longevity',tags:['Kunlun','Longevity','Immortals'],sections:[
+ {title:'Identity and origins',text:'The Queen Mother of the West, or Xiwangmu, is an important goddess whose appearance and functions changed substantially. The Classic of Mountains and Seas describes a formidable western being with animal features. Han and later traditions increasingly associate her with Kunlun, immortality, celestial authority, and communities of perfected beings.'},
+ {title:'Key narratives',text:'The Tale of King Mu describes the Zhou ruler journeying west and exchanging songs with Xiwangmu at the Jade Pool. Stories about Yi place the immortality drug under her control. Later tales of Emperor Wu describe her arrival with peaches that ripen only after extraordinary spans of time. Journey to the West reorganizes these traditions into a celestial peach banquet disrupted by the Monkey King.'},
+ {title:'Symbols and attributes',text:'Early features include tiger teeth, a leopard tail, disheveled hair, and a distinctive headdress. Blue birds and immortals accompany Han representations. Later images favor an enthroned, crowned lady with peaches and a paradisal court beside the Jade Pool.'},
+ {title:'Tradition and context',text:'Xiwangmu is important in Han hopes for transcendence, Daoist lineages of female immortals, and local worship. Popular accounts sometimes make her the Jade Emperor’s wife, but this is not a universal scriptural relationship. Her independent authority long predates that familiar domestic interpretation.'}]}},
+{
+ id:'china-dayu',myth:'china',name:'大禹',title:'疏导洪水并奠定王朝的圣王',tags:['治水','责任','王权'],
+ sections:[
+ {title:'身份与来历',text:'大禹是中国上古传说中的治水英雄与夏王朝奠基者，见于《尚书》《孟子》《山海经》等多种材料。其父鲧治水失败，禹继承任务；不同文本对父子经历、神助方式和政治继承的解释各异，神话与古史叙述长期交织。'},
+ {title:'主要叙事',text:'《孟子》强调禹疏导九河、排通江汉，使洪水归海，治理方法与鲧筑障壅水形成对照。他劳苦奔走，三过家门而不入，成为克己尽职的典型。另有鲧腹生禹、应龙画地助治水以及禹娶涂山氏的传说；后世又把划定九州、铸造九鼎及王位传子启连入其功业。'},
+ {title:'象征与辨识',text:'禹常持耒耜等治水工具，衣着朴素或作帝王装束，旁见江河山川。九州与九鼎象征治理疆域和政治秩序，但鼎的铸造归属在不同古代记载中也有差别。'},
+ {title:'流传与文化语境',text:'浙江绍兴等地的大禹祭祀与治水遗迹构成地方记忆。儒家常以禹说明为民勤劳、公共责任和圣王德行；现代讨论亦关注洪水经验，但不能把所有神话细节直接当作可验证的水利工程史。'}],
+ en:{name:'Yu the Great',title:'Flood-taming sage and founder of dynastic order',tags:['Flood control','Responsibility','Kingship'],sections:[
+ {title:'Identity and origins',text:'Yu the Great is the flood-taming hero and traditional founder of the Xia dynasty. He appears in classical, philosophical, and mythic sources that do not agree on every detail. His father Gun fails to control the waters, leaving Yu a task that links environmental restoration, moral authority, and political succession.'},
+ {title:'Key narratives',text:'Mencius emphasizes Yu’s opening channels and directing rivers toward the sea, contrasting this approach with attempts to obstruct the flood. His dedication is epitomized by passing his home three times without entering. Other traditions describe his extraordinary birth from Gun, assistance from a dragon, and marriage to a woman of Tushan. Later accounts connect him with the Nine Provinces, bronze cauldrons, and succession by his son Qi.'},
+ {title:'Symbols and attributes',text:'Yu carries digging or agricultural tools and appears beside rivers and mountains, sometimes in plain working dress and sometimes as a ruler. The Nine Provinces and Nine Cauldrons evoke ordered territory, although ancient sources differ about the cauldrons’ origin.'},
+ {title:'Tradition and context',text:'Sites and ceremonies associated with Yu, including those around Shaoxing, sustain regional historical memory. Confucian interpretations emphasize service, diligence, and public responsibility. Flood traditions may preserve environmental experience, but their supernatural episodes cannot simply be treated as directly verifiable records of hydraulic engineering.'}]}},
+{
+ id:'japan-izanagi',myth:'japan',name:'伊邪那岐',title:'造岛与禊祓的创生之神',tags:['国生','禊祓','边界'],
+ sections:[
+ {title:'身份与来历',text:'伊邪那岐是《古事记》《日本书纪》所载的创生神，与伊邪那美共同承担生成国土和诸神的使命。两书保留的次序与异传不完全相同，他既是神代谱系中的父神，也是日本神道禊祓观念的重要叙事来源之一。'},
+ {title:'主要叙事',text:'伊邪那岐与伊邪那美立于天浮桥，以天沼矛搅动海水，滴落的盐凝成淤能碁吕岛，随后成婚生岛。伊邪那美死后，他追入黄泉，违约照见其腐败之身，遭追赶而逃，以巨石封住黄泉坂。归来后他入水禊祓，从左眼、右眼和鼻子分别生出天照、月读及须佐之男。'},
+ {title:'象征与辨识',text:'长矛、海岛与水边净身场景是其常见标志。黄泉坂巨石象征生死边界，禊祓则关涉接触死亡后的污秽与清净，不宜直接套用基督教原罪或道德罪责解释。'},
+ {title:'流传与文化语境',text:'伊邪那岐见于淡路岛等地神社祭祀，创岛故事与地域圣迹相连。禊祓在后世神道实践中持续发展；古代神话也服务于王权谱系，但今日参拜者对这些叙事的理解不必完全相同。'}],
+ en:{name:'Izanagi',title:'Creator of islands and source of purification',tags:['Island creation','Purification','Boundaries'],sections:[
+ {title:'Identity and origins',text:'Izanagi is a generative kami in the Kojiki and Nihon Shoki, paired with Izanami in the creation of lands and deities. These compilations preserve differing sequences and variants. He is both a father within divine genealogies and a central figure in narratives explaining purification after contact with death.'},
+ {title:'Key narratives',text:'Standing on the Floating Bridge of Heaven, the pair stir the sea with a jeweled spear; dripping brine forms an island. After Izanami dies, Izanagi follows her into Yomi but violates her request not to look at her decomposing body. He escapes pursuit and blocks the boundary with a boulder. Washing afterward, he produces Amaterasu from his left eye, Tsukuyomi from his right, and Susanoo from his nose.'},
+ {title:'Symbols and attributes',text:'The spear, newly formed islands, and ritual washing identify Izanagi. A boulder marks separation between living and dead. Pollution and purification in this setting concern dangerous contact and restored order, not a straightforward equivalent of Christian original sin.'},
+ {title:'Tradition and context',text:'Shrines, including those on Awaji Island, connect Izanagi with local sacred geography. Purification developed into diverse Shinto practices. Ancient court narratives also supported imperial genealogy, but contemporary worshippers need not understand the creation stories or their political implications in one identical way.'}]}}
+,
+{
+ id:'japan-izanami',myth:'japan',name:'伊邪那美',title:'生育诸神并镇守黄泉的女神',tags:['创生','死亡','黄泉'],
+ sections:[
+ {title:'身份与来历',text:'伊邪那美是日本神代叙事中的创生女神，与伊邪那岐结为配偶，生成岛屿及众多神灵。《古事记》与《日本书纪》保留不同异传，她由生命之母转为黄泉主宰的过程，使生育、死亡与边界成为同一神话的核心。'},
+ {title:'主要叙事',text:'伊邪那美生下火神迦具土时被灼伤，最终死亡，临终及遗体相关情节又产生新的神灵。伊邪那岐追入黄泉求她返回，她说自己已吃过黄泉食物，并禁止他窥看。丈夫违约后，她因羞愤派出追兵；两人在黄泉坂隔石诀别，她宣称每日杀千人，他则回应每日建立一千五百个产屋。'},
+ {title:'象征与辨识',text:'创岛场景中她与伊邪那岐持矛相对，黄泉故事则以黑暗、追逐与封界巨石为标志。她不是日本传统中一切邪恶的来源，死亡身份也不能抹去原有的生育力量。'},
+ {title:'流传与文化语境',text:'熊野等地的圣地传统与伊邪那美的葬地和死亡叙事相联系。故事把婚姻破裂与人间生死常态结合，但不能当作现实葬俗的单一说明书；地方祭祀往往突出她的母性、土地与再生意义。'}],
+ en:{name:'Izanami',title:'Mother of kami and sovereign of Yomi',tags:['Generation','Death','Yomi'],sections:[
+ {title:'Identity and origins',text:'Izanami is the generative female kami paired with Izanagi in Japanese accounts of the divine age. Together they produce islands and numerous deities. The Kojiki and Nihon Shoki preserve different versions, linking her maternal role with a later association with Yomi, the realm reached after death in these narratives.'},
+ {title:'Key narratives',text:'Giving birth to the fire kami Kagutsuchi fatally burns Izanami, while further deities arise around her dying body. Izanagi follows her to Yomi, where she has already eaten its food, and she forbids him to look at her. His disobedience leads to pursuit and separation at a blocked pass. She vows a thousand deaths daily; he counters with fifteen hundred births, establishing the rhythm of human mortality.'},
+ {title:'Symbols and attributes',text:'Creation scenes pair her with Izanagi and their spear. Darkness, a forbidden sight, pursuing forces, and the boundary boulder identify the Yomi episode. Her association with death does not make her the universal source of evil in Japanese traditions.'},
+ {title:'Tradition and context',text:'Sacred sites in regions such as Kumano connect Izanami with burial and the landscape of death. The narrative joins marital rupture to human mortality without serving as a complete guide to Japanese funerary practice. Local worship may emphasize maternal, terrestrial, or regenerative dimensions of her presence.'}]}},
+{
+ id:'japan-amaterasu',myth:'japan',name:'天照大神',title:'照耀高天原的太阳女神',tags:['太阳','神镜','王权'],
+ sections:[
+ {title:'身份与来历',text:'天照大神是日本神道中重要的太阳神，居高天原，并在宫廷神话中被奉为皇室祖神。《古事记》说她由伊邪那岐禊祓左眼而生，《日本书纪》另存出生异传；她的祭祀中心与伊势神宫紧密相连。'},
+ {title:'主要叙事',text:'须佐之男在高天原破坏田畔、污损祭场，又把剥皮马投入织殿，引发灾祸，天照遂隐入天石屋，天地陷入黑暗。诸神在洞外悬镜挂玉，天宇受卖起舞逗得众神大笑，诱她探看；天手力男将她拉出，并以注连绳阻止退回。后来她命孙邇邇艺下降苇原中国，展开天孙降临谱系。'},
+ {title:'象征与辨识',text:'太阳、神镜与洞窟是主要标志，八咫镜尤其联系神圣临在与皇室宝物传统。神社的神体不一定采用人形偶像，镜的宗教意义也不只是普通的外貌映照。'},
+ {title:'流传与文化语境',text:'伊势神宫以内宫奉祀天照，式年迁宫使建筑与工艺周期性更新。她与皇权的联系曾被近代国家制度重新塑造；理解当代神道须区分古代神话、近代国家神道以及今天多样的参拜实践。'}],
+ en:{name:'Amaterasu',title:'Solar kami of the High Plain of Heaven',tags:['Sun','Sacred mirror','Sovereignty'],sections:[
+ {title:'Identity and origins',text:'Amaterasu is a major solar kami in Shinto and the imperial ancestress in court mythology. The Kojiki has her emerge from Izanagi’s left eye during purification, while the Nihon Shoki preserves alternatives. Her principal cultic association is with the Inner Shrine at Ise, rather than a single universal Japanese theology.'},
+ {title:'Key narratives',text:'After Susanoo damages fields and desecrates sacred spaces, culminating in a flayed horse thrown into a weaving hall, Amaterasu withdraws into a rock cave. Darkness spreads. The assembled kami hang a mirror and jewels, while Ame-no-Uzume dances and provokes laughter. Curious, Amaterasu looks outside and is drawn out; a sacred rope prevents retreat. Later she commissions her grandson Ninigi’s descent, grounding the imperial ancestral narrative.'},
+ {title:'Symbols and attributes',text:'Sunlight, the cave, and especially the sacred mirror are central identifiers. The Yata mirror is associated with divine presence and imperial regalia. Shinto sacred objects need not be anthropomorphic statues, and the mirror signifies more than ordinary visual reflection.'},
+ {title:'Tradition and context',text:'Ise’s Inner Shrine venerates Amaterasu, and periodic rebuilding renews buildings and craft traditions. Her connection with imperial authority was reshaped by modern state institutions. Ancient mythology, modern State Shinto, and present-day shrine practices must therefore be distinguished rather than treated as an unchanged whole.'}]}},
+{
+ id:'japan-susanoo',myth:'japan',name:'须佐之男',title:'越界而降伏大蛇的勇猛神',tags:['风暴','大蛇','出云'],
+ sections:[
+ {title:'身份与来历',text:'须佐之男是日本神话中的重要神灵，在《古事记》中由伊邪那岐洗鼻而生，与天照、月读并称三贵子。他兼有狂暴越界者与地方救世英雄的面貌，虽常被称为风暴神，其职能与祭祀范围并不止于天气。'},
+ {title:'主要叙事',text:'须佐之男因在高天原肆虐而遭驱逐，来到出云后见老夫妇为女儿奇稻田姬悲泣：八岐大蛇每年来吞一女，如今只剩最后一人。他将女子化作梳子护在发间，命酿烈酒置于八处，引大蛇饮醉后斩杀。剖其尾时发现宝剑，献给天照，后来与草薙剑的宝物传统相连。'},
+ {title:'象征与辨识',text:'多头多尾的大蛇、酒槽、长剑与发梳是斩蛇故事的识别线索。草薙剑出于蛇尾的情节联系皇室宝物，但须佐之男形象也常强调乡土婚姻、诗歌与开拓。'},
+ {title:'流传与文化语境',text:'出云神乐经常演出八岐大蛇故事。后世须佐之男又与牛头天王等信仰发生习合，关联祇园及疫病防护；这些历史形成的联系不宜全部倒推为《古事记》原有的同一套神格与仪式。'}],
+ en:{name:'Susanoo',title:'Disruptive kami and slayer of the great serpent',tags:['Storm','Serpent','Izumo'],sections:[
+ {title:'Identity and origins',text:'Susanoo is an important Japanese kami with both disruptive and protective roles. In the Kojiki he emerges from Izanagi’s nose and belongs with Amaterasu and Tsukuyomi to the three noble children. Often called a storm god, he also has associations with local settlement, marriage, poetry, and protection from dangerous forces.'},
+ {title:'Key narratives',text:'Expelled after his offenses in heaven, Susanoo reaches Izumo and finds parents grieving because an eight-headed serpent will devour their last daughter, Kushinadahime. He transforms her into a comb for safekeeping in his hair, prepares strong liquor in eight stations, and kills the intoxicated monster. Inside its tail he discovers a sword, which he offers to Amaterasu and which becomes connected with the Kusanagi regalia tradition.'},
+ {title:'Symbols and attributes',text:'The many-headed serpent, liquor vats, sword, and protective comb identify the Izumo episode. The blade discovered inside the tail links the tale to imperial regalia. Other representations emphasize a local founder and husband rather than an embodiment of violent weather.'},
+ {title:'Tradition and context',text:'Izumo kagura regularly dramatizes the serpent’s defeat. In later religious history, Susanoo became associated with Gozu Tennō, Gion traditions, and protection against epidemics. These combinations developed over time and should not all be read back into the earliest surviving court compilations as one original system.'}]}}
+,
+{
+ id:'japan-tsukuyomi',myth:'japan',name:'月读命',title:'司掌月与夜之秩序的神',tags:['月亮','夜晚','食物起源'],
+ sections:[
+ {title:'身份与来历',text:'月读命又写作月夜见尊，是日本神话中的月神，与天照和须佐之男构成重要的同辈神组。《古事记》叙其由伊邪那岐右眼而生，但后续事迹很少；《日本书纪》异传则保存月读与食物神冲突的较完整叙述。'},
+ {title:'主要叙事',text:'《日本书纪》一则异传中，天照派月读拜访保食神。保食神转向大地吐出饭食，又向海与山吐出鱼兽款待来客；月读认为食物污秽，拔剑杀死主人。天照得知后斥责月读，宣称不再相见，于是日月分离。使者再访遗体，发现稻、粟、麦豆与蚕等，解释人间食物和养蚕的起源。'},
+ {title:'象征与辨识',text:'月轮、夜色和剑可作为辨识线索，但月读没有像天照神镜那样普遍稳定的单一标志。现代作品赋予的发色、服饰或性格设定，不等于古代文本已有明确规定。'},
+ {title:'流传与文化语境',text:'伊势的月读宫及其他地方神社保存相关祭祀。应注意《古事记》中杀食物神的是须佐之男、对象为大气都比卖，不能与月读版本逐字拼接；相似母题在不同文献中承担不同的神话关系。'}],
+ en:{name:'Tsukuyomi',title:'Lunar kami associated with night and separation',tags:['Moon','Night','Food origins'],sections:[
+ {title:'Identity and origins',text:'Tsukuyomi is the lunar kami grouped with Amaterasu and Susanoo among Izanagi’s important children. The Kojiki places his birth in the washing of the right eye but offers little subsequent narrative. A variant in the Nihon Shoki provides a fuller account involving a food deity and separation from the sun.'},
+ {title:'Key narratives',text:'Amaterasu sends Tsukuyomi to visit Ukemochi, who produces rice, fish, and game from her mouth to entertain him. Disgusted by their bodily origin, Tsukuyomi kills his host with a sword. Amaterasu condemns the act and refuses to see him again, explaining the separation of sun and moon. A later visitor finds grains and silkworms arising from the body, linking the death to human subsistence.'},
+ {title:'Symbols and attributes',text:'A lunar disc, night scenery, or a sword may identify Tsukuyomi, but no single visual attribute is as consistently established as Amaterasu’s mirror. Elaborate costumes, hair colors, and personalities in modern entertainment are not specifications supplied by ancient sources.'},
+ {title:'Tradition and context',text:'Tsukuyomi is worshipped at Ise’s Tsukiyomi-no-miya and other shrines. The Kojiki assigns a related food-deity killing to Susanoo and Ōgetsuhime instead. These are parallel but distinct narratives, not interchangeable episodes that can be combined without acknowledging their different textual relationships and narrative settings.'}]}},
+{
+ id:'japan-okuninushi',myth:'japan',name:'大国主',title:'经营国土并结缘的出云大神',tags:['出云','国让','结缘'],
+ sections:[
+ {title:'身份与来历',text:'大国主是出云神话中的核心神灵，名号众多，与大穴牟迟等名称相联系。《古事记》将他置于须佐之男的后裔谱系，但不同文本关系有异。他既是经营苇原中国的国土神，也在后世信仰中广受结缘与福德祈愿。'},
+ {title:'主要叙事',text:'大国主的兄长们欺骗受伤的白兔，使其以盐水和风治疗而更加痛苦；他教白兔用清水洗身、卧于蒲黄，因而获其预言帮助。后来他赴根之国，受须佐之男试炼，与须势理毗卖相助脱险，继而与少彦名协作营造国土。天上使者要求让国时，他接受安排，自己的祭祀居所也成为谈判内容。'},
+ {title:'象征与辨识',text:'白兔、大袋与出云大社是常见线索。他后来与源出印度背景的大黑天发生习合，形成持槌背袋的福神形象；两者相关，却不能把全部历史身份完全抹平。'},
+ {title:'流传与文化语境',text:'出云大社以大国主为主祭神，结缘的含义可超越恋爱而涉及人与人、事物与机缘。让国故事调和地方神与天孙权威，既有政治神话意义，也在神乐、地方叙事与今日参拜文化中持续被解释。'}],
+ en:{name:'Ōkuninushi',title:'Land-making deity of Izumo and sacred connections',tags:['Izumo','Land transfer','Relationships'],sections:[
+ {title:'Identity and origins',text:'Ōkuninushi is central to the Izumo traditions and appears under several names, including Ōnamuchi. The Kojiki places him among Susanoo’s descendants, though genealogies vary. He is a maker and organizer of the earthly land, later widely approached for beneficial relationships and good fortune rather than romance alone.'},
+ {title:'Key narratives',text:'When his brothers mistreat an injured white hare, Ōkuninushi recommends fresh water and reed pollen, earning its prophetic support. He later survives trials in Susanoo’s realm with help from Suseribime, whom he marries. Together with Sukunabikona he develops the land. When heavenly messengers demand its transfer to Amaterasu’s descendants, he ultimately agrees, while arrangements for his own magnificent sacred dwelling become part of the settlement.'},
+ {title:'Symbols and attributes',text:'The white hare, a large sack, and Izumo Taisha are familiar identifiers. Historical combination with Daikokuten produced an overlapping fortune-god image carrying a mallet and bag. Their association is important, but their origins and earlier identities are not identical.'},
+ {title:'Tradition and context',text:'Izumo Taisha centers on Ōkuninushi, and prayers for enmusubi concern many kinds of meaningful connection. The land-transfer narrative negotiates relationships between local authority and heavenly descendants. Shrine traditions, regional storytelling, and kagura continue to interpret this politically charged myth in varied religious and cultural ways.'}]}},
+{
+ id:'japan-inari',myth:'japan',name:'稻荷大神',title:'护佑稻作生计与繁荣的神',tags:['稻米','狐狸使者','繁荣'],
+ sections:[
+ {title:'身份与来历',text:'稻荷是日本广泛受奉祀的神祇称谓，与稻米、农业、商业和生活繁荣相联系。各社祭神配置与性别表现不尽相同，宇迦之御魂等神常与之关联；稻荷并非一个在所有神社都有固定容貌和单一传记的角色。'},
+ {title:'主要叙事',text:'伏见稻荷的缘起传统与秦氏相关，一则古代地方传说叙秦伊吕具以米饼为靶，米饼化白鸟飞落山峰，落处生稻，显现稻荷的神异。中世以后，稻荷信仰与佛教荼吉尼天等发生交涉，狐狸使者故事也不断增多；这些缘起与灵验记构成地方叙事群，而非同一场创世冒险。'},
+ {title:'象征与辨识',text:'朱红鸟居、稻穗、宝珠以及衔钥匙或卷物的狐狸常见于稻荷神社。狐狸一般被解释为神使，不应把每尊狐像都称为稻荷本体，也不宜将其一概视作妖狐。'},
+ {title:'流传与文化语境',text:'京都伏见稻荷大社是重要中心，成列鸟居多出自个人或商家的奉纳。稻荷信仰随城市商业扩展而超出农耕，遍及店铺与家庭神龛；其多样性体现神佛习合、地方组织和日常祈愿的历史积累。'}],
+ en:{name:'Inari',title:'Kami of rice, livelihoods, and flourishing',tags:['Rice','Fox messengers','Prosperity'],sections:[
+ {title:'Identity and origins',text:'Inari is a widely worshipped designation associated with rice, agriculture, commerce, and prosperity. Individual shrines differ in their divine groupings and representations of gender; Ukanomitama is among the kami closely connected with Inari. There is no single fixed appearance or universally shared personal biography covering every Inari tradition.'},
+ {title:'Key narratives',text:'An origin tradition associated with the Hata family recounts Irogu using a rice cake as an archery target. It transforms into a white bird, flies to a mountain peak, and rice grows where it lands. Later traditions connect Inari with Buddhist figures such as Dakiniten and develop numerous stories of fox messengers and miraculous assistance. These narratives form a diverse local corpus, not one continuous creation epic.'},
+ {title:'Symbols and attributes',text:'Vermilion torii, rice sheaves, wish-fulfilling jewels, and foxes holding keys or scrolls identify Inari shrines. Foxes are commonly understood as messengers rather than automatically being Inari’s own body. Their presence does not imply that every fox image represents a malicious spirit.'},
+ {title:'Tradition and context',text:'Fushimi Inari Taisha in Kyoto is a major center, its many torii reflecting offerings by individuals and businesses. Worship expanded beyond farming into urban trades, shops, and domestic shrines. Inari’s diversity reflects local institutions, everyday petitions, and centuries of interaction between kami worship and Buddhism.'}]}}
+,
+{
+ id:'japan-konohanasakuya',myth:'japan',name:'木花咲耶姬',title:'以火中生产证明誓言的花之神',tags:['花开','火焰','富士山'],
+ sections:[
+ {title:'身份与来历',text:'木花咲耶姬是日本神话中山神大山津见的女儿，嫁给天孙邇邇艺，进入皇室祖先谱系。其名令人联想到繁花盛开，后世又成为富士山浅间信仰的重要祭神，但早期婚姻神话与火山祭祀并非起初就完全重合。'},
+ {title:'主要叙事',text:'大山津见本欲把木花咲耶姬与姐姐石长姬一同嫁给邇邇艺，后者因嫌姐姐容貌而只留妹妹。父亲解释石长象征长久、花开象征繁盛，由此说明天孙寿命如花有期。妹妹一夜有孕后遭丈夫怀疑，遂封闭产屋并点火，宣称若孩子属天孙便会平安，最终在烈焰中生下诸子。'},
+ {title:'象征与辨识',text:'樱花、富士山、火焰中的产屋与母子形象有助辨识。花开既象征美丽和生命，也提示短暂；火中生产强调誓言与亲子身份，不宜据此鼓励现实中的危险试验。'},
+ {title:'流传与文化语境',text:'浅间神社网络尤其将她与富士山联系，祈求镇火、防灾与安产。不同地方对火山神及其配偶的解释经过历史发展；她在现代常被简化为樱花女神，但山岳、王统和生育同样是关键语境。'}],
+ en:{name:'Konohanasakuya-hime',title:'Blossom princess who gives birth amid flames',tags:['Blossoms','Fire','Mount Fuji'],sections:[
+ {title:'Identity and origins',text:'Konohanasakuya-hime is a daughter of the mountain kami Ōyamatsumi and wife of the heavenly descendant Ninigi. Her marriage places her within imperial ancestral narratives. Later worship closely links her with Mount Fuji and Sengen shrines, although the early marriage account and the history of volcano worship are not identical.'},
+ {title:'Key narratives',text:'Ōyamatsumi offers both Konohanasakuya-hime and her sister Iwanagahime to Ninigi, who rejects the latter for her appearance. Their father explains that rock signifies enduring life while blossoms signify flourishing, so rejecting the elder sister limits the descendants’ longevity. When Ninigi doubts the paternity of a sudden pregnancy, Konohanasakuya-hime seals and burns her birthing hut, declaring that true heavenly offspring will survive. She delivers her children unharmed.'},
+ {title:'Symbols and attributes',text:'Blossoms, Mount Fuji, a burning birth hut, and mother-and-child imagery identify her. Flowers evoke both beauty and impermanence. The fiery birth establishes an oath and lineage within a sacred narrative, not a model for testing real pregnancies or personal fidelity.'},
+ {title:'Tradition and context',text:'Sengen shrines associate her with Fuji, protection from fire, safe childbirth, and volcanic danger. These relationships developed through regional religious history. Calling her simply a cherry-blossom goddess misses her important connections with mountains, dynastic ancestry, maternal power, and the management of threatening natural forces.'}]}},
+{
+ id:'india-brahma',myth:'india',name:'梵天',title:'印度教宇宙生成的创造神',tags:['创造','吠陀','宇宙周期'],
+ sections:[
+ {title:'身份与来历',text:'梵天是印度教传统中的创造神，常与毗湿奴、湿婆并列为三相神，但这一框架不概括所有宗派。他是有形象与叙事的神祇，不等同于哲学上表示终极实在的梵；其与生主等早期创生观念的联系也经历了发展。'},
+ {title:'主要叙事',text:'一些往世书叙述毗湿奴卧于宇宙海，脐中生莲，梵天在莲上出现，继而安排世界与众生。另有梵天与毗湿奴争论谁更伟大，湿婆显为无尽光柱，二神上下寻端而不得；梵天在部分版本中谎称已找到顶端，因而受罚。这些叙事表达特定宗派的神学立场，并非所有信众共同排序。'},
+ {title:'象征与辨识',text:'梵天通常四面四臂，持吠陀书卷、念珠、水罐或祭勺，坐骑为鹅或天鹅形的罕娑。四面寓示方位与知识，不应将其与无人格的终极实在概念混同。'},
+ {title:'流传与文化语境',text:'梵天独立神庙较少，拉贾斯坦邦普什卡是著名礼拜中心，但庙少不等于无人敬奉。印度教各传统对创造、维持与消解有不同解释，阅读往世书应尊重活态信仰，避免以单一故事替全部宗派定论。'}],
+ en:{name:'Brahmā',title:'Creator deity within Hindu cosmic traditions',tags:['Creation','Vedas','Cosmic cycles'],sections:[
+ {title:'Identity and origins',text:'Brahmā is a Hindu creator deity often grouped with Vishnu and Shiva in the Trimurti, a framework not equally central to every community. He is distinct from brahman, the philosophical term for ultimate reality. His identity developed in relation to earlier ideas of generation and lordship associated with Prajapati.'},
+ {title:'Key narratives',text:'Some Puranic accounts place Brahmā on a lotus growing from Vishnu’s navel as Vishnu rests on the cosmic ocean; Brahmā then organizes creation. Another narrative has Brahmā and Vishnu dispute supremacy before Shiva appears as an endless pillar of light. They search unsuccessfully for its limits, and Brahmā is punished in versions where he falsely claims success. Such accounts articulate particular theological perspectives rather than a universally accepted ranking.'},
+ {title:'Symbols and attributes',text:'Four faces and four arms are common, with Vedic books, prayer beads, a water pot, or a sacrificial ladle. His vehicle is the goose or swanlike hamsa. The faces suggest comprehensive knowledge and orientation across the directions of space.'},
+ {title:'Tradition and context',text:'Independent Brahmā temples are relatively uncommon, with Pushkar in Rajasthan a famous pilgrimage center. Rarity does not mean absence of reverence. Hindu traditions offer varied understandings of creation and divine relationships, so Puranic stories should be read within their living devotional and sectarian contexts.'}]}},
+{
+ id:'india-vishnu',myth:'india',name:'毗湿奴',title:'护持宇宙并以化身临世的神',tags:['护持','化身','达摩'],
+ sections:[
+ {title:'身份与来历',text:'毗湿奴是印度教重要神祇，在毗湿奴派传统中被奉为至高主，具有维持宇宙与护持达摩的力量。从吠陀中的跨步神到史诗与往世书中的至尊形象，其神学表达不断发展；他不只是抽象分工中的保管者。'},
+ {title:'主要叙事',text:'搅乳海故事中，众神与阿修罗以曼陀罗山为搅棒、婆苏吉蛇为绳求取甘露，毗湿奴化为巨龟托住山体，又在部分版本中以迷人的摩诃妮形象分配甘露。他也化为人狮那罗辛哈，黄昏时在门槛上以利爪杀死自恃赐福的暴君，突破其免死条件，护佑虔诚的钵罗诃罗陀。'},
+ {title:'象征与辨识',text:'四臂常持法螺、妙见轮、权杖和莲花，蓝色身躯与神鹰迦楼罗便于识别。他卧于舍沙蛇上、吉祥天女相伴的图像表达宇宙秩序与安稳，而非普通睡眠场面。'},
+ {title:'流传与文化语境',text:'罗摩与克里希纳是其最有影响的化身，但十化身名单并不处处相同。南亚及海外庙宇、朝圣和奉爱诗歌体现持续的敬奉，不同毗湿奴派对至尊与化身关系有精细解释，不能压成单一神话谱表。'}],
+ en:{name:'Vishnu',title:'Divine sustainer who descends to restore dharma',tags:['Sustaining','Avatars','Dharma'],sections:[
+ {title:'Identity and origins',text:'Vishnu is a major Hindu deity and the supreme Lord in many Vaishnava traditions. His identity develops from Vedic references to cosmic strides into extensive epic and Puranic theologies. Sustaining the world means active care for cosmic and moral order, not merely a passive role in a three-part divine division.'},
+ {title:'Key narratives',text:'During the churning of the ocean, gods and asuras use a mountain and the serpent Vasuki to seek immortality nectar. Vishnu supports the mountain as the tortoise Kurma and, in some accounts, distributes the nectar as Mohini. As Narasimha, the man-lion, he protects Prahlada by killing a tyrant at twilight on a threshold, using claws to evade the carefully specified protections granted to his opponent.'},
+ {title:'Symbols and attributes',text:'Four arms commonly hold a conch, discus, mace, and lotus. Blue coloring and the eagle Garuda are familiar identifiers. Reclining on the serpent Shesha with Lakshmi nearby expresses cosmic stability and divine presence rather than simply an episode of ordinary sleep.'},
+ {title:'Tradition and context',text:'Rama and Krishna are especially influential avatars, but lists of ten incarnations differ. Temples, pilgrimages, and devotional poetry sustain active worship across South Asia and diaspora communities. Vaishnava schools offer sophisticated, differing accounts of the relationship between the supreme Lord, divine manifestations, and devoted persons.'}]}}
+,
+{
+ id:'india-shiva',myth:'india',name:'湿婆',title:'以苦行与舞蹈更新宇宙的大神',tags:['转化','苦行','舞蹈'],
+ sections:[
+ {title:'身份与来历',text:'湿婆是印度教主要神祇，在湿婆派中常被尊为至高实在与慈悲之主。他与吠陀鲁陀罗等传统有历史联系，兼具苦行者、家长、舞者与解脱赐予者的面貌；简单称其为破坏神，会遮蔽消解与再生相连的神学意义。'},
+ {title:'主要叙事',text:'恒河从天界降临时水势足以冲毁大地，湿婆以盘结长发承接并缓释水流，使其成为人间圣河。搅乳海时剧毒出现，他为保护世界将毒含于喉中，形成青颈标志。另一组叙事描写他以宇宙舞蹈显示创造、维持与消解，并以抬起的足赐予庇护与解脱，而非只表现毁灭。'},
+ {title:'象征与辨识',text:'第三眼、发髻新月、恒河、三叉戟、小鼓与公牛南迪都是重要标志。林伽是其神圣临在的礼拜形式，不能只按现代世俗视角作单一生殖解释或当成装饰。'},
+ {title:'流传与文化语境',text:'湿婆节守夜、圣地朝拜与庙宇日常供奉延续至今。南印度舞王铜像、喜马拉雅苦行想象和家庭中的湿婆各有侧重；不同宗派理解不尽相同，却都不能被缩减为与其他神争胜的奇幻角色。'}],
+ en:{name:'Shiva',title:'Great Lord of transformation, asceticism, and dance',tags:['Transformation','Asceticism','Dance'],sections:[
+ {title:'Identity and origins',text:'Shiva is a major Hindu deity, revered in Shaiva traditions as supreme reality and a gracious Lord. Historically connected with Vedic Rudra, he combines the roles of ascetic, householder, dancer, and giver of liberation. Describing him only as a destroyer obscures the relationship between dissolution, renewal, and saving grace.'},
+ {title:'Key narratives',text:'When the heavenly Ganges descends with force enough to devastate the earth, Shiva catches her in his matted hair and releases her waters safely. During the ocean’s churning, he contains a deadly poison in his throat to protect the world, explaining his blue neck. His cosmic dance presents creation, preservation, dissolution, concealment, and grace as intertwined divine activities, with a raised foot offering refuge and liberation.'},
+ {title:'Symbols and attributes',text:'The third eye, crescent moon, matted hair, Ganges, trident, drum, and bull Nandi are characteristic signs. The linga is a revered form of divine presence; reducing it to decoration or one exclusively sexual interpretation misrepresents its ritual significance.'},
+ {title:'Tradition and context',text:'Shivaratri vigils, pilgrimages, and daily temple offerings remain active practices. South Indian dancing bronzes, Himalayan ascetic imagery, and domestic representations emphasize different dimensions. Shaiva schools vary in theology, but none can be adequately represented by treating Shiva simply as a fantasy character competing with other gods.'}]}},
+{
+ id:'india-devi',myth:'india',name:'提毗',title:'以多种形态显现的神圣女性',tags:['沙克蒂','护佑','女神'],
+ sections:[
+ {title:'身份与来历',text:'提毗意为女神，可作尊称，也指印度教神圣女性的总体表达。在性力派传统中，大女神与沙克蒂被奉为宇宙根本力量；杜尔迦、迦梨等形态各有叙事与祭祀，不能把所有地方女神简单认作毫无差别的同一人物。'},
+ {title:'主要叙事',text:'《女神颂》叙水牛魔摩醯沙击败众神，各神光辉汇聚为女神，并把武器交给她。她骑狮与魔军交战，面对摩醯沙不断变形，最终在其显露真身时将其诛灭。其他篇章描写女神眉间生出迦梨，以及对付血滴化敌的罗讫多毗阇，突出神圣力量为恢复秩序而采取多样形态。'},
+ {title:'象征与辨识',text:'杜尔迦常骑狮或虎、持多种武器、踏伏水牛魔；迦梨常见深色身躯、项链与伸舌等标志。具体图像有宗教与地区差异，多臂表示能力，不是生理怪异。'},
+ {title:'流传与文化语境',text:'九夜节、杜尔迦祭与各地女神庙体现活跃的礼拜生活。温柔母性和战斗威力在信众理解中可以并存，不能把严厉形象等同邪恶；提毗在不同哲学中作为至尊、力量或配偶的地位也不相同。'}],
+ en:{name:'Devī',title:'Divine feminine manifest in many sacred forms',tags:['Shakti','Protection','Goddess'],sections:[
+ {title:'Identity and origins',text:'Devī means goddess and can function as an honorific or a broad designation of the divine feminine. In Shakta traditions, the Great Goddess and Shakti are understood as fundamental cosmic power. Forms such as Durga and Kali have distinct narratives and practices, while local goddess traditions retain meaningful differences.'},
+ {title:'Key narratives',text:'In the Devi Mahatmya, the buffalo demon Mahisha defeats the gods. Their radiance combines into the Goddess, and they equip her with weapons. Riding a lion, she battles his forces and kills him as he emerges from changing animal forms. Other episodes describe Kali springing from the Goddess’s brow and overcoming an enemy whose spilled blood produces more warriors, demonstrating power that adapts to restore order.'},
+ {title:'Symbols and attributes',text:'Durga commonly rides a lion or tiger, bears many weapons, and overcomes the buffalo demon. Kali’s dark body, garland, and extended tongue belong to different iconographic contexts. Multiple arms communicate divine capacities rather than a claim about abnormal human anatomy.'},
+ {title:'Tradition and context',text:'Navaratri, Durga Puja, and countless regional temples sustain living goddess worship. Maternal care and formidable battle imagery can coexist within devotion; fierce forms are not automatically evil. Different philosophical and devotional traditions understand Devī as supreme reality, divine power, or consort in distinct ways.'}]}},
+{
+ id:'india-ganesha',myth:'india',name:'象头神',title:'掌管开端与障碍的智慧之主',tags:['开端','智慧','障碍'],
+ sections:[
+ {title:'身份与来历',text:'象头神即伽内什，是印度教广受敬奉的神祇，通常被视为湿婆与帕尔瓦蒂之子，兼有赐福、智慧与统领神众的身份。他既能清除障碍，也能设置必要的阻碍，因此并非保证所有愿望立即实现的好运符号。'},
+ {title:'主要叙事',text:'一则著名往世书故事说，帕尔瓦蒂造出少年守门，湿婆归来遭阻拦，冲突中将其斩首，随后以象首使他复生并授予尊位。另有象头神与兄弟竞绕世界的故事，他绕行父母以表父母即世界，因智慧获胜。作为《摩诃婆罗多》书记的传统则强调他与毗耶娑约定不停口述及理解后再写。'},
+ {title:'象征与辨识',text:'象首、圆腹、断牙、甜食和鼠类坐骑最为醒目，手中常持索与钩。断牙来历有不同说法，写史诗只是其中之一；其亲切形象同时保留庄严的礼拜意义。'},
+ {title:'流传与文化语境',text:'许多印度教仪式、求学与商业开端先礼敬象头神，象头神节尤其以造像迎请和送像入水闻名。家庭与公共庆典的方式不同，现代环保材料也影响实践；不应只将其视为流行设计图案。'}],
+ en:{name:'Ganesha',title:'Elephant-headed lord of beginnings and obstacles',tags:['Beginnings','Wisdom','Obstacles'],sections:[
+ {title:'Identity and origins',text:'Ganesha is widely revered in Hindu traditions as a lord of beginnings, wisdom, and obstacles, usually the son of Shiva and Parvati. His authority includes both removing obstructions and placing them when appropriate. He is therefore more than a general good-luck emblem promising immediate success for every human undertaking.'},
+ {title:'Key narratives',text:'In a famous account, Parvati creates a boy to guard her door. When he blocks Shiva, a conflict ends in his beheading; Shiva restores him with an elephant’s head and grants him honor. Another story has Ganesha win a race around the world by circling his parents, treating them as his universe. A scribal tradition pairs him with Vyasa in composing the Mahabharata under demanding conditions of uninterrupted dictation and understanding.'},
+ {title:'Symbols and attributes',text:'An elephant head, rounded belly, broken tusk, sweets, and a mouse vehicle identify him. A noose and goad are frequent attributes. The broken tusk has several explanations; its use as a writing tool belongs to one narrative tradition.'},
+ {title:'Tradition and context',text:'Many Hindu ceremonies, educational ventures, and businesses begin by honoring Ganesha. Ganesh Chaturthi includes welcoming images and later immersing them, with household and public forms of celebration. Environmental concerns increasingly influence materials and immersion practices, while devotion remains more substantial than his popularity as a design motif.'}]}}
+,
+{
+ id:'india-hanuman',myth:'india',name:'哈奴曼',title:'以力量与奉爱侍奉罗摩的猴神',tags:['奉爱','勇力','罗摩衍那'],
+ sections:[
+ {title:'身份与来历',text:'哈奴曼是印度教《罗摩衍那》传统的重要猴神，通常被称为风神之子，母亲为安阇那。他以强大力量、机敏智慧和对罗摩的忠诚闻名，在不同宗派中具有多重神学解释，不能仅被视为史诗中的动物伙伴。'},
+ {title:'主要叙事',text:'悉多遭罗波那掳走后，哈奴曼越海抵达楞伽，在无忧园找到她，出示罗摩的信物并带回消息。他被俘后以燃烧的尾巴焚烧城中建筑，随后返回。战争中，罗什曼那重伤，需要喜马拉雅山的药草救治；哈奴曼因无法辨明药草而搬来整座山，体现为救人不惜承担艰险的奉爱。'},
+ {title:'象征与辨识',text:'猴面、人身、长尾、权杖与手托药山是常见标志。他跪拜罗摩或展示胸中罗摩与悉多的图像，强调力量服从奉爱；朱红涂饰与健壮体态也见于许多庙宇造像。'},
+ {title:'流传与文化语境',text:'哈奴曼赞歌、诞辰节庆与庙宇参拜延续至今，摔跤和体能训练传统也常尊奉他。其形象随《罗摩衍那》传播至东南亚，但当地戏剧中的性格与经历并不完全相同，不宜混作单一版本。'}],
+ en:{name:'Hanuman',title:'Monkey deity of strength and devoted service to Rama',tags:['Devotion','Strength','Ramayana'],sections:[
+ {title:'Identity and origins',text:'Hanuman is a revered monkey deity in Hindu Ramayana traditions, commonly described as the son of the wind god and Anjana. Extraordinary strength, intelligence, and loyalty to Rama define his character. Different communities interpret his divine status in different ways, extending far beyond the role of an animal companion.'},
+ {title:'Key narratives',text:'Hanuman leaps across the sea to Lanka, finds the abducted Sita, and presents Rama’s token before returning with news. Captured by her enemies, he sets buildings ablaze with his burning tail. Later, unable to identify the healing herb needed for the wounded Lakshmana, he carries an entire mountain to the battlefield, making strength an expression of devoted service.'},
+ {title:'Symbols and attributes',text:'A monkey face, long tail, mace, and mountain held aloft are familiar identifiers. Images showing him kneeling before Rama or revealing Rama and Sita within his chest emphasize devotion. Vermilion coloring and a powerful physique also appear frequently in temple images and popular devotional art.'},
+ {title:'Tradition and context',text:'Hymns, birthday festivals, and temple visits sustain Hanuman’s living worship. Wrestling and physical training communities often honor him as well. Ramayana performance traditions throughout Southeast Asia adapt his personality and adventures differently, so their distinctive portrayals should not be collapsed into one supposedly universal account.'}]}}
+,
+{
+ id:'korea-dangun',myth:'korea',name:'檀君',title:'连接天界谱系与古朝鲜开国的始祖',tags:['古朝鲜','开国','天裔'],
+ sections:[
+ {title:'身份与来历',text:'檀君王俭是朝鲜半岛传统中古朝鲜的开国始祖，通常被叙述为桓雄与熊女之子。《三国遗事》保存其著名故事，但成书远晚于故事设定的年代；传统纪年中的公元前二三三三年，不是已获考古证实的建国日期。'},
+ {title:'主要叙事',text:'桓雄降临人间后，一熊一虎希望成为人，接受避日并食艾蒜的考验。熊坚持下来化为女子，随后祈求生子，桓雄与她结合，生下檀君。檀君建立古朝鲜，以平壤等地为都的说法见于不同记述。他漫长的统治与后来退隐为山神的结局，把王权、土地与神圣祖先联系起来。'},
+ {title:'象征与辨识',text:'白须长者、冠服、神圣山林以及熊的母系线索常用于表现檀君，但这些并非同时代肖像。其形象着重始祖和开国者身份，不能仅凭一张后世画像推断古代服制。'},
+ {title:'流传与文化语境',text:'檀君传统见于民族历史叙述、开天节纪念及大倧教等宗教实践，不同群体赋予其不同含义。研究时应区分古朝鲜历史、文献中的始祖叙事与现代民族认同，既不混同史证，也不抹去文化意义。'}],
+ en:{name:'Dangun',title:'Ancestral founder of Gojoseon with a heavenly lineage',tags:['Gojoseon','Foundation','Heavenly ancestry'],sections:[
+ {title:'Identity and origins',text:'Dangun Wanggeom is the ancestral founder of Gojoseon in Korean tradition, usually the son of Hwanung and the bear woman Ungnyeo. The Samguk Yusa preserves the best known account centuries after its setting. The traditional foundation date of 2333 BCE should not be presented as an archaeologically established historical date.'},
+ {title:'Key narratives',text:'A bear and tiger seek human form after Hwanung descends to earth. Only the bear completes the prescribed ordeal, becomes a woman, and later bears Dangun through union with Hwanung. Dangun establishes Gojoseon, with accounts differing about capitals and chronology. His exceptionally long reign and eventual retirement as a mountain spirit connect kingship, territory, and sacred ancestral authority.'},
+ {title:'Symbols and attributes',text:'Later representations often show an elderly bearded ruler, ceremonial robes, sacred mountains, or references to his bear ancestry. These are retrospective images rather than contemporary portraits. They emphasize ancestral foundation and legitimate rule, and cannot independently establish what actual clothing or royal ceremony looked like in early Gojoseon.'},
+ {title:'Tradition and context',text:'Dangun appears in historical identity, National Foundation Day commemorations, and religious movements including Daejonggyo. These settings do not assign identical meanings to him. Careful interpretation distinguishes the history of Gojoseon, literary accounts of its sacred founder, and modern national narratives without dismissing their continuing cultural significance.'}]}},
+{
+ id:'korea-hwanung',myth:'korea',name:'桓雄',title:'降临神市并治理人间的天界之子',tags:['降世','神市','天人秩序'],
+ sections:[
+ {title:'身份与来历',text:'桓雄是朝鲜半岛檀君叙事中的天界之子，父亲通常称桓因。他希望关怀人间生活，获准率众下降，并成为檀君之父。这一谱系见于中世纪保存的文献，其天界称谓也反映佛教词汇与地方传统的交汇。'},
+ {title:'主要叙事',text:'《三国遗事》叙桓雄携天符印，率三千随从降于太伯山神檀树下，设立神市，并与风伯、雨师、云师治理谷物、疾病、刑罚和善恶等事务。熊与虎求成人时，他给出艾蒜与避日的条件。熊女完成考验后渴望生子，桓雄与她结合，使降世治理的故事进一步连接到檀君开国。'},
+ {title:'象征与辨识',text:'神檀树、山巅、天符印以及风雨云的随从构成主要辨识线索。现代绘画常赋予他天界君长的冠服，但固定容貌缺少早期依据；他与父亲桓因、儿子檀君应清楚区分。'},
+ {title:'流传与文化语境',text:'桓雄把天界授权、农业秩序与始祖谱系连成一体，常与弘益人间的理想一起解释。后世宗教和民族文化各有发挥，具体降临地点也有不同认定，不宜把任何一种现代解释直接当成远古事实。'}],
+ en:{name:'Hwanung',title:'Heavenly son who descends to establish sacred government',tags:['Descent','Sacred city','Heaven and humanity'],sections:[
+ {title:'Identity and origins',text:'Hwanung is the heavenly son in Korean Dangun traditions, usually identified as the child of Hwanin and father of Dangun. He desires to care for the human world and receives permission to descend. Medieval textual transmission preserves this genealogy within language shaped partly by interaction between Buddhist terminology and local traditions.'},
+ {title:'Key narratives',text:'The Samguk Yusa describes Hwanung descending beneath a sacred tree on Mount Taebaek with heavenly seals and three thousand followers. Wind, rain, and cloud officials assist his government of human affairs. He prescribes an ordeal for a bear and tiger seeking humanity. The successful bear woman later becomes his partner and gives birth to Dangun, linking heavenly governance to foundation.'},
+ {title:'Symbols and attributes',text:'The sacred tree, mountain summit, heavenly seals, and officials of wind, rain, and clouds offer the clearest identifying clues. Modern pictures may dress Hwanung as a celestial sovereign, but no single early portrait fixes his appearance. He should remain distinct from Hwanin and Dangun.'},
+ {title:'Tradition and context',text:'Hwanung connects heavenly authorization with agricultural order and ancestral kingship. Later interpretations often associate him with the ideal of broadly benefiting humanity. Religious movements and national narratives develop these themes differently, while competing geographical identifications of his descent should not be treated as established facts about remote antiquity.'}]}}
+,
+{
+ id:'korea-ungnyeo',myth:'korea',name:'熊女',title:'由熊化人并孕育檀君的始祖之母',tags:['熊化人','考验','母祖'],
+ sections:[
+ {title:'身份与来历',text:'熊女是朝鲜半岛檀君故事中的女性始祖，其名称直接指出由熊变为女子的经历，而非另有明确传世的个人姓名。《三国遗事》叙她成为桓雄的伴侣、檀君的母亲，使动物祖源与人间王统在同一谱系相遇。'},
+ {title:'主要叙事',text:'熊与虎同居洞中，向桓雄请求变成人。桓雄赐艾与蒜，并要求百日不见阳光；虎未能坚持，熊则守禁，在二十一日后成为女子。她没有配偶，常在神檀树下祈愿怀孕。桓雄暂化人身与她结合，生下檀君。故事既以耐心解释变化，也让她主动求子成为开国谱系的重要环节。'},
+ {title:'象征与辨识',text:'熊、洞穴、艾蒜、神檀树与怀抱婴儿的女性，是后世描绘她的主要线索。她并非只代表野兽被征服；母性、转变与地方祖源同样重要，单一图腾解释仍须审慎。'},
+ {title:'流传与文化语境',text:'熊女形象常见于始祖故事的教育、雕塑与现代重述。关于熊族群、婚姻联盟或仪式禁忌的解读属于研究假说，不能代替文本本身；现代讨论也重新关注她的愿望与行动，而不只把她视为附属人物。'}],
+ en:{name:'Ungnyeo',title:'Bear woman and ancestral mother of Dangun',tags:['Transformation','Ordeal','Ancestral mother'],sections:[
+ {title:'Identity and origins',text:'Ungnyeo is the ancestral mother in Korean Dangun traditions. Her designation means bear woman rather than preserving an independently recorded personal name. In the Samguk Yusa she becomes Hwanung’s partner and Dangun’s mother, bringing animal ancestry and the genealogy of a human kingdom into one sacred narrative.'},
+ {title:'Key narratives',text:'A bear and tiger ask Hwanung for human form. He gives them mugwort and garlic and requires a hundred days without sunlight. The tiger fails, but the bear becomes a woman after twenty one days. Without a husband, she prays beneath the sacred tree for a child. Hwanung assumes human form, joins her, and fathers Dangun.'},
+ {title:'Symbols and attributes',text:'A bear, cave, mugwort, garlic, sacred tree, and woman carrying a child are common visual clues. Her role includes transformation, maternal agency, and ancestral belonging, not simply the conquest of an animal nature. Explanations that treat every detail as evidence of one ancient bear totem remain interpretive hypotheses.'},
+ {title:'Tradition and context',text:'Ungnyeo appears in education, monuments, and contemporary retellings of Korean foundation traditions. Scholarly readings propose clan alliances, ritual prohibitions, or animal ancestry, but none should replace the surviving narrative as unquestioned fact. Modern interpretations also recover her wishes and actions rather than reducing her to a secondary genealogical function.'}]}},
+{
+ id:'korea-jumong',myth:'korea',name:'朱蒙',title:'以神异出生与善射著称的高句丽始祖',tags:['高句丽','善射','建国'],
+ sections:[
+ {title:'身份与来历',text:'朱蒙是高句丽开国君主的传统名字，后尊为东明圣王，建国年代通常系于公元前三十七年。碑铭与史书保存不同层次的神圣谱系，常称其母为柳花、父为天界人物解慕漱；历史王统与神异诞生在传述中相交。'},
+ {title:'主要叙事',text:'柳花受日光照临而产卵，卵屡遭弃置却获动物保护，最终孵出朱蒙。他自幼善射，因受王子嫉妒而离开扶余。逃至河边时，他向天与河神求助，鱼鳖浮起搭成桥梁，使追兵无法追及。此后他与伙伴建立高句丽，另一些叙事又以儿子寻父和断剑相合来说明王位继承。'},
+ {title:'象征与辨识',text:'弓箭、巨卵、日光与鱼鳖桥是关键线索，表现射术、天裔和自然援助。现代影视常增加武器与爱情情节，不能把荧幕人物造型直接当作古代文献中的固定形象。'},
+ {title:'流传与文化语境',text:'朱蒙故事见于好太王碑、《三国史记》及《东明王篇》等材料，细节与政治语境并不一致。它说明高句丽王权的神圣来历，也在现代文化中不断重述，阅读时须区分史料层次、文学扩展与影视创作。'}],
+ en:{name:'Jumong',title:'Archer and sacred founder of Goguryeo',tags:['Goguryeo','Archery','Foundation'],sections:[
+ {title:'Identity and origins',text:'Jumong is the traditional founder of Goguryeo, honored as King Dongmyeong, with his accession conventionally dated to 37 BCE. Inscriptions and histories preserve differing sacred genealogies. Yuhwa is commonly his mother and the heavenly Haemosu his father, joining dynastic history to traditions of extraordinary birth.'},
+ {title:'Key narratives',text:'Sunlight reaches Yuhwa and she lays an egg, which survives abandonment through animal protection and produces Jumong. A gifted archer, he flees jealous princes in Buyeo. At a river he calls upon heavenly and river ancestry; fish and turtles form a bridge. He escapes and founds Goguryeo, while later recognition stories connect a searching son and matching sword fragments with succession.'},
+ {title:'Symbols and attributes',text:'A bow, arrows, miraculous egg, sunlight, and bridge of fish and turtles identify Jumong’s narrative. They express exceptional skill and the assistance of sacred ancestry. Modern screen adaptations add distinctive costumes, romances, and combat equipment that should not be mistaken for a fixed ancient iconography.'},
+ {title:'Tradition and context',text:'The Gwanggaeto Stele, Samguk Sagi, and Lay of King Dongmyeong preserve different stages of the tradition. Their details and political purposes require separate attention. Jumong continues to feature in modern cultural storytelling, but historical evidence, literary elaboration, and television invention should remain distinguishable when interpreting the founder.'}]}}
+,
+{
+ id:'korea-haemosu',myth:'korea',name:'解慕漱',title:'联系天界降临与朱蒙谱系的神圣祖先',tags:['天裔','柳花','高句丽谱系'],
+ sections:[
+ {title:'身份与来历',text:'解慕漱是朝鲜半岛扶余与高句丽相关叙事中的天界人物，常被说成天帝之子、朱蒙之父。他与扶余诸王的关系在不同记载中并不一致，不能把散见的王名与谱系全部拼成一份没有矛盾的历史年表。'},
+ {title:'主要叙事',text:'在《东明王篇》等保存的叙事中，解慕漱乘五龙车下降，白日处理人间事务，夜晚返回天上。他遇见河伯之女柳花，与她结合后，河伯以变化之术试验其天界身份，解慕漱亦变形相对。婚姻与离别的细节因文本而异，柳花后来又受日光照临，生下的朱蒙承接天与水的双重祖源。'},
+ {title:'象征与辨识',text:'五龙车、华冠、佩剑与天上往返的形象是常见叙事标记，水域与柳花提示其婚姻关系。他并非朱蒙的另一名字，也不能与檀君故事中的桓雄直接视为同一人物。'},
+ {title:'流传与文化语境',text:'解慕漱的故事服务于王族神圣谱系，也保存天界与河流祖先结合的叙事结构。研究常比较碑铭、史书与诗篇的差异；现代影视会扩写他的战争和情感生活，这些新增内容不宜反推为古代共同传统。'}],
+ en:{name:'Haemosu',title:'Heavenly ancestor in the genealogy of Jumong',tags:['Heavenly descent','Yuhwa','Goguryeo ancestry'],sections:[
+ {title:'Identity and origins',text:'Haemosu is a heavenly figure in traditions concerning Buyeo and Goguryeo, commonly called a son of the heavenly emperor and father of Jumong. Accounts disagree about his relationships with Buyeo rulers. Their names and genealogies should not be forced into a seamless historical chronology that conceals the differences between sources.'},
+ {title:'Key narratives',text:'In traditions preserved by the Lay of King Dongmyeong, Haemosu descends in a carriage drawn by five dragons and returns to heaven at night. He meets Yuhwa, daughter of the river lord, whose father tests his identity through transformations. Marriage and separation vary between accounts. Yuhwa subsequently conceives through sunlight, giving Jumong ancestry associated with both heaven and water.'},
+ {title:'Symbols and attributes',text:'The dragon carriage, splendid headgear, sword, and journeys between heaven and earth provide identifying motifs. Rivers and Yuhwa indicate his marital connection. Haemosu is neither another name for Jumong nor automatically identical with Hwanung, the heavenly descendant belonging to the separate Dangun foundation tradition.'},
+ {title:'Tradition and context',text:'Haemosu legitimizes royal ancestry through the meeting of heavenly and river lineages. Comparing inscriptions, histories, and literary poems reveals changes in how that ancestry was narrated. Modern television expands his military and romantic adventures, but these additions cannot simply be projected backward as universally shared ancient tradition.'}]}},
+{
+ id:'korea-bari',myth:'korea',name:'钵里公主',title:'远赴异界取回生命之水的巫祖',tags:['弃女','生命之水','引魂'],
+ sections:[
+ {title:'身份与来历',text:'钵里公主又有巴里公主、钵里德纪等译名，是韩国巫俗口传叙事中的弃女与救亲者，常被奉为引导亡魂的巫祖。她的身世和结局随地区、表演者与仪式变化，没有一份可以覆盖全部地方传统的固定传记。'},
+ {title:'主要叙事',text:'国王盼望男嗣，却接连得女，最小的钵里因此遭到遗弃，由他人抚养。父亲或双亲病危后，其他女儿不愿远行，她却前往遥远异界寻找救命的水与花。途中她承担劳役、经历婚姻和生育等考验，终于带回药物，使亲人复生。部分版本随后让她获得引魂的神职，把受弃者转为跨越生死的帮助者。'},
+ {title:'象征与辨识',text:'生命之水、复生之花、远行衣装与跨越生死边界的道路构成核心意象。她不是等待搭救的公主，辨识重点在亲自远行和引魂职责；具体花名与器物随版本改变。'},
+ {title:'流传与文化语境',text:'钵里叙事常在与亡者有关的巫俗仪式中演唱，故事与祭仪、音乐和表演彼此关联。它既讨论孝亲，也呈现重男轻女与被遗弃者的处境；现代文学重述丰富其形象，但不应取代活态仪式的多样性。'}],
+ en:{name:'Princess Bari',title:'Abandoned daughter who brings back life and guides souls',tags:['Abandoned daughter','Water of life','Soul guidance'],sections:[
+ {title:'Identity and origins',text:'Princess Bari, also known through names rendered Baridegi, is an abandoned daughter and rescuer in Korean shamanic oral traditions. She often becomes an ancestral figure who guides the dead. Regional performances differ in genealogy, trials, and ending, so no single biography represents every community or ritual setting.'},
+ {title:'Key narratives',text:'A king seeking a son abandons his youngest daughter. Raised elsewhere, Bari later learns that her father or both parents are dying. Unlike her sisters, she undertakes a journey to obtain restorative water and flowers. Trials may include labor, marriage, and childbirth. Returning with the remedy, she restores her family and, in some versions, receives responsibility for guiding souls.'},
+ {title:'Symbols and attributes',text:'Life restoring water, reviving flowers, traveling clothes, and passages across the boundary of death are central motifs. Bari acts as a traveler and guide rather than a princess awaiting rescue. Specific flowers, vessels, companions, and costumes vary with regional versions and the performance tradition involved.'},
+ {title:'Tradition and context',text:'Bari narratives are performed in shamanic rites associated with the dead, where storytelling, music, and ritual action belong together. They explore filial care alongside abandonment and preference for sons. Contemporary literary adaptations offer further readings but should not replace attention to the diversity of living ceremonial traditions.'}]}}
+,
+{
+ id:'christianity-jesus',myth:'christianity',name:'耶稣',title:'基督教信仰核心中的基督与救主',tags:['福音','受难与复活','救赎'],
+ sections:[
+ {title:'身份与来历',text:'耶稣是公元一世纪犹太背景中的传道者，也是基督教信仰的核心。主流基督教承认他为道成肉身的圣子、真正的神与真正的人，而非众神之一。有关其生平的主要经典是四部福音书，历史研究与信仰表述应加区分。'},
+ {title:'主要叙事',text:'福音书记述耶稣由玛利亚所生，受约翰施洗后宣讲上帝的国，以比喻教导、医治病人并呼召门徒。他在耶路撒冷与门徒共进最后晚餐，随后被捕，在罗马总督彼拉多治下遭钉十字架。基督徒相信他第三日复活，并向门徒显现；这一信仰构成复活节、传教与救赎理解的中心。'},
+ {title:'象征与辨识',text:'十字架、善牧、鱼形记号与基督圣像是常见线索，受难像与空十字架的使用因传统而异。光环和衣袍属于宗教艺术语言，不能当作其历史容貌或族群外貌的直接证据。'},
+ {title:'流传与文化语境',text:'基督教是持续实践的一神宗教，礼拜、圣餐与教会年历围绕基督展开，各宗派解释和仪式不尽相同。耶稣也见于其他宗教的不同理解，介绍时应说明立场，不能把基督徒的信仰简单归为虚构故事。'}],
+ en:{name:'Jesus',title:'Christ and savior at the center of Christian faith',tags:['Gospel','Death and resurrection','Salvation'],sections:[
+ {title:'Identity and origins',text:'Jesus was a Jewish teacher in the first century and is the central figure of Christianity. Mainstream Christian doctrine confesses him as the incarnate Son, truly divine and truly human, not one god among many. The four canonical Gospels are principal sources, while historical inquiry and confessional statements require distinct framing.'},
+ {title:'Key narratives',text:'The Gospels recount his birth to Mary, baptism by John, proclamation of God’s kingdom, healings, parables, and calling of disciples. After a final meal in Jerusalem, he is arrested and crucified under the Roman governor Pontius Pilate. Christians believe that he rose on the third day and appeared to followers, making resurrection central to worship and understandings of salvation.'},
+ {title:'Symbols and attributes',text:'The cross, Good Shepherd, fish sign, and images of Christ are recognizable Christian symbols. Traditions differ in their use of crucifixes, empty crosses, and sacred pictures. Halos, clothing, and artistic facial types communicate religious meanings rather than supplying direct evidence of Jesus’ historical physical appearance.'},
+ {title:'Tradition and context',text:'Christianity is a living monotheistic religion whose worship, Eucharistic practices, and calendar center on Christ. Churches differ in theology and ritual expression. Other religions understand Jesus differently, so presentations should identify their standpoint and avoid treating Christian faith either as interchangeable folklore or as an unquestioned historical conclusion.'}]}},
+{
+ id:'christianity-mary',myth:'christianity',name:'玛利亚',title:'耶稣之母与基督教传统中的信德典范',tags:['报喜','圣母','信德'],
+ sections:[
+ {title:'身份与来历',text:'玛利亚是新约中的犹太女性、耶稣的母亲，在许多基督教传统中尊称圣母。天主教和东正教尤其重视对她的敬礼，但不把她当作独立女神；有关其称号、代祷及生平教义，各教会之间存在重要差异。'},
+ {title:'主要叙事',text:'《路加福音》记加百列向玛利亚报喜，她接受生育耶稣的使命，随后探望伊利莎白，并唱出赞颂上帝的尊主颂。福音书还叙述耶稣诞生、她在圣殿寻回少年耶稣，以及迦拿婚宴上的请求。《约翰福音》将她置于十字架旁，《使徒行传》则记她与门徒一同祈祷，呈现母亲与信徒的双重身份。'},
+ {title:'象征与辨识',text:'怀抱圣婴、蓝色或红色衣袍、百合与星冠是常见艺术线索，但地区和教派差异很大。圣母图像表达基督降生及信德，不意味着她在一神信仰之外拥有另一个神格。'},
+ {title:'流传与文化语境',text:'圣母节日、圣像与朝圣在天主教和东正教中十分重要，新教各群体的态度则有差异。圣母无染原罪与耶稣由童贞女所生并非同一教义；相关称号须放回具体教会传统，避免混用或误称为女神崇拜。'}],
+ en:{name:'Mary',title:'Mother of Jesus and exemplar of Christian faith',tags:['Annunciation','Mother of Jesus','Faith'],sections:[
+ {title:'Identity and origins',text:'Mary is the Jewish mother of Jesus in the New Testament, honored as the Virgin Mary in many churches. Catholic and Orthodox traditions give particular importance to her veneration without treating her as an independent goddess. Christian communities differ significantly over Marian titles, intercession, and doctrines concerning her life.'},
+ {title:'Key narratives',text:'Luke recounts Gabriel’s announcement, Mary’s acceptance, her visit to Elizabeth, and her song praising God. Gospel narratives also place her at Jesus’ birth, his childhood visit to the temple, and the wedding at Cana. John depicts her beside the cross, while Acts includes her praying with the disciples, portraying her as both mother and faithful participant.'},
+ {title:'Symbols and attributes',text:'The mother holding the infant Jesus, blue or red robes, lilies, and a crown of stars are familiar artistic motifs. Their arrangement varies across regions and churches. Marian images express beliefs about Christ’s birth and faithful response, not the existence of another deity outside Christian monotheism.'},
+ {title:'Tradition and context',text:'Marian feasts, icons, and pilgrimage are important in Catholic and Orthodox life, while Protestant approaches vary. The Immaculate Conception concerns Mary and is not the same doctrine as the virgin birth of Jesus. Titles and practices require their specific ecclesial contexts rather than a generalized label of goddess worship.'}]}}
+,
+{
+ id:'christianity-michael',myth:'christianity',name:'米迦勒',title:'守护并争战的天使长',tags:['天使长','守护','争战'],
+ sections:[
+ {title:'身份与来历',text:'米迦勒是犹太教与基督教经典中的天使人物，其名字常解释为谁能像上帝。他在《但以理书》中与以色列的守护有关，在《犹大书》中称为天使长；基督教敬礼中的尊崇不意味着把他视为与上帝并列的神。'},
+ {title:'主要叙事',text:'《但以理书》描写米迦勒帮助天上使者，并在危难时期为百姓站立。《犹大书》提到他与魔鬼争论摩西的遗体，却不擅自作毁谤判断，而求主责备对方。《启示录》则记米迦勒与其天使和龙交战，龙及其使者被摔下天。这些段落各有体裁与语境，不应拼接成一部详尽的天使战争编年史。'},
+ {title:'象征与辨识',text:'甲胄、长剑或长矛、脚下的龙是主要标志，天平也见于后世审判题材。翅膀属于天使艺术的惯例，不是经典统一描述；米迦勒代表受命的守护者，而非独立的战争神。'},
+ {title:'流传与文化语境',text:'米迦勒节庆、圣堂奉献与守护祈祷见于多种教会传统，有些新教群体不实践天使敬礼。其形象也与犹太教和伊斯兰教传统相关，但各自经典与解释不同，跨宗教比较必须保留这些边界与差异。'}],
+ en:{name:'Michael',title:'Archangel associated with protection and heavenly struggle',tags:['Archangel','Protection','Heavenly battle'],sections:[
+ {title:'Identity and origins',text:'Michael is an angelic figure in Jewish and Christian scriptures, his name commonly understood as a question about who is like God. Daniel associates him with the protection of Israel, while Jude calls him an archangel. Christian honor directed toward him does not make him a deity alongside God.'},
+ {title:'Key narratives',text:'In Daniel, Michael assists a heavenly messenger and stands for the people during crisis. Jude describes a dispute with the devil over Moses’ body, in which Michael appeals to the Lord’s rebuke. Revelation depicts Michael and his angels fighting the dragon and casting it down. These distinct passages should not become a falsely comprehensive chronology of heavenly warfare.'},
+ {title:'Symbols and attributes',text:'Armor, a sword or spear, and a dragon beneath his feet commonly identify Michael. Scales also appear in later judgment imagery. Wings belong to artistic conventions rather than a uniform scriptural portrait. His authority is understood as commissioned protection and service, not independent divine control over warfare.'},
+ {title:'Tradition and context',text:'Feasts, dedicated churches, and protective prayers honor Michael in several Christian traditions, though some Protestant communities reject angelic veneration. Related figures appear in Jewish and Islamic traditions with their own textual histories. Comparison should preserve these differences instead of blending every reference into a single universal angelic biography.'}]}},
+{
+ id:'christianity-gabriel',myth:'christianity',name:'加百列',title:'解释异象并传达报喜信息的天使',tags:['天使','报喜','启示传达'],
+ sections:[
+ {title:'身份与来历',text:'加百列是犹太教与基督教经典中的天使，在《但以理书》中解释异象，在《路加福音》中传达降生消息。许多教会传统称他为天使长，但新约相关段落没有直接使用这一称号；他始终是上帝的使者而非神。'},
+ {title:'主要叙事',text:'《但以理书》中，加百列奉命帮助但以理理解异象与时序。《路加福音》记他向祭司撒迦利亚预告施洗约翰出生，随后到拿撒勒向玛利亚宣告她将生子，并为孩子起名耶稣。玛利亚询问后，他说明圣灵临到，并以伊利莎白的怀孕作为记号；报喜场景因此把神圣信息与人的回应连接起来。'},
+ {title:'象征与辨识',text:'百合、卷轴、报喜手势与面对玛利亚的构图是主要辨识线索，有时也持杖。把加百列固定画为吹号者是部分后世传统，并非所有末日号角经文都明确写出他的名字。'},
+ {title:'流传与文化语境',text:'报喜节与大量圣乐、绘画延续加百列的文化影响。伊斯兰教中的吉卜力勒也有重要启示职分，但不能把两种经典的事件直接互换；不同教会对天使的敬礼程度及艺术表现，也须分别说明。'}],
+ en:{name:'Gabriel',title:'Angelic interpreter and messenger of the Annunciation',tags:['Angel','Annunciation','Divine message'],sections:[
+ {title:'Identity and origins',text:'Gabriel is an angel in Jewish and Christian scripture, interpreting visions in Daniel and announcing births in Luke. Many church traditions call Gabriel an archangel, although the relevant New Testament passages do not explicitly use that title. Gabriel acts as God’s messenger, never as an independent deity or rival divine power.'},
+ {title:'Key narratives',text:'In Daniel, Gabriel explains visions and their significance. Luke describes Gabriel announcing John the Baptist’s birth to Zechariah, then visiting Mary in Nazareth to announce that she will bear Jesus. Answering her question, Gabriel speaks of the Holy Spirit and points to Elizabeth’s pregnancy, linking the divine announcement with an invitation to human trust and response.'},
+ {title:'Symbols and attributes',text:'Lilies, scrolls, a raised greeting hand, and a composition facing Mary commonly identify Gabriel in Annunciation art. A staff may also appear. The familiar association with a final trumpet belongs to particular later traditions; not every scriptural trumpet passage explicitly names Gabriel as its player.'},
+ {title:'Tradition and context',text:'The Annunciation feast, sacred music, and painting sustain Gabriel’s prominence in Christian culture. Jibril has a major revelatory role in Islam, but events from the two scriptural traditions are not interchangeable. Churches also differ in angelic veneration and visual representation, requiring attention to particular communities and practices.'}]}}
+,
+{
+ id:'christianity-peter',myth:'christianity',name:'彼得',title:'在软弱与更新中作见证的使徒',tags:['使徒','磐石','牧养'],
+ sections:[
+ {title:'身份与来历',text:'彼得原名西门，是来自加利利的犹太渔夫，成为耶稣十二使徒之一，兄弟安得烈也在门徒之列。彼得的名字与磐石相关，新约同时保留其勇敢表白和软弱失误；他是受尊敬的使徒与圣徒，并非神灵。'},
+ {title:'主要叙事',text:'福音书描写彼得回应呼召，承认耶稣为基督，却也在受难前夜三次否认认识他。复活后的耶稣在《约翰福音》中三次询问他的爱，并托付牧养羊群。《使徒行传》记彼得在五旬节公开宣讲，又因异象前往外邦人哥尼流家，成为初期教会讨论接纳外邦信徒的重要人物。'},
+ {title:'象征与辨识',text:'钥匙、渔网、公鸡与卷曲短发的长者形象常用于辨识，分别联系托付、职业和否认经历。倒置十字架来自后世殉道传统，不是新约对其死亡方式的明确记述。'},
+ {title:'流传与文化语境',text:'天主教将彼得视为首任教宗，并以其职分解释教宗传承；东正教与新教对这一权柄有不同理解。罗马圣彼得大殿和使徒节庆延续其影响，相关纪念应区分新约叙事、后世传统与宗派立场。'}],
+ en:{name:'Peter',title:'Apostolic witness shaped by failure and renewed calling',tags:['Apostle','Rock','Pastoral care'],sections:[
+ {title:'Identity and origins',text:'Peter, originally Simon, was a Jewish fisherman from Galilee and one of Jesus’ twelve apostles; Andrew was his brother. His name evokes a rock. New Testament accounts preserve both his bold confession and his failures, presenting an honored apostolic witness rather than a divine being or independent object of worship.'},
+ {title:'Key narratives',text:'Peter answers Jesus’ call and confesses him as Messiah, but denies knowing him three times before the crucifixion. In John, the risen Jesus asks three times about Peter’s love and entrusts him with pastoral care. Acts depicts his Pentecost preaching and visit to Cornelius, episodes important to the early church’s understanding of receiving Gentile believers.'},
+ {title:'Symbols and attributes',text:'Keys, fishing nets, a rooster, and the familiar elderly figure with short curled hair identify Peter in art. They recall authority, occupation, and denial. An inverted cross belongs to later accounts of his martyrdom, not an explicit New Testament description of the manner of his death.'},
+ {title:'Tradition and context',text:'Catholicism identifies Peter as the first pope and relates his office to papal succession. Orthodox and Protestant Christians interpret the scope of that authority differently. Saint Peter’s Basilica and apostolic feasts preserve his memory, while scriptural narratives, later martyrdom traditions, and denominational claims should be clearly distinguished.'}]}},
+{
+ id:'christianity-paul',myth:'christianity',name:'保罗',title:'向外邦人传道并书写教会书信的使徒',tags:['使徒','书信','外邦宣教'],
+ sections:[
+ {title:'身份与来历',text:'保罗是来自大数的犹太人，也是早期基督教的重要传道者和书信作者，不属于耶稣生前的十二使徒。他亦名扫罗，两种名字见于同一传统，不宜把使用保罗一名简单说成改宗后的正式更名；他是使徒而非神。'},
+ {title:'主要叙事',text:'保罗曾迫害耶稣的追随者，后来因与复活基督相遇而转向传道。《使徒行传》以大马士革途中强光和声音描述此事，他的书信则强调启示与蒙召。他在地中海东部建立和联系群体，经历争论、监禁与海难，并讨论外邦信徒是否须受割礼；其书信由具体处境展开信仰、恩典与群体生活的思考。'},
+ {title:'象征与辨识',text:'书卷、书信、剑与高额长须是常见艺术标志。剑多联系后世关于其被斩首的殉道传统，也可象征属灵言语，不意味着把保罗塑造成以武力传教的战士。'},
+ {title:'流传与文化语境',text:'保罗书信深刻影响基督教神学与礼拜，但学界对部分署名书信的作者问题有讨论。各教会对信心、行为及律法的解释不一，阅读时需关注一世纪犹太背景，避免把他简化为反对犹太教的符号。'}],
+ en:{name:'Paul',title:'Apostle to the Gentiles and writer of church letters',tags:['Apostle','Letters','Gentile mission'],sections:[
+ {title:'Identity and origins',text:'Paul was a Jew from Tarsus who became a major early Christian missionary and letter writer, though not one of Jesus’ original twelve apostles. He also bore the name Saul. The two names should not automatically be explained as a formal renaming at conversion. He is an apostle, not a deity.'},
+ {title:'Key narratives',text:'After persecuting Jesus’ followers, Paul understood an encounter with the risen Christ as a calling. Acts describes light and a voice near Damascus; his letters emphasize revelation. He traveled, formed communities, endured imprisonment and shipwreck, and debated Gentile circumcision. His letters address particular situations while developing influential reflections on faith, grace, and communal life.'},
+ {title:'Symbols and attributes',text:'Books, letters, a sword, and a high forehead with a long beard commonly identify Paul. The sword recalls later traditions of execution by beheading and can also suggest spiritual speech. It should not imply that Paul is being celebrated as a warrior spreading Christianity through armed conquest.'},
+ {title:'Tradition and context',text:'Pauline letters profoundly shape Christian theology and worship, although scholars debate the authorship of some letters attributed to him. Churches interpret faith, works, and law differently. Reading within the Jewish contexts of the first century helps prevent simplistic portrayals of Paul as merely a symbol of opposition to Judaism.'}]}}
+,
+{
+ id:'christianity-moses',myth:'christianity',name:'摩西',title:'出埃及叙事中的先知与领受律法者',tags:['出埃及','盟约','律法'],
+ sections:[
+ {title:'身份与来历',text:'摩西是犹太教《妥拉》的核心人物，也是基督教旧约中受到尊重的先知与领袖。经典叙他出身以色列人家庭，在埃及宫廷环境中长大；将他收录在基督教分类只是索引安排，不表示其故事专属于基督教，更不能称其为神。'},
+ {title:'主要叙事',text:'《出埃及记》叙婴儿摩西被放入河边篮中，由法老女儿收养。他成年后逃往米甸，在燃烧而不焚毁的荆棘前蒙召，返回埃及要求释放以色列人。灾祸与逾越节之后，他带领百姓过海、进入旷野，并在西奈山领受律法和盟约。后续经典也记百姓反复抱怨，以及摩西在进入应许之地前去世。'},
+ {title:'象征与辨识',text:'法杖、两块法版、荆棘火焰与分开的海水是主要线索。部分西方艺术中的角源于古代译文与解释传统，另有光芒形象；这些不是将摩西描绘成恶魔或另一位神。'},
+ {title:'流传与文化语境',text:'逾越节、妥拉诵读与犹太释经使摩西持续居于犹太生活核心，基督教又有自身的预表和礼仪解释。出埃及叙事的历史背景存在学术讨论；信仰意义、考古证据和跨宗教接受史应分别介绍。'}],
+ en:{name:'Moses',title:'Prophet and lawgiver in the Exodus and covenant narratives',tags:['Exodus','Covenant','Torah'],sections:[
+ {title:'Identity and origins',text:'Moses is central to the Jewish Torah and is honored as a prophet and leader in the Christian Old Testament. Scripture presents him as an Israelite raised within an Egyptian royal environment. Placement in a Christian category is only an indexing choice: his narratives are not exclusively Christian, and he is not divine.'},
+ {title:'Key narratives',text:'Exodus recounts Moses’ rescue from a basket by Pharaoh’s daughter, flight to Midian, and calling at a bush that burns without being consumed. Returning to Egypt, he demands Israel’s release. Plagues and Passover precede the crossing of the sea, wilderness journeys, and the Sinai covenant. Later books describe resistance among the people and his death before entry into the promised land.'},
+ {title:'Symbols and attributes',text:'A staff, two tablets, the burning bush, and divided waters identify Moses. Horns in some Western artworks reflect an ancient translation and interpretive history, while other images show rays of light. Neither convention makes Moses a demon or an additional god within Jewish or Christian belief.'},
+ {title:'Tradition and context',text:'Passover, Torah reading, and Jewish interpretation keep Moses central within living Judaism. Christianity develops additional liturgical and typological readings without erasing those Jewish contexts. The historical background of Exodus remains debated, making it important to distinguish religious meaning, archaeological evidence, and the separate histories of reception across communities.'}]}},
+{
+ id:'christianity-abraham',myth:'christianity',name:'亚伯拉罕',title:'蒙召离乡并承受盟约应许的族长',tags:['盟约','信心','族长'],
+ sections:[
+ {title:'身份与来历',text:'亚伯拉罕是犹太教《创世记》中的族长，也是基督教旧约与伊斯兰教共同尊重的人物。他原名亚伯兰，在盟约叙事中获新名，与撒拉、夏甲及后代的关系构成家族故事；他是人间祖先与信仰典范，并非神。'},
+ {title:'主要叙事',text:'《创世记》叙亚伯拉罕回应上帝呼召，离开故土前往迦南，并领受土地与众多后裔的应许。他与夏甲生以实玛利，撒拉晚年生以撒；家庭冲突也伴随应许展开。献以撒故事中，他被要求献子，却在最后一刻受到阻止，以公羊代替。关于待客与为所多玛代求的段落，也呈现信赖和伦理交织的张力。'},
+ {title:'象征与辨识',text:'帐篷、星空、旅杖、公羊与接待三位访客的场景较常见。献子图像表现经典中的艰难考验，而不是认可现实伤害儿童；访客的身份解释因宗教传统而不同。'},
+ {title:'流传与文化语境',text:'犹太教从盟约与祖先记忆理解亚伯拉罕，基督教常强调他的信心，伊斯兰教则称其为易卜拉欣。各传统在儿子、圣地与祭献细节上有自身叙述，所谓亚伯拉罕诸教并不意味着教义或故事完全一致。'}],
+ en:{name:'Abraham',title:'Patriarch called to journey and receive covenant promises',tags:['Covenant','Faith','Patriarch'],sections:[
+ {title:'Identity and origins',text:'Abraham is a patriarch in the Jewish book of Genesis, also honored in Christianity and Islam. Originally Abram, he receives a new name within the covenant narrative. Relationships with Sarah, Hagar, and their descendants shape his story. He remains a human ancestor and exemplar of faith rather than a deity.'},
+ {title:'Key narratives',text:'Genesis describes Abraham leaving his homeland for Canaan in response to God’s call and receiving promises of land and descendants. Hagar bears Ishmael, and Sarah later bears Isaac amid family tensions. Asked to offer Isaac, Abraham is stopped and substitutes a ram. Narratives of hospitality and intercession for Sodom further explore the tensions between trust, promise, and moral responsibility.'},
+ {title:'Symbols and attributes',text:'Tents, stars, a traveler’s staff, a ram, and the welcome of three visitors commonly identify Abraham. Images of the binding of Isaac depict a difficult scriptural test, not approval of harming children. Interpretations of the visitors differ across religious communities and within their artistic traditions.'},
+ {title:'Tradition and context',text:'Judaism emphasizes covenant and ancestral memory, Christianity often highlights Abraham’s faith, and Islam honors him as Ibrahim. Each preserves distinctive interpretations of descendants, sacred places, and sacrifice. The expression Abrahamic religions identifies relationships among traditions without implying that their teachings, ritual practices, or narrative details are all identical.'}]}}
+];
+
+window.FIGURES_WEST = [
+{id:'greek-zeus',myth:'greek',name:'宙斯',title:'雷霆与神圣秩序的统治者',tags:['雷霆','王权','誓约'],sections:[{title:'身份与来历',text:'宙斯是克洛诺斯与瑞亚之子，奥林波斯诸神的统治者。瑞亚以襁褓中的石头替换婴儿，使他免遭父亲吞食；他在克里特秘密成长，成年后迫使克洛诺斯吐出兄弟姐妹。'},{title:'主要叙事',text:'宙斯率兄弟姐妹与泰坦交战，释放独眼巨人与百臂巨人，获得雷霆并赢得统治权。随后他与波塞冬、哈迪斯抽签分掌天空、海洋和冥界。他又击败怪物堤丰；普罗米修斯盗火帮助人类，则招致他以锁链、神鹰与潘多拉实施惩罚。'},{title:'象征与辨识',text:'雷霆、鹰和橡树是常见标志，雕像多呈蓄须成年男性，持权杖或雷电。鹰既显示高空视野，也强调王权；橡树与多多纳神谕传统密切相关。'},{title:'流传与文化语境',text:'奥林匹亚的祭典与竞技以宙斯为中心，多多纳则以神谕闻名。他保护宾客、求援者和誓约，但诗歌中的私情与争执，也揭示神权并非现代道德典范。'}],en:{name:'Zeus',title:'Sovereign of thunder and sacred order',tags:['Thunder','Kingship','Oaths'],sections:[{title:'Identity and origins',text:'Zeus is the son of Cronus and Rhea and ruler of the Olympian gods. Rhea saved him from being swallowed by substituting a wrapped stone. Raised secretly on Crete, he eventually made his father release his swallowed brothers and sisters.'},{title:'Key narratives',text:'Zeus led the younger gods against the Titans, freeing the Cyclopes and Hundred Handers and receiving thunderbolts. After victory, he shared cosmic territories by lot with Poseidon and Hades. He later defeated Typhon. When Prometheus stole fire for humanity, Zeus punished the thief and sent Pandora into the human world.'},{title:'Symbols and attributes',text:'Thunderbolts, an eagle, and the oak identify Zeus. Artists usually portray a mature bearded ruler carrying a sceptre. The oak particularly recalls Dodona, where divine messages were interpreted through sacred trees.'},{title:'Tradition and context',text:'Zeus received major worship at Olympia and Dodona. He protected guests, suppliants, and binding oaths. His contentious relationships in poetry should be distinguished from cult practice: divine stories explored authority and vulnerability rather than supplying uncomplicated moral examples.'}]}},
+{id:'greek-hera',myth:'greek',name:'赫拉',title:'婚姻秩序与王后尊荣的维护者',tags:['婚姻','王后','城邦'],sections:[{title:'身份与来历',text:'赫拉是克洛诺斯与瑞亚之女，也是宙斯的姐妹与妻子，在奥林波斯拥有王后地位。她与婚姻、合法结合及女性人生阶段有关；阿尔戈斯和萨摩斯的崇拜显示，她绝非只依附丈夫而存在。'},{title:'主要叙事',text:'伊娥被宙斯变成母牛后，赫拉令百眼巨人阿耳戈斯看守；赫尔墨斯杀死守卫，她又派牛虻追逐伊娥。赫拉还长期阻挠赫拉克勒斯，使其出生延迟并派蛇袭击婴儿。史诗中的她则支持阿开亚军，与宙斯围绕特洛伊战争激烈角力。'},{title:'象征与辨识',text:'赫拉常戴高冠、持权杖或石榴，表现庄严王后形象。孔雀与她的关联尤见于后期传统，尾羽的眼状图案被解释为死去阿耳戈斯的百眼。'},{title:'流传与文化语境',text:'萨摩斯赫拉神庙与阿尔戈斯赫拉圣域都是重要祭祀中心。地方仪式重视婚姻与群体身份；文学中的嫉妒形象，不应遮蔽她独立而复杂的宗教地位。'}],en:{name:'Hera',title:'Guardian of marriage and royal dignity',tags:['Marriage','Queenship','Community'],sections:[{title:'Identity and origins',text:'Hera is a daughter of Cronus and Rhea, sister and wife of Zeus, and queen among the Olympians. Her religious concerns include marriage, legitimate unions, and female life transitions. Important sanctuaries at Argos and Samos demonstrate her substantial independent standing.'},{title:'Key narratives',text:'After Zeus transformed Io into a cow, Hera entrusted her to the many eyed Argus. Hermes killed the guardian, and Hera sent a gadfly to torment Io. She also obstructed Heracles from birth. In the Iliad, her determined support for the Achaeans repeatedly brings her into conflict with Zeus himself.'},{title:'Symbols and attributes',text:'A high crown, sceptre, and sometimes a pomegranate mark Hera as queen. Later traditions associate her with the peacock, explaining its patterned feathers as the preserved eyes of her dead guardian Argus.'},{title:'Tradition and context',text:'The sanctuaries of Hera at Samos and Argos anchored regional worship and collective identity. Ritual attention to marriage and womanhood differs from literary portrayals of jealousy; those stories should not erase her independent religious authority or local significance.'}]}},
+{id:'greek-athena',myth:'greek',name:'雅典娜',title:'智慧与城邦的守护者',tags:['智慧','城邦','工艺'],sections:[{title:'身份与来历',text:'雅典娜是宙斯之女，赫西俄德说宙斯吞下怀孕的墨提斯，后来她全副武装从父亲头部出生。她兼掌谋略、纺织与城市保护，以处女神身份维护雅典，也帮助英雄完成艰难任务。'},{title:'主要叙事',text:'雅典娜与波塞冬竞争雅典的守护权，献出橄榄树，与海神制造的咸水泉形成对照。她指引珀耳修斯借盾面反光斩杀美杜莎，又在《奥德赛》中屡次化身援助奥德修斯和忒勒马科斯，使漂泊的父亲能够返乡并夺回家园。'},{title:'象征与辨识',text:'头盔、长矛、圆盾与埃癸斯构成武装形象，胸前常见蛇发女妖头像。猫头鹰代表敏锐观察，橄榄树则关联城邦资源；纺织工具提示她的工艺职能。'},{title:'流传与文化语境',text:'泛雅典娜节以游行、竞技和献织袍纪念女神，帕特农神庙彰显城邦权力。她的军事智慧强调策略与纪律，但各地崇拜并不完全等同雅典的政治解释。'}],en:{name:'Athena',title:'Guardian of wisdom, crafts, and the city',tags:['Wisdom','Cities','Crafts'],sections:[{title:'Identity and origins',text:'Athena is the daughter of Zeus. In Hesiod, he swallows the pregnant Metis before Athena emerges armed from his head. A virgin goddess of strategy, weaving, and civic protection, she guards Athens while guiding heroes through difficult and dangerous undertakings.'},{title:'Key narratives',text:'Athena competed with Poseidon for patronage of Athens, offering an olive tree against his saltwater spring. She helped Perseus approach Medusa through a reflected image rather than a fatal direct glance. In the Odyssey, her disguises and advice protect Telemachus and enable Odysseus to recover his household after prolonged wandering.'},{title:'Symbols and attributes',text:'Her helmet, spear, shield, and aegis distinguish the armed goddess. A Gorgon head often appears on her breast. The owl suggests alert perception, while olive branches and weaving tools express civic prosperity and skill.'},{title:'Tradition and context',text:'The Panathenaic festival celebrated Athena through procession, contests, and presentation of a woven robe. The Parthenon linked her to Athenian power. Her wider Greek worship nevertheless included local traditions that cannot be reduced to one city’s political ideology.'}]}},
+{id:'greek-apollo',myth:'greek',name:'阿波罗',title:'预言、音乐与净化之神',tags:['预言','音乐','医治'],sections:[{title:'身份与来历',text:'阿波罗是宙斯与勒托之子，阿耳忒弥斯的兄弟，传统称他出生于提洛岛。他关联神谕、乐艺、弓箭及疫病与疗愈；古希腊的太阳神原本是赫利俄斯，两者的认同主要见于后期发展。'},{title:'主要叙事',text:'阿波罗在德尔斐杀死巨蛇皮同，建立著名的神谕中心，女祭司皮提亚传达他的启示。《伊利亚特》开篇，他因祭司受辱而向阿开亚军营射下瘟疫。另一故事中，他追逐达芙涅，少女化为月桂，他遂将月桂作为自己的标志。'},{title:'象征与辨识',text:'里拉琴、弓箭和月桂冠最易识别阿波罗，雕像常呈无须青年。乌鸦、海豚和三足鼎也与他有关，其中三足鼎尤其指向德尔斐神谕的祭祀环境。'},{title:'流传与文化语境',text:'德尔斐神谕参与殖民、战争与净化事务，皮提亚赛会兼有音乐和竞技。阿波罗并非单纯温和的艺术神；准确的弓箭与瘟疫同样体现其可怖权能。'}],en:{name:'Apollo',title:'God of prophecy, music, and purification',tags:['Prophecy','Music','Healing'],sections:[{title:'Identity and origins',text:'Apollo is the son of Zeus and Leto and brother of Artemis, traditionally born on Delos. He governs prophecy, music, archery, disease, and healing. Helios was originally the distinct Greek sun god; stronger identification between the two developed in later traditions.'},{title:'Key narratives',text:'Apollo killed the serpent Python at Delphi and established the sanctuary where the Pythia delivered divine responses. At the opening of the Iliad, he sends plague against the Achaean camp after his priest is dishonoured. Another story describes his pursuit of Daphne, whose transformation into laurel ends her attempted escape.'},{title:'Symbols and attributes',text:'A lyre, bow, and laurel wreath identify Apollo, normally shown as a youthful, beardless figure. Ravens, dolphins, and the tripod also belong to his imagery, with the tripod particularly recalling Delphic divination.'},{title:'Tradition and context',text:'Delphi advised communities about colonisation, conflict, and ritual purification. Its Pythian festival included musical and athletic competition. Apollo should not be reduced to gentle artistic inspiration: his precise arrows and power over plague make him an equally formidable presence.'}]}},
+{id:'greek-artemis',myth:'greek',name:'阿耳忒弥斯',title:'荒野、狩猎与成长边界的女神',tags:['狩猎','荒野','成长'],sections:[{title:'身份与来历',text:'阿耳忒弥斯是宙斯与勒托之女，阿波罗的姐妹，常作为拒绝婚姻的处女猎神出现。她保护野生动物，又能将其猎杀，并关注少女成长和分娩；她与月亮的认同不能取代早期独立的塞勒涅。'},{title:'主要叙事',text:'阿克泰翁意外看见阿耳忒弥斯沐浴，遭她变成鹿，最终被自己的猎犬撕裂。尼俄柏夸耀子女众多、轻视勒托，阿耳忒弥斯与阿波罗便射杀她的儿女。伊菲革涅亚的故事则存在献祭与被女神以鹿替换、迁往陶里斯的不同结局。'},{title:'象征与辨识',text:'短衣、弓箭、箭囊和鹿表现她的荒野行动力，身旁也可能出现猎犬。以弗所的阿耳忒弥斯具有特殊地方造型，不宜直接按希腊少女猎神解释。'},{title:'流传与文化语境',text:'布劳伦的少女仪式将她与成长和群体过渡联系起来，以弗所神庙则展现另一套地方传统。她既守护生命边界也施加死亡，体现荒野的双重力量。'}],en:{name:'Artemis',title:'Goddess of wilderness, hunting, and transitions',tags:['Hunting','Wilderness','Girlhood'],sections:[{title:'Identity and origins',text:'Artemis is the daughter of Zeus and Leto and sister of Apollo. A virgin huntress, she both protects and kills wild animals, and oversees girls approaching adulthood and childbirth. Her later lunar associations should not obscure the originally distinct moon goddess Selene.'},{title:'Key narratives',text:'When Actaeon saw Artemis bathing, she transformed him into a stag, and his own hunting dogs destroyed him. She and Apollo also killed Niobe’s children after their mother insulted Leto. Stories of Iphigenia differ: some describe sacrifice, while others let Artemis substitute a deer and transport the girl to Tauris.'},{title:'Symbols and attributes',text:'A short hunting dress, bow, quiver, deer, and hounds express her mobility outside settled society. The distinctive cult image of Artemis at Ephesus belongs to a local tradition rather than simply reproducing this huntress.'},{title:'Tradition and context',text:'Rituals at Brauron connected Artemis with girls and transitions toward adulthood. Her Ephesian sanctuary expressed a different regional identity. Protection and sudden death coexist in her character, reflecting the dangerous boundaries between human settlement, bodily change, and wild nature.'}]}},
+{id:'greek-poseidon',myth:'greek',name:'波塞冬',title:'海洋、地震与马匹的驾驭者',tags:['海洋','地震','马匹'],sections:[{title:'身份与来历',text:'波塞冬是克洛诺斯与瑞亚之子，宙斯及哈迪斯的兄弟。泰坦战争后，他抽签获得海洋领域，但其权能并不限于海水：古老称号撼地者和与马匹相关的崇拜，显示其跨越陆海的力量。'},{title:'主要叙事',text:'奥德修斯刺瞎独眼巨人波吕斐摩斯后，波塞冬应儿子的请求阻挠英雄归航，以风暴和海难延长其漂泊。他与雅典娜争夺雅典时击出咸水泉；在特洛伊传说中，他曾修筑城墙，却因拉俄墨冬拒付报酬而派海怪惩罚当地。'},{title:'象征与辨识',text:'三叉戟是最鲜明的标志，常与蓄须男性、海豚和海马共同出现。他也驾驭马拉战车；马的意象提醒观者，海神并不是仅有航海职能的神祇。'},{title:'流传与文化语境',text:'科林斯地峡赛会奉献给波塞冬，苏尼翁海岬的神庙连接航路与城邦景观。航海者祈求其平息波涛，地震频发的希腊社会也敬畏他的撼地能力。'}],en:{name:'Poseidon',title:'Lord of seas, earthquakes, and horses',tags:['Sea','Earthquakes','Horses'],sections:[{title:'Identity and origins',text:'Poseidon is a son of Cronus and Rhea and brother of Zeus and Hades. After the Titan war he received the sea by lot. His ancient title Earth Shaker and strong associations with horses reveal powers extending far beyond maritime travel.'},{title:'Key narratives',text:'After Odysseus blinded the Cyclops Polyphemus, Poseidon answered his son’s appeal by obstructing the hero’s return with storms and shipwreck. He competed with Athena for Athens by striking a saltwater spring. At Troy, he helped build the walls, then sent a sea monster when King Laomedon withheld the promised payment.'},{title:'Symbols and attributes',text:'The trident identifies Poseidon, often represented as a mature bearded man accompanied by dolphins or sea horses. Horse drawn chariots also appear, recalling an important dimension of his power beyond the open sea.'},{title:'Tradition and context',text:'The Isthmian Games near Corinth honoured Poseidon, while his sanctuary at Sounion overlooked major sea routes. Sailors sought calm passages, but communities exposed to earthquakes also feared him. Maritime protection and destructive instability remained inseparable aspects of his worship.'}]}},
+{id:'greek-hades',myth:'greek',name:'哈迪斯',title:'冥界与地下财富的君主',tags:['冥界','亡者','财富'],sections:[{title:'身份与来历',text:'哈迪斯是克洛诺斯与瑞亚之子，在兄弟分掌宇宙时获得地下亡者领域。他并非死亡本身的化身塔纳托斯，也不是邪恶魔王；普路同这一称号强调地下矿产与农业生长所含的财富。'},{title:'主要叙事',text:'《得墨忒耳颂》叙述哈迪斯经宙斯同意带走珀耳塞福涅，引发得墨忒耳停止谷物生长。他让少女吃下石榴籽，使她必须定期返回冥界。俄耳甫斯以音乐求回欧律狄刻时，他允许亡妻随行，却规定出境之前不可回头观看。'},{title:'象征与辨识',text:'权杖、双齿叉、丰饶角与守门犬刻耳柏洛斯常见于其图像。隐形头盔出现在英雄故事中；严肃的王座形象，比近代流行的恶魔造型更合古代传统。'},{title:'流传与文化语境',text:'希腊人常以委婉称号称呼冥界之主，部分祭祀与大地和丰饶相连。有关来世的观念因时代、地域和秘仪而异，不能拼成一套始终统一的冥界教义。'}],en:{name:'Hades',title:'Ruler of the dead and underground wealth',tags:['Underworld','Dead','Wealth'],sections:[{title:'Identity and origins',text:'Hades is a son of Cronus and Rhea who received the realm of the dead when the brothers divided cosmic territories. He is distinct from Thanatos, personified death, and is not a devil. His title Plouton emphasises wealth hidden beneath the earth.'},{title:'Key narratives',text:'In the Homeric Hymn to Demeter, Hades takes Persephone with Zeus’s approval, provoking her mother to suspend agricultural growth. Pomegranate seeds bind Persephone to recurring residence below. When Orpheus seeks Eurydice, the underworld rulers permit her return on the condition that he does not look back before reaching the surface.'},{title:'Symbols and attributes',text:'A sceptre, two pronged staff, cornucopia, and the watchdog Cerberus accompany Hades. His helmet grants invisibility in heroic narratives. Ancient images usually present a solemn enthroned king rather than a demonic adversary.'},{title:'Tradition and context',text:'Greeks often used respectful or euphemistic names for the underworld ruler. Some cult contexts connected him with earth and abundance. Beliefs about the dead differed across periods, places, and mystery traditions, rather than forming one universally fixed ancient doctrine.'}]}},
+{id:'greek-aphrodite',myth:'greek',name:'阿佛洛狄忒',title:'欲望、魅力与结合的女神',tags:['爱欲','魅力','海洋'],sections:[{title:'身份与来历',text:'阿佛洛狄忒的身世有不同谱系：赫西俄德称她从乌拉诺斯被割下的生殖器所激起的海沫诞生，荷马则称她为宙斯与狄俄涅之女。她掌管吸引、性欲和结合，且在部分城市拥有武装形态。'},{title:'主要叙事',text:'特洛伊王子帕里斯评判三位女神的美貌时，阿佛洛狄忒许诺让他得到海伦，从而赢得金苹果，并卷入战争起源。她与凡人安喀塞斯结合，生下埃涅阿斯；在阿多尼斯故事中，她哀悼青年猎人的死亡，使爱情与失落紧密相连。'},{title:'象征与辨识',text:'鸽子、桃金娘、玫瑰和海中贝壳构成常见意象，厄洛斯常随侍其旁。裸体或出浴形象在古典后期尤为著名，但早期与地方神像也可着衣甚至持械。'},{title:'流传与文化语境',text:'塞浦路斯帕福斯和基西拉是重要崇拜地点，显示她与海上交流的联系。其近东关联值得比较，但不能简单认作异名；古代所谓圣娼制度也须谨慎考证。'}],en:{name:'Aphrodite',title:'Goddess of desire, attraction, and union',tags:['Desire','Beauty','Sea'],sections:[{title:'Identity and origins',text:'Aphrodite has differing genealogies. Hesiod makes her arise from sea foam surrounding the severed genitals of Uranus; Homer calls her the daughter of Zeus and Dione. She governs attraction, sexuality, and union, while some communities also honoured her in armed forms.'},{title:'Key narratives',text:'During the judgement of Paris, Aphrodite promised the Trojan prince Helen and won the golden apple, helping set the Trojan conflict in motion. Her union with the mortal Anchises produced Aeneas. In traditions concerning Adonis, her grief for the young hunter connects erotic attachment with vulnerability, mourning, and irreversible loss.'},{title:'Symbols and attributes',text:'Doves, myrtle, roses, and marine shells accompany Aphrodite, often with Eros nearby. Famous nude or bathing images represent only part of her iconography: earlier and local forms could be clothed or armed.'},{title:'Tradition and context',text:'Paphos on Cyprus and Cythera were important centres of worship, reflecting maritime connections. Comparisons with Near Eastern goddesses are useful but should not erase differences. Claims about widespread institutional sacred prostitution require particular caution and critical assessment of evidence.'}]}},
+{id:'norse-odin',myth:'norse',name:'奥丁',title:'智慧、诗歌与战死者之主',tags:['智慧','诗歌','战死者'],sections:[{title:'身份与来历',text:'奥丁是包尔与贝斯特拉之子，阿萨神族的重要领袖，与兄弟维利、韦杀死原初巨人尤弥尔并塑造世界。他追求知识而非全知，既关联王权与诗歌，也支配战争、狂喜和部分战死者的归宿。'},{title:'主要叙事',text:'《高人的箴言》叙述奥丁在风吹之树上悬挂九夜，以自身献祭自身而获得卢恩知识。他又以一只眼睛换取密米尔泉的饮水，并冒险取得诗蜜。诸神黄昏中，他虽预知灾难并集结英灵战士，仍将被巨狼芬里尔吞噬而死。'},{title:'象征与辨识',text:'独眼、宽檐帽、长矛冈格尼尔与八足马斯莱普尼尔是常见标志。乌鸦胡金与穆宁巡游世界带回消息，两只狼随侍；这些伙伴突出知识与战场的联系。'},{title:'流传与文化语境',text:'主要叙事见于中世纪冰岛保存的埃达与萨迦，文本书写晚于北欧改宗。诗歌、地名和考古材料可补充其崇拜背景，但不能把奥丁视为所有北欧社群唯一的最高神。'}],en:{name:'Odin',title:'Seeker of wisdom and lord of the battle dead',tags:['Wisdom','Poetry','Battle'],sections:[{title:'Identity and origins',text:'Odin, son of Borr and Bestla, is a leading god of the Aesir. With his brothers Vili and Ve he kills the primordial Ymir and shapes the world. He pursues knowledge rather than possessing omniscience, governing poetry, kingship, frenzy, and battle.'},{title:'Key narratives',text:'In Havamal, Odin hangs for nine nights on a windswept tree, offering himself to himself and gaining knowledge of runes. He sacrifices an eye for a drink from Mimir’s well and steals the mead of poetry. Despite foreknowledge and his gathering of fallen warriors, Fenrir will swallow him at Ragnarok.'},{title:'Symbols and attributes',text:'One eye, a broad hat, the spear Gungnir, and the eight legged horse Sleipnir identify Odin. His ravens Huginn and Muninn gather information; accompanying wolves reinforce his association with battlefields and the dead.'},{title:'Tradition and context',text:'Medieval Icelandic Eddas and sagas preserve most extended narratives, after conversion to Christianity. Poetry, place names, and archaeology supply other evidence. These materials reveal varied traditions, not proof that every Scandinavian community treated Odin as its sole supreme deity.'}]}},
+{id:'norse-thor',myth:'norse',name:'索尔',title:'雷霆与人神世界的守护者',tags:['雷霆','巨人','保护'],sections:[{title:'身份与来历',text:'索尔是奥丁与大地女神约尔德之子，妻子为金发的西芙。他以强大体力和直接行动著称，保护阿斯加德与人类世界免受巨人威胁；与奥丁的隐秘谋略相比，他的角色更突出公开对抗。'},{title:'主要叙事',text:'巨人索列姆盗走雷神之锤并索求弗蕾雅为妻，索尔在洛基协助下乔装新娘，取回锤子后击杀巨人。他也曾出海钓起环绕世界的巨蛇耶梦加得，双方终将在诸神黄昏互相杀死；索尔击毙巨蛇后只走九步便因蛇毒倒下。'},{title:'象征与辨识',text:'雷神之锤妙尔尼尔、力量腰带和铁手套是重要装备，两只山羊拉动其战车。锤形护符具有明确考古证据，既可显示守护期待，也可表达佩戴者的宗教身份。'},{title:'流传与文化语境',text:'雷神之名保存在地名、人名和星期名称中，锤形饰物在维京时代广泛出现。文学中既有滑稽乔装，也有宇宙大战，不能以现代英雄形象替代古代多样传统。'}],en:{name:'Thor',title:'Thunderer and defender of gods and humans',tags:['Thunder','Giants','Protection'],sections:[{title:'Identity and origins',text:'Thor is the son of Odin and the earth goddess Jord, and husband of Sif. Renowned for strength and direct action, he protects divine and human communities against giants. His confrontational manner differs from the secrecy and shifting strategies frequently associated with Odin.'},{title:'Key narratives',text:'When Thrym steals Mjolnir and demands Freyja as his bride, Thor disguises himself as the bride with Loki’s assistance. Once the hammer is returned, he kills the giants. Elsewhere he fishes for the world serpent Jormungandr. At Ragnarok he kills that enemy, then falls after nine steps from its venom.'},{title:'Symbols and attributes',text:'Mjolnir, a strengthening belt, and iron gloves are his characteristic equipment. Two goats pull his chariot. Archaeologically attested hammer pendants suggest protective associations and could also communicate religious affiliation within changing Scandinavian societies.'},{title:'Tradition and context',text:'Thor survives in personal names, place names, and weekday terminology. Hammer pendants were widespread during the Viking Age. Medieval stories range from comic disguise to cosmic combat; modern superhero adaptations should not be mistaken for complete representations of historical traditions.'}]}},
+{id:'norse-loki',myth:'norse',name:'洛基',title:'越界、机巧与灾变的推动者',tags:['变形','诡计','越界'],sections:[{title:'身份与来历',text:'洛基是法布提与劳菲之子，与阿萨诸神共同活动，却具有复杂的巨人亲缘。他能改变形体与性别，既为诸神排解危机也不断制造危险；芬里尔、耶梦加得和赫尔是他与安格尔博达所生的子女。'},{title:'主要叙事',text:'洛基剪去西芙的头发后，被迫请矮人工匠打造金发，并促成雷神之锤等宝物诞生。他化为母马引走筑墙者的骏马，后来生下八足马。另一叙事中，他引导盲神霍德尔用槲寄生杀死巴德尔，最终遭绑缚，并受滴落蛇毒折磨。'},{title:'象征与辨识',text:'洛基没有像雷神之锤那样稳定、明确的古代专属徽记。鲑鱼、母马和捕网来自具体变形故事，绑缚与毒蛇则指向惩罚；现代角盔并非可靠的古代识别标志。'},{title:'流传与文化语境',text:'洛基故事主要由中世纪冰岛文献保存，其独立祭祀证据十分有限。他不能简单等同基督教魔鬼；协助、嘲讽和破坏在同一角色中并存，形成北欧神话的张力。'}],en:{name:'Loki',title:'Shapeshifter, boundary crosser, and catalyst',tags:['Shapeshifting','Trickery','Disruption'],sections:[{title:'Identity and origins',text:'Loki is the child of Farbauti and Laufey and a companion of the Aesir with complicated giant connections. Changing form and gender, he solves divine problems while creating new dangers. With Angrboda he fathers Fenrir, Jormungandr, and Hel, figures associated with catastrophe.'},{title:'Key narratives',text:'After cutting Sif’s hair, Loki commissions golden replacements from dwarfs, indirectly producing several divine treasures. As a mare, he distracts a builder’s stallion and later bears Sleipnir. He also guides blind Hodr’s fatal use of mistletoe against Baldr. The gods eventually bind him beneath a serpent whose dripping venom causes torment.'},{title:'Symbols and attributes',text:'Loki lacks an unambiguous ancient emblem comparable to Thor’s hammer. Salmon, mare, and fishing net belong to particular transformations. Bonds and a venomous snake evoke punishment; modern horned helmets are not reliable historical attributes.'},{title:'Tradition and context',text:'Medieval Icelandic texts preserve most Loki narratives, while evidence for an independent cult is very limited. He should not simply be equated with the Christian devil. Assistance, mockery, and destruction coexist in a figure whose ambiguities drive divine stories.'}]}},
+{id:'norse-freyja',myth:'norse',name:'弗蕾雅',title:'爱欲、魔法与战场选择的女神',tags:['爱欲','魔法','战死者'],sections:[{title:'身份与来历',text:'弗蕾雅属于华纳神族，是尼约德之女、弗雷尔的姐妹，在两族和解后进入阿萨诸神的世界。她关联爱欲、财富与赛德魔法，也在弗尔克旺接纳部分战死者，因而不能只称为爱情女神。'},{title:'主要叙事',text:'《巨人索列姆之歌》中，巨人以归还雷神之锤为条件索求弗蕾雅，她愤怒拒绝，项链随震动弹起，迫使索尔另谋乔装之策。另一些传统叙述她寻找远行的丈夫奥德尔，并流下红金般的眼泪，显示欲望、离别和财富的相互联系。'},{title:'象征与辨识',text:'布里辛加门项链、猫拉战车与可供飞行的鹰羽外衣是常见标志。野猪希尔迪斯维尼也与她相关；金色泪珠和华美首饰强调珍贵财富与情感代价的关联。'},{title:'流传与文化语境',text:'埃达诗歌与斯诺里著作保存了不同面向，部分地名也被联系到她的崇拜。赛德魔法与性别规范的关系复杂，不宜用现代女巫或浪漫爱情标签概括她的权能。'}],en:{name:'Freyja',title:'Goddess of desire, magic, and the battle dead',tags:['Desire','Magic','Warriors'],sections:[{title:'Identity and origins',text:'Freyja belongs to the Vanir, daughter of Njord and sister of Freyr, entering the Aesir’s world after reconciliation between divine groups. Associated with desire, wealth, and seidr magic, she also receives a share of slain warriors in Folkvang, exceeding a purely romantic role.'},{title:'Key narratives',text:'In the poem about Thrym, the giant demands Freyja in exchange for Thor’s stolen hammer. Her angry refusal shakes her necklace and forces the gods to adopt a different plan involving Thor’s disguise. Other traditions describe her search for her absent husband Odr and tears that become precious red gold.'},{title:'Symbols and attributes',text:'The necklace Brisingamen, a chariot drawn by cats, and a feather garment enabling flight identify Freyja. The boar Hildisvini also accompanies her. Golden tears connect precious wealth with longing and emotional loss.'},{title:'Tradition and context',text:'Eddic poetry and Snorri’s prose preserve different aspects of Freyja, supplemented cautiously by place names. Seidr involved complex relations with gender and social authority. Modern categories of romantic goddess or witch therefore capture only fragments of her historical character.'}]}},
+{id:'norse-freyr',myth:'norse',name:'弗雷尔',title:'丰收、和平与王权繁荣之神',tags:['丰收','和平','王权'],sections:[{title:'身份与来历',text:'弗雷尔属于华纳神族，是尼约德之子、弗蕾雅的兄弟，在神族和解后与阿萨诸神共同居住。他关联雨水、阳光、土地丰收和社会和平，也与瑞典王族的神圣祖先传统相连，居所称为亚尔夫海姆。'},{title:'主要叙事',text:'弗雷尔坐上高座，望见巨人女子格尔德后陷入苦恋，派侍从斯基尔尼尔前往求婚。《斯基尔尼尔之歌》呈现礼物、威胁与咒术交织的谈判，最终约定相见。他为此交出的宝剑后来不在身边，诸神黄昏时遂无法抵挡火焰巨人苏尔特。'},{title:'象征与辨识',text:'金鬃野猪古林布尔斯提、可折叠收起的宝船斯基德布拉德尼，以及丰饶性的男性形象与弗雷尔相关。野猪强调光辉和生命力，宝船则显示便利航行与充足资源。'},{title:'流传与文化语境',text:'瑞典地方记忆与英格林王族谱系突出他的繁荣王权，部分考古像的身份仍有争论。求婚诗中的强迫语言应被如实说明，而不宜美化为没有冲突的田园爱情。'}],en:{name:'Freyr',title:'God of harvest, peace, and prosperous kingship',tags:['Harvest','Peace','Kingship'],sections:[{title:'Identity and origins',text:'Freyr belongs to the Vanir, son of Njord and brother of Freyja. After the divine groups reconcile, he lives among the Aesir. He governs sunshine, rain, agricultural abundance, and peace, and features in Swedish royal ancestry traditions. Alfheim is named as his dwelling.'},{title:'Key narratives',text:'From a high seat Freyr sees the giant woman Gerd and becomes overwhelmed with desire. His servant Skirnir negotiates the union through gifts, threats, and curses, eventually securing a meeting. Freyr gives away his sword in connection with this mission. At Ragnarok, lacking that weapon, he falls against the fiery Surtr.'},{title:'Symbols and attributes',text:'Freyr possesses the golden bristled boar Gullinbursti and the foldable ship Skidbladnir. Fertile male imagery is also associated with him. These attributes connect radiance, movement, abundant resources, and reproductive power rather than agriculture alone.'},{title:'Tradition and context',text:'Swedish traditions and Yngling royal genealogies emphasise prosperity and sacred kingship. Identification of some archaeological images remains disputed. The coercive language in his courtship poem deserves acknowledgement rather than being softened into an entirely peaceful romance of seasonal fertility.'}]}},
+{id:'norse-tyr',myth:'norse',name:'提尔',title:'勇气、誓约与牺牲之神',tags:['勇气','誓约','牺牲'],sections:[{title:'身份与来历',text:'提尔是北欧神祇中与战斗勇气和约束性承诺相关的一位，其父系在文献中并不统一，有称奥丁，也有称巨人希密尔。他的名字与更古老的日耳曼神名传统相连，但早期地位不能直接从词源重建。'},{title:'主要叙事',text:'诸神畏惧芬里尔不断增长的力量，便用矮人制作的细索格莱普尼尔试图束缚它。巨狼怀疑欺骗，要求一位神将手放入自己口中作为担保；只有提尔应允。当芬里尔发现无法挣脱，便咬断提尔的右手，使担保成为真实而永久的代价。'},{title:'象征与辨识',text:'缺失的右手是最有叙事依据的识别点，狼与束缚绳索可辅助辨认。提瓦兹卢恩与其名字相关，但现代用符的含义多有再造，不能直接代表古代全部信仰。'},{title:'流传与文化语境',text:'英语星期二的名称保存了其日耳曼同源神名，埃达资料则集中表现失手的牺牲。称他为现代意义的法律部长过于简化，勇武、信用和必要欺骗之间的冲突更为关键。'}],en:{name:'Tyr',title:'God of courage, pledges, and costly sacrifice',tags:['Courage','Pledges','Sacrifice'],sections:[{title:'Identity and origins',text:'Tyr is associated with martial courage and binding commitments. Surviving texts disagree about his ancestry, naming Odin or the giant Hymir as his father. His name connects with an older Germanic divine vocabulary, but etymology alone cannot securely reconstruct his earlier religious status.'},{title:'Key narratives',text:'Fearing Fenrir’s growing strength, the gods persuade the wolf to test the slender magical bond Gleipnir. Suspecting deception, Fenrir demands a divine hand in his mouth as security. Tyr alone accepts. When the wolf discovers that the bond cannot be broken, he bites off Tyr’s right hand, exacting the promised pledge.'},{title:'Symbols and attributes',text:'The missing right hand is Tyr’s clearest narrative attribute; a wolf and binding cord can clarify the scene. The Tiwaz rune relates to his name, although modern symbolic applications often introduce meanings not securely documented.'},{title:'Tradition and context',text:'Tuesday preserves the name of Tyr’s Germanic counterpart in English. Eddic narratives concentrate on his costly pledge. Calling him a modern legal administrator is misleading: the story exposes tensions between courage, trustworthy guarantees, communal survival, and necessary divine deception.'}]}},
+{id:'norse-baldr',myth:'norse',name:'巴德尔',title:'死亡与复归希望中的光辉神祇',tags:['光辉','死亡','复归'],sections:[{title:'身份与来历',text:'巴德尔是奥丁与弗丽嘉之子，妻子为南娜，儿子为福尔塞提，居所称布雷达布利克。斯诺里将他写成美丽、明亮而广受赞誉的神，但直接把他定义为太阳神，并无足够早期材料支持。'},{title:'主要叙事',text:'巴德尔梦见死亡后，弗丽嘉要求万物发誓不伤害他，却漏掉看似幼弱的槲寄生。洛基利用这一缺口，引导盲眼霍德尔射出致命枝条。赫尔答应若万物为他哭泣便放人，女巨人索克却拒绝；诸神黄昏之后，他将从亡者世界归来。'},{title:'象征与辨识',text:'槲寄生、葬船与妻子南娜的形象最能提示其故事，明亮面貌主要来自文学描写。古代没有充分证据支持一套固定太阳轮徽记，现代光之王形象应谨慎使用。'},{title:'流传与文化语境',text:'埃达与萨克索笔下存在明显不同的巴德尔叙事，后者更接近英雄竞争故事。死亡、哀悼和复归可作比较研究，但不能据相似情节直接认定源自基督教或季节仪式。'}],en:{name:'Baldr',title:'Radiant god of death, mourning, and return',tags:['Radiance','Death','Return'],sections:[{title:'Identity and origins',text:'Baldr is the son of Odin and Frigg, husband of Nanna, and father of Forseti. His dwelling is Breidablik. Snorri describes him as beautiful, radiant, and widely praised, but securely identifying him as a solar deity goes beyond the surviving early evidence.'},{title:'Key narratives',text:'After Baldr dreams of death, Frigg obtains promises from almost everything not to harm him, overlooking mistletoe. Loki exploits the exception and guides blind Hodr in delivering the fatal missile. Hel offers release if all beings mourn, but the giantess Thokk refuses. After Ragnarok, Baldr is expected to return from death.'},{title:'Symbols and attributes',text:'Mistletoe, a funeral ship, and Nanna evoke Baldr’s narratives. Radiant appearance derives principally from literary description. Evidence does not establish a universal ancient solar emblem, despite influential modern representations of a shining divine prince.'},{title:'Tradition and context',text:'Eddic accounts differ markedly from Saxo’s more heroic narrative of rivalry. Death, mourning, and return invite comparison with other traditions. Such parallels, however, do not by themselves establish direct Christian borrowing or prove an underlying annual vegetation ritual.'}]}},
+{id:'norse-heimdall',myth:'norse',name:'海姆达尔',title:'诸神边界与虹桥的警戒者',tags:['守望','边界','号角'],sections:[{title:'身份与来历',text:'海姆达尔是守护诸神边界的重要神祇，传统称其由九位母亲所生，居住在接近虹桥的希明约格。他拥有极敏锐的听觉与视力，睡眠需求极少，能在昼夜之间持续警戒来自巨人世界的威胁。'},{title:'主要叙事',text:'诸神黄昏临近时，海姆达尔将吹响加拉尔号角，召集诸神迎战，最后与洛基相互杀死。《索列姆之歌》中，他提出让索尔乔装新娘取回神锤的办法。《里格之歌》的开头又把行旅者里格联系到他，叙述人类社会阶层的产生。'},{title:'象征与辨识',text:'加拉尔号角、虹桥与守望姿态是最可靠的识别线索，金牙也见于文学称号。公羊关联在研究中仍有讨论，若仅以角形头饰辨认，容易把现代设计当成古代定式。'},{title:'流传与文化语境',text:'海姆达尔的材料零散分布于埃达诗歌、吟唱诗与斯诺里散文，彼此并非完整一致。社会起源诗反映等级想象，不能直接当作北欧历史社会组织的客观说明。'}],en:{name:'Heimdall',title:'Watchman of the gods and guardian of boundaries',tags:['Vigilance','Boundaries','Horn'],sections:[{title:'Identity and origins',text:'Heimdall guards the divine boundary from his dwelling Himinbjorg near the rainbow bridge. Traditions give him nine mothers and extraordinary hearing and sight. Requiring very little sleep, he maintains watch by night and day against dangers approaching from the world of giants.'},{title:'Key narratives',text:'At Ragnarok, Heimdall sounds Gjallarhorn to summon the gods, then ultimately kills and is killed by Loki. In the poem about Thrym, he proposes that Thor recover his hammer disguised as a bride. The introduction to Rigsthula identifies the travelling Rig with Heimdall before recounting the origins of human social ranks.'},{title:'Symbols and attributes',text:'Gjallarhorn, the rainbow bridge, and a watchful stance are his clearest identifiers. Literary titles mention golden teeth. Proposed ram associations remain debated, so horned modern costume should not be treated as a fixed ancient attribute.'},{title:'Tradition and context',text:'Evidence for Heimdall is scattered across Eddic poetry, skaldic verse, and Snorri’s prose, without forming one seamless biography. The social origins poem expresses an ideological hierarchy rather than providing a straightforward historical description of Scandinavian classes or institutions.'}]}},
+{id:'roman-jupiter',myth:'roman',name:'朱庇特',title:'罗马公权力、天空与誓约的保障者',tags:['天空','国家','誓约'],sections:[{title:'身份与来历',text:'朱庇特是罗马天空与雷霆的重要神，与朱诺、密涅瓦构成卡庇托利欧三神。他以至善至大者称号接受国家崇拜，守护誓言、条约和公共秩序；与希腊宙斯的认同并未消除其独特的罗马制度背景。'},{title:'主要叙事',text:'罗马传统称努马王与朱庇特谈判，用象征性供物替代可怕的赎罪要求，并获得有关避雷仪式的知识。另一建国叙事中，罗慕路斯向止退者朱庇特许愿，请他阻止罗马军队溃逃。胜利将领举行凯旋时，则登上卡庇托利欧向他献祭。'},{title:'象征与辨识',text:'雷霆、鹰、权杖与橡叶冠是常见标志，神像多呈庄严蓄须男性。卡庇托利欧神庙的位置及凯旋献祭场景，往往比单独的鹰更能提示罗马政治语境。'},{title:'流传与文化语境',text:'执政官就职、战争誓愿和凯旋礼均与朱庇特相关，祭司及占卜制度强化其公共地位。文学虽大量吸收希腊故事，理解他仍须兼顾罗马国家礼仪与公民责任。'}],en:{name:'Jupiter',title:'Guarantor of Roman authority, sky, and oaths',tags:['Sky','State','Oaths'],sections:[{title:'Identity and origins',text:'Jupiter is Rome’s major god of sky and thunder and a member of the Capitoline triad with Juno and Minerva. As Optimus Maximus he guards public order, treaties, and oaths. Identification with Greek Zeus never erased his distinctive place within Roman institutions.'},{title:'Key narratives',text:'Roman tradition describes King Numa negotiating with Jupiter over alarming expiatory demands, substituting symbolic offerings and learning lightning rituals. In another foundation story, Romulus vows a sanctuary to Jupiter Stator to halt a Roman retreat. Victorious commanders later conclude triumphal processions by ascending the Capitol and sacrificing to the god.'},{title:'Symbols and attributes',text:'Thunderbolts, an eagle, sceptre, and oak wreath accompany Jupiter’s mature bearded image. The Capitoline temple and triumphal setting often communicate his specifically Roman public significance more clearly than an eagle alone can do.'},{title:'Tradition and context',text:'Consular inaugurations, military vows, and triumphs involved Jupiter, supported by specialised priesthoods and divinatory procedures. Roman literature absorbed many Greek divine stories, but his role must also be understood through civic obligation, state ceremony, and the maintenance of public trust.'}]}},
+{id:'roman-juno',myth:'roman',name:'朱诺',title:'罗马共同体与女性生命的守护者',tags:['婚姻','女性','国家'],sections:[{title:'身份与来历',text:'朱诺是罗马重要女神，与朱庇特和密涅瓦组成卡庇托利欧三神。她的称号分别体现王后尊荣、分娩援助和公共警示等功能；她与希腊赫拉长期对应，但罗马女性、公民共同体和地方城市赋予她独特位置。'},{title:'主要叙事',text:'高卢人夜袭卡庇托利欧时，朱诺圣域的鹅发出叫声，传统认为警报使罗马守军及时应敌，并与莫奈塔称号相联。《埃涅阿斯纪》中，她因偏爱迦太基而阻挠特洛伊人，最后接受埃涅阿斯后代建立秩序，但要求拉丁人的名称和习俗延续。'},{title:'象征与辨识',text:'王冠、权杖和庄严长袍显示女神尊荣，孔雀来自与赫拉相通的图像传统。拉努维乌姆的救助者朱诺却披羊皮、持武器，展示鲜明的地方守护形象。'},{title:'流传与文化语境',text:'三月的妇女节庆与卢基娜称号关注婚姻和生产，莫奈塔神庙又联系罗马铸币历史。不同称号与圣域功能不能压缩为嫉妒妻子，更不只是赫拉的拉丁译名。'}],en:{name:'Juno',title:'Guardian of Roman community and women’s lives',tags:['Marriage','Women','State'],sections:[{title:'Identity and origins',text:'Juno is a major Roman goddess within the Capitoline triad alongside Jupiter and Minerva. Her titles express queenship, assistance in childbirth, and public warning. Although frequently identified with Hera, she occupied distinctive positions in Roman women’s lives, civic religion, and local Italian communities.'},{title:'Key narratives',text:'During a Gallic attack on the Capitol, sacred geese associated with Juno raise an alarm and save the defenders, a tradition linked with Moneta. In the Aeneid, her loyalty to Carthage drives resistance to Aeneas. She finally accepts the future settlement while requiring the preservation of Latin names and customs.'},{title:'Symbols and attributes',text:'A crown, sceptre, and stately robes convey Juno’s authority; peacocks reflect shared imagery with Hera. At Lanuvium, however, Juno Sospita wears goatskin and carries weapons, revealing a distinctly local protective and martial form.'},{title:'Tradition and context',text:'The Matronalia and Juno Lucina concerned married women and childbirth, while Moneta’s temple became associated with minting. Her titles and local sanctuaries show functions beyond a jealous wife, making her much more than a Latin translation of Hera.'}]}},
+{id:'roman-minerva',myth:'roman',name:'密涅瓦',title:'技艺、学习与公共智慧的女神',tags:['技艺','学习','智慧'],sections:[{title:'身份与来历',text:'密涅瓦是罗马工艺、技艺和智慧的重要女神，与朱庇特、朱诺共同受祀于卡庇托利欧。她的意大利背景与伊特鲁里亚门尔瓦传统有关，后来大量吸收雅典娜的形象，却仍联系罗马匠人、学校和行业生活。'},{title:'主要叙事',text:'奥维德讲述织女阿拉克涅挑战女神，密涅瓦在织毯上展示诸神威严，少女则织出诸神的欺骗与侵害。冲突结束后，阿拉克涅变成蜘蛛继续编织。这个罗马文学版本既借用希腊题材，也通过技艺竞赛呈现权力、创作与惩罚的紧张关系。'},{title:'象征与辨识',text:'头盔、长矛、盾牌与猫头鹰常用于辨识密涅瓦，纺锤和织机则强调手艺。图像与雅典娜高度相似时，题铭、神庙位置和出土环境比造型本身更重要。'},{title:'流传与文化语境',text:'奎因夸特鲁斯节与她关系密切，工匠、教师和学生均可参与相关庆祝。帝国时代又出现密涅瓦与地方神的结合，如不列颠苏利斯密涅瓦，显示崇拜的适应性。'}],en:{name:'Minerva',title:'Patron of skilled work, learning, and civic wisdom',tags:['Crafts','Learning','Wisdom'],sections:[{title:'Identity and origins',text:'Minerva is a Roman goddess of skilled work, knowledge, and wisdom, worshipped with Jupiter and Juno on the Capitol. Her Italian background connects with Etruscan Menrva. Greek Athena influenced her imagery strongly, but Roman craftspeople, teachers, and professional communities gave her particular social roles.'},{title:'Key narratives',text:'In Ovid’s account, Arachne challenges the goddess to a weaving contest. Minerva depicts divine authority, while the mortal exposes divine deception and sexual wrongdoing. The confrontation ends with Arachne transformed into a spider, still weaving. This Roman literary treatment of Greek material explores artistic excellence, unequal power, punishment, and contested representation.'},{title:'Symbols and attributes',text:'Helmet, spear, shield, and owl identify Minerva, while spindle and loom emphasise skilled production. Because her appearance often resembles Athena’s, inscriptions, sanctuary locations, and archaeological settings can be more informative than costume alone.'},{title:'Tradition and context',text:'The Quinquatrus festival involved Minerva and attracted craftspeople, teachers, and pupils. Imperial worship also produced local combinations such as Sulis Minerva in Britain. These traditions demonstrate adaptation within Roman religion rather than a single unchanging copy of Greek mythology.'}]}},
+{id:'roman-mars',myth:'roman',name:'马尔斯',title:'罗马武力、祖源与土地的保护者',tags:['战争','祖源','土地'],sections:[{title:'身份与来历',text:'马尔斯是罗马公共宗教的核心神祇之一，不仅关乎战争，也保护田地、群体与军事秩序。罗马人奉他为罗慕路斯与雷穆斯之父，由此把神的力量接入城市祖源；他与阿瑞斯的文学认同并不能概括全部职能。'},{title:'主要叙事',text:'建城传统称维斯塔贞女雷娅西尔维娅与马尔斯生下双胞胎，婴儿被放逐到河边，后由母狼哺育。奥古斯都又以复仇者马尔斯名义纪念为凯撒复仇及收回军旗，将王朝叙事纳入神庙。相较希腊战神的失控暴力，这些故事突出罗马祖源与正当武力。'},{title:'象征与辨识',text:'头盔、长矛、盾牌和军装构成常见形象，狼与啄木鸟也与马尔斯相联。萨利祭司守护的圣盾和仪式舞蹈，提示武力同时受到传统礼仪的组织与约束。'},{title:'流传与文化语境',text:'三月和十月的军政节庆与出征、归来相关，净田祭也向马尔斯祈求牲畜和作物安全。战神与农业保护并非互相矛盾，而是共同维护罗马群体存续的不同方面。'}],en:{name:'Mars',title:'Protector of Roman arms, ancestry, and land',tags:['War','Ancestry','Land'],sections:[{title:'Identity and origins',text:'Mars stands near the centre of Roman public religion, protecting warfare, fields, collective survival, and military discipline. As father of Romulus and Remus, he also anchors Roman ancestry. Literary identification with Ares does not encompass these civic, agricultural, and genealogical dimensions of his importance.'},{title:'Key narratives',text:'Foundation traditions make Mars the father of twins born to the Vestal Rhea Silvia. Exposed beside the river, the infants survive through a she wolf’s care. Augustus later promoted Mars Ultor to commemorate vengeance for Caesar and recovered military standards, integrating the god into dynastic memory and claims of legitimate force.'},{title:'Symbols and attributes',text:'Helmet, spear, shield, and military dress identify Mars; the wolf and woodpecker also belong to his traditions. Sacred shields carried by the Salii and their ritual dancing connect armed strength with inherited ceremonial discipline.'},{title:'Tradition and context',text:'March and October ceremonies marked military departures and returns, while agricultural purification invoked Mars for crops and livestock. Warfare and rural protection were therefore complementary rather than contradictory roles, both concerned with safeguarding the Roman community and its resources.'}]}},
+{id:'roman-venus',myth:'roman',name:'维纳斯',title:'魅力、繁衍与罗马祖源的女神',tags:['爱欲','祖源','胜利'],sections:[{title:'身份与来历',text:'维纳斯在罗马关联魅力、性欲、繁衍与有利的神恩，后来与阿佛洛狄忒广泛融合。她作为埃涅阿斯的母亲，被纳入罗马祖源叙事；凯撒家族又借尤鲁斯的谱系，自称出自这位女神以支持政治地位。'},{title:'主要叙事',text:'《埃涅阿斯纪》中，维纳斯化装成女猎人向儿子指路，并使丘比特激发狄多的爱意，为特洛伊人争取庇护。后来她请伏尔坎打造铠甲，盾面展现罗马未来历史。这里的母亲角色不仅保护个人，也把情感、战争与帝国命运连接起来。'},{title:'象征与辨识',text:'鸽子、桃金娘、玫瑰、丘比特与贝壳是常见线索，持盾的胜利者形象也很重要。祖源女神与胜利女神的题铭，能提示同一形象背后不同的政治诉求。'},{title:'流传与文化语境',text:'凯撒奉祀祖源者维纳斯，庞培则突出胜利者维纳斯，两者展示竞争性的政治使用。维纳斯节庆也涉及婚姻与性规范，因此不能只把她当作抽象美貌或浪漫爱情的化身。'}],en:{name:'Venus',title:'Goddess of attraction, fertility, and Roman ancestry',tags:['Desire','Ancestry','Victory'],sections:[{title:'Identity and origins',text:'Venus concerns attraction, sexuality, fertility, and favourable divine influence in Roman tradition, later merging extensively with Aphrodite. As mother of Aeneas she enters Rome’s ancestral narrative. Caesar’s family claimed descent through Iulus, turning her genealogy into a source of political authority and distinction.'},{title:'Key narratives',text:'In the Aeneid, Venus guides her son disguised as a huntress and uses Cupid to awaken Dido’s love, securing refuge for the Trojans. Later she persuades Vulcan to make divine armour. Its shield depicts Rome’s future, connecting maternal protection with warfare, imperial destiny, and the emotional costs of founding a people.'},{title:'Symbols and attributes',text:'Doves, myrtle, roses, Cupid, and shells commonly accompany Venus. Armed or shield bearing forms also matter. Inscriptions naming Venus Genetrix or Victrix clarify different ancestral and military claims behind apparently similar divine images.'},{title:'Tradition and context',text:'Caesar promoted Venus Genetrix, while Pompey emphasised Venus Victrix, revealing competing political appropriations. Festivals also engaged marriage and sexual conduct. Her Roman significance therefore exceeds abstract beauty or romance, encompassing collective origins, victory, social regulation, and negotiated divine favour.'}]}},
+{id:'roman-janus',myth:'roman',name:'雅努斯',title:'门户、开端与过渡的双面神',tags:['门户','开端','过渡'],sections:[{title:'身份与来历',text:'雅努斯是罗马本土特色鲜明的神，掌管门户、开端、通行与状态转换，没有简单对等的希腊奥林波斯神。古代作者有时把他写成拉丁姆早期君王，有时赋予宇宙起始的意义，不同解释并存而非统一谱系。'},{title:'主要叙事',text:'奥维德《岁时记》中，雅努斯解释自己的双面可以同时观看前后，又讲述曾收留来到意大利的萨图尔努斯。另一故事说萨宾人攻入时，他以突然喷发的热水阻挡敌军。其神庙门户在战争期间开启，和平时期关闭，成为政治宣示的重要仪式。'},{title:'象征与辨识',text:'面向相反方向的两张脸最易识别雅努斯，钥匙与手杖也表现开启和引导。门道、拱门或硬币上的双面头像，应与具体建筑或发行背景一起解释其意义。'},{title:'流传与文化语境',text:'献祭祷告常先呼唤雅努斯，以确保仪式顺利开启，一月名称也与他相联。奥古斯都强调关闭神门以宣示和平，但这种象征不能等同帝国所有地区事实上毫无战争。'}],en:{name:'Janus',title:'Two faced god of doorways and beginnings',tags:['Doorways','Beginnings','Transitions'],sections:[{title:'Identity and origins',text:'Janus is a distinctly Roman god of doorways, beginnings, passage, and changes of state, without a straightforward Olympian equivalent. Ancient writers sometimes describe him as an early ruler in Latium and sometimes give him a cosmic role. These interpretations coexist rather than forming one fixed genealogy.'},{title:'Key narratives',text:'In Ovid’s Fasti, Janus explains that his two faces watch opposing directions and recounts welcoming Saturn to Italy. Another account credits him with releasing hot water against invading Sabines. His sanctuary doors stood open during war and were closed in peace, making their ritual management a prominent statement about Roman public affairs.'},{title:'Symbols and attributes',text:'Two faces looking in opposite directions are Janus’s clearest attribute. Keys and a staff express opening and guidance. Doorways, arches, and coin portraits require their architectural or monetary settings to clarify particular historical meanings.'},{title:'Tradition and context',text:'Roman prayers often invoked Janus first so that ritual could begin successfully, and January preserves his name. Augustus publicised the closing of his doors as a sign of peace, but this symbolism did not mean warfare vanished throughout the empire.'}]}},
+{id:'celtic-dagda',myth:'celtic',name:'达格达',title:'爱尔兰诸神中的丰足与技艺之主',tags:['爱尔兰','丰足','技艺'],sections:[{title:'身份与来历',text:'达格达是爱尔兰神话图阿哈德达南族的重要人物，常被称为好神，含义偏向多才多艺而非道德完美。他与布鲁纳博因的神圣景观相连，是安格斯与布里吉德等人物的父亲，但各文本谱系并不完全一致。'},{title:'主要叙事',text:'《第二次莫伊图拉之战》写达格达在大战前与莫莉甘相会，获得对抗弗莫尔人的援助。他曾被敌人以巨大份量的粥试探，却将食物吃尽；战后他的竖琴遭夺走，他召回竖琴，并奏出悲、笑、眠三种曲调，使敌人陷入无法抵抗的情绪。'},{title:'象征与辨识',text:'能使人死亡或复生的大棒、无人离开时仍饥饿的丰饶锅，以及可支配情绪的竖琴构成主要标志。夸张食量和粗朴衣着体现叙事幽默，并不意味着地位低微。'},{title:'流传与文化语境',text:'主要资料由中世纪爱尔兰文献保存，抄写者处于基督教文化环境。巨石墓与其居所的联系属于后世神话地景，不能直接证明史前建造者已经用同一名字崇拜他。'}],en:{name:'The Dagda',title:'Irish master of abundance and many skills',tags:['Ireland','Abundance','Skill'],sections:[{title:'Identity and origins',text:'The Dagda is a major member of the Irish Tuatha De Danann. His title Good God indicates broad competence rather than flawless morality. Associated with the sacred landscape of Bru na Boinne, he fathers figures including Aengus and Brigid, although genealogies vary between sources.'},{title:'Key narratives',text:'In the Second Battle of Mag Tuired, the Dagda meets the Morrigan before confronting the Fomorians and gains assistance. His enemies test him with an enormous portion of porridge, which he consumes. When his harp is stolen, he summons it back and plays melodies producing grief, laughter, and sleep among his opponents.'},{title:'Symbols and attributes',text:'His great club can kill and restore life, his cauldron leaves nobody hungry, and his harp commands emotions. Exaggerated appetite and rough clothing supply narrative humour without cancelling his authority or considerable supernatural competence.'},{title:'Tradition and context',text:'Medieval Irish manuscripts preserve the narratives within a Christian scribal environment. Connections between his dwelling and prehistoric passage tombs belong to later mythic geography; they do not establish that the original builders worshipped this named figure in the same way.'}]}},
+{id:'celtic-brigid',myth:'celtic',name:'布里吉德',title:'爱尔兰诗艺、医治与锻造的女神',tags:['爱尔兰','诗艺','医治'],sections:[{title:'身份与来历',text:'布里吉德是爱尔兰传统中的女神，常被列为达格达之女。《科尔马克词汇集》将她与诗人相连，并提及同名的医治与锻造女神姐妹；这一材料可以说明多重职能，却不足以建立完整统一的三相女神教义。'},{title:'主要叙事',text:'《第二次莫伊图拉之战》中，布里吉德与布雷斯的儿子鲁阿丹进入敌方营地，试图杀害铁匠戈布纽，却在攻击后遭反杀。她来到战场为儿子哀哭，故事将爱尔兰的尖声哀悼起源联系到这一时刻，使诗艺、亲属冲突和战争创伤交织。'},{title:'象征与辨识',text:'诗歌、炉火、铁匠工具与疗愈活动可提示布里吉德的职能。灯火、圣井和编织十字更多关联后世圣布里吉德传统，使用时应标明时代，避免全部倒推为古代徽记。'},{title:'流传与文化语境',text:'女神布里吉德与基尔代尔圣布里吉德之间存在复杂名称和传统联系，却不能简单视为同一人的连续传记。今日节庆、基督教敬礼与现代异教实践，应分别尊重其自身语境。'}],en:{name:'Brigid',title:'Irish goddess of poetry, healing, and smithcraft',tags:['Ireland','Poetry','Healing'],sections:[{title:'Identity and origins',text:'Brigid is an Irish goddess commonly called the Dagda’s daughter. Cormac’s Glossary associates her with poets and mentions sisters bearing her name who oversee healing and smithcraft. This evidence suggests related functions but does not establish a fully articulated universal triple goddess theology.'},{title:'Key narratives',text:'In the Second Battle of Mag Tuired, Brigid’s son Ruadan, fathered by Bres, infiltrates the opposing camp and attacks the smith Goibniu. The smith survives and kills him in return. Brigid comes to lament her son, and the narrative connects this mourning with the first keening heard in Ireland during warfare.'},{title:'Symbols and attributes',text:'Poetry, hearth fire, smithing tools, and healing activities evoke Brigid’s functions. Lamps, holy wells, and woven crosses often belong to Saint Brigid’s later traditions and should not automatically be projected into ancient goddess worship.'},{title:'Tradition and context',text:'The goddess and Saint Brigid of Kildare share complex connections of name and tradition, not a securely continuous personal biography. Contemporary festivals, Christian devotion, and modern Pagan practices deserve interpretation in their respective settings rather than being collapsed into one timeless religion.'}]}},
+{id:'celtic-lugh',myth:'celtic',name:'卢格',title:'爱尔兰多艺者与战胜暴君的英雄神',tags:['爱尔兰','技艺','王权'],sections:[{title:'身份与来历',text:'卢格是爱尔兰图阿哈德达南族的多艺者，父亲为基安，母亲为弗莫尔领袖巴洛尔之女埃丝纽。他因拥有多种技能得以进入塔拉王廷，并在战争中领导诸神；长臂者称号与战斗能力相关，不宜直接译成太阳神。'},{title:'主要叙事',text:'卢格来到努阿达的宫廷时，守门人说每一种技艺已有专才，他便指出无人能同时精通全部本领，最终获准入内。在第二次莫伊图拉大战中，他以投石攻击外祖父巴洛尔的致命眼睛，翻转敌军优势。另在《夺牛长征记》中，他帮助儿子库丘林疗伤。'},{title:'象征与辨识',text:'长矛、投石索与多种工艺工具可表现卢格的武力和全能，具体宝物名称随文本而变。将耀眼外貌直接解释为太阳轮崇拜，容易把较晚研究假说当成古代事实。'},{title:'流传与文化语境',text:'卢格纳萨节与卢格及养母塔尔蒂乌的纪念传统相连，结合竞赛、集会和收获季节。大陆卢古斯与威尔士勒乌可供语言比较，但不能把三者故事无区别地拼接。'}],en:{name:'Lugh',title:'Irish master of arts and victorious leader',tags:['Ireland','Skills','Kingship'],sections:[{title:'Identity and origins',text:'Lugh is the many skilled figure of the Irish Tuatha De Danann, son of Cian and Ethniu, daughter of the Fomorian Balor. His combined abilities secure entry to Tara’s court. The epithet Long Arm concerns exceptional reach or prowess, not an automatic identification with the sun.'},{title:'Key narratives',text:'At Nuada’s court, the doorkeeper explains that every individual craft already has a specialist. Lugh replies that nobody possesses all his skills together and gains admission. At the Second Battle of Mag Tuired he strikes Balor’s destructive eye with a slingstone. In the Tain, he also helps heal his son Cu Chulainn.'},{title:'Symbols and attributes',text:'A spear, sling, and varied craft implements express Lugh’s fighting skill and broad competence, though named treasures vary across texts. Reading every radiant description as proof of solar worship turns a scholarly hypothesis into supposed historical certainty.'},{title:'Tradition and context',text:'Lughnasa connects Lugh with commemorations for his foster mother Tailtiu, assemblies, contests, and the harvest season. Continental Lugus and Welsh Lleu offer linguistic comparisons, but their surviving narratives should not be indiscriminately merged into one interchangeable pan Celtic biography.'}]}},
+{id:'celtic-morrigan',myth:'celtic',name:'莫莉甘',title:'爱尔兰战场、预言与权力危机的女神',tags:['爱尔兰','战争','预言'],sections:[{title:'身份与来历',text:'莫莉甘是爱尔兰叙事中关联战争、预言、牲畜和统治危机的女性神圣人物，名字常译作幻影王后或伟大王后，解释仍有争议。她与巴德布、玛哈等名称的关系随文本改变，不宜固定成一套整齐的三位一体。'},{title:'主要叙事',text:'《夺牛长征记》中，莫莉甘以女子形貌接近库丘林，遭拒后化成鳗鱼、狼和母牛干扰战斗，并在交锋中受伤。她后来伪装成挤奶老妇，从英雄的祝福中得到医治。莫伊图拉之战后，她又宣告胜利，并预言秩序衰败与灾难将临。'},{title:'象征与辨识',text:'战场上的乌鸦或渡鸦、变形动物和带有威胁的预言构成主要线索。鸟类意象既关联死亡也关联观察；现代黑翼女战士形象并不是中世纪文献唯一允许的外貌。'},{title:'流传与文化语境',text:'她的故事保存在爱尔兰史诗与神话文献中，不能不加区分地推广为所有凯尔特地区的共同信仰。现代复兴宗教赋予她新的意义，需与中世纪文本证据分别说明。'}],en:{name:'The Morrigan',title:'Irish power of battle, prophecy, and crisis',tags:['Ireland','Battle','Prophecy'],sections:[{title:'Identity and origins',text:'The Morrigan is an Irish supernatural female figure associated with warfare, prophecy, cattle, and threatened sovereignty. Her name is variously interpreted as Phantom Queen or Great Queen. Relationships with Badb, Macha, and other names vary between sources rather than defining a stable universal trinity.'},{title:'Key narratives',text:'In the Tain, the Morrigan approaches Cu Chulainn as a woman. Rejected, she obstructs him as an eel, wolf, and heifer, receiving injuries in the fighting. Disguised as an old milkmaid, she later gains healing through his blessings. Following Mag Tuired, she announces victory and foretells a future collapse of social order.'},{title:'Symbols and attributes',text:'Battlefield crows or ravens, transformed animals, and threatening prophecy supply key identifiers. Bird imagery suggests both death and watchful knowledge. The modern black winged warrior woman is not the only appearance permitted by medieval narratives.'},{title:'Tradition and context',text:'Irish epic and mythological texts preserve her changing roles; these cannot automatically stand for every Celtic speaking region. Modern revival religions give her additional meanings, which deserve respectful distinction from claims based specifically on surviving medieval textual evidence.'}]}},
+{id:'celtic-cu-chulainn',myth:'celtic',name:'库丘林',title:'爱尔兰阿尔斯特英雄与悲剧战士',tags:['爱尔兰','英雄','悲剧'],sections:[{title:'身份与来历',text:'库丘林是爱尔兰阿尔斯特叙事群的凡人英雄，原名塞坦塔，母亲为德赫蒂，父系常联系神祇卢格。他幼年杀死铁匠库兰的猛犬，答应暂代守卫，因此得到库兰之犬这一名字，其英雄身份从责任承诺开始。'},{title:'主要叙事',text:'《夺牛长征记》中，阿尔斯特战士遭虚弱诅咒时，年轻的库丘林独自守住渡口，阻挡康诺特军。他与昔日同窗费尔迪亚德连续决斗，最终以可怕的加耶博尔格杀死朋友，胜利却充满哀痛。死亡故事中，他将自己绑在石柱上，直到乌鸦落肩才被敌人确认已死。'},{title:'象征与辨识',text:'战车、长矛、猎犬以及战斗时身体扭曲的狂暴状态是重要标志。绑于石柱的垂死形象突出不屈，却也显示英雄身体的毁坏，而非不受限制的神圣无敌。'},{title:'流传与文化语境',text:'主要文本由中世纪爱尔兰抄本保存，兼有散文、诗歌和不同版本。近现代民族运动与公共纪念重塑了他的形象，阅读时应区分早期英雄伦理与后来的国家象征。'}],en:{name:'Cu Chulainn',title:'Tragic champion of the Irish Ulster tales',tags:['Ireland','Heroism','Tragedy'],sections:[{title:'Identity and origins',text:'Cu Chulainn is a mortal hero of Ireland’s Ulster Cycle, originally named Setanta. His mother is Deichtine, and his paternity is often connected with Lugh. After killing Culann’s fierce watchdog, he promises to replace its protection, earning the name Hound of Culann through responsibility.'},{title:'Key narratives',text:'In the Tain, while Ulster’s warriors suffer a debilitating curse, Cu Chulainn defends its border against the invading army of Connacht. His prolonged duel with former companion Fer Diad ends in a devastating victory using the Gae Bolga. In his death tale, he binds himself upright to a stone until a bird reveals his death.'},{title:'Symbols and attributes',text:'A chariot, spear, hound, and the terrifying bodily distortion of battle frenzy identify him. The dying hero tied to a stone represents resistance but also physical destruction, rather than the effortless invulnerability of a god.'},{title:'Tradition and context',text:'Medieval Irish manuscripts preserve prose, verse, and competing versions of his career. Modern nationalism and public monuments reshaped his image. Early heroic obligations, tragic violence, and later uses as a national emblem should therefore remain analytically distinct from one another.'}]}},
+{id:'celtic-rhiannon',myth:'celtic',name:'里安农',title:'威尔士四支故事中的尊荣与坚忍者',tags:['威尔士','马匹','尊荣'],sections:[{title:'身份与来历',text:'里安农是威尔士《马比诺吉昂》四支故事的重要女性，首先出现于戴维德领主普伊尔的经历中，后来嫁给他并生下普里德里。她具有超常来历和行动能力，但现存文本并未直接把她列为一位拥有完整神谱的马女神。'},{title:'主要叙事',text:'普伊尔追赶骑白马的里安农，总是无法接近，直到开口请求她停下。两人成婚后，婴儿失踪，侍女将罪责嫁祸给她；她被罚在宫门背负来客。孩子获救归来后真相大白。第三支故事中，她又与普里德里一同消失在魔法囚禁之中，最终获释。'},{title:'象征与辨识',text:'缓缓前行却追不上的白马、宫门与背负旅人的惩罚最能辨识里安农。她的神鸟见于相关威尔士文本，歌声可影响生者与死者，但并非每段叙事都出现。'},{title:'流传与文化语境',text:'里安农属于威尔士语文学传统，不能当作爱尔兰诸神家族的一员。与高卢埃波娜或古代马崇拜的联系属于比较研究，文本中的婚姻选择、诬告和尊严同样值得重视。'}],en:{name:'Rhiannon',title:'Welsh figure of dignity, ordeal, and restoration',tags:['Wales','Horses','Dignity'],sections:[{title:'Identity and origins',text:'Rhiannon is a central woman in the Welsh Four Branches of the Mabinogi, first encountered in the story of Pwyll, lord of Dyfed. She marries him and bears Pryderi. Although clearly extraordinary, the surviving narrative does not present a systematic divine genealogy or explicitly label her a horse goddess.'},{title:'Key narratives',text:'Pwyll cannot catch Rhiannon’s slowly moving white horse until he asks her to stop. After their marriage, her infant disappears and attendants frame her for his death. She must offer to carry visitors at the gate until the recovered child clears her name. Later, she and Pryderi disappear into magical captivity before eventual release.'},{title:'Symbols and attributes',text:'The uncatchable white horse, palace gateway, and humiliating burden of visitors identify Rhiannon. Her birds appear in related Welsh literature, with song affecting living and dead, but do not accompany every episode of her story.'},{title:'Tradition and context',text:'Rhiannon belongs to Welsh language literature, not an Irish divine family. Proposed connections with Gaulish Epona or ancient horse cults remain comparative interpretations. Her decisions about marriage, wrongful accusation, endurance, and restored dignity also deserve attention on their own narrative terms.'}]}},
+{id:'egypt-ra',myth:'egypt',name:'拉',title:'太阳航行与宇宙更新的创造神',tags:['太阳','创造','更新'],sections:[{title:'身份与来历',text:'拉是古埃及重要太阳神，在赫利奥波利斯创造传统中具有核心地位，并与阿图姆、凯普利等太阳形态相连。他可以体现白昼运行的太阳，也与王权及宇宙秩序相联系；不同时代和城市存在多种融合名称。'},{title:'主要叙事',text:'拉乘太阳船穿越白昼天空，夜间进入地下世界，与危及秩序的巨蛇阿波菲斯对抗，翌晨重新升起。《天牛之书》又叙述人类反叛后，拉派出自己的眼惩罚他们；杀戮几乎失控，他以染红的啤酒让女神醉倒，终于停止对人类的毁灭。'},{title:'象征与辨识',text:'隼首人身、头顶日轮及环绕日轮的圣蛇是常见形象，太阳船显示周期航行。与凯普利融合时可出现圣甲虫，与阿图姆或其他神结合时形象又有所变化。'},{title:'流传与文化语境',text:'金字塔铭文、棺椁铭文和王陵地下世界图像不断发展太阳更新观念。阿蒙拉等复合神名并不意味着旧神被简单取代，而是埃及神学将不同神力组织在一起的方式。'}],en:{name:'Ra',title:'Solar creator and voyager of cosmic renewal',tags:['Sun','Creation','Renewal'],sections:[{title:'Identity and origins',text:'Ra is a major Egyptian solar god, central to creation traditions at Heliopolis and closely associated with Atum and Khepri. He embodies the sun’s movement, kingship, and cosmic order. Different periods and religious centres combined his identity with other gods in several complementary forms.'},{title:'Key narratives',text:'Ra travels across the daylight sky in a solar boat, then passes through the underworld at night, resisting the serpent Apophis before rising again. In the Book of the Heavenly Cow, rebellious humans provoke his destructive Eye. When punishment threatens extermination, red coloured beer intoxicates the goddess and brings the slaughter to an end.'},{title:'Symbols and attributes',text:'A falcon headed man wearing a sun disk and protective cobra commonly represents Ra. The solar boat emphasises cyclical travel. Scarab imagery evokes Khepri, while composite identities can introduce further shapes and divine attributes.'},{title:'Tradition and context',text:'Pyramid Texts, Coffin Texts, and royal tomb compositions elaborate solar renewal across centuries. Composite names such as Amun Ra do not simply record one god replacing another; they express Egyptian theological strategies for joining divine powers while preserving multiple local traditions.'}]}},
+{id:'egypt-osiris',myth:'egypt',name:'奥西里斯',title:'亡者王权、复生与丰饶之神',tags:['冥界','复生','王权'],sections:[{title:'身份与来历',text:'奥西里斯通常是盖布与努特之子，伊西斯的兄弟及丈夫、荷鲁斯的父亲，在亡者领域拥有王者地位。他与土地丰饶、合法继承及死后更新相关；故事散见不同年代文本，完整连贯版本多由较晚作者整理。'},{title:'主要叙事',text:'塞特杀害奥西里斯，伊西斯寻找遗体，并与奈芙蒂斯及阿努比斯等帮助者完成哀悼与保存。某些版本还叙述尸体被分割、各部分重新聚合。伊西斯使丈夫恢复生殖能力并孕育荷鲁斯，但奥西里斯并未回到阳世为王，而是成为冥界的统治者。'},{title:'象征与辨识',text:'木乃伊式裹身、阿泰夫冠、牧杖与连枷是主要标志，绿色或黑色皮肤关联再生和沃土。杰德柱常与他的稳定、脊柱及重建生命的观念相联系。'},{title:'流传与文化语境',text:'阿拜多斯的节庆与朝拜使亡者同奥西里斯的关系格外重要，陪葬文本也常称死者为某某奥西里斯。这是仪式性的身份结合，不意味着所有埃及人拥有完全一致的来世观。'}],en:{name:'Osiris',title:'King of the dead and power of regeneration',tags:['Underworld','Regeneration','Kingship'],sections:[{title:'Identity and origins',text:'Osiris is usually the son of Geb and Nut, brother and husband of Isis, and father of Horus. His authority encompasses the dead, fertility, legitimate succession, and renewal. Accounts survive across many periods; later authors organise scattered traditions into more continuous narrative biographies.'},{title:'Key narratives',text:'Seth murders Osiris, and Isis searches for his body. With Nephthys, Anubis, and other helpers, she mourns and preserves him. Some versions describe dismemberment followed by reassembly. Isis restores his reproductive capacity and conceives Horus, but Osiris does not resume earthly government: he becomes ruler in the realm of the dead.'},{title:'Symbols and attributes',text:'A wrapped body, atef crown, crook, and flail identify Osiris. Green or black skin suggests regeneration and fertile soil. The djed pillar connects with stability, his backbone, and the restoration of enduring life.'},{title:'Tradition and context',text:'Festivals and pilgrimage at Abydos strengthened identification between deceased people and Osiris. Funerary texts often call an individual the Osiris followed by their name. This ritual assimilation should not be mistaken for evidence of one perfectly uniform Egyptian belief about death.'}]}},
+{id:'egypt-isis',myth:'egypt',name:'伊西斯',title:'魔法、王权与母性保护的女神',tags:['魔法','母性','王权'],sections:[{title:'身份与来历',text:'伊西斯是盖布与努特之女，奥西里斯的姐妹及妻子、荷鲁斯的母亲。她以有效的魔法、忠诚的哀悼和保护继承者而著称，名字及早期冠饰与王座相连，显示母性和王权从一开始便密不可分。'},{title:'主要叙事',text:'伊西斯寻找并守护被塞特杀害的丈夫，借助魔法孕育荷鲁斯，又在沼泽隐居抚养孩子，防范蛇蝎与仇敌。另一故事中，她以拉的唾液和泥土造出毒蛇，使太阳神中毒；她要求得知他的秘密真名才肯医治，从而取得更强的神圣知识。'},{title:'象征与辨识',text:'王座形冠饰最能提示早期伊西斯，后期常戴牛角夹日轮，容易与哈托尔混淆。展开双翼、哺乳荷鲁斯和手持生命符的形象，都表现她对生命与王位的保护。'},{title:'流传与文化语境',text:'伊西斯崇拜在希腊罗马时代遍及地中海，菲莱神庙则长期维持埃及祭仪。跨文化传播带来新的仪式和诠释，不应把后期普世女神形象直接当作所有早期传统的原貌。'}],en:{name:'Isis',title:'Goddess of magic, protective motherhood, and kingship',tags:['Magic','Motherhood','Kingship'],sections:[{title:'Identity and origins',text:'Isis is the daughter of Geb and Nut, sister and wife of Osiris, and mother of Horus. Powerful magic, effective mourning, and protection of the royal heir define her roles. Her name and early throne shaped crown connect motherhood with legitimate authority from the outset.'},{title:'Key narratives',text:'Isis searches for her murdered husband and uses magic to conceive Horus, whom she raises secretly in marshes while protecting him from poison and enemies. Another narrative has her fashion a snake from Ra’s saliva and earth. After it poisons him, she demands his hidden name before providing the cure and gaining secret knowledge.'},{title:'Symbols and attributes',text:'The throne shaped crown identifies early Isis. Later she often wears cow horns surrounding a solar disk, resembling Hathor. Outstretched wings, nursing Horus, and the ankh express protection of life, the deceased, and legitimate succession.'},{title:'Tradition and context',text:'Isis worship spread widely across the Mediterranean under Greek and Roman rule, while Philae maintained Egyptian ritual traditions. Cross cultural expansion brought fresh interpretations and ceremonies; the later universal goddess should not be projected unchanged onto every earlier Egyptian religious setting.'}]}},
+{id:'egypt-horus',myth:'egypt',name:'荷鲁斯',title:'天空、王位继承与王者保护之神',tags:['天空','王权','保护'],sections:[{title:'身份与来历',text:'荷鲁斯是埃及隼形神祇的重要名称，包含不同地方与神学形态，不能全部化约成单一人物。作为伊西斯与奥西里斯之子，他争取父亲王位；作为天空之神和王者标识，他又拥有更广泛且古老的政治意义。'},{title:'主要叙事',text:'《荷鲁斯与塞特的争讼》描写两神为王位展开漫长诉讼与较量，众神会议反复裁决，伊西斯也以计谋协助儿子。荷鲁斯在冲突中眼睛受伤，后获修复；最终他被确认为合法继承者，奥西里斯则在亡者领域保持权威，王权秩序由此重新确立。'},{title:'象征与辨识',text:'隼鸟、隼首人身和上下埃及双冠是主要标志，乌加特眼强调恢复与完整。幼年荷鲁斯常以手指近嘴的儿童形象出现，这在埃及图像中表示幼年而非命令噤声。'},{title:'流传与文化语境',text:'法老使用荷鲁斯名表达王者身份，埃德富神庙则保存丰富的地方仪式传统。希腊罗马时代的哈耳波克拉底来自幼年形态，其后来的沉默寓意不宜倒推为原始埃及含义。'}],en:{name:'Horus',title:'Falcon god of sky, succession, and royal protection',tags:['Sky','Kingship','Protection'],sections:[{title:'Identity and origins',text:'Horus names several related Egyptian falcon deities and local theological forms rather than one entirely uniform personality. As the child of Isis and Osiris he claims his father’s throne. As a sky god and royal emblem, he also carries older and broader political meanings.'},{title:'Key narratives',text:'The Contendings of Horus and Seth describes prolonged litigation, contests, and repeated deliberations over legitimate succession, with Isis assisting her son through strategy. Horus suffers injury to his eye, which is restored. His eventual recognition as heir renews earthly kingship, while Osiris retains authority among the dead in a complementary arrangement.'},{title:'Symbols and attributes',text:'A falcon, falcon headed man, and double crown identify royal Horus. The wedjat eye signifies restoration and wholeness. Child Horus often holds a finger near his mouth, an Egyptian indication of childhood rather than enforced silence.'},{title:'Tradition and context',text:'Pharaohs used a Horus name to express royal identity, while Edfu preserved elaborate local ceremonies. The Greek and Roman Harpocrates derives from child Horus; later interpretations linking him with silence should not be projected back as the original Egyptian meaning.'}]}},
+{id:'egypt-seth',myth:'egypt',name:'塞特',title:'风暴、边疆与危险力量之神',tags:['风暴','边疆','冲突'],sections:[{title:'身份与来历',text:'塞特是盖布与努特之子，奥西里斯、伊西斯和奈芙蒂斯的兄弟，关联沙漠、风暴、外国地域与难以控制的力量。他在不同年代既可受王室尊奉，也可遭到贬抑，并不是自始至终都等同绝对邪恶的单一魔神。'},{title:'主要叙事',text:'塞特杀死奥西里斯并与荷鲁斯争夺王位，是王权叙事中的破坏者；他在审判、变形比赛和暴力冲突中反复挑战继承秩序。然而太阳船传统也让他站在拉身旁，凭强力刺击阿波菲斯，抵御足以吞没太阳的混沌之蛇，显示危险力量能够转为守护。'},{title:'象征与辨识',text:'长而弯曲的口鼻、竖起且顶部方截的耳朵和分叉尾巴组成所谓塞特兽，其具体动物原型仍有争议。长矛及太阳船上的战斗场景，可突出他作为护卫的一面。'},{title:'流传与文化语境',text:'拉美西斯时代王名塞提表明塞特曾享有王室敬意，较晚时期又出现系统性排斥。把他简单对应撒旦，会遮蔽埃及人对于力量、边疆与秩序相互依赖的复杂理解。'}],en:{name:'Seth',title:'God of storms, frontiers, and dangerous power',tags:['Storms','Frontiers','Conflict'],sections:[{title:'Identity and origins',text:'Seth is the son of Geb and Nut and brother of Osiris, Isis, and Nephthys. Associated with desert, storms, foreign regions, and disruptive strength, he received royal honour in some periods and condemnation in others. He was not consistently an embodiment of absolute evil.'},{title:'Key narratives',text:'Seth murders Osiris and contests Horus’s inheritance through trials, transformations, and violent encounters. Yet solar traditions also place him beside Ra, wielding a spear against Apophis, the serpent threatening the sun’s passage. The same dangerous strength that disrupts succession can therefore defend the cosmos against a still more fundamental destructive force.'},{title:'Symbols and attributes',text:'The Seth animal has an elongated curved snout, tall squared ears, and a forked tail; its zoological identity remains debated. A spear and combat aboard the solar boat can emphasise his protective rather than murderous role.'},{title:'Tradition and context',text:'Royal names such as Seti show Seth’s prestige during the Ramesside period, whereas later evidence includes systematic rejection. Equating him with Satan obscures changing historical attitudes and Egyptian ideas about the uneasy dependence of ordered life on dangerous, boundary crossing powers.'}]}},
+{id:'egypt-anubis',myth:'egypt',name:'阿努比斯',title:'遗体保存、墓地与审判的守护者',tags:['防腐','墓地','审判'],sections:[{title:'身份与来历',text:'阿努比斯是埃及犬科形象的丧葬神，守护遗体处理、墓地和通往亡者世界的过程。他的父母谱系因时代而异，较晚故事常说他是奈芙蒂斯与奥西里斯之子；早期宗教地位则不能完全从这一家族故事解释。'},{title:'主要叙事',text:'在奥西里斯传统中，阿努比斯帮助保存和包裹死去神王的遗体，成为理想防腐程序的神圣典范。《亡灵书》的审判图像中，他引领死者来到天平，并检查称量是否正确：心脏与玛阿特之羽相衡，托特记录结果，奥西里斯主持最终的接纳。'},{title:'象征与辨识',text:'黑色犬科头、人身与墓上俯卧的犬是主要形态，黑色关联沃土和再生而非自然毛色。防腐器具、木乃伊台与天平，也帮助区分他与其他犬科形象的神祇。'},{title:'流传与文化语境',text:'祭司在丧葬仪式中可扮演阿努比斯角色，开口仪式则帮助死者恢复感官功能。他不是把人判入现代意义地狱的恶魔，图像重点在保存、引导和审判程序的可靠执行。'}],en:{name:'Anubis',title:'Guardian of embalming, cemeteries, and judgement',tags:['Embalming','Cemeteries','Judgement'],sections:[{title:'Identity and origins',text:'Anubis is an Egyptian canine funerary god who protects bodily preservation, cemeteries, and passage into the world of the dead. His parentage varies; later accounts often name Nephthys and Osiris. His early religious importance cannot be explained solely through that later family narrative.'},{title:'Key narratives',text:'In Osirian traditions, Anubis helps preserve and wrap the murdered king, establishing a divine model for embalming. Judgement scenes in the Book of the Dead show him leading the deceased and attending the scales. The heart balances against Maat’s feather, Thoth records the outcome, and Osiris presides over admission among the justified.'},{title:'Symbols and attributes',text:'A black canine head on a human body, or a recumbent canine above a shrine, identifies Anubis. Black evokes fertile soil and regeneration. Embalming equipment, a mummy couch, and scales further clarify his funerary functions.'},{title:'Tradition and context',text:'Funerary priests could enact Anubis’s role, while the Opening of the Mouth restored capacities needed after death. He is not a demon assigning people to a modern hell: preservation, guidance, and correct judicial procedure are central to his religious character.'}]}},
+{id:'mesopotamia-anu',myth:'mesopotamia',name:'安努',title:'天空权威与神圣等级的源头',tags:['天空','权威','乌鲁克'],sections:[{title:'身份与来历',text:'安努是阿卡德语传统的天空神，对应苏美尔语的安，处于两河诸神等级的重要高位。他与乌鲁克及埃安纳圣域关系密切，常被尊为诸神之父；不同城市的神谱和创世解释并不完全一致，配偶与子女也随文献而变。'},{title:'主要叙事',text:'《吉尔伽美什史诗》中，伊什塔尔求爱被拒后，向安努索取天牛报复乌鲁克；他起初担忧饥荒，最终仍让天牛降临。在《阿达帕》故事中，他召见凡人智者，并提供生命之食与水，但阿达帕听从埃亚的警告而拒绝，从此错失超越凡人命运的机会。'},{title:'象征与辨识',text:'角冠是神性权威的常见标志，安努也可由置于神座的冠饰象征，未必出现完整人形。天空意象与高位神座固然有关，但单凭星形符号不能可靠识别其专属身份。'},{title:'流传与文化语境',text:'苏美尔、阿卡德及后期巴比伦材料呈现不同面貌，晚期乌鲁克尤其发展安努崇拜。神谱中的最高地位并不自动代表每座城市或每个时代都以他为最主要的日常祭祀对象。'}],en:{name:'Anu',title:'Source of heavenly authority and divine rank',tags:['Sky','Authority','Uruk'],sections:[{title:'Identity and origins',text:'Anu is the Akkadian sky god corresponding to Sumerian An, occupying a high position in Mesopotamian divine hierarchies. Closely associated with Uruk and its Eanna sanctuary, he is often called father of the gods. Genealogies, partners, and creation schemes nevertheless differ across cities and texts.'},{title:'Key narratives',text:'In the Epic of Gilgamesh, Ishtar demands the Bull of Heaven after the hero rejects her. Anu initially raises concerns about famine but eventually releases it against Uruk. In Adapa’s story, he offers the summoned sage life giving food and water; following Ea’s warning, Adapa refuses and loses a chance to escape mortality.'},{title:'Symbols and attributes',text:'A horned crown expresses divine authority, and Anu can be represented by a crown placed upon a throne rather than a complete human figure. Neither generic stars nor elevated seating alone securely establish his exclusive identity.'},{title:'Tradition and context',text:'Sumerian, Akkadian, and later Babylonian sources reveal changing emphases, with an especially developed Anu cult in late Uruk. Supreme genealogical rank does not automatically mean that every Mesopotamian city or period treated him as its principal recipient of everyday worship.'}]}},
+{id:'mesopotamia-enlil',myth:'mesopotamia',name:'恩利尔',title:'神圣命令、王权与天地秩序之主',tags:['权威','命运','尼普尔'],sections:[{title:'身份与来历',text:'恩利尔是苏美尔传统中的核心大神，圣城为尼普尔，主要神庙称埃库尔，配偶为宁利尔。他关联神圣命令、命运裁定及王权的合法性，名字虽常被释为风之主，其宗教职能却远不止自然风暴这一层面。'},{title:'主要叙事',text:'《安祖》故事中，怪鸟夺走恩利尔掌握的命运之版，使神界权威陷入危机，最终由战神宁努尔塔击败盗贼、恢复秩序。《阿特拉哈西斯》则写人类喧扰令恩利尔不堪忍受，他接连降灾并决定洪水灭世，埃亚却帮助智者造船，使生命得以延续。'},{title:'象征与辨识',text:'角冠、庄严神座以及埃库尔神庙的山岳意象可提示恩利尔的权威，命运之版强调号令的效力。两河图像常共享神性标记，缺乏题铭时不宜把任何持杖大神都认作他。'},{title:'流传与文化语境',text:'尼普尔长期具有跨城邦宗教威望，君王通过修庙和奉献争取恩利尔认可。巴比伦崛起后，部分主权观念转移到马尔杜克，并不意味着早期恩利尔传统立即消失或全然相同。'}],en:{name:'Enlil',title:'Lord of divine decree, kingship, and ordered authority',tags:['Authority','Destiny','Nippur'],sections:[{title:'Identity and origins',text:'Enlil is a central Sumerian god whose chief sanctuary, Ekur, stood at Nippur. His spouse is Ninlil. He governs binding divine commands, decisions about destiny, and legitimate kingship. Although his name is often rendered Lord Wind, his religious importance extends well beyond a meteorological function.'},{title:'Key narratives',text:'In the Anzu narrative, a monstrous bird steals the Tablet of Destinies associated with Enlil’s authority, threatening divine government until Ninurta defeats it and restores order. In Atrahasis, human noise provokes Enlil to send successive disasters and finally a flood. Ea’s intervention enables a wise human to build a boat and preserve life.'},{title:'Symbols and attributes',text:'Horned crowns, an imposing throne, and Ekur’s mountain imagery express Enlil’s authority. The Tablet of Destinies embodies effective command. Since Mesopotamian gods share many visual markers, an unnamed enthroned figure cannot automatically be identified as Enlil.'},{title:'Tradition and context',text:'Nippur retained religious prestige across competing political centres, and rulers sought Enlil’s approval through temple patronage. Babylon’s rise transferred some sovereign language to Marduk, but this development did not instantly erase Enlil’s cult or make the two gods historically interchangeable.'}]}},
+{id:'mesopotamia-enki',myth:'mesopotamia',name:'恩基',title:'地下淡水、智慧与文明技艺之主',tags:['淡水','智慧','技艺'],sections:[{title:'身份与来历',text:'恩基是苏美尔神祇，阿卡德语传统称埃亚，圣城为埃里都，主要神庙与地下淡水阿勃祖相连。他关联智慧、工艺、净化和生命创造，常凭机巧调解冲突；神谱中通常是安之子，但不同文本并无完全一致的家族安排。'},{title:'主要叙事',text:'《伊南娜与恩基》中，恩基宴饮时将文明的神圣权能赠给伊南娜，酒醒后派使者追索，却未能阻止她把这些力量运到乌鲁克。洪水传统中，埃亚绕开诸神保密誓言，对芦苇墙发出警告，让阿特拉哈西斯或乌特纳比什提姆得知灾难，并造船保存生命。'},{title:'象征与辨识',text:'肩头流出的水及水中游鱼是恩基埃亚图像的重要线索，角冠显示其神格。羊鱼混合动物和曲杖也与他有关，流动水源尤能表达地下淡水与生命供应的关系。'},{title:'流传与文化语境',text:'埃里都传统使恩基与古老城市文明相连，咒语、医治和净化文献又强调埃亚的知识。他的帮助常以间接表达和权宜手段实现，不宜概括为始终反对诸神的现代人类主义者。'}],en:{name:'Enki',title:'Lord of fresh water, wisdom, and civilisation’s skills',tags:['Freshwater','Wisdom','Crafts'],sections:[{title:'Identity and origins',text:'Enki, called Ea in Akkadian tradition, is the god of Eridu and the subterranean freshwater Apsu. Associated with wisdom, craftsmanship, purification, and the making of life, he often resolves crises through ingenuity. He is commonly An’s son, although divine family arrangements differ between texts.'},{title:'Key narratives',text:'In Inanna and Enki, the god gives away civilisation’s sacred powers during a drinking feast. After recovering his judgement, he attempts unsuccessfully to retrieve them from Inanna’s journey to Uruk. In flood traditions, Ea addresses a reed wall to evade divine secrecy, allowing Atrahasis or Utnapishtim to learn the warning and construct a survival vessel.'},{title:'Symbols and attributes',text:'Streams flowing from his shoulders, often containing fish, are important visual clues, alongside the divine horned crown. The goat fish and curved staff also belong to his imagery, linking fresh water, skilled provision, and living abundance.'},{title:'Tradition and context',text:'Eridu traditions associate Enki with ancient urban civilisation, while incantations and healing texts stress Ea’s expert knowledge. His aid often relies on indirect speech and expedient compromise; he should not be simplified into a modern humanist consistently opposing every other god.'}]}},
+{id:'mesopotamia-inanna',myth:'mesopotamia',name:'伊南娜',title:'爱欲、战争与权力转换的女神',tags:['爱欲','战争','金星'],sections:[{title:'身份与来历',text:'伊南娜是苏美尔的重要女神，与阿卡德伊什塔尔逐渐认同，关联爱欲、战争、王权与金星，乌鲁克埃安纳是其重要圣域。她常被说成月神南纳之女，但另有安之女等谱系，不能强行统一不同城市的神学传统。'},{title:'主要叙事',text:'伊南娜进入姐姐埃列什基伽勒统治的冥界，经过七道门时逐一除去衣饰与权能，最终被杀并悬挂。恩基派出的使者使她复生，但离开必须提供替身；她选中未为自己哀悼的杜穆兹，随后又与其姐妹格什提南娜分担冥界停留，形成复杂的替代安排。'},{title:'象征与辨识',text:'八芒星、狮子和武器是常见标志，某些图像以肩部伸出的兵器强调战争力量。金星晨昏可见的变化支持其多面性，但著名裸身浮雕的具体身份仍须谨慎判断。'},{title:'流传与文化语境',text:'苏美尔赞歌、阿卡德史诗与各地祭仪保留不同面貌，诗人恩赫杜安娜作品传统尤其重要。现代常以性或赋权概括她，却不应忽视其暴烈权威、政治关系和地方宗教差异。'}],en:{name:'Inanna',title:'Goddess of desire, warfare, and changing power',tags:['Desire','War','Venus'],sections:[{title:'Identity and origins',text:'Inanna is a major Sumerian goddess increasingly identified with Akkadian Ishtar, associated with desire, warfare, kingship, and Venus. Uruk’s Eanna was an important sanctuary. Often called daughter of the moon god Nanna, she has other genealogies, reflecting different local theological traditions rather than one fixed biography.'},{title:'Key narratives',text:'Descending into her sister Ereshkigal’s underworld, Inanna passes seven gates and loses her clothing and powers before being killed and hung up. Enki sends helpers who restore her, but departure requires a substitute. She selects Dumuzi, who has not mourned her; an arrangement later divides underworld residence between him and his sister Geshtinanna.'},{title:'Symbols and attributes',text:'The eight pointed star, lions, and weapons commonly identify her. Arms emerging from the shoulders emphasise martial force. Venus’s changing visibility supports multiple associations, but famous nude reliefs should not all be assigned to her without qualification.'},{title:'Tradition and context',text:'Sumerian hymns, Akkadian narratives, and local rituals preserve different aspects, with the literary tradition associated with Enheduanna especially significant. Modern emphases on sexuality or empowerment should not obscure political patronage, violent authority, and substantial variation across her long religious history.'}]}},
+{id:'mesopotamia-marduk',myth:'mesopotamia',name:'马尔杜克',title:'巴比伦城神与宇宙王权的承担者',tags:['巴比伦','创造','王权'],sections:[{title:'身份与来历',text:'马尔杜克是巴比伦的城神，通常称埃亚与达姆金娜之子，主要神庙为埃萨吉拉，配偶为萨尔帕尼图。他的地位随巴比伦政治影响上升，逐渐取得众神领袖称号；这种历史发展不应被理解成两河宗教从来只有一个最高神。'},{title:'主要叙事',text:'《埃努玛埃利什》中，马尔杜克答应对抗提亚马特，条件是诸神授予最高权威。他用网与狂风制敌，再以箭射穿其身体，将遗体分为天地，并安排星辰历法。随后人类由金古之血被创造，以承担劳役；诸神则建造巴比伦，确认新王的地位。'},{title:'象征与辨识',text:'锹形器具、穆什胡舒龙及王者姿态是主要线索，龙具有混合动物的角、鳞与爪。并非所有持弓战龙图像都能无争议认作马尔杜克，出土地点与题铭仍很关键。'},{title:'流传与文化语境',text:'巴比伦新年阿基图节与王权更新相连，创世史诗在部分节庆程序中诵读。诗篇赞颂宇宙秩序也服务城市威望，应与苏美尔较早传统和亚述改写版本分别看待。'}],en:{name:'Marduk',title:'Patron of Babylon and bearer of cosmic kingship',tags:['Babylon','Creation','Kingship'],sections:[{title:'Identity and origins',text:'Marduk is Babylon’s patron god, usually son of Ea and Damkina, with Sarpanitum as his consort and Esagila as his chief temple. His supremacy developed alongside Babylon’s political influence. This historical ascent should not imply that Mesopotamian religion always recognised one unchanging supreme deity.'},{title:'Key narratives',text:'In Enuma Elish, Marduk agrees to confront Tiamat if the gods grant him supreme authority. Using a net, winds, and an arrow, he defeats her and divides her body into cosmic regions, arranging stars and calendars. Humanity is fashioned from Kingu’s blood to perform labour, while the gods establish Babylon and acclaim their ruler.'},{title:'Symbols and attributes',text:'The spade shaped implement, the hybrid mushhushshu dragon, and royal bearing help identify Marduk. The dragon combines horns, scales, and claws. Not every archer confronting a monster can securely be named Marduk without supporting inscriptions or context.'},{title:'Tradition and context',text:'Babylon’s Akitu New Year festival renewed kingship, and the creation epic was recited within some festival procedures. Its cosmic vision also promoted civic prestige. Earlier Sumerian traditions and Assyrian adaptations require separate consideration rather than being treated as identical versions.'}]}},
+{id:'mesopotamia-gilgamesh',myth:'mesopotamia',name:'吉尔伽美什',title:'乌鲁克英雄王与死亡的追问者',tags:['英雄','友谊','死亡'],sections:[{title:'身份与来历',text:'吉尔伽美什是乌鲁克的传奇君王，苏美尔王表及史诗传统均提到他，母亲为女神宁孙。标准巴比伦史诗称他三分之二为神、三分之一为人；早期统治者可能有历史基础，但不能将整部史诗当作其真实传记。'},{title:'主要叙事',text:'吉尔伽美什与恩奇都由对手成为挚友，共赴雪松林杀死洪巴巴，又击败天牛。恩奇都死亡使他恐惧自身命运，于是远行寻访洪水幸存者乌特纳比什提姆。他未能通过不眠考验，取得的返老还童植物又被蛇偷走，最终回到乌鲁克，面对城墙与凡人有限的一生。'},{title:'象征与辨识',text:'乌鲁克城墙、雪松、狮子、旅途衣装和失去的生命植物可提示其故事。美索不达米亚常见的裸身卷发英雄并不都能确定是他，古代图像题名不足时应保留疑问。'},{title:'流传与文化语境',text:'苏美尔独立故事、古巴比伦片段和标准巴比伦版本逐步形成复杂传统，泥版抄写跨越多个世纪。史诗的核心并非获得永生的成功，而是友谊、哀悼与对死亡界限的认识。'}],en:{name:'Gilgamesh',title:'Hero king of Uruk and seeker of mortality’s meaning',tags:['Heroism','Friendship','Mortality'],sections:[{title:'Identity and origins',text:'Gilgamesh is the legendary king of Uruk, appearing in the Sumerian King List and several narrative traditions. His mother is the goddess Ninsun, and the standard epic calls him two thirds divine. A possible historical ruler does not make the surviving poem a factual personal biography.'},{title:'Key narratives',text:'Gilgamesh and Enkidu become companions, kill Humbaba in the Cedar Forest, and defeat the Bull of Heaven. Enkidu’s death drives the king to seek the flood survivor Utnapishtim. He fails a test of wakefulness, then loses a rejuvenating plant to a snake. Returning to Uruk, he confronts the city’s walls and the limits of mortal achievement.'},{title:'Symbols and attributes',text:'Uruk’s walls, cedar trees, lions, travelling clothes, and the lost plant evoke his journey. Mesopotamian images of a naked curly haired hero cannot all securely be identified as Gilgamesh when inscriptions or narrative context are missing.'},{title:'Tradition and context',text:'Independent Sumerian tales, Old Babylonian fragments, and the Standard Babylonian epic form a layered tradition transmitted over centuries. The poem does not celebrate successful immortality; it investigates companionship, bereavement, human accomplishment, and the difficult recognition that every human life ends.'}]}},
+{id:'persia-ahura-mazda',myth:'persia',name:'阿胡拉·马兹达',title:'祆教活态信仰中的智慧之主',tags:['祆教','智慧','善序'],sections:[{title:'身份与来历',text:'阿胡拉马兹达意为智慧之主，是祆教信仰的核心，关联创造、真理与善的秩序阿沙。《伽萨》、较晚《阿维斯塔》及中古波斯文献的神学表述并非完全一致；祆教至今仍有信众，不能仅当作已经消失的神话体系。'},{title:'主要叙事',text:'在琐罗亚斯德相关传统中，阿胡拉马兹达向先知启示善思、善言与善行的重要性，要求人对真理和谎言作出选择。中古波斯《本达希申》又叙述他以奥尔马兹德之名安排有限的宇宙时间，面对恶灵入侵，最终通过世界更新克服死亡与污染。'},{title:'象征与辨识',text:'火与光可象征洁净和真理，但祆教徒并非将普通火焰当作造物主。阿契美尼德翼盘人物是否直接代表阿胡拉马兹达仍有学术争论，不应把所有翼盘都作确定神像。'},{title:'流传与文化语境',text:'伊朗与印度帕西社群持续保存祈祷、祭仪和节庆，彼此传统也有差异。介绍此神应区分古代王室铭文、经典神学及当代实践，并尊重信徒对宗教名称和神圣形象的使用。'}],en:{name:'Ahura Mazda',title:'Wise Lord at the heart of living Zoroastrian faith',tags:['Zoroastrianism','Wisdom','Truth'],sections:[{title:'Identity and origins',text:'Ahura Mazda means Wise Lord and stands at the centre of Zoroastrian faith, associated with creation, truth, and asha, righteous order. The Gathas, later Avestan texts, and Middle Persian works articulate theology differently. Zoroastrianism remains a living religion, not merely an extinct collection of myths.'},{title:'Key narratives',text:'Traditions concerning Zarathustra present Ahura Mazda as revealing the importance of good thoughts, words, and deeds and responsible choice between truth and deceit. The Middle Persian Bundahishn describes Ohrmazd arranging a limited cosmic span against the destructive spirit’s intrusion. Ultimately, renovation overcomes death and pollution, fulfilling creation’s intended good condition rather than abandoning the material world.'},{title:'Symbols and attributes',text:'Fire and light express purity and truth, but worshippers do not simply identify ordinary flames with the creator. Scholars debate whether Achaemenid winged figures directly portray Ahura Mazda; every winged disk should not be labelled his image.'},{title:'Tradition and context',text:'Iranian and Indian Parsi communities maintain prayers, rituals, and festivals with internal diversity. Ancient royal inscriptions, scriptural theology, and contemporary practice require distinction. Religious names, sacred images, and believers’ own understandings should be treated with care and respect.'}]}},
+{id:'persia-angra-mainyu',myth:'persia',name:'安格拉·曼纽',title:'祆教传统中毁灭与谎言的恶灵',tags:['祆教','毁灭','谎言'],sections:[{title:'身份与来历',text:'安格拉曼纽意为敌对或毁灭的灵，中古波斯语常称阿赫里曼，在祆教传统中关联谎言、污染和破坏。早期经典与后期宇宙论对其地位的说明存在差异，不能一概说成与阿胡拉马兹达永远势均力敌的第二位神。'},{title:'主要叙事',text:'《维迪夫达特》以善地及恶性反制的结构描述破坏力量，对创造带来寒冷、疾病等灾害。中古波斯宇宙论又叙述恶灵侵入受造世界，使死亡和污染进入生命，但它的行动受有限时间约束，最终在世界更新时失效，受造物得以脱离混杂的状态。'},{title:'象征与辨识',text:'黑暗、腐败和有害生物属于相关的象征语言，而非一套统一的恶灵肖像。近代带角、蝠翼的魔王造型多受其他文化影响，不能作为阿维斯塔时代的可靠识别标记。'},{title:'流传与文化语境',text:'祆教内部对恶的本体地位与早期经文的解释并不单一，古典外部记述也常带偏见。应将宗教伦理、仪式洁净和后期神学区分，避免把活态信仰简化为崇拜善恶两神。'}],en:{name:'Angra Mainyu',title:'Destructive spirit of deceit and corruption',tags:['Zoroastrianism','Destruction','Deceit'],sections:[{title:'Identity and origins',text:'Angra Mainyu means Hostile or Destructive Spirit, later called Ahriman in Middle Persian. Associated with deceit, pollution, and damage, this figure receives differing explanations in early scripture and later cosmology. It is misleading to describe him universally as an eternally equal second god beside Ahura Mazda.'},{title:'Key narratives',text:'The Vendidad describes good lands followed by destructive countermeasures, including cold and disease. Middle Persian cosmology recounts the spirit’s invasion of creation, introducing mortality and corruption into a previously good world. Yet its activity is confined within a limited cosmic history; final renovation defeats destructive influence and releases creation from its present mixed condition.'},{title:'Symbols and attributes',text:'Darkness, decay, and harmful creatures belong to associated symbolic language, not a standardised portrait. Horns and bat wings in modern demon imagery often derive from other traditions and are not secure attributes from the Avestan period.'},{title:'Tradition and context',text:'Zoroastrian interpretations of evil’s status and early scriptural passages are not uniform, while outside ancient descriptions can be prejudiced. Ethical choice, ritual purity, and later theological systems need distinction. Living Zoroastrianism should not be reduced to worship of two opposed gods.'}]}},
+{id:'persia-mithra',myth:'persia',name:'密特拉',title:'祆教契约、守望与公正的神圣存在',tags:['祆教','契约','守望'],sections:[{title:'身份与来历',text:'密特拉是伊朗宗教中与契约、承诺和守望相关的神圣存在，在祆教中属于值得敬奉的亚扎塔，而非与阿胡拉马兹达相争的造物主。他的名字与古印度密多罗同源，光明关联也不能直接等于单一太阳神。'},{title:'主要叙事',text:'《密特拉颂》描写他拥有千耳万眼，驾车巡察广阔土地，识破背约者，不因对方属于本国或敌国便宽容欺骗。他在日出之前照察山岭，保护守信者及其牲畜与家园；后期祆教传统又让他与斯劳沙、拉什努共同参与灵魂的审判过程。'},{title:'象征与辨识',text:'广阔视野、战车、武器和光明属于经文中的主要意象，表现对誓言的警戒。罗马密特拉斯屠牛图不能直接当作伊朗密特拉的标准图像，二者之间的历史关系仍需区分。'},{title:'流传与文化语境',text:'密赫尔甘节保留了与密赫尔相关的纪念传统，祆教祈祷也持续提及他。罗马军队及城镇流行的密特拉斯秘仪另有考古与制度背景，不能将两套宗教实践完全合并。'}],en:{name:'Mithra',title:'Zoroastrian guardian of covenants and vigilant justice',tags:['Zoroastrianism','Covenants','Vigilance'],sections:[{title:'Identity and origins',text:'Mithra is an Iranian sacred being associated with covenants, commitments, and watchfulness. In Zoroastrianism he is a yazata, worthy of reverence, not a competing creator. His name is cognate with Vedic Mitra, while his luminous associations do not make him simply identical with the sun.'},{title:'Key narratives',text:'The Mihr Yasht describes Mithra with a thousand ears and ten thousand eyes, surveying broad lands from his chariot and exposing broken agreements. Neither national loyalty nor hostility excuses deceit. He watches mountains before sunrise and protects faithful households and cattle. Later traditions associate him with Sraosha and Rashnu in the judgement of souls.'},{title:'Symbols and attributes',text:'Wide vision, a chariot, weapons, and brightness express his scriptural vigilance over commitments. The Roman bull slaying scene should not automatically serve as Iranian Mithra’s standard image, since the relationship between these traditions requires historical differentiation.'},{title:'Tradition and context',text:'The Mehrgan festival preserves traditions connected with Mihr, and Zoroastrian prayers continue to honour him. Roman Mithraic mysteries had distinct archaeological settings and institutional practices. Shared names and possible contacts do not justify treating Iranian worship and Roman initiation as one identical religion.'}]}},
+{id:'persia-anahita',myth:'persia',name:'阿娜希塔',title:'祆教纯净水源与生命丰饶的守护者',tags:['祆教','水源','丰饶'],sections:[{title:'身份与来历',text:'阿娜希塔常指阿尔德维苏拉阿娜希塔，名号包含强健与无染的意义，是祆教传统中与广大水域、生命繁衍和净化相联的亚扎塔。其经典形象、王室崇奉与地方女神传统相互交织，不能简单等同某位希腊女神。'},{title:'主要叙事',text:'《阿邦颂》将她描写为从高处奔流、滋养大地的神圣水源，同时以华美而强健的女子形象出现。英雄和君王向她献祭，请求胜利、权力或生育，她接受正当祈愿而拒绝某些破坏者。她的马车由四匹马牵引，分别关联风、雨、云和雨夹雪。'},{title:'象征与辨识',text:'奔流的河水、华服、冠饰和四马战车来自经典描述，表达净化与生命供给。萨珊浮雕中女性授环者的身份仍需具体判断，不能把所有持水器女性都确定为阿娜希塔。'},{title:'流传与文化语境',text:'阿契美尼德王室铭文及后期传统显示对她的敬奉，伊朗水源祭仪至今具有宗教意义。所谓阿娜希塔神庙的建筑认定有时存在争议，应区分古代奉献证据与现代遗址命名。'}],en:{name:'Anahita',title:'Guardian of pure waters and life sustaining abundance',tags:['Zoroastrianism','Waters','Fertility'],sections:[{title:'Identity and origins',text:'Anahita commonly denotes Aredvi Sura Anahita, whose titles convey might and freedom from defilement. A Zoroastrian yazata of abundant waters, fertility, and purification, she combines scriptural imagery with royal patronage and local traditions. She should not simply be identified with a single Greek goddess.'},{title:'Key narratives',text:'The Aban Yasht depicts her as a mighty sacred watercourse nourishing the earth and as a richly dressed, powerful woman. Heroes and rulers offer sacrifices seeking victory, authority, or offspring. She grants suitable petitions and rejects some destructive claimants. Her chariot is drawn by four horses associated with wind, rain, cloud, and sleet.'},{title:'Symbols and attributes',text:'Flowing water, elaborate clothing, a crown, and the four horse chariot derive from scriptural descriptions. Female figures offering royal rings in Sasanian reliefs require contextual identification; not every woman holding a vessel can securely be called Anahita.'},{title:'Tradition and context',text:'Achaemenid inscriptions and later sources attest her reverence, while water related observances retain importance in living Iranian religion. Identifying particular ruins as her temples can be disputed. Ancient dedicatory evidence should therefore be distinguished from modern archaeological labels and popular site names.'}]}},
+{id:'persia-jamshid',myth:'persia',name:'贾姆希德',title:'伊朗史诗中黄金时代与失去荣光的君王',tags:['伊朗史诗','王权','荣光'],sections:[{title:'身份与来历',text:'贾姆希德是伊朗传说中的早期君王，在《列王纪》中属于皮什达德王朝，其名字与《阿维斯塔》的伊玛相关。两者跨越不同语言与时代，既有连续性也有改写；他不是祆教造物主，也不能把史诗经历等同经典教义。'},{title:'主要叙事',text:'《列王纪》写贾姆希德发展手工业、社会分工与航行，开创繁荣，并在新年受到欢庆。但他后来把成就归于自身，失去神圣荣光，最终遭扎哈克推翻并杀害。《维迪夫达特》的伊玛则奉命建造围护空间，保存人、动物与植物，以躲过毁灭性的严冬。'},{title:'象征与辨识',text:'王座、王冠、诺鲁孜庆典与神圣荣光可提示其君王形象，保存生命的围护空间属于伊玛传统。传说中洞察世界的宝杯与他相关，但具体归属随波斯文学发展而变化。'},{title:'流传与文化语境',text:'菲尔多西的波斯语《列王纪》在伊斯兰时代重述古代伊朗王统，不能直接当作祆教礼仪手册。诺鲁孜今天跨越宗教与国界流传，贾姆希德只是其多层文化记忆的一部分。'}],en:{name:'Jamshid',title:'Epic king of a golden age and lost royal glory',tags:['Iranian epic','Kingship','Glory'],sections:[{title:'Identity and origins',text:'Jamshid is an early Iranian legendary king placed within the Pishdadian dynasty in the Shahnameh. His name connects with Avestan Yima, but continuity crosses major linguistic and historical changes. He is not a Zoroastrian creator, and his epic biography should not be treated as identical with scriptural teaching.'},{title:'Key narratives',text:'The Shahnameh credits Jamshid with crafts, social organisation, navigation, and flourishing prosperity celebrated at the new year. Pride leads him to claim excessive personal credit, lose royal glory, and fall to Zahhak. In the Vendidad, Yima instead receives instructions to build an enclosure preserving selected humans, animals, and plants against a devastating winter.'},{title:'Symbols and attributes',text:'Throne, crown, Nowruz celebration, and royal glory evoke Jamshid’s kingship. The life preserving enclosure belongs specifically to Yima’s scriptural story. A world revealing cup also becomes associated with him, though its ownership shifts within Persian literary traditions.'},{title:'Tradition and context',text:'Ferdowsi’s Persian Shahnameh retells ancient Iranian kingship within an Islamic era literary setting; it is not a Zoroastrian ritual handbook. Nowruz now crosses religious and national boundaries, and Jamshid forms only one layer within its rich and changing cultural memory.'}]}},
+{id:'persia-rostam',myth:'persia',name:'鲁斯塔姆',title:'《列王纪》中锡斯坦的悲剧英雄',tags:['伊朗史诗','英雄','亲情'],sections:[{title:'身份与来历',text:'鲁斯塔姆是波斯史诗《列王纪》的核心英雄，出自锡斯坦，父亲为扎尔，母亲为鲁达贝。神鸟西摩格曾指导他的艰难出生；他长年保护伊朗王国，却不是祆教中接受礼仪敬奉的亚扎塔，英雄身份与宗教神格应当区分。'},{title:'主要叙事',text:'鲁斯塔姆骑名马拉赫什完成七项艰险任务，击败白魔，拯救凯卡乌斯。最著名的悲剧中，他与未曾相认的儿子苏赫拉布交战，致命一击之后才凭信物发现真相。他后来又被迫与伊斯凡迪亚尔决斗，最终自己遭沙加德设计的陷坑伏杀，临死仍射杀仇人。'},{title:'象征与辨识',text:'名马拉赫什、虎皮衣、重型武器与强壮武士形象最易辨识鲁斯塔姆，儿子的臂环或信物则指向认亲悲剧。波斯细密画常以鲜明服饰和反复出现的坐骑维持其身份连续。'},{title:'流传与文化语境',text:'菲尔多西整理了长期流传的伊朗英雄材料，鲁斯塔姆又在说书、戏剧和细密画中持续重生。他的故事讨论忠诚、王权压力与亲属伤害，不宜归类为所有伊朗人共同实践的宗教教义。'}],en:{name:'Rostam',title:'Tragic champion of Sistan in the Shahnameh',tags:['Iranian epic','Heroism','Kinship'],sections:[{title:'Identity and origins',text:'Rostam is the Shahnameh’s great champion from Sistan, son of Zal and Rudabeh. The supernatural bird Simurgh assists his difficult birth through instructions given to Zal. A defender of Iran’s kings, he is an epic hero, not a Zoroastrian yazata receiving the same category of ritual reverence.'},{title:'Key narratives',text:'With his horse Rakhsh, Rostam survives seven ordeals, defeats the White Div, and rescues Kay Kavus. His greatest tragedy comes when he mortally wounds his unrecognised son Sohrab and identifies him only through a token. He later fights Esfandiyar under political pressure, then dies in Shaghad’s concealed pit, killing the betrayer before his own death.'},{title:'Symbols and attributes',text:'Rakhsh, tiger skin clothing, heavy weapons, and formidable physical strength identify Rostam. A token or armband signals the recognition of Sohrab. Persian miniature painters maintain his identity through distinctive costume and the recurrent appearance of his horse.'},{title:'Tradition and context',text:'Ferdowsi shaped older Iranian heroic materials, while storytelling, theatre, and miniature painting continue to renew Rostam’s career. His narratives explore loyalty, royal coercion, and harm within families. They should not be classified as doctrines religiously practised by all Iranian people.'}]}}
+];
+
+window.FIGURES_AMERICAS=[
+{
+ id:'maya-hunahpu',myth:'maya',name:'胡纳赫普',title:'基切史诗中的猎人与冥界胜者',tags:['英雄双子','球戏','太阳'],
+ sections:[
+  {title:'身份与来历',text:'胡纳赫普是基切玛雅《波波尔·乌》中的英雄双子之一，与伊什巴兰克为兄弟，母亲是伊什基克。父亲胡恩·胡纳赫普遭冥界诸主杀害后，头颅悬在树上；母亲因这颗头颅的唾液受孕，双子的身世因此连结生死两界。'},
+  {title:'主要叙事',text:'双子因打球惊扰西巴尔巴的统治者，循父辈足迹进入冥界，却先派蚊虫探出诸主姓名，识破假座位等圈套。胡纳赫普在蝙蝠屋伸头察看天色而被斩首，兄弟以葫芦暂代头颅，再夺回真头。二人后来主动赴死、变形复生，以表演诱使冥界诸主接受无法逆转的杀戮。'},
+  {title:'象征与辨识',text:'他的核心标志是吹箭筒、球戏与和兄弟协作的机智，而非单纯武力。古典玛雅图像中的某些青年猎手常被拿来与他比较，但不能把所有斑点青年形象都直接认定为同一人物。'},
+  {title:'流传与文化语境',text:'主要叙事见于殖民早期以拉丁字母记录的基切语《波波尔·乌》，不能视为全体玛雅人的统一教典。结尾双子升天，分别关联日月；基切人的讲述与当代阅读仍不断赋予故事新的意义。'}
+ ],
+ en:{name:'Hunahpu',title:'Kʼicheʼ hunter and victor over the underworld',tags:['Hero Twins','Ballgame','Sun'],sections:[
+  {title:'Identity and Origins',text:'Hunahpu is one of the Hero Twins in the Kʼicheʼ Maya Popol Wuj, brother of Xbalanque and son of Xquic. Their father, Hun Hunahpu, was killed by the underworld lords. His severed head, hanging in a tree, impregnated Xquic through spittle, linking the twins to an interrupted paternal history.'},
+  {title:'Principal Narratives',text:'Summoned to Xibalba because of their noisy ballplaying, the twins expose traps through reconnaissance and deception. A bat decapitates Hunahpu when he looks outside the Bat House. Xbalanque temporarily replaces his head with a squash and retrieves the original. Later, their staged deaths and resurrection performances persuade the underworld rulers to request a fatal demonstration.'},
+  {title:'Symbols and Recognition',text:'Blowguns, ballplaying, hunting, and cooperation distinguish Hunahpu more reliably than any single emblem. Scholars compare him with certain youthful hunters in Classic Maya imagery, but the identification is interpretive. A spotted young figure on an ancient vessel should not automatically be treated as a literal portrait of the later Kʼicheʼ character.'},
+  {title:'Transmission and Cultural Context',text:'The fullest account survives in the Popol Wuj, written in alphabetic Kʼicheʼ during the early colonial period. Its concluding ascent associates the twins with the sun and moon. This particular narrative is not a universal Maya creed: Kʼicheʼ communities, storytellers, scholars, and contemporary readers maintain distinct relationships with its continuing cultural life.'}
+ ]}
+},
+{
+ id:'maya-xbalanque',myth:'maya',name:'伊什巴兰克',title:'以计谋破解西巴尔巴的英雄双子',tags:['英雄双子','变形','冥界'],
+ sections:[
+  {title:'身份与来历',text:'伊什巴兰克是基切玛雅《波波尔·乌》中胡纳赫普的兄弟，同为伊什基克所生。兄弟幼年受同父异母的哥哥胡恩·巴茨与胡恩·乔文排挤，后来反用计谋使他们变为猴子；这段家族冲突也解释了猴子与乐师艺人的联系。'},
+  {title:'主要叙事',text:'胡纳赫普在蝙蝠屋失去头颅后，伊什巴兰克召集动物取材，以葫芦充作替代，争取夺回真头的机会。双子死后重返世间，化作贫穷艺人，表演焚屋复原与杀生复活。他先杀死再救活兄弟，诱使冥界诸主要求同样待遇，最终拒绝让这些统治者复生，挫败其威权。'},
+  {title:'象征与辨识',text:'他体现临场应变、变形与对死亡规则的反转，常与胡纳赫普成对讨论。名字的词源及其与古典玛雅人物的对应仍有争议，不宜仅凭现代译名把他固定成统一的豹神或月神。'},
+  {title:'流传与文化语境',text:'《波波尔·乌》在双子故事后讲述人类创造及基切家族历史，英雄冒险因此嵌入群体记忆。双子升天的结尾并不等于整个玛雅地区共享一套日月神谱，地方传统与不同时代的材料需要分别理解。'}
+ ],
+ en:{name:'Xbalanque',title:'The Hero Twin who outwits Xibalba',tags:['Hero Twins','Transformation','Underworld'],sections:[
+  {title:'Identity and Origins',text:'Xbalanque is Hunahpu’s brother and Xquic’s son in the Kʼicheʼ Maya Popol Wuj. Their older half brothers, Hun Batz and Hun Chouen, mistreat the younger pair. The twins eventually turn these rivals into monkeys, connecting a family dispute with the narrative origins of monkey figures associated with musicians and other artists.'},
+  {title:'Principal Narratives',text:'After Hunahpu loses his head in the Bat House, Xbalanque organizes an animal-assisted substitution that enables its recovery. Following their own deaths, the brothers return as humble performers. Xbalanque kills and revives Hunahpu before the underworld lords, who demand the same treatment. The twins kill those rulers but refuse to restore them to life.'},
+  {title:'Symbols and Recognition',text:'Xbalanque represents strategic adaptability, transformation, and the overturning of apparently final death. He is best understood alongside his brother rather than through a solitary emblem. His name’s etymology and proposed connections with Classic Maya figures remain debated; modern translations do not establish a universal jaguar deity or a straightforward lunar identity.'},
+  {title:'Transmission and Cultural Context',text:'The Popol Wuj places the twins’ adventures before human creation and accounts of Kʼicheʼ ancestral lineages. Their deeds therefore belong to a larger framework of collective history. The final celestial ascent should not be converted into a single solar and lunar theology for every Maya community, ancient or living.'}
+ ]}
+},
+{
+ id:'maya-xquic',myth:'maya',name:'伊什基克',title:'穿越冥界与人间的双子之母',tags:['基切传统','母亲','生命延续'],
+ sections:[
+  {title:'身份与来历',text:'伊什基克是基切玛雅《波波尔·乌》中的冥界少女，父亲库丘马基克属于西巴尔巴诸主。她听闻禁树上的奇事，走近胡恩·胡纳赫普的头颅；头颅向她伸出的手掌吐出唾液，使她怀上后来战胜冥界的英雄双子。'},
+  {title:'主要叙事',text:'父亲发现她怀孕，命使者取回她的心作为惩罚。伊什基克说服携刀的猫头鹰使者，以树脂制成的假心交差，自己逃到人间。祖母伊什穆卡内起初不肯承认她，要求她从仅有一株玉米的田里收满一网玉米。她祈求帮助，凭玉米须获得丰收，终于证明身份并得到接纳。'},
+  {title:'象征与辨识',text:'她的故事以手掌、树上头颅、树脂假心和玉米收获为辨识线索。她既是主动拒绝处决的人物，也是父系血脉得以延续的关键，不能仅凭名字与血有关便称作统一的血液女神。'},
+  {title:'流传与文化语境',text:'伊什基克的具体经历属于基切史诗文本，不宜与低地玛雅月亮女神或伊希切尔直接合并。她的逃亡、受试与获得承认，使女性行动和亲属关系成为叙事核心，当代解读也常关注这些层面。'}
+ ],
+ en:{name:'Xquic',title:'Mother of the twins between underworld and earth',tags:['Kʼicheʼ tradition','Motherhood','Life renewed'],sections:[
+  {title:'Identity and Origins',text:'Xquic, also written Ixquic, is an underworld maiden in the Kʼicheʼ Maya Popol Wuj. Her father, Cuchumaquic, belongs to Xibalba’s ruling circle. Approaching the forbidden tree, she encounters Hun Hunahpu’s severed head. Its spittle lands in her outstretched hand and causes the conception of the future Hero Twins.'},
+  {title:'Principal Narratives',text:'When her pregnancy is discovered, Xquic’s father orders messengers to bring back her heart. She persuades the owl messengers to substitute a resin heart and escapes. On earth, Xmucane doubts her claim to kinship. Challenged to gather a netful of maize from one plant, Xquic invokes assistance and achieves the abundance required for acceptance.'},
+  {title:'Symbols and Recognition',text:'The outstretched hand, speaking skull, substitute resin heart, and miraculous maize harvest distinguish her narrative. Xquic acts to avoid execution and secure recognition rather than simply serving as a passive mother. Although her name evokes blood, that association alone does not establish a general Maya goddess governing all blood.'},
+  {title:'Transmission and Cultural Context',text:'Xquic’s particular biography belongs to the Kʼicheʼ epic and should not be merged automatically with lowland Maya moon goddesses or Ix Chel. Her escape and successful household trial foreground women’s agency, kinship, and contested belonging. These themes continue to inspire contemporary interpretations without exhausting what the narrative means within living Kʼicheʼ communities.'}
+ ]}
+},
+{
+ id:'maya-maize-god',myth:'maya',name:'玉米神',title:'低地玛雅王权与生命再生的玉米形象',tags:['玉米','再生','低地玛雅'],
+ sections:[
+  {title:'身份与来历',text:'玉米神是研究者对低地玛雅艺术中一组玉米神圣形象的概称，尤其常见于古典时期陶器、石刻与王室装饰。著名类型额头修长、头顶似剃发，表现成熟玉米的形态；其古代姓名、不同形态及与后世故事的关系仍需谨慎辨析。'},
+  {title:'主要叙事',text:'一些古典陶器绘有年轻玉米神自龟壳裂口升起，旁有青年神祇协助，常被解释为玉米从大地萌出或死后再生。另一些图像表现他在水域中旅行、更衣或起舞。现代解释常借基切史诗中被杀父亲与双子的故事比较这些场景，但图像并非一部已完整解读的同名传记。'},
+  {title:'象征与辨识',text:'修长头形、玉米叶饰、珠玉腰带与舞姿是重要线索，龟壳与水域则常构成再生场景。王者也会扮作玉米神，借身体与丰收的联系展现统治正当性，但并非每位舞者都必然代表他。'},
+  {title:'流传与文化语境',text:'玉米在许多玛雅社群中既是食物，也是人与土地关系的根基，但各地礼俗并不相同。古典低地图像与殖民时代基切文本相隔时空，不能直接把玉米神等同胡恩·胡纳赫普，更不能据此替代今日社群自身的解释。'}
+ ],
+ en:{name:'Maize God',title:'Lowland Maya maize imagery of kingship and renewal',tags:['Maize','Regeneration','Lowland Maya'],sections:[
+  {title:'Identity and Origins',text:'Maize God is a scholarly label for related divine maize figures in lowland Maya art, especially Classic-period ceramics, sculpture, and royal imagery. A prominent youthful form has an elongated head and apparently shaven crown resembling a maize ear. Ancient names, distinctions among forms, and relationships with later narratives require careful interpretation rather than automatic equivalence.'},
+  {title:'Principal Narratives',text:'Some painted vessels show a youthful maize deity emerging through a split turtle shell with other young supernatural figures nearby. Scholars often interpret this as germination or resurrection. Other scenes involve watery journeys, dressing, or dancing. Comparisons with the Popol Wuj illuminate possibilities, but the images do not constitute a completely deciphered biography of its slain father.'},
+  {title:'Symbols and Recognition',text:'An elongated head, maize foliage, jade ornaments, and dance postures provide important visual clues. Turtle shells and watery settings frequently frame scenes of emergence. Rulers could impersonate maize divinity, associating their bodies with agricultural abundance and legitimate authority, although not every elongated head or dancing royal figure depicts the same deity.'},
+  {title:'Transmission and Cultural Context',text:'Maize remains fundamental to food, personhood, and relationships with land in many Maya communities, whose practices differ considerably. Classic lowland imagery and colonial Kʼicheʼ literature come from different places and periods. Identifying every maize deity with Hun Hunahpu erases those distinctions, as does replacing living communities’ interpretations with a single archaeological reconstruction.'}
+ ]}
+},
+{
+ id:'maya-itzamna',myth:'maya',name:'伊察姆纳',title:'尤卡坦传统中的古老创造与知识之神',tags:['创造','书写','尤卡坦'],
+ sections:[
+  {title:'身份与来历',text:'伊察姆纳主要见于尤卡坦玛雅殖民时期记载，被描述为古老而尊贵的神，与创造、知识、治病及祭司技艺相联系。研究者也将他与古典和后古典图像中的老年神联系起来，但文字名称和图像身份的对应并非处处确定。'},
+  {title:'主要叙事',text:'殖民时期记录者兰达转述，伊察姆纳被认为创立文字与学习传统，祭司在相关仪式中祈求学识和疗愈能力。其他尤卡坦材料把他置于世界起源与神圣祖先的框架中。与英雄双子不同，他没有一部细节连贯、各地一致的冒险史诗；其事迹分散在殖民记述、地方文献及图像研究之中。'},
+  {title:'象征与辨识',text:'玛雅抄本中的老年神常有大眼、突出鼻梁与少齿面容，学术上常称神Ｄ，并常与伊察姆纳关联。天界鸟类形象也被纳入讨论，但不同年代的鸟神与老神不应一概合并。'},
+  {title:'流传与文化语境',text:'殖民材料经过传教士分类和翻译，其所谓最高神等说法需要结合作者立场阅读。尤卡坦玛雅宗教并非静止神谱，地方祭仪、基督宗教影响和当代文化复兴长期交织，不能把历史描述当作今日共同信条。'}
+ ],
+ en:{name:'Itzamna',title:'Ancient creator and patron of knowledge in Yucatan',tags:['Creation','Writing','Yucatan'],sections:[
+  {title:'Identity and Origins',text:'Itzamna appears prominently in colonial accounts of Yucatec Maya religion as an ancient, esteemed deity associated with creation, knowledge, healing, and priestly expertise. Scholars connect him with elderly supernatural figures in Classic and Postclassic imagery. Such connections are useful hypotheses, but names and visual identities do not align with equal certainty across every period.'},
+  {title:'Principal Narratives',text:'Diego de Landa’s colonial account credits Itzamna with the invention of writing and learning and describes priestly observances seeking knowledge and healing. Other Yucatec materials situate him among origins and sacred ancestors. Unlike the Hero Twins, he lacks a single continuous adventure cycle: evidence comes from scattered colonial descriptions, local texts, and interpretations of imagery.'},
+  {title:'Symbols and Recognition',text:'The elderly manuscript figure conventionally called God D often has large eyes, a prominent nose, and a tooth-poor mouth; scholars commonly associate him with Itzamna. Celestial bird forms also enter discussions of his identity. Neither resemblance nor broad association, however, makes every ancient bird deity or elderly god an interchangeable representation.'},
+  {title:'Transmission and Cultural Context',text:'Missionary classification and translation shaped colonial descriptions, including claims about supreme divinity. These sources need to be read with attention to their authors’ agendas. Yucatec Maya religious life has continued through local ceremonies, Christian encounters, and cultural renewal; a historical account cannot stand as a fixed creed shared by all present-day Maya people.'}
+ ]}
+},
+{
+ id:'maya-chaac',myth:'maya',name:'恰克',title:'执斧降雨的玛雅雷雨之神',tags:['降雨','雷电','方位'],
+ sections:[
+  {title:'身份与来历',text:'恰克是尤卡坦玛雅雨神的常用名称，相关雷雨神在古典低地文字与图像中也有悠久历史。他既可作为单一神祇出现，也可体现为分掌方位的多位雨神；地域、时代与仪式语境决定其不同称呼和组合方式。'},
+  {title:'主要叙事',text:'古典图像常让雷雨神挥动斧具，表现闪电劈击与降水的力量，一些场景涉及打开山石、释放被封藏的玉米。尤卡坦求雨仪式则向雨神献上食物和饮品，并可能由参与者模仿蛙鸣，召唤雨季到来。这些材料呈现农业与降雨的紧密关系，却不能拼成各地共有的单一生平故事。'},
+  {title:'象征与辨识',text:'长而卷曲的鼻部、突出的獠牙、斧与水流是常见标志，雨神面具常装饰建筑立面。四方雨神可与方位颜色相联，但具体配色和名称随来源变化，不宜套用一张永远固定的表。'},
+  {title:'流传与文化语境',text:'尤卡坦部分社区至今举行恰恰克等求雨礼，其组织方式与神圣称谓由当地传统决定。考古学上的雨神面具与活态仪式互有研究价值，却不意味着今日参与者只是重复古典王室宗教，社区仍有自主变化。'}
+ ],
+ en:{name:'Chaac',title:'Maya rain and thunder deity with the lightning axe',tags:['Rain','Lightning','Directions'],sections:[
+  {title:'Identity and Origins',text:'Chaac is the familiar Yucatec name for a rain deity whose related storm forms have a long history in lowland Maya writing and imagery. He may appear individually or as multiple rain beings associated with directions. Names and groupings depend on region, period, and ritual setting rather than a permanently standardized pantheon.'},
+  {title:'Principal Narratives',text:'Classic storm imagery frequently shows an axe-wielding deity expressing lightning and rainfall; some scenes concern opening stone or mountains associated with concealed maize. Yucatec rain petitions offer food and drink, sometimes including participants imitating frogs. Such evidence reveals agricultural relationships with rain, but does not produce one continuous biography shared by every Maya tradition.'},
+  {title:'Symbols and Recognition',text:'A long curling nose, prominent fangs, axes, and flowing water are common identifying features. Rain-deity masks also appear on architectural facades. Directional rain beings may be associated with particular colors, but their precise names and arrangements vary between sources; a modern fixed chart can conceal differences important to individual communities.'},
+  {title:'Transmission and Cultural Context',text:'Some Yucatec communities continue rain ceremonies often called chaʼ chaak, with locally maintained responsibilities, offerings, and sacred names. Archaeological rain masks and living ceremonies can illuminate related questions without being identical phenomena. Present-day participants are not simply reenacting Classic royal religion: communities retain the authority to adapt and interpret their practices.'}
+ ]}
+},
+{
+ id:'aztec-quetzalcoatl',myth:'aztec',name:'羽蛇神',title:'纳瓦传统中联结风、知识与人类起源的神',tags:['风','羽蛇','人类起源'],
+ sections:[
+  {title:'身份与来历',text:'羽蛇神的纳瓦语名为魁札尔科阿特尔，意为珍羽之蛇，在墨西加及其他纳瓦传统中地位重要。他与风神埃埃卡特尔密切相连，也关联祭司知识与历法；古代中美洲羽蛇图像的分布更广，不能全部视作墨西加同一神祇。'},
+  {title:'主要叙事',text:'《太阳传说》记载，羽蛇神下到米克特兰索取前代人类的骨头，完成吹响无孔海螺的考验，却又遭冥王设局，跌落陷坑并摔碎骨骸。他仍带着碎骨返回，由基拉斯特利磨碎，再以自己的血参与造人。另一些纳瓦材料讲述托兰君主祭司的出走，需与神祇的创造故事区分。'},
+  {title:'象征与辨识',text:'覆有珍羽的蛇是基本标志；作为风神时，他常佩突出的喙形口罩与风之珠胸饰。金星和晨星也与其传统有关，但各形态并非处处相同，不能仅凭羽饰或蛇形就作确定识别。'},
+  {title:'流传与文化语境',text:'主要叙事来自殖民早期保存的纳瓦语及西班牙语材料，包含不同城市的记忆。把科尔特斯来临说成墨西加人普遍认定神明归返，是过度简化且有争议的说法；今日纳瓦社群也不只是古帝国的遗留。'}
+ ],
+ en:{name:'Quetzalcoatl',title:'Nahua deity of wind, knowledge, and human origins',tags:['Wind','Feathered Serpent','Human origins'],sections:[
+  {title:'Identity and Origins',text:'Quetzalcoatl, whose Nahuatl name means Precious-Feathered Serpent, holds an important place in Mexica and other Nahua traditions. Closely associated with the wind deity Ehecatl, he also concerns priestly knowledge and calendrical learning. Feathered-serpent imagery extends much further across Mesoamerica, however, and cannot all be assigned to an identical Mexica deity.'},
+  {title:'Principal Narratives',text:'In the Legend of the Suns, Quetzalcoatl seeks earlier humanity’s bones in Mictlan. He sounds a seemingly impossible conch trumpet, then falls into a trap that breaks the bones. Recovering them, he brings them to Quilaztli for grinding and contributes his blood to human creation. Accounts of Tollan’s departing priest-ruler form a related but distinct narrative strand.'},
+  {title:'Symbols and Recognition',text:'A serpent covered in precious feathers provides the central image. As Ehecatl, he commonly wears a projecting beak-like mouth mask and a wind-jewel pectoral. Venus and the morning star also belong to his wider associations, but these aspects are not interchangeable in every source, and feathers alone are insufficient identification.'},
+  {title:'Transmission and Cultural Context',text:'Early colonial Nahuatl and Spanish sources preserve stories shaped by different cities and political memories. The claim that Mexica people universally welcomed Cortes as a returning Quetzalcoatl is contested and misleadingly simple. Living Nahua communities likewise cannot be reduced to survivals of an imperial religion or to colonial explanations of the conquest.'}
+ ]}
+},
+{
+ id:'aztec-tezcatlipoca',myth:'aztec',name:'特斯卡特利波卡',title:'以冒烟之镜显现的命运与统治之神',tags:['黑曜石镜','王权','变局'],
+ sections:[
+  {title:'身份与来历',text:'特斯卡特利波卡的纳瓦语名意为冒烟之镜，是墨西加与其他纳瓦传统中掌握命运、冲突和统治权的重要神。他可赐予财富，也可突然撤回恩惠，关联夜色、巫术与美洲豹；某些创世材料又把他列入不同颜色的神圣兄弟。'},
+  {title:'主要叙事',text:'关于托兰的殖民时期叙事中，他以镜子使祭司君主魁札尔科阿特尔惊见自己的容貌，又借醉酒等事件促成其失序和离去。在五太阳传统的某些版本里，两神反复争夺世界秩序，一方推翻另一方。另有创世故事让他们合作制服原初大地怪物，显示对立与协作并存。'},
+  {title:'象征与辨识',text:'冒烟黑曜石镜可出现在头部或代替一只脚，脸上的深色横带也是常见线索。他与美洲豹形态特佩约洛特尔有关；这些形象强调不可预测的临在，不宜将他简单归为纯粹邪神。'},
+  {title:'流传与文化语境',text:'《佛罗伦萨手抄本》等保存了向他祈祷的修辞和托什卡特尔节记载，包括代表神祇的青年被献祭。材料同时反映纳瓦知识者与殖民记录环境，理解其残酷仪式不能脱离当时的王权、义务与宇宙观。'}
+ ],
+ en:{name:'Tezcatlipoca',title:'Lord of the Smoking Mirror, sovereignty, and reversal',tags:['Obsidian mirror','Sovereignty','Reversal'],sections:[
+  {title:'Identity and Origins',text:'Tezcatlipoca means Smoking Mirror in Nahuatl. Important in Mexica and other Nahua traditions, he governs uncertain fortune, conflict, and sovereign power. He can bestow prosperity and abruptly remove it, and is associated with night, sorcery, and jaguars. Some creation accounts also place him among a group of differently colored divine brothers.'},
+  {title:'Principal Narratives',text:'Colonial narratives concerning Tollan describe him using a mirror to disturb the priest-ruler Quetzalcoatl and helping precipitate drunkenness, disorder, and departure. In some Five Suns accounts, the two deities repeatedly overthrow one another’s cosmic regimes. Other creation traditions have them cooperate against a primordial earth monster, making their relationship more complex than permanent moral opposition.'},
+  {title:'Symbols and Recognition',text:'A smoking obsidian mirror may appear at his head or replace a missing foot. Dark horizontal facial bands offer another common clue. His associations include the jaguar figure Tepeyollotl. Such imagery expresses elusive, unpredictable power; interpreting him simply as an evil counterpart to a benevolent Quetzalcoatl imposes an inappropriate binary.'},
+  {title:'Transmission and Cultural Context',text:'The Florentine Codex and related sources preserve elaborate prayers and accounts of Toxcatl, when a young divine representative was sacrificed. These records reflect both Nahua expertise and colonial circumstances of documentation. Their violent rites require historical explanation through sovereignty, obligation, and cosmology, rather than sensationalism or assumptions about all present-day Nahua people.'}
+ ]}
+},
+{
+ id:'aztec-huitzilopochtli',myth:'aztec',name:'维齐洛波奇特利',title:'引领墨西加迁徙的蜂鸟战神',tags:['墨西加','战争','太阳'],
+ sections:[
+  {title:'身份与来历',text:'维齐洛波奇特利的纳瓦语名通常译作左方或南方的蜂鸟，是墨西加人的重要守护神，与战争、太阳力量及族群迁徙相连。他在特诺奇蒂特兰大神庙与雨神特拉洛克各有神殿，体现征战扩张和农业供养在国家仪式中的并置。'},
+  {title:'主要叙事',text:'据《佛罗伦萨手抄本》的科阿特佩克故事，科阿特利库埃扫地时把羽球藏在胸前而怀孕，女儿科约尔绍基与众多兄长因而要杀她。维齐洛波奇特利出生即全副武装，挥动火蛇击败来敌，将姐姐斩首并使其躯体滚下山坡。迁徙叙事另记他通过神谕指导墨西加人寻找定居之地。'},
+  {title:'象征与辨识',text:'蜂鸟羽饰、蓝色面部装饰及火蛇武器是常见线索，盾牌与投矛器强调战士身份。太阳联想十分重要，但他并非所有纳瓦材料中唯一的太阳神，不能因此抹去托纳蒂乌等神的区别。'},
+  {title:'流传与文化语境',text:'大神庙南侧的科约尔绍基巨石与相关祭仪，使出生神话和首都建筑相互呼应。征服后的记录保留不同版本，也带有殖民立场；现代墨西哥的国家象征、艺术再现与当代纳瓦实践应分别理解。'}
+ ],
+ en:{name:'Huitzilopochtli',title:'Hummingbird war patron of the Mexica migration',tags:['Mexica','Warfare','Sun'],sections:[
+  {title:'Identity and Origins',text:'Huitzilopochtli’s Nahuatl name is commonly rendered Hummingbird of the Left or South. A principal Mexica patron, he connects warfare, solar power, and collective migration. At Tenochtitlan’s Templo Mayor, his sanctuary stood beside Tlaloc’s, placing military expansion and agricultural sustenance together within the ceremonial architecture of the imperial capital and its political order.'},
+  {title:'Principal Narratives',text:'In the Florentine Codex account, Coatlicue conceives after gathering a feather ball while sweeping at Coatepec. Coyolxauhqui and her brothers plan to kill her. Huitzilopochtli emerges armed, defeats the attackers with a fire-serpent weapon, and dismembers his sister, whose body falls down the mountain. Separate migration narratives describe his oracular guidance toward a new Mexica homeland.'},
+  {title:'Symbols and Recognition',text:'Hummingbird feathers, blue facial decoration, shields, dart-throwers, and the fire serpent Xiuhcoatl help identify him. These features emphasize his martial character and solar associations. He should not therefore replace every Nahua sun deity: Tonatiuh and other solar figures maintain distinct identities and roles within the diverse surviving textual and visual sources.'},
+  {title:'Transmission and Cultural Context',text:'The Coyolxauhqui monument below the southern Templo Mayor stairway linked the birth narrative with architecture and ritual. Postconquest records preserve versions shaped by colonial circumstances. Modern Mexican national imagery, artistic reinterpretation, and living Nahua practices are related but distinct contexts; none provides a transparent substitute for the religious life of imperial Tenochtitlan.'}
+ ]}
+},
+{
+ id:'aztec-tlaloc',myth:'aztec',name:'特拉洛克',title:'兼赐甘霖、冰雹与山中丰饶的雨神',tags:['雨水','山岳','农业'],
+ sections:[
+  {title:'身份与来历',text:'特拉洛克是墨西加及其他纳瓦群体的重要雨神，与山岳、水源、作物及危险天气相连。他身边有被称为特拉洛克众的雨水神灵，居所特拉洛坎被描述为丰饶之地。相似雨神形象早见于中部墨西哥，但名称与身份不能跨时代机械套用。'},
+  {title:'主要叙事',text:'纳瓦记述把特拉洛坎说成持续丰饶的所在，溺水者和遭某些水相关病症夺去生命的人可前往那里，而不是按一般亡者路径进入米克特兰。关于雨神诸灵的材料还描述不同容器中的雨，分别带来滋养、冰雹或损害。墨西加国家祭仪向山岳和水源献祭，力求获得适时雨水。'},
+  {title:'象征与辨识',text:'环形眼部、卷曲上唇、獠牙与水罐是常见标志，闪电器具也可出现。山岳既蓄藏水又孕育作物，因此不是普通背景；相似的面具特征仍须结合出土年代和地点来判断。'},
+  {title:'流传与文化语境',text:'大神庙北侧神殿及墨西哥盆地山岳祭场提供考古背景，殖民文献还记有儿童祭献。今日部分纳瓦地区延续山水与求雨礼俗，但不能把所有安置十字架或登山的仪式都直接认作古代祭祀原样延续。'}
+ ],
+ en:{name:'Tlaloc',title:'Rain lord of mountains, abundance, and dangerous weather',tags:['Rainwater','Mountains','Agriculture'],sections:[
+  {title:'Identity and Origins',text:'Tlaloc is an important rain deity among Mexica and other Nahua peoples, associated with mountains, water sources, crops, and destructive weather. Rain beings called Tlaloque accompany him, and Tlalocan is described as an abundant domain. Related imagery is older than the Mexica, but names and identities should not be projected unchanged across centuries.'},
+  {title:'Principal Narratives',text:'Nahua accounts describe Tlalocan as a perpetually productive destination for people who drown or die from certain water-associated conditions, rather than following the usual route to Mictlan. Accounts of rain beings describe containers holding nourishing or damaging rains, including hail. Mexica ceremonies addressed mountain and water powers to obtain rainfall at the necessary agricultural moments.'},
+  {title:'Symbols and Recognition',text:'Ringed eyes, a curled upper lip, fangs, water vessels, and sometimes lightning implements form a familiar visual vocabulary. Mountains contain water and agricultural abundance rather than merely providing scenery. Similar facial features on earlier monuments still require contextual identification through their archaeological date and location, not recognition by appearance alone.'},
+  {title:'Transmission and Cultural Context',text:'The northern Templo Mayor shrine and mountain offering sites in the Basin of Mexico provide archaeological contexts, while colonial sources describe ceremonies including child sacrifice. Some living Nahua traditions maintain mountain and rain relationships. Their Christian elements and local histories mean that present ceremonies cannot simply be labeled unchanged replicas of imperial practice.'}
+ ]}
+},
+{
+ id:'aztec-coatlicue',myth:'aztec',name:'科阿特利库埃',title:'蛇裙母亲与大地生命循环的可怖形象',tags:['蛇裙','母亲','大地'],
+ sections:[
+  {title:'身份与来历',text:'科阿特利库埃的纳瓦语名意为穿蛇裙者，在墨西加叙事中是维齐洛波奇特利、科约尔绍基及众多星辰兄弟的母亲。她与大地、死亡和生育联系密切，但相关母神名称及巨型雕像的身份并非始终明确，不能把所有大地神都归为她。'},
+  {title:'主要叙事',text:'她在科阿特佩克扫地时拾得一团羽毛，藏入胸前后羽球消失，自己却已怀孕。女儿科约尔绍基认为这是家族羞辱，召集兄弟准备杀母。腹中的维齐洛波奇特利不断安慰她，随后持火蛇武器出生并击败来敌。故事把看似脆弱的母体置于神圣战争的起点，而非让母亲亲自征服众子女。'},
+  {title:'象征与辨识',text:'墨西哥城出土的著名巨像通常称为科阿特利库埃，具有交缠蛇裙、手心项链与双蛇组成的头部。形象把生育和吞噬并置，不过这座无铭文巨像的具体神名与礼仪身份仍有讨论。'},
+  {title:'流传与文化语境',text:'巨像于一七九〇年被重新发现，后来成为博物馆研究和墨西哥艺术的重要对象。殖民时期文字与石雕提供不同证据，现代女性主义及奇卡纳创作又有新解释；这些再诠释不应冒充古代一致的原始教义。'}
+ ],
+ en:{name:'Coatlicue',title:'Serpent-skirted mother of birth, earth, and death',tags:['Serpent skirt','Motherhood','Earth'],sections:[
+  {title:'Identity and Origins',text:'Coatlicue means She of the Serpent Skirt in Nahuatl. Mexica narratives identify her as mother of Huitzilopochtli, Coyolxauhqui, and numerous stellar brothers. She has strong associations with earth, birth, and death. Related mother figures and monumental sculptures do not always have securely established identities, however; all earth divinities should not be collapsed into her.'},
+  {title:'Principal Narratives',text:'While sweeping at Coatepec, Coatlicue gathers a ball of feathers and places it against her breast. The feathers disappear, and she becomes pregnant. Coyolxauhqui calls this disgraceful and rallies her brothers to kill their mother. Huitzilopochtli reassures Coatlicue from the womb, then emerges armed with a fire serpent and defeats the attackers before their plan succeeds.'},
+  {title:'Symbols and Recognition',text:'The monumental Mexico City sculpture conventionally called Coatlicue wears an intertwined serpent skirt and a necklace incorporating hands and hearts; two serpents form its head. Its imagery brings generation together with consumption and death. Because the monument carries no identifying name inscription, its precise divine and ceremonial identity remains a matter of scholarly discussion.'},
+  {title:'Transmission and Cultural Context',text:'Rediscovered in 1790, the great sculpture became central to museum interpretation and Mexican art. Colonial narratives and stone monuments offer different kinds of evidence. Modern feminist and Chicana artists have developed further meanings around Coatlicue; these powerful reinterpretations should be acknowledged on their own terms rather than presented as an unchanged ancient doctrine.'}
+ ]}
+},
+{
+ id:'aztec-mictlantecuhtli',myth:'aztec',name:'米克特兰特库特利',title:'统治亡者去处米克特兰的骸骨之主',tags:['亡者','米克特兰','骸骨'],
+ sections:[
+  {title:'身份与来历',text:'米克特兰特库特利的纳瓦语名意为米克特兰之主，与女性伙伴米克特卡西瓦特尔共同关联亡者领域。墨西加材料中，许多自然死亡者须前往此处，另有死法通向其他归宿；它不是按照生前善恶判决而设立的基督宗教式地狱。'},
+  {title:'主要叙事',text:'《太阳传说》中，羽蛇神来到米克特兰索取前代人骨，冥王要求他吹响并绕行一支没有孔洞的海螺。来客借虫与蜂的帮助完成任务后，冥王仍反悔，让部属制造陷坑阻拦。羽蛇神跌落，骨头被惊鸟啄散，却仍收集碎骨离去；这一失败的阻挠成为现世人类起源故事的环节。'},
+  {title:'象征与辨识',text:'骷髅面孔、外露骨骼、爪状手足及与尸体相关的装饰有助辨识。并非所有骸骨人物都是冥王本人；判断雕像或抄本角色，还需结合姿势、配偶、地点与周围图像的关系。'},
+  {title:'流传与文化语境',text:'纳瓦文献描述亡者经历漫长旅程，有些版本提及四年及多重险境，但次序和细节并不完全统一。今日亡灵节受原住民与天主教等多种传统塑造，不能简单说成这位冥王的古代节庆直接延续。'}
+ ],
+ en:{name:'Mictlantecuhtli',title:'Skeletal lord of the destination of the dead',tags:['The dead','Mictlan','Skeleton'],sections:[
+  {title:'Identity and Origins',text:'Mictlantecuhtli means Lord of Mictlan in Nahuatl. He is associated with the realm of the dead alongside a female counterpart, Mictecacihuatl. Mexica sources send many who die ordinary deaths there, while other deaths lead elsewhere. Mictlan is not a Christian-style hell assigned as punishment according to a person’s moral behavior.'},
+  {title:'Principal Narratives',text:'In the Legend of the Suns, Quetzalcoatl requests ancestral bones from Mictlan. Its lord demands that he sound a conch without holes and circle with it. Insects help complete the task, but Mictlantecuhtli reneges and orders a pit prepared. Quetzalcoatl falls, the bones break, and he nevertheless retrieves their fragments for the creation of humanity.'},
+  {title:'Symbols and Recognition',text:'A skull face, exposed bones, claw-like extremities, and bodily or funerary ornaments help identify the deity. These features alone are not conclusive, since many beings can appear skeletal. Reading a sculpture or manuscript image also requires attention to pose, accompanying figures, archaeological location, and the relationships established by the surrounding scene.'},
+  {title:'Transmission and Cultural Context',text:'Nahua sources describe lengthy journeys of the dead, sometimes mentioning four years and successive dangers, but details and sequences vary. Today’s Day of the Dead reflects Indigenous, Catholic, and other historical developments. Presenting it simply as an unchanged festival of Mictlantecuhtli obscures living communities’ practices and the complexity of their histories.'}
+ ]}
+},
+{
+ id:'inca-inti',myth:'inca',name:'因蒂',title:'印加王朝宣称血统所出的太阳神',tags:['太阳','王朝祖先','库斯科'],
+ sections:[
+  {title:'身份与来历',text:'因蒂是克丘亚语中的太阳，也是印加国家祭祀的核心神圣存在。印加君主以太阳后裔的身份强化统治，库斯科科里坎查神殿保存重要太阳圣物与礼仪。帝国内各地同时敬奉山岳、祖先和地方圣地，太阳崇拜并未抹去所有其他传统。'},
+  {title:'主要叙事',text:'在加尔西拉索记下的一种王朝起源说中，太阳怜悯缺乏教化的人群，把曼科卡帕克与玛玛奥克略送到地上，命二人寻找建立中心之地。这个叙事将新秩序解释为太阳的恩赐。其他殖民记录还描述帕查库特克强化太阳祭祀与国家建筑，体现王朝祖先故事和帝国制度之间的互动。'},
+  {title:'象征与辨识',text:'金色圆盘、太阳光芒和王朝礼器常被用来表现因蒂，黄金也在殖民材料中被比作太阳的汗。太阳图案未必都是神像；需要区分历史祭器、现代国徽以及为旅游节庆新制的装饰。'},
+  {title:'流传与文化语境',text:'殖民统治毁坏或改造太阳神殿，但太阳与农时的关系仍进入不同安第斯实践。库斯科今日大型太阳节自一九四四年起以现代形式重建，结合史料、表演和地方认同，并非从帝国时代未经中断的同一仪式。'}
+ ],
+ en:{name:'Inti',title:'Solar source of Inca dynastic descent',tags:['Sun','Dynastic ancestor','Cusco'],sections:[
+  {title:'Identity and Origins',text:'Inti is the Quechua word for the sun and a central sacred presence in Inca state religion. Rulers claimed solar descent to support their authority, while Cusco’s Qorikancha housed important solar objects and ceremonies. Across the empire, communities also honored mountains, ancestors, and local sacred places; imperial sun worship never erased every other tradition.'},
+  {title:'Principal Narratives',text:'In an origin account recorded by Garcilaso de la Vega, the Sun pities people portrayed as lacking civilization and sends Manco Capac and Mama Ocllo to establish a center of ordered life. Other colonial accounts describe Pachacuti strengthening solar worship and state institutions. Together these materials connect dynastic ancestry with changing imperial political and ceremonial arrangements.'},
+  {title:'Symbols and Recognition',text:'Golden disks, radiating sunlight, and royal ceremonial objects commonly represent Inti. Colonial descriptions also compare gold with the sun’s sweat. Not every solar design is a divine portrait, however. Historical cult objects, modern national emblems, and newly made festival decorations belong to different contexts and should be identified rather than treated interchangeably.'},
+  {title:'Transmission and Cultural Context',text:'Colonial rule destroyed or transformed solar sanctuaries, while relationships between sunlight, seasons, and farming continued in diverse Andean practices. Cusco’s large public Inti Raymi was reconstructed in its modern form beginning in 1944. It combines historical interpretation, performance, and local identity rather than constituting an entirely uninterrupted ceremony inherited unchanged from the empire.'}
+ ]}
+},
+{
+ id:'inca-viracocha',myth:'inca',name:'维拉科查',title:'殖民记录中的安第斯创造者与行旅者',tags:['创造','洪水','行旅'],
+ sections:[
+  {title:'身份与来历',text:'维拉科查在多种殖民时代安第斯记述中是创造者，名称也写作维拉科恰或维拉科察，其完整称号和身份因来源而异。他与世界整理、人群起源及巡行相关，但不能将其直接理解为所有安第斯社群自古一致信奉的唯一至高神。'},
+  {title:'主要叙事',text:'部分记述说他先创造一代人，因其行为不当而以洪水毁灭，随后在的的喀喀湖一带重建秩序，使日月出现，并安排不同人群从各自的起源地点出世。他与助手沿安第斯行旅，教导或惩罚遇到的群体，最后走向海岸离去。创造次序、助手姓名及旅程在各作者笔下并不相同。'},
+  {title:'象征与辨识',text:'行旅者、创造者与湖区起源是较可靠的叙事线索。蒂瓦纳库太阳门持杖中央像常被现代读物称作维拉科查，但遗址早于印加帝国，图像没有留下可证实这个名字的直接铭文。'},
+  {title:'流传与文化语境',text:'贝坦索斯、谢萨和莫利纳等记录者保存不同版本，也可能受基督宗教创造观和翻译选择影响。材料须与当地地景及社群历史对读，不能把殖民作者使用的创造者称谓视为各地原住民完全相同的神学。'}
+ ],
+ en:{name:'Viracocha',title:'Andean creator and traveler in colonial accounts',tags:['Creation','Flood','Sacred journeys'],sections:[
+  {title:'Identity and Origins',text:'Viracocha appears as a creator in several colonial accounts of the Andes. Spellings, expanded titles, and descriptions vary among sources. Associated with ordering the world, human origins, and journeys, this figure should not be treated automatically as the single supreme deity worshipped identically by all Andean communities since remote antiquity.'},
+  {title:'Principal Narratives',text:'Some accounts describe an initial humanity destroyed by a flood, followed by a reordering near Lake Titicaca. Viracocha brings forth celestial bodies and arranges for peoples to emerge from their particular places of origin. Traveling with assistants, he instructs or punishes communities before departing toward the coast. Authors differ concerning the sequence, companions, and details of departure.'},
+  {title:'Symbols and Recognition',text:'Creation, travel, and associations with the Titicaca region provide firmer narrative clues than any universal visual emblem. The central staff-bearing figure on Tiwanaku’s Gateway of the Sun is often called Viracocha in modern publications. Tiwanaku predates the Inca Empire, however, and no direct naming inscription confirms that identification for the monument.'},
+  {title:'Transmission and Cultural Context',text:'Betanzos, Cieza de Leon, Molina, and other writers preserve divergent versions shaped partly by translation and Christian assumptions about creation. Their texts require comparison with landscapes and community histories. A colonial author’s use of a creator category does not demonstrate that Indigenous peoples everywhere held an identical theology or understood that category in the same way.'}
+ ]}
+},
+{
+ id:'inca-pachamama',myth:'inca',name:'帕查玛玛',title:'安第斯社群持续交往的大地母亲',tags:['大地','互惠','活态传统'],
+ sections:[
+  {title:'身份与来历',text:'帕查玛玛常译为大地母亲，其中帕查也包含世界、时空与所处秩序等意义。她属于印加历史与更广泛的克丘亚、艾马拉及其他安第斯实践，不能只算某位帝王创立的国家神；不同社群把她与土地、食物和地方关系相联系。'},
+  {title:'主要叙事',text:'她没有一部各地一致的生平史诗，相关讲述常围绕土地给予、索取与人如何回应展开。部分社群在八月向大地献食，把饮品的最初一份洒在地上，说明收成不是可以无偿占有的礼物。耕作、出行或采掘也可能伴随请求与致谢；若忽视关系，大地可被讲述为饥饿或具有危险力量。'},
+  {title:'象征与辨识',text:'田土、农作物、食物与饮品的分享比固定人形神像更能提示她的关系网络。现代绘画常将她画成山形母亲，但这不是所有安第斯社群共享的古老标准像，更不能代替当地解释。'},
+  {title:'流传与文化语境',text:'当代献礼、家庭实践与地方节庆体现她的活态意义，也可能与圣母崇敬并存。她在环保话语和国家政治中又获得新位置，但把她只当作全球通用的生态女神，会掩盖社群土地权、历史和礼仪差异。'}
+ ],
+ en:{name:'Pachamama',title:'Earth Mother in continuing Andean relationships',tags:['Earth','Reciprocity','Living traditions'],sections:[
+  {title:'Identity and Origins',text:'Pachamama is often translated as Earth Mother, although pacha also encompasses world, time, space, and situated order. Her relationships belong to Inca history and wider Quechua, Aymara, and other Andean practices. She is not simply a state deity invented by an emperor: communities understand her through particular lands, foods, obligations, and local histories.'},
+  {title:'Principal Narratives',text:'There is no universally shared biography. Stories and practices instead concern land giving, receiving, and requiring a response. Some communities offer food in August and pour an initial share of drink onto the ground. Farming, travel, or extraction may involve requests and thanks. Neglecting these relationships can be described as leaving the earth hungry or dangerously demanding.'},
+  {title:'Symbols and Recognition',text:'Cultivated soil, crops, and shared food or drink often communicate her relationships more effectively than a fixed anthropomorphic image. Modern paintings may depict a mountain-shaped mother, but that composition is not an ancient universal icon for every Andean community. Local explanations remain essential when interpreting offerings, images, or accounts of sacred landscapes.'},
+  {title:'Transmission and Cultural Context',text:'Household offerings, community celebrations, and relationships with Marian devotion demonstrate continuing, changing religious life. Environmental activism and state politics have given Pachamama additional public roles. Reducing her to a globally interchangeable ecological goddess, however, can obscure community land rights, colonial histories, and differences in how particular people maintain obligations to the earth.'}
+ ]}
+},
+{
+ id:'inca-mama-quilla',myth:'inca',name:'玛玛基利亚',title:'印加礼仪中的月亮母亲与历法之光',tags:['月亮','银','历法'],
+ sections:[
+  {title:'身份与来历',text:'玛玛基利亚的克丘亚语名常解释为月亮母亲，也写作玛玛基亚。在若干印加王朝记述中，她是太阳的配偶或女性对应者，与王室女性及月相历法有关；不同作者提供的神圣亲属关系不完全一致，不应据此构造固定不变的全安第斯家谱。'},
+  {title:'主要叙事',text:'殖民记述把月食呈现为月亮生病或遭到攻击的危险时刻，人们呼喊、击响器物，部分记载还说催促狗吠，希望它们的叫声帮助月亮恢复。人们担心月亮若死去会坠落并危及世界。相比具有完整冒险的英雄，她的叙事更多通过异常天象及人群的仪式性回应展现出来。'},
+  {title:'象征与辨识',text:'月盘、月相与银是常见辨识线索，殖民文献把银比作月亮的泪，和太阳的黄金形成对照。但任何银器都不必然属于她，现代带女性面孔的月亮图也不能直接充当古代祭像证据。'},
+  {title:'流传与文化语境',text:'科里坎查相关记述把月亮祭祀置于库斯科王室空间，地方农时知识则有更广泛且多样的来源。今日安第斯人对月相的观察仍可影响生产与生活，但不能将所有月亮习俗都追溯成同一套帝国月神崇拜。'}
+ ],
+ en:{name:'Mama Quilla',title:'Mother Moon of Inca ceremony and calendrical light',tags:['Moon','Silver','Calendars'],sections:[
+  {title:'Identity and Origins',text:'Mama Quilla, also written Mama Killa, is commonly understood as Mother Moon in Quechua. Several accounts of Inca dynastic religion describe her as the Sun’s spouse or female counterpart, connected with royal women and lunar reckoning. Authors differ over divine relationships, so their descriptions do not establish a fixed family tree shared throughout the Andes.'},
+  {title:'Principal Narratives',text:'Colonial accounts portray lunar eclipses as dangerous episodes in which the moon is sick or under attack. People shout and strike instruments; some descriptions include encouraging dogs to howl in hopes of helping her recover. They fear that a dying moon could fall and endanger the world. Narrative action therefore centers on celestial crisis and collective ritual response.'},
+  {title:'Symbols and Recognition',text:'The lunar disk, changing phases, and silver provide common associations. Colonial writers compare silver with the moon’s tears, contrasting it with solar gold. This does not make every silver object a cult possession of Mama Quilla, nor does a modern moon with a woman’s face supply direct evidence for an ancient statue.'},
+  {title:'Transmission and Cultural Context',text:'Descriptions of the Qorikancha place lunar observances within Cusco’s royal ceremonial setting. Local agricultural knowledge has wider and more varied histories. Attention to moon phases continues to influence work and everyday life in some Andean communities, but these practices should not all be traced to one uniform system of imperial lunar worship.'}
+ ]}
+},
+{id:'inca-manco-capac',myth:'inca',name:'曼科·卡帕克',title:'库斯科王室祖源中的奠基者',tags:['祖源','库斯科','王权'],sections:[
+{title:'身份与来历',text:'曼科·卡帕克是印加王室起源叙事中的奠基人物，常被称为首位统治者。他在不同殖民时期记录中的亲缘、同伴与出发地点并不相同。传统讲述为库斯科的政治中心赋予神圣来历，不能直接当作已经考证无误的个人传记。'},
+{title:'主要叙事',text:'印卡·加西拉索保存的版本让太阳派曼科与玛玛·奥克略携金杖前行，在杖能沉入之处定居并教导人群生活。另一些材料则把曼科放进阿亚尔兄弟姐妹的迁行：祖先从帕卡里坦普相关起源地出发，经历冲突、变化和石化，最终确立库斯科。两组叙事不能简单拼成同一趟旅程。'},
+{title:'象征与辨识',text:'金杖、太阳祖源与库斯科是常见关联。后世图像中的王冠、耳饰和王权标志，需要联系殖民时代绘画和现代公共纪念的历史，而非全部视作远古人物的真实肖像。'},
+{title:'流传与文化语境',text:'王室祖源既连接神圣地景，也关系到统治合法性与群体记忆。殖民作者、地方讲述者和现代国家叙事各有选择；当代安第斯社群并不只有一种印加身份，更不能被假定仍保留完全不变的帝国制度。'}],en:{name:'Manco Capac',title:'Founding ancestor in traditions of Cusco',tags:['Ancestry','Cusco','Kingship'],sections:[
+{title:'Identity and origins',text:'Manco Capac is a founding figure in accounts of Inca royal ancestry, commonly presented as an earliest ruler. Colonial sources differ over his companions, family, and point of departure. These narratives give sacred authority to Cusco; they are not independently verified modern biographies.'},
+{title:'Key narratives',text:'In Inca Garcilaso’s account, the Sun sends Manco and Mama Ocllo with a golden staff that will sink at the place for settlement. Other sources place Manco among the Ayar siblings leaving a place of emergence, facing conflict and transformations before establishing Cusco. The two narrative groups should not be silently fused into one journey.'},
+{title:'Symbols and attributes',text:'The golden staff, solar ancestry, and Cusco commonly identify him. Crowns, ear ornaments, and royal insignia in later images belong to particular histories of colonial painting and modern commemoration, not a surviving photographic likeness of an ancient founder.'},
+{title:'Tradition and context',text:'Royal ancestry joins sacred landscape with legitimacy and collective memory. Colonial writers, local narrators, and modern national accounts emphasize different elements. Contemporary Andean communities have varied identities and practices; they cannot be assumed to preserve one unchanged imperial social order.'}]}},
+{id:'inca-mama-ocllo',myth:'inca',name:'玛玛·奥克略',title:'起源叙事中的女性祖先与文化传授者',tags:['祖先','纺织','建城'],sections:[
+{title:'身份与来历',text:'玛玛·奥克略是印加祖源叙事的重要女性人物，常与曼科·卡帕克共同出现。在加西拉索保存的太阳后裔版本中，她参与确立库斯科并传授生活技艺。她在其他祖先迁行版本中的位置，须依具体文本辨认，不能假定所有同名或近名人物完全相同。'},
+{title:'主要叙事',text:'在金杖寻地的故事里，玛玛与曼科离开起源地点，向人群传授耕作、纺织及组织家庭生活的知识。叙述常按性别划分教导职责，反映王室起源故事及记录者对于社会秩序的理解。它并不证明实际历史上的全部知识，都由一对祖先在某一日首次发明或传授。'},
+{title:'象征与辨识',text:'纺织、女性祖源与太阳关系是常见的阅读线索。布匹在安第斯社会中关乎身份、交换、礼仪与劳动，不能只视为衣服；后世绘画的服装也须放回创作年代解释。'},
+{title:'流传与文化语境',text:'将她只当作男性建城者的陪衬，会忽略女性祖先在王室血统和文化记忆中的作用；把故事直接称为现代性别平等宣言，也会遮蔽其历史结构。比较不同编年史，可以看见女性行动、亲缘与统治权威如何被重新安排。'}],en:{name:'Mama Ocllo',title:'Female ancestor and teacher in Inca origin narratives',tags:['Ancestry','Textiles','Founding'],sections:[
+{title:'Identity and origins',text:'Mama Ocllo is an important female figure in Inca origin accounts, commonly paired with Manco Capac. In Garcilaso’s solar ancestry narrative she helps establish Cusco and teaches skills of life. Her position in other ancestral migrations requires attention to each particular text.'},
+{title:'Key narratives',text:'In the golden staff account, she and Manco travel from their place of origin and instruct people in cultivation, textile work, and household organization. Gendered teaching roles reflect a narrative vision of social order. They do not prove that all practical knowledge was historically invented or introduced by one ancestral couple on a single occasion.'},
+{title:'Symbols and attributes',text:'Textile work, female ancestry, and solar relationships are common interpretive clues. Andean cloth concerns status, exchange, ritual, and labor as well as dress. Costumes in later paintings also require interpretation within the period when those images were produced.'},
+{title:'Tradition and context',text:'Reducing Mama Ocllo to a male founder’s companion misses female ancestry within royal legitimacy and memory. Turning her story into a straightforward modern equality manifesto is equally anachronistic. Comparing chronicles reveals how women’s actions, kinship, and authority were differently arranged by narrators.'}]}}
+];
+
+window.FIGURES_SOUTH = [
+  {
+    id: 'yoruba-olodumare', myth: 'yoruba', name: '奥洛杜马雷', title: '约鲁巴传统中的至高创造者', tags: ['至高神', '阿谢', '创造秩序'],
+    sections: [
+      {title: '身份与来历', text: '奥洛杜马雷是约鲁巴宗教中居于最高位置的创造者，与奥洛伦等称谓的关系依地区和解释而异。他并非希腊式神王，通常不以鲜明的人形冒险出现，而被理解为生命、宇宙秩序与效力阿谢的根本来源。'},
+      {title: '主要叙事', text: '一些伊费创世版本说，奥洛杜马雷把建立陆地的任务交给奥巴塔拉；任务受阻后，奥杜杜瓦完成撒土等工作。另一些讲述则分配不同职责。塑造人的形体与赋予生命也常被区分：奥里沙负责塑形，最终生命来自至高者，不能把某一版本当成唯一经典。'},
+      {title: '象征与辨识', text: '辨识重点不是固定武器或雕像，而是天空、创造和阿谢所指的实现力量。约鲁巴赞词与祈语比统一肖像更重要，不能套用其他文化中雷神或太阳神的外形。'},
+      {title: '流传与文化语境', text: '相关观念流传于尼日利亚西南部、贝宁及大西洋离散传统。日常宗教生活往往更直接面向奥里沙、祖先和占卜；至高者较少拥有专属形象，并不意味着其地位无关紧要。'}
+    ],
+    en: {name: 'Olodumare', title: 'Supreme creator in Yoruba traditions', tags: ['Supreme being', 'Ase', 'Creation'], sections: [
+      {title: 'Identity and Origins', text: 'Olodumare occupies the highest position in Yoruba religious thought. Relationships between this name and titles such as Olorun vary across communities and interpretations. Rather than an adventurous king with a stable human appearance, Olodumare is understood as the ultimate source of life, order, and enabling power.'},
+      {title: 'Principal Narratives', text: 'In some Ile-Ife creation accounts, Olodumare commissions Obatala to establish dry land, while Oduduwa completes important tasks after an interruption. Other tellings distribute these responsibilities differently. Human shaping and animation may also be separated: an orisha forms bodies, but the supreme being supplies life itself.'},
+      {title: 'Symbols and Recognition', text: 'Recognition depends less on a standard statue or weapon than on references to the sky, creation, and ase, the power through which things become effective. Praise language and prayer matter more than a universal portrait. Imported thunder-god or solar imagery can therefore be misleading.'},
+      {title: 'Transmission and Cultural Context', text: 'These understandings circulate in southwestern Nigeria, Benin, and Atlantic diaspora traditions. Everyday religious practice often addresses orishas, ancestors, and divination more directly. The relative scarcity of dedicated images or shrines should not be mistaken for insignificance, nor should distinct diaspora interpretations be treated as identical.'}
+    ]}
+  },
+  {
+    id: 'yoruba-obatala', myth: 'yoruba', name: '奥巴塔拉', title: '塑造人身的白衣奥里沙', tags: ['人体塑造', '白色', '伊费'],
+    sections: [
+      {title: '身份与来历', text: '奥巴塔拉是约鲁巴传统中与人身塑造、洁净和沉静权威相连的奥里沙，在伊费及其他地方拥有不同称号与地方形态。他常被表现为年长的白衣者，但其身份不能简单缩成所有地区完全一致的男性形象。'},
+      {title: '主要叙事', text: '广为传播的一类故事说，他受命用泥塑造人身，却因饮棕榈酒而失去专注，做出了身体各异的人。醒悟后，他承担保护这些人的责任，并拒绝再饮酒。故事有地方差异，表达的是神圣照护的义务，不应借此贬低残障者或把身体差异视为道德过错。'},
+      {title: '象征与辨识', text: '白布、白色珠饰与清凉沉静的气质是常见标识，杖等物件则依地方而异。白色既关乎洁净也关乎克制，与尚戈的雷霆、奥贡的铁器形成鲜明叙事对照。'},
+      {title: '流传与文化语境', text: '奥巴塔拉崇敬见于约鲁巴地区，也在美洲发展出奥巴塔拉、奥沙拉等不同传统。地方名号、性别表现与禁忌并非处处相同，应由具体共同体的解释说明，不能把离散实践倒写成单一起源。'}
+    ],
+    en: {name: 'Obatala', title: 'White-robed orisha who shapes human bodies', tags: ['Human formation', 'White cloth', 'Ile-Ife'], sections: [
+      {title: 'Identity and Origins', text: 'Obatala is associated with forming human bodies, purity, and composed authority in Yoruba traditions. Ile-Ife and other communities preserve different titles and local manifestations. Although often represented as an elderly figure dressed in white, Obatala should not be reduced to one universally male image everywhere.'},
+      {title: 'Principal Narratives', text: 'A widely circulated account describes Obatala shaping people from clay after drinking palm wine, producing bodies with varied characteristics. On recognizing what happened, Obatala accepts responsibility for their protection and renounces alcohol. Versions differ, and the narrative should not be used to stigmatize disability or assign moral blame.'},
+      {title: 'Symbols and Recognition', text: 'White cloth, white beads, and a cool, restrained bearing are familiar identifying features, while staffs and other objects vary locally. Whiteness conveys purity and composure rather than a modern racial category. This imagery contrasts narratively with Shango’s thunder and the force of Ogun’s iron.'},
+      {title: 'Transmission and Cultural Context', text: 'Devotion to Obatala extends across Yoruba communities and into distinct American traditions, including those using the name Oxala. Local titles, gendered manifestations, and observances are not interchangeable. Explanations should remain grounded in particular communities rather than projecting one diaspora arrangement backward as a universal original.'}
+    ]}
+  },
+  {
+    id: 'yoruba-ogun', myth: 'yoruba', name: '奥贡', title: '铁器、道路与危险技艺的奥里沙', tags: ['铁与锻造', '开路', '伊雷'],
+    sections: [
+      {title: '身份与来历', text: '奥贡是约鲁巴传统中掌管铁器、锻造、狩猎和战争的奥里沙，也与使用金属工具的劳动者相连。他的力量既能开辟道路、支持耕作，也能造成伤亡；这种创造与毁坏并存的关系，比单称战神更能说明其身份。'},
+      {title: '主要叙事', text: '一类故事描写众奥里沙被茂密灌木阻挡，奥贡用铁器劈开通路，因此确立开路者的地位。有关伊雷的另一类传说说，他归来时误解居民的仪式性沉默，暴怒伤人，随后悔恨并隐入地下。细节与结局有异，不能拼成一部统一生平。'},
+      {title: '象征与辨识', text: '铁刀、锄、锤和其他金属工具是核心标识，兼指生产与暴力的同一物质基础。棕榈枝或犬的关联也见于特定传统，但不能据此推定所有社群具有同样做法。'},
+      {title: '流传与文化语境', text: '在约鲁巴地区，铁匠、猎人及现代使用机械的人都可能与奥贡建立宗教联系。海地奥古、巴西奥贡等离散形态各有历史；共同的铁与行动主题，不等于其仪式和人物性格完全相同。'}
+    ],
+    en: {name: 'Ogun', title: 'Orisha of iron, paths, and dangerous skills', tags: ['Ironworking', 'Path opening', 'Ire'], sections: [
+      {title: 'Identity and Origins', text: 'Ogun is the Yoruba orisha associated with iron, smithing, hunting, and warfare. His significance also reaches people whose livelihoods depend on metal tools. The same force that clears land and makes cultivation possible can inflict injury, so describing him simply as a war god misses important dimensions.'},
+      {title: 'Principal Narratives', text: 'One narrative makes Ogun the opener of a passage through vegetation that blocks the other orishas. A separate cycle associated with Ire describes his catastrophic misunderstanding of a community’s ritual silence, followed by remorse and withdrawal into the earth. These variable stories do not form a single fixed biography.'},
+      {title: 'Symbols and Recognition', text: 'Blades, hoes, hammers, and other iron implements identify Ogun through the shared material basis of production and violence. Palm fronds and associations with dogs occur in particular traditions. Such details require local context rather than assumptions that every community uses the same objects or practices.'},
+      {title: 'Transmission and Cultural Context', text: 'Smiths, hunters, drivers, and other users of machinery may relate to Ogun in Yoruba settings. Atlantic traditions developed figures such as Haitian Ogou and Brazilian Ogum through their own histories. Shared iron imagery and themes of action do not make their ceremonies or personalities interchangeable.'}
+    ]}
+  },
+  {
+    id: 'yoruba-shango', myth: 'yoruba', name: '尚戈', title: '与奥约王权相连的雷霆奥里沙', tags: ['雷电', '奥约', '双刃斧'],
+    sections: [
+      {title: '身份与来历', text: '尚戈是约鲁巴雷电奥里沙，与奥约王朝及一位被神化的阿拉芬君王紧密相连。口传常把他列为早期君主，但谱系与历史年代不能等同考古定论。其形象把王权的威严、雷暴力量与领导者承担的风险联结起来。'},
+      {title: '主要叙事', text: '一些奥约叙事讲述尚戈驾驭雷电，却因力量失控或政治危机离开王位；关于其死亡、消失与神化的说法并不一致。追随者宣告他并未真正死去，雷声成为其持续在场的证据。奥雅、奥舒恩与奥巴等伴侣的故事，也各有地方叙事脉络。'},
+      {title: '象征与辨识', text: '双刃斧形舞杖奥谢尚戈是著名标识，红白配色及被解释为雷石的石器也常出现。斧刃象征雷霆威势，不宜把所有持斧雕像都未经语境核实地认作尚戈。'},
+      {title: '流传与文化语境', text: '尚戈崇敬连接奥约历史、专属祭司传统与表演艺术，并随大西洋迁徙传入美洲。巴西尚戈与加勒比昌戈的名称相近，但王权记忆、音乐和地方宗教结构各有重组，不能以一套习惯覆盖所有地区。'}
+    ],
+    en: {name: 'Shango', title: 'Thunder orisha associated with Oyo kingship', tags: ['Thunder', 'Oyo', 'Double axe'], sections: [
+      {title: 'Identity and Origins', text: 'Shango is the Yoruba thunder orisha closely associated with Oyo kingship and a deified ruler bearing the title Alaafin. Oral genealogies place him among early kings, but their chronology is not straightforward archaeological fact. His image joins royal authority, storm power, and the dangers of leadership.'},
+      {title: 'Principal Narratives', text: 'Oyo narratives variously describe Shango wielding lightning, losing control of destructive power, or leaving his throne amid political conflict. Accounts of death, disappearance, and deification disagree. Followers declare that he has not truly died, while stories involving Oya, Oshun, and Oba follow their own local narrative paths.'},
+      {title: 'Symbols and Recognition', text: 'The double-axe form of the ose Shango dance staff is especially recognizable. Red and white combinations and objects interpreted as thunderstones also occur. The axe evokes thunderous authority, but an axe-bearing sculpture cannot reliably be identified without its provenance and the community’s own explanation.'},
+      {title: 'Transmission and Cultural Context', text: 'Shango devotion links Oyo history with priestly traditions and performance arts, and traveled across the Atlantic. Brazilian Xango and Caribbean Chango developed within different religious and political settings. Similar names do not imply identical music, royal memories, ritual organization, or relationships with other sacred figures.'}
+    ]}
+  },
+  {
+    id: 'yoruba-oshun', myth: 'yoruba', name: '奥舒恩', title: '奥孙河与生命繁荣的奥里沙', tags: ['奥孙河', '生育与照护', '奥绍博'],
+    sections: [
+      {title: '身份与来历', text: '奥舒恩是与尼日利亚奥孙河紧密相连的约鲁巴奥里沙，常关联淡水、生育、吸引力与物质繁荣。她并非仅供装饰的爱情女神；谈判能力、生命维系和女性权威同样重要，奥绍博的河流与圣林使其具有具体地理归属。'},
+      {title: '主要叙事', text: '一类广泛流传的故事说，奉命经营世界的十七位奥里沙中，其他成员排斥唯一的女性奥舒恩，结果工作失败，土地失去生机。至高者指出缺少她就不能成功；众人请她参与后，秩序才得恢复。不同讲述对人数与情节安排仍可能有所调整。'},
+      {title: '象征与辨识', text: '流动淡水、扇、镜与黄铜饰物常用于辨识，黄色或金色在若干离散传统尤其醒目。蜂蜜的甜味可指吸引与调解，但颜色和供物并不是跨地区不变的清单。'},
+      {title: '流传与文化语境', text: '奥孙—奥绍博圣林及年度节庆体现河流、城市历史与宗教共同体的关系，而非抽象的自然崇拜。美洲奥舒恩传统另有地方发展；观看公开节庆不等于获准进入所有圣地或记录一切活动。'}
+    ],
+    en: {name: 'Oshun', title: 'Orisha of the Osun River and flourishing life', tags: ['Osun River', 'Care and fertility', 'Osogbo'], sections: [
+      {title: 'Identity and Origins', text: 'Oshun is a Yoruba orisha closely connected with the Osun River in Nigeria, fresh water, fertility, attraction, and prosperity. She is not merely a decorative love goddess. Negotiation, sustaining life, and feminine authority are equally important, while Osogbo gives her traditions a specific geographical grounding.'},
+      {title: 'Principal Narratives', text: 'A widely told account describes seventeen orishas sent to organize the world. The others exclude Oshun, the only woman, and their undertaking fails as life withers. The supreme being explains that success requires her participation. Inviting her restores possibility, although numbers and details vary between tellings.'},
+      {title: 'Symbols and Recognition', text: 'Fresh water, fans, mirrors, and brass ornaments are frequent identifying features. Yellow and gold are especially prominent in some diaspora traditions. Honey’s sweetness can suggest attraction and mediation, but neither colors nor offerings constitute a universal checklist that applies unchanged to every community or historical setting.'},
+      {title: 'Transmission and Cultural Context', text: 'The Osun-Osogbo Sacred Grove and annual festival connect a river, urban history, and a living religious community. They should not be reduced to generic nature worship. American traditions developed locally, and access to a public festival does not authorize entry into every sacred place or unrestricted recording.'}
+    ]}
+  },
+  {
+    id: 'yoruba-eshu', myth: 'yoruba', name: '埃舒', title: '沟通、选择与歧义的奥里沙', tags: ['使者', '交叉路口', '解释与选择'],
+    sections: [
+      {title: '身份与来历', text: '埃舒是约鲁巴传统中与传递信息、交换、道路和出人意料的转折相连的奥里沙，在神人与占卜沟通中具有重要位置。他会制造麻烦，也揭露理解的局限；不能把这种复杂角色直接翻译成基督宗教的魔鬼或纯粹恶神。'},
+      {title: '主要叙事', text: '著名的双色帽故事说，埃舒从两个朋友之间走过，两人各见帽子的一种颜色，争论对方说谎，甚至破坏友谊。埃舒再揭示帽子的两面，显出双方都把有限观察当成全貌。帽子的具体配色和冲突程度因版本而异，重点是视角与判断。'},
+      {title: '象征与辨识', text: '路口、门槛和传话的动作比单一外貌更能说明其位置，部分造像具有特别的发式或持杖。强调歧义并不等于说他毫无规范，而是提醒人们沟通需要谨慎。'},
+      {title: '流传与文化语境', text: '约鲁巴埃舒与丰人莱格巴、美洲埃莱瓜等存在历史联系，却不能未经说明就互作别名。殖民时代的魔鬼化翻译长期影响公众理解，介绍时应保留当地称呼以及各传统自己的角色区分。'}
+    ],
+    en: {name: 'Eshu', title: 'Orisha of communication, choice, and ambiguity', tags: ['Messenger', 'Crossroads', 'Interpretation'], sections: [
+      {title: 'Identity and Origins', text: 'Eshu is a Yoruba orisha associated with messages, exchange, roads, and unexpected turns. He occupies an important position in communication between humans and sacred powers, including divination. Creating trouble can expose failures of understanding; translating this complex role as the Christian devil seriously distorts its meaning.'},
+      {title: 'Principal Narratives', text: 'In the famous two-colored hat story, Eshu walks between two friends. Each sees a different side and insists that the other is lying, threatening their friendship. Revealing both sides exposes their incomplete perspectives. Colors and the severity of the quarrel differ, but limited judgment remains central.'},
+      {title: 'Symbols and Recognition', text: 'Crossroads, thresholds, and acts of carrying messages explain Eshu’s position better than a single standardized appearance. Particular sculptures feature distinctive hairstyles or staffs. Emphasizing ambiguity does not make him an embodiment of unrestricted chaos; it highlights how interpretation and communication require attention to context.'},
+      {title: 'Transmission and Cultural Context', text: 'Yoruba Eshu has historical connections with Fon Legba and American figures such as Elegua, but these names are not automatically interchangeable. Colonial demonizing translations continue to shape popular misunderstandings. Introductions should retain local names and respect the distinctions maintained within each living religious tradition.'}
+    ]}
+  },
+  {
+    id: 'west-africa-anansi', myth: 'west-africa', name: '阿南西', title: '阿坎故事中的蜘蛛智谋者', tags: ['阿坎', '蜘蛛故事', '智谋与失算'],
+    sections: [
+      {title: '身份与来历', text: '阿南西在加纳等地的阿坎口述传统中以蜘蛛或兼具人形的智谋者出现，其名与蜘蛛有关。他有妻儿，会饥饿、贪心和出丑，不能一概称为至高神。阿南西故事以家庭、交易和权力为舞台，既赞赏机智，也嘲笑自作聪明。'},
+      {title: '主要叙事', text: '购买天空之神尼亚梅的故事时，阿南西须交出难以捕获的动物。他用比长短的争论把蟒蛇绑在木杆上，用假装避雨的办法把黄蜂诱入容器，又以陷阱对付豹子。完成条件后，故事获得阿南西之名；猎物清单与妻子的参与随讲述而变化。'},
+      {title: '象征与辨识', text: '蜘蛛、多足形象、绳索和机巧的容器常让人想到阿南西，但他也会像普通人一样行动。判断关键是计谋及其反转，而不是把每一只蜘蛛都当成他的神圣化身。'},
+      {title: '流传与文化语境', text: '阿坎语中的阿南西故事属于活跃的讲述体裁，与听众回应及讲者发挥相连。大西洋奴隶贸易使其进入加勒比等地，形成阿南西、南希等新传统；这些版本不能抹去加纳阿坎社会的具体根基。'}
+    ],
+    en: {name: 'Anansi', title: 'Spider trickster of Akan storytelling', tags: ['Akan', 'Spider tales', 'Cunning and failure'], sections: [
+      {title: 'Identity and Origins', text: 'Anansi appears in Akan oral traditions of Ghana and neighboring areas as a spider or a figure combining spider and human characteristics. He has a family, becomes hungry, cheats, and fails. Calling him simply a supreme deity obscures stories concerned with households, bargaining, status, and comic reversal.'},
+      {title: 'Principal Narratives', text: 'To buy the sky deity Nyame’s stories, Anansi must capture formidable creatures. He ties a python to a pole through a length comparison, lures hornets into a container by pretending to offer shelter, and traps a leopard. Required creatures and his wife’s contribution vary across performances.'},
+      {title: 'Symbols and Recognition', text: 'Spider forms, multiple legs, ropes, and cleverly used containers can suggest Anansi, although he often behaves like an ordinary person. His identifying feature is the ingenious scheme and its possible reversal. Not every spider image represents him, and not every story celebrates his behavior.'},
+      {title: 'Transmission and Cultural Context', text: 'Akan Ananse storytelling is a living performance genre shaped by narrators and audience participation. The Atlantic slave trade carried related tales into Caribbean societies, where Anancy and Nancy traditions developed. Their creativity should be recognized without erasing the specific Akan settings from which these narrative histories emerged.'}
+    ]}
+  },
+  {
+    id: 'west-africa-nyame', myth: 'west-africa', name: '尼亚梅', title: '阿坎传统中的天空与至高者', tags: ['阿坎', '天空', '故事所有权'],
+    sections: [
+      {title: '身份与来历', text: '尼亚梅是阿坎传统中与天空及至高创造力量相连的名称，在不同语言地区与其他尊称的关系有所变化。他不是全西非共享的同一位天神。阿散蒂等阿坎社会的赞称、俗语和叙事，为理解其权威提供了具体文化背景。'},
+      {title: '主要叙事', text: '在阿南西购买故事的叙事里，故事最初属于尼亚梅。蜘蛛提出交易时，他要求难以捕获的蟒蛇、豹子和黄蜂等作为代价，并以此设置几乎不可能的考验。阿南西逐项交付后，他承认交易，让故事以蜘蛛之名流传；部分版本另加森林精灵。'},
+      {title: '象征与辨识', text: '天空的高度和故事的最初所有权突显其权威。名为杰尼亚梅的阿丁克拉符号常被解释为唯有上帝，表达至高者的独一地位，并不是对神身体外貌的画像。'},
+      {title: '流传与文化语境', text: '阿坎语言和基督宗教翻译也使用尼亚梅相关称呼，使传统与近现代宗教语汇产生交叠。分析时应说明讨论的是哪种讲述或用法，不能把教会中的词义直接等同所有前殖民时期的观念。'}
+    ],
+    en: {name: 'Nyame', title: 'Sky and supreme being in Akan traditions', tags: ['Akan', 'Sky', 'Ownership of stories'], sections: [
+      {title: 'Identity and Origins', text: 'Nyame is an Akan name associated with the sky and supreme creative power. Its relationship to other divine titles varies across language communities and contexts. Nyame is not a single sky god shared identically throughout West Africa; Asante praise expressions, proverbs, and narratives provide more specific cultural grounding.'},
+      {title: 'Principal Narratives', text: 'In the tale of Anansi purchasing stories, Nyame initially owns them. He sets an apparently impossible price involving creatures such as a python, leopard, and hornets. When Anansi delivers the required captives, Nyame acknowledges the transaction and releases the stories under the spider’s name; some versions add a forest spirit.'},
+      {title: 'Symbols and Recognition', text: 'The height of the sky and ownership of stories express Nyame’s authority. The adinkra design called Gye Nyame is commonly interpreted as except God or only God, affirming divine supremacy. It is a symbolic statement, not a portrait of the deity’s physical body or face.'},
+      {title: 'Transmission and Cultural Context', text: 'Names related to Nyame also occur in Akan Christian translation and contemporary religious speech, creating historical overlaps in vocabulary. Interpretation should identify the particular narrative or usage involved. A meaning established in a church translation cannot simply be projected onto every earlier Akan religious understanding.'}
+    ]}
+  },
+  {
+    id: 'west-africa-asase-yaa', myth: 'west-africa', name: '阿萨塞娅', title: '阿散蒂阿坎传统的土地力量', tags: ['阿坎', '大地', '星期四'],
+    sections: [
+      {title: '身份与来历', text: '阿萨塞娅是阿散蒂等阿坎传统中的大地神圣力量，名字中的娅对应星期四出生的女性名。她与土地的生产力、死者归土及人的道德责任相连。芳蒂等地可见阿萨塞埃富娅等称呼，关联星期五，不宜把日期统一。'},
+      {title: '主要叙事', text: '与阿南西不同，阿萨塞娅并不以一组固定冒险最为人熟知。公开记述更常描写人们在耕种前向大地致意、在郑重誓言中请土地见证，以及把埋葬理解为回归土地。她的叙事位置由播种、收获和死亡的往复显现，不应另编一场创造万物的战役。'},
+      {title: '象征与辨识', text: '耕地、土壤与承载生命的地面是核心线索，而不是固定动物或统一神像。阿散蒂一些地方以星期四限制下田劳动，提示土地具有应受尊重的时间与边界。'},
+      {title: '流传与文化语境', text: '土地信仰与阿坎地方共同体的农业、祖先观念及土地责任相联。休耕日和称谓因地区而异，现代实践也会改变。她不是非洲所有大地母神的总称，更不能被当作各地习俗完全相同的证明。'}
+    ],
+    en: {name: 'Asase Yaa', title: 'Sacred earth in Asante Akan traditions', tags: ['Akan', 'Earth', 'Thursday'], sections: [
+      {title: 'Identity and Origins', text: 'Asase Yaa personifies sacred earth in Asante and other Akan settings. Yaa is a female Thursday day-name. Her associations include agricultural fertility, the dead returning to earth, and human obligations. Fante contexts may instead use Asase Efua, linked with Friday, so the weekday should not be universalized.'},
+      {title: 'Principal Narratives', text: 'Unlike Anansi, Asase Yaa is not chiefly known through a fixed cycle of adventures. Public accounts more often describe acknowledging earth before cultivation, invoking it in solemn oaths, and understanding burial as a return to the ground. Her narrative significance emerges through planting, harvest, death, and continuing responsibility.'},
+      {title: 'Symbols and Recognition', text: 'Cultivated ground, soil, and the surface sustaining life are more useful identifiers than a standard animal or statue. Some Asante communities restrict farm work on Thursday. Such observances mark earth’s respected times and limits, but should not be turned into instructions supposedly binding on all Akan people.'},
+      {title: 'Transmission and Cultural Context', text: 'Earth traditions connect agriculture, ancestors, and responsibilities to land within particular Akan communities. Names and days of observance differ geographically, and contemporary practices change. Asase Yaa is not a collective label for every African earth mother, nor evidence that different societies share identical institutions or beliefs.'}
+    ]}
+  },
+  {
+    id: 'west-africa-aso', myth: 'west-africa', name: '阿索', title: '阿南西故事中的妻子与计谋伙伴', tags: ['阿坎故事人物', '家庭协作', '计谋建议'],
+    sections: [
+      {title: '身份与来历', text: '阿索是部分阿坎阿南西故事中蜘蛛的妻子，名字在转写中也作阿苏等形式。她首先是具有家庭身份的故事人物，并非固定神系中的女神。不同讲者赋予她的篇幅不等，有时她提供关键判断，有时只是家庭情节的参与者。'},
+      {title: '主要叙事', text: '在购买尼亚梅故事的一些版本里，阿南西把困难条件告诉阿索，她帮助把捕捉强敌改造成可操作的骗局。针对蟒蛇的办法，是假称夫妻正在争论蛇与木杆谁长，诱使蛇伸直，再把它绑住。各版本分配建议者角色不同，不能把每项计谋都归给她。'},
+      {title: '象征与辨识', text: '阿索没有广为公认的神圣徽记，通常由妻子身份、家中商议和提出办法的对白辨识。木杆、绳索只是相关故事道具，并不是她在阿坎宗教中的专属法器。'},
+      {title: '流传与文化语境', text: '关注阿索能看见蜘蛛成功背后的协作，也能比较讲述如何分配家庭中的智慧与功劳。不能据一篇童书概括阿坎妇女地位；采录、翻译与儿童改写都可能增删她的台词和作用，需要区分文本版本。'}
+    ],
+    en: {name: 'Aso', title: 'Anansi’s wife and partner in planning', tags: ['Akan story character', 'Household cooperation', 'Strategic advice'], sections: [
+      {title: 'Identity and Origins', text: 'Aso, also transcribed in other forms such as Asɔ, is Anansi’s wife in some Akan tales. She is primarily a character within a storytelling household, not an established goddess in a fixed pantheon. Narrators give her different degrees of agency, from decisive adviser to supporting family participant.'},
+      {title: 'Principal Narratives', text: 'In some versions of the purchase of Nyame’s stories, Anansi consults Aso about impossible demands. A python is tricked through a supposed marital disagreement over whether it is longer than a pole, then stretched out and bound. Attribution of this advice varies, so not every scheme should automatically be credited to her.'},
+      {title: 'Symbols and Recognition', text: 'Aso has no widely standardized sacred emblem. Her identity emerges through her relationship to Anansi, domestic discussion, and practical dialogue. The pole and ropes belong to particular narrative situations; they should not be presented as established personal ritual implements or evidence of a separate cult.'},
+      {title: 'Transmission and Cultural Context', text: 'Attending to Aso reveals cooperation behind the spider’s apparent individual triumph and invites comparison of how tellers distribute intelligence and credit. A single children’s adaptation cannot establish Akan women’s social position. Collection, translation, and rewriting may expand or remove her dialogue and practical contribution.'}
+    ]}
+  },
+  {
+    id: 'west-africa-ntikuma', myth: 'west-africa', name: '恩蒂库马', title: '看破智慧罐难题的阿南西之子', tags: ['阿坎故事人物', '智慧罐', '儿童见识'],
+    sections: [
+      {title: '身份与来历', text: '恩蒂库马是若干阿坎阿南西故事中蜘蛛的儿子，名字有多种拉丁字母转写。他不是掌管智慧的神，而是以孩子身份显露父亲盲点的人物。其作用依赖亲子关系：年长者自认掌握一切，却可能需要听取年轻人的朴素建议。'},
+      {title: '主要叙事', text: '阿南西想把天下智慧装进罐里，独占后藏到树顶。他把罐子挂在胸前，攀树时不断被挡住；树下的恩蒂库马建议把罐移到背后。蜘蛛发现自称拥有全部智慧仍会被孩子提醒，恼怒或震惊之下使罐子破裂，智慧散入人间，结尾细节随版本变化。'},
+      {title: '象征与辨识', text: '胸前妨碍攀爬的罐子、树干与孩子的简单建议构成辨识场景。智慧不再由单一长者垄断是故事的反讽，而不是宣称恩蒂库马拥有一套固定的神圣权能。'},
+      {title: '流传与文化语境', text: '智慧罐故事在阿坎口传及世界各地改写中广为流通，儿子名字有时被省略。比较版本应注意罐如何破碎、智慧如何传播，以及孩子是否具名；这些变化影响道德重点，不能当成无关紧要的装饰。'}
+    ],
+    en: {name: 'Ntikuma', title: 'Anansi’s son who sees the wisdom-pot problem', tags: ['Akan story character', 'Pot of wisdom', 'A child’s insight'], sections: [
+      {title: 'Identity and Origins', text: 'Ntikuma is a son of Anansi in a number of Akan tales, with several spellings in transcription. He is not a god governing wisdom. His narrative importance lies in the family relationship: a father claiming superior knowledge encounters an insight supplied by a younger and apparently less authoritative person.'},
+      {title: 'Principal Narratives', text: 'Anansi collects wisdom in a pot and tries to hide it high in a tree, but the pot strapped against his chest obstructs climbing. Ntikuma suggests moving it behind him. Discovering that complete wisdom still requires a child’s advice, Anansi loses the pot, releasing wisdom; the precise ending varies.'},
+      {title: 'Symbols and Recognition', text: 'The obstructing pot, tree trunk, and child’s practical suggestion form the recognizable scene. Its irony challenges any elder’s claim to monopolize understanding. These narrative objects should not be converted into divine attributes, and Ntikuma should not be assigned supernatural offices unsupported by the tale.'},
+      {title: 'Transmission and Cultural Context', text: 'The wisdom-pot tale circulates in Akan performance and international adaptations, sometimes without naming the son. Comparing versions requires attention to how the vessel breaks, how wisdom spreads, and whether the child receives credit. Such variations shape the lesson rather than merely decorating an otherwise identical story.'}
+    ]}
+  },
+  {
+    id: 'west-africa-osebo', myth: 'west-africa', name: '奥塞博', title: '被阿南西智取的故事豹子', tags: ['阿坎故事人物', '豹子', '力量与计谋'],
+    sections: [
+      {title: '身份与来历', text: '奥塞博是阿南西购买故事的一类阿坎叙事中具名的豹子，名字也与阿坎语豹子称呼相关。他是危险的动物对手，并非全西非崇拜的豹神。其强壮和利爪抬高任务难度，让弱小蜘蛛的计谋显得格外出人意料。'},
+      {title: '主要叙事', text: '尼亚梅索取的代价包括豹子时，阿南西在其经过的路上设置覆有枝叶的深坑。豹子落入后，蜘蛛假意营救，要它借助木棍或固定四肢以便拉起，乘机将它捆住带走。救助变成捕获是这段故事的核心，具体捆绑方法则随讲述有所变化。'},
+      {title: '象征与辨识', text: '斑点皮毛、利爪、陷坑和假营救构成主要线索。豹子体现体力优势在特定局面中的失效，但不能因此声称阿坎文化始终轻视豹子，其他语境可赋予它威严。'},
+      {title: '流传与文化语境', text: '奥塞博主要应放在阿南西的交易故事中介绍，而不是添入并不存在的统一神族谱系。部分简写本只说豹子而不保留名字；把名字恢复出来有助于辨认具体传统，但不代表角色必有独立祭祀。'}
+    ],
+    en: {name: 'Osebo', title: 'The leopard outwitted in Anansi’s story bargain', tags: ['Akan story character', 'Leopard', 'Strength and cunning'], sections: [
+      {title: 'Identity and Origins', text: 'Osebo is the named leopard in a family of Akan accounts about Anansi purchasing stories. The name is related to the Akan word for leopard. He is a dangerous animal opponent, not a universal West African leopard deity; his strength makes the small spider’s challenge seem particularly formidable.'},
+      {title: 'Principal Narratives', text: 'When Nyame’s price includes a leopard, Anansi prepares a concealed pit along its route. After Osebo falls in, the spider pretends to help him escape, using sticks or instructions about securing his limbs to gain control. Rescue becomes capture, although the exact mechanics of binding differ between tellings.'},
+      {title: 'Symbols and Recognition', text: 'Spotted fur, claws, a concealed pit, and a deceptive rescue identify this episode. The leopard demonstrates how bodily advantage can fail under particular circumstances. This does not mean Akan societies always disparage leopards, since other contexts can associate the animal with authority and formidable dignity.'},
+      {title: 'Transmission and Cultural Context', text: 'Osebo belongs within the narrative setting of Anansi’s bargain rather than an invented genealogy of gods. Some shortened retellings retain only an unnamed leopard. Preserving his name helps identify a specific story tradition, but a named character does not necessarily possess an independent cult or worship.'}
+    ]}
+  },
+  {
+    id: 'polynesia-maui', myth: 'polynesia', name: '毛伊', title: '奥特亚罗瓦毛利叙事中的钓岛英雄', tags: ['毛利版本', '钓起北岛', '机智祖先'],
+    sections: [
+      {title: '身份与来历', text: '毛伊是许多波利尼西亚传统中的英雄，本条聚焦奥特亚罗瓦新西兰的毛利版本。毛伊提基提基阿塔朗加的长名关联母亲塔朗加及发髻故事。他兼具神奇祖先与顽皮智谋者特征，不能把夏威夷等岛群的家世全部并入。'},
+      {title: '主要叙事', text: '毛利的一类钓岛故事说，兄长不愿带毛伊出海，他偷偷藏进船中，再用祖先穆里朗加费努阿的颚骨作钩钓起巨鱼。兄长们急于切割鱼身，使其形成崎岖地貌；北岛因此称毛伊之鱼。南岛与独木舟的关联另有讲述，不能把全部地理细节视为通说。'},
+      {title: '象征与辨识', text: '颚骨鱼钩、独木舟和巨鱼是此版本的主要标识，套住太阳则属于另一著名故事。现代商业角色的纹身与造型是改编设计，不等于毛利各部族共享的形象。'},
+      {title: '流传与文化语境', text: '毛利部族与家族保有各自的谱系、地名解释和讲述权威。钓岛叙事连接祖先与土地，不只是供娱乐的冒险；与夏威夷或汤加毛伊比较时，应明确岛群、讲者背景及叙事之间的实际差别。'}
+    ],
+    en: {name: 'Maui', title: 'Fishing-up hero in Aotearoa Maori narratives', tags: ['Maori versions', 'Fishing up the North Island', 'Clever ancestor'], sections: [
+      {title: 'Identity and Origins', text: 'Maui appears across Polynesian traditions, but this entry centers on Maori accounts from Aotearoa New Zealand. The name Maui-tikitiki-a-Taranga recalls his mother Taranga and a topknot narrative. He combines extraordinary ancestry with mischievous ingenuity; Hawaiian or other island genealogies should not be added indiscriminately to this version.'},
+      {title: 'Principal Narratives', text: 'In a Maori fishing account, Maui hides in his brothers’ canoe and uses the ancestral jawbone of Muri-ranga-whenua as a hook. He raises an immense fish, which his brothers cut prematurely, producing rough terrain. The North Island is called Te Ika-a-Maui; associated canoe geography varies among traditions.'},
+      {title: 'Symbols and Recognition', text: 'The jawbone hook, canoe, and immense fish distinguish this narrative. Snaring the sun belongs to another celebrated Maui episode. Tattoos, body shapes, and accessories in contemporary commercial adaptations are creative designs, not a reliable collective portrait authorized by all Maori iwi or other Polynesian communities.'},
+      {title: 'Transmission and Cultural Context', text: 'Maori iwi and families maintain particular genealogies, place associations, and storytelling authority. Fishing-up narratives connect ancestors and land rather than functioning merely as entertainment. Comparisons with Hawaiian or Tongan Maui accounts should identify island setting, narrator background, and meaningful differences instead of constructing one seamless pan-Polynesian biography.'}
+    ]}
+  },
+  {
+    id: 'polynesia-hina', myth: 'polynesia', name: '希娜', title: '夏威夷月中制布者与相关女性名号', tags: ['夏威夷版本', '月亮', '卡帕树皮布'],
+    sections: [
+      {title: '身份与来历', text: '希娜是波利尼西亚多地女性人物使用的名字，本条只介绍夏威夷公开叙事中的月中希娜及毛伊母亲的相关版本。名字相同不证明所有人物原本是一人，也不能把塔希提、库克群岛或毛利希娜的家世直接拼接进来。'},
+      {title: '主要叙事', text: '一些夏威夷讲述把月面明暗解释为希娜及其制布工具，呈现月中的树皮布制作者。另一类毛伊套太阳故事写母亲希娜制作的卡帕布来不及晒干，儿子于是约束飞快运行的太阳，使白昼延长。两组材料可以并读，但不必强行写成连续生平。'},
+      {title: '象征与辨识', text: '月面、木槌、砧板与卡帕布是公开故事中可辨认的线索。卡帕是经过处理和捶打的树皮布，不是织机织出的棉布；劳动细节比笼统的月亮女神标签更具体。'},
+      {title: '流传与文化语境', text: '夏威夷语中的希娜相关复合名可指不同人物，其关系应由具体文本说明。月亮、女性劳动与谱系在不同岛群有不同联系；旅游改写常合并同名人物，阅读时须保留夏威夷版本及其边界。'}
+    ],
+    en: {name: 'Hina', title: 'Hawaiian lunar kapa maker and related female names', tags: ['Hawaiian versions', 'Moon', 'Kapa making'], sections: [
+      {title: 'Identity and Origins', text: 'Hina names female figures in many Polynesian societies. This entry concerns publicly circulated Hawaiian accounts of a lunar Hina and versions naming Maui’s mother Hina. A shared name does not prove a single original person, and genealogies from Tahiti, the Cook Islands, or Maori traditions should remain distinct.'},
+      {title: 'Principal Narratives', text: 'Some Hawaiian accounts read the moon’s markings as Hina with her kapa-making equipment. In another narrative family, Maui’s mother cannot dry her kapa because daylight passes too quickly, prompting him to restrain the sun. These materials can be compared without forcing them into one continuous life story.'},
+      {title: 'Symbols and Recognition', text: 'The moon, wooden beaters, an anvil, and kapa identify publicly told episodes. Kapa is barkcloth produced through processing and beating, not cotton cloth woven on a loom. Recognizing this labor gives more cultural substance than attaching only a generalized label such as moon goddess.'},
+      {title: 'Transmission and Cultural Context', text: 'Hawaiian compound names containing Hina may identify different figures whose relationships require specific textual evidence. Lunar associations, women’s work, and genealogy intersect differently across island groups. Tourist retellings often merge namesakes, so a responsible account preserves its Hawaiian setting and acknowledges the limits of the selected version.'}
+    ]}
+  },
+  {
+    id: 'polynesia-tangaroa', myth: 'polynesia', name: '唐加罗瓦', title: '毛利版本中的海洋与水族祖先', tags: ['毛利版本', '海洋', '亲族冲突'],
+    sections: [
+      {title: '身份与来历', text: '唐加罗瓦在本条采用奥特亚罗瓦毛利叙事，为朗吉努伊与帕帕图阿努库之子，与海洋及鱼类谱系相连。其他岛群的坦加罗阿或塔阿罗阿有不同创造地位和亲缘，不能因名称相近就认定本条人物也在所有地方创造宇宙。'},
+      {title: '主要叙事', text: '天地父母分离后，风暴兄弟塔菲里马泰阿愤怒来袭。唐加罗瓦的后代在危机中分道，鱼类祖先伊卡泰雷逃向海里，爬行动物祖先图特韦希韦希转入森林。由此海与林的亲属产生冲突，塔内的后代又以舟、钩和网向海中捕鱼，延续彼此的牵连。'},
+      {title: '象征与辨识', text: '海水、鱼群、渔网与独木舟提示他与水域及亲族交换的关系，而非固定的三叉戟。库克群岛某些著名木雕有当地身份，不能无说明地充作毛利版本的标准像。'},
+      {title: '流传与文化语境', text: '毛利不同部族保存各自的创世谱系和海域关系，本条只概述常见的亲族冲突框架。捕鱼不是与自然对立的单纯征服，而能被叙述为亲属间复杂往来；跨岛比较应分别说明名字、地位和版本来源。'}
+    ],
+    en: {name: 'Tangaroa', title: 'Sea and aquatic ancestor in Maori versions', tags: ['Maori versions', 'Sea', 'Kinship conflict'], sections: [
+      {title: 'Identity and Origins', text: 'This entry follows Maori accounts from Aotearoa, where Tangaroa is a child of Ranginui and Papatuanuku and is associated with the sea and fish genealogies. Related names elsewhere, including Tangaloa and Taaroa, can carry different creative roles. Similar spelling does not establish identical status across Polynesia.'},
+      {title: 'Principal Narratives', text: 'After the separation of sky and earth, the storm brother Tawhirimatea attacks. Tangaroa’s descendants divide: Ikatere, ancestor of fish, seeks the sea, while Tu-te-wehiwehi, associated with reptiles, seeks the forest. Their divided refuge creates conflict, while Tane’s descendants enter the sea using canoes, hooks, and nets.'},
+      {title: 'Symbols and Recognition', text: 'Sea water, fish, nets, and canoes suggest Tangaroa’s relationships with aquatic life and kinship exchange. A classical trident is not a standard identifier. Famous carvings from particular Cook Islands traditions have their own local identities and should not silently illustrate an allegedly universal Maori appearance.'},
+      {title: 'Transmission and Cultural Context', text: 'Different Maori iwi preserve their own creation genealogies and relationships to marine places. This account summarizes a widely circulated framework, not every version. Fishing can be narrated as a complicated transaction among relatives rather than simple conquest of nature; comparisons across islands must identify distinct names, roles, and sources.'}
+    ]}
+  },
+  {
+    id: 'polynesia-tane', myth: 'polynesia', name: '塔内', title: '毛利天地分离与森林生命的祖先', tags: ['毛利版本', '森林与鸟', '天地分离'],
+    sections: [
+      {title: '身份与来历', text: '塔内在奥特亚罗瓦毛利传统中是朗吉努伊与帕帕图阿努库之子，常以塔内马胡塔等名号关联森林和鸟类。他的角色随部族与叙事而异，既涉及天地关系也涉及人的来历，不能与塔希提或夏威夷近似名称无条件互换。'},
+      {title: '主要叙事', text: '天地父母紧密相抱，子女生活在黑暗中，兄弟们商议如何获得光明。一类毛利版本写塔内仰卧，把肩背抵住大地，以双腿撑开天空，终于分离父母，让光进入世界。另一些叙事还讲他以土塑造希内阿胡奥内并赋予气息，但细节和谱系各有传承。'},
+      {title: '象征与辨识', text: '高树、林鸟与向上伸展的枝干适合说明森林与撑天的关联。名为塔内马胡塔的著名贝壳杉位于怀波瓦森林，但活树、叙事祖先及其名称的关系不应简化成偶像。'},
+      {title: '流传与文化语境', text: '毛利的森林谱系把树木、鸟类和人放入关系网络，不能仅译作管辖木材的森林神。公共创世介绍可帮助理解相关地名和生态责任；涉及具体部族知识、场所解释与叙事权威时，仍须听取当地说明。'}
+    ],
+    en: {name: 'Tane', title: 'Maori ancestor of forests and the separated world', tags: ['Maori versions', 'Forests and birds', 'Separating sky and earth'], sections: [
+      {title: 'Identity and Origins', text: 'In Maori traditions of Aotearoa, Tane is a child of Ranginui and Papatuanuku, associated with forests and birds through names including Tane Mahuta. His roles concern cosmic relationships and human origins, with variation among iwi. Similar names in Tahiti or Hawaii do not authorize treating every figure as identical.'},
+      {title: 'Principal Narratives', text: 'The sky father and earth mother embrace so closely that their children live in darkness. In one widely told account, Tane braces against earth and pushes sky upward with his legs, admitting light. Other narratives describe his forming Hineahuone from earth and giving breath, with locally transmitted details.'},
+      {title: 'Symbols and Recognition', text: 'Tall trees, forest birds, and upward-reaching branches express connections between forest life and the raising of the sky. The celebrated kauri named Tane Mahuta stands in Waipoua Forest. The living tree, ancestral figure, and act of naming should not be flattened into a simple notion of an idol.'},
+      {title: 'Transmission and Cultural Context', text: 'Maori forest genealogies place trees, birds, and people within relationships, exceeding the idea of a god who merely controls timber. Public creation accounts illuminate place names and ecological responsibilities. Specific iwi knowledge, interpretations of sites, and authority to tell particular narratives still require attention to local guidance.'}
+    ]}
+  },
+  {
+    id: 'polynesia-pele', myth: 'polynesia', name: '佩蕾', title: '夏威夷火山与熔岩力量的阿库阿', tags: ['夏威夷群岛', '基拉韦厄', '火山与家族'],
+    sections: [
+      {title: '身份与来历', text: '佩蕾是夏威夷原住民传统中与火山、熔岩及土地生成相连的阿库阿，基拉韦厄及哈莱茂茂火山口与她关系深厚。她拥有姐妹与其他亲属，并非波利尼西亚各岛普遍共享的火神；其家族关系必须放在夏威夷版本内理解。'},
+      {title: '主要叙事', text: '一类公开迁徙故事写佩蕾从卡希基而来，与海水力量相关的姐姐纳玛卡奥卡哈伊发生冲突。她在不同岛屿掘地寻找适合火焰居住的地方，却不断受到海水追逼，最后在夏威夷大岛找到深处的火山居所。路线、争端缘由与结局均有不同讲述。'},
+      {title: '象征与辨识', text: '熔岩、火山口与新生陆地是核心线索，她也会在故事中以不同年龄的女性出现。火山女神的单一艳丽画像不能取代家族、地名及地貌共同构成的辨识背景。'},
+      {title: '流传与文化语境', text: '佩蕾对许多夏威夷原住民而言是活的宗教与亲缘关系，而不只是旅游吉祥物。公开故事可与火山科学并置阅读，但不能把神圣地景当作任意取物或摆拍的场地，应尊重当地社区与管理规定。'}
+    ],
+    en: {name: 'Pele', title: 'Hawaiian akua of volcanoes and lava', tags: ['Hawaiian Islands', 'Kilauea', 'Volcanic kinship'], sections: [
+      {title: 'Identity and Origins', text: 'Pele is a Hawaiian akua associated with volcanoes, lava, and the formation of land. Kilauea and Halemaumau are especially significant places in her traditions. Her sisters and other relatives belong within Hawaiian genealogies; she is not a fire goddess universally shared by every island society in Polynesia.'},
+      {title: 'Principal Narratives', text: 'One publicly circulated migration cycle brings Pele from Kahiki into conflict with her sea-associated elder sister, Namakaokahai. Pele digs for a suitable fiery home on successive islands but encounters pursuing seawater, eventually finding volcanic depths on Hawaii Island. Routes, motives, and the conflict’s resolution differ among narrators.'},
+      {title: 'Symbols and Recognition', text: 'Lava, craters, and newly formed land are central identifying features. Stories also present Pele as women of different ages and appearances. A single glamorous portrait of a volcano goddess cannot replace the network of relatives, place names, and landforms through which Hawaiian accounts identify her.'},
+      {title: 'Transmission and Cultural Context', text: 'For many Native Hawaiians, Pele remains part of living religious and familial relationships, not merely a tourism mascot. Public stories can be read alongside volcanology without erasing either framework. Sacred landscapes are not unrestricted sources of souvenirs or backdrops for performance; community expectations and site rules matter.'}
+    ]}
+  },
+  {
+    id: 'polynesia-ruaumoko', myth: 'polynesia', name: '鲁阿乌莫科', title: '毛利大地深处的震动之子', tags: ['毛利版本', '地震', '帕帕图阿努库'],
+    sections: [
+      {title: '身份与来历', text: '鲁阿乌莫科在若干奥特亚罗瓦毛利叙事中是天地父母最幼小的孩子，留在大地母亲帕帕图阿努库体内或怀中。他与地震及地下火热相连；未出生、尚在哺育等描述属于不同讲述，不应拼成一个所有部族一致接受的设定。'},
+      {title: '主要叙事', text: '天地父母被分开、世界获得光明时，幼子没有像兄长们那样离开母亲。有些讲述说大地母亲后来被翻转，孩子随她留在地下，他的活动使地面震动，地下的温热也与他相连。这把地震放进家族分离的后续情节，而不是安排他持武器与海神作战。'},
+      {title: '象征与辨识', text: '大地的震动、地下温热与仍贴近母亲的幼子关系是主要标识，并无跨部族统一武器或肖像。不能借现代影视图像，为这一人物增添未经叙事支持的外貌。'},
+      {title: '流传与文化语境', text: '鲁阿乌莫科的故事属于毛利关于土地、亲属与自然过程的知识脉络，并不是整个太平洋共同的地震解释。不同部族保有版本差异；介绍公开叙事时，也应将其文化意义与现代地震学的说明层次区分。'}
+    ],
+    en: {name: 'Ruaumoko', title: 'Maori youngest child within the moving earth', tags: ['Maori versions', 'Earthquakes', 'Papatuanuku'], sections: [
+      {title: 'Identity and Origins', text: 'In several Maori traditions from Aotearoa, Ruaumoko is the youngest child of the sky and earth parents, remaining within or closely held by Papatuanuku. He is associated with earthquakes and underground heat. Descriptions as unborn or still nursing represent variations, not details universally accepted by every iwi.'},
+      {title: 'Principal Narratives', text: 'When the parents separate and light enters the world, their youngest child does not leave with his elder siblings. Some accounts describe earth being turned over, carrying him below. His movements produce earthquakes, while subterranean warmth is also associated with him, extending a family narrative rather than a battle with a sea god.'},
+      {title: 'Symbols and Recognition', text: 'Ground movement, underground warmth, and the youngest child’s continuing closeness to his mother provide the clearest identifiers. There is no single cross-iwi weapon or standardized portrait. Modern screen imagery should not be used to add an unsupported body shape, costume, or personal arsenal to these accounts.'},
+      {title: 'Transmission and Cultural Context', text: 'Ruaumoko belongs within Maori relationships among land, kin, and natural processes, not a single earthquake explanation shared throughout the Pacific. Iwi preserve different versions and emphases. Presenting public narratives responsibly means acknowledging their cultural significance while distinguishing their interpretive framework from the explanatory methods of modern seismology.'}
+    ]}
+  },
+  {
+    id: 'aboriginal-bunjil', myth: 'aboriginal', name: '邦吉尔', title: '维多利亚库林传统中的楔尾鹰祖先', tags: ['库林诸族', '楔尾鹰', '公开创世叙事'],
+    sections: [
+      {title: '身份与来历', text: '邦吉尔是澳大利亚东南部维多利亚库林诸族公开传统中的创造祖先，常以楔尾鹰形象辨识。乌伦杰里等共同体各有自己的讲述与权威。他不是所有澳洲原住民共同的最高神，也不能用一个欧洲宗教称号取代其与土地的亲属关系。'},
+      {title: '主要叙事', text: '公开采录中的一些故事说，邦吉尔塑成土地与生命，以泥土造出人形并赋予气息，随后安排人们在地上生活。其他公开讲述强调他完成工作后上升天空。人物、地点和次序会变化，这些材料不构成可任意补齐的统一经书，更不能用来推演未公开仪式。'},
+      {title: '象征与辨识', text: '楔形尾羽的大型鹰是主要辨识线索。维多利亚公开介绍的邦吉尔岩画庇护处还呈现他与两只犬的图像，但特定遗产图像不等于所有库林共同体唯一的标准像。'},
+      {title: '流传与文化语境', text: '邦吉尔与瓦阿在一些库林社会的两半群关系中具有重要位置，但组织细节依共同体解释。这里只采用公开创世与遗产概述；参访、复制图像及讲述使用仍须遵守传统守护者和遗产场所的要求。'}
+    ],
+    en: {name: 'Bunjil', title: 'Wedge-tailed eagle ancestor in Kulin traditions', tags: ['Kulin peoples', 'Wedge-tailed eagle', 'Public creation accounts'], sections: [
+      {title: 'Identity and Origins', text: 'Bunjil is a creator ancestor in publicly shared traditions of Kulin peoples in southeastern Victoria, commonly identified with the wedge-tailed eagle. Wurundjeri and other communities maintain their own accounts and authority. He is not a supreme god shared by all Aboriginal Australians, nor simply an equivalent of a European deity.'},
+      {title: 'Principal Narratives', text: 'Some publicly recorded accounts describe Bunjil shaping land and living beings, forming human bodies from earth and giving them breath. Others emphasize his ascent into the sky after completing his work. People, locations, and sequences vary; these accounts cannot authorize reconstructing a universal scripture or inventing undisclosed ceremonial episodes.'},
+      {title: 'Symbols and Recognition', text: 'The large eagle with its distinctive wedge-shaped tail is the principal identifier. Public heritage descriptions of Bunjil’s Shelter in Victoria also discuss a figure with two dogs. That particular heritage image should not be treated as the sole standard representation accepted by every Kulin community.'},
+      {title: 'Transmission and Cultural Context', text: 'Bunjil and Waa have important relationships with moiety organization in some Kulin societies, interpreted through community-specific knowledge. This entry uses only public creation and heritage summaries. Visiting sites, reproducing images, or reusing stories still requires following the expectations of Traditional Owners and the relevant heritage custodians.'}
+    ]}
+  },
+  {
+    id: 'aboriginal-waa', myth: 'aboriginal', name: '瓦阿', title: '库林传统中的乌鸦祖先与取火者', tags: ['库林诸族', '乌鸦', '公开取火故事'],
+    sections: [
+      {title: '身份与来历', text: '瓦阿是维多利亚库林诸族公开传统中的乌鸦祖先，名字有瓦昂等转写，与邦吉尔常在两半群关系中并列。这里聚焦乌伦杰里等公开流传的取火故事，不把其他语言族群的乌鸦人物直接归入同一身份或同一套社会制度。'},
+      {title: '主要叙事', text: '一类公开的库林故事说，卡拉特古尔克六位女性守有火种，藏在挖掘工具上。瓦阿设法使她们放下工具，取得火种并让火进入更多人的生活；他的羽毛也在火中变黑。六位女性后来与昴星团相连，具体谋略和火焰扩散的描写随公开版本变化。'},
+      {title: '象征与辨识', text: '黑色乌鸦、火种与挖掘工具形成这个故事的辨识场景。乌鸦不应只被贴上邪恶标签；取火、机智以及与邦吉尔相对而相联的社会位置，需要放在当地语境理解。'},
+      {title: '流传与文化语境', text: '库林各共同体对名称、亲属联系及故事使用拥有自身权威。公开取火故事可以介绍共享资源与行为后果，却不能据此推导婚姻规则或仪式程序；学校改写也不自动拥有代表所有传统守护者的资格。'}
+    ],
+    en: {name: 'Waa', title: 'Crow ancestor and fire-bringer in Kulin traditions', tags: ['Kulin peoples', 'Crow', 'Public fire story'], sections: [
+      {title: 'Identity and Origins', text: 'Waa, also rendered through spellings such as Waang, is a crow ancestor in Kulin traditions of Victoria and is often paired with Bunjil through moiety relationships. This entry centers on publicly circulated Wurundjeri and related fire narratives, not every crow figure or social system across Aboriginal Australia.'},
+      {title: 'Principal Narratives', text: 'In one publicly shared Kulin narrative, six Karatgurk women keep fire on their digging implements. Waa contrives to obtain it when they put the tools down, bringing fire into wider human use and blackening his feathers. The women become associated with the Pleiades; particular stratagems and spreading flames vary by version.'},
+      {title: 'Symbols and Recognition', text: 'A black crow, fire, and digging implements identify this narrative setting. Crow should not simply be labeled evil: acquiring fire, displaying ingenuity, and occupying a complementary social position alongside Bunjil have meanings grounded locally. None of these motifs establishes a universal Aboriginal crow personality.'},
+      {title: 'Transmission and Cultural Context', text: 'Kulin communities hold their own authority concerning names, kin connections, and appropriate storytelling. Public fire accounts can illuminate shared resources and consequences of conduct, but they do not authorize deriving marriage regulations or ceremonial procedures. A school adaptation does not automatically speak for every Traditional Owner.'}
+    ]}
+  },
+  {
+    id: 'aboriginal-baiame', myth: 'aboriginal', name: '拜阿米', title: '新南威尔士若干族群的创造祖先', tags: ['维拉朱里与加米拉雷', '天空祖先', '公开地方传统'],
+    sections: [
+      {title: '身份与来历', text: '拜阿米见于维拉朱里、加米拉雷及新南威尔士其他共同体的公开记述，名称也有拜亚米等拼写。各语言族群的身份解释并不完全相同。他常被称作创造祖先或天空祖先，但不是全澳统一神系的主神，也不能只靠英文译名界定。'},
+      {title: '主要叙事', text: '公开概述常说拜阿米在大地上行走，形成山川与生活场所，并建立人们相处的秩序，随后进入天空。旺纳鲁阿地区米尔布罗代尔附近的公开遗产介绍，也把一幅张开双臂的人形岩画与他联系。岩画的地方意义须由守护者说明，不能据图补写秘密事件。'},
+      {title: '象征与辨识', text: '天空、塑造地貌的旅程及特定地方的人形图像是公开辨识线索。张臂岩画属于具体地点，不能当成所有族群认可的标准肖像，图像再利用也不等于已获许可。'},
+      {title: '流传与文化语境', text: '早期殖民记录常以造物主或天父翻译拜阿米，可能带入欧洲宗教预设。这里只概述公开的土地与祖先关系，不描述受限场合；理解地方叙事应优先采用相关传统守护者公开提供的解释。'}
+    ],
+    en: {name: 'Baiame', title: 'Creator ancestor in several New South Wales traditions', tags: ['Wiradjuri and Gamilaraay', 'Sky ancestor', 'Public local traditions'], sections: [
+      {title: 'Identity and Origins', text: 'Baiame, with spellings including Byamee, appears in public accounts associated with Wiradjuri, Gamilaraay, and other New South Wales communities. Interpretations differ among language groups. Terms such as creator ancestor or sky ancestor are useful introductions, but do not establish a pan-Australian high god or fully define local relationships.'},
+      {title: 'Principal Narratives', text: 'Public summaries describe Baiame traveling across land, shaping geographical features and places of life, establishing social order, and later entering the sky. Public heritage interpretation near Milbrodale in Wonnarua Country links an outstretched human figure with him. Local custodians explain its significance; the image does not authorize invented secret episodes.'},
+      {title: 'Symbols and Recognition', text: 'Sky associations, landscape-forming journeys, and particular local human images provide public points of recognition. An outstretched figure at one site is not a standardized portrait endorsed by all communities. Public visibility or reproduction in a book also does not automatically permit further copying or commercial use.'},
+      {title: 'Transmission and Cultural Context', text: 'Colonial records often translated Baiame as creator or heavenly father, potentially importing European religious assumptions. This entry summarizes publicly shared connections between ancestry and Country without describing restricted occasions. Understanding a local narrative should prioritize explanations that the relevant Traditional Owners have chosen to make public.'}
+    ]}
+  },
+  {
+    id: 'aboriginal-daramulum', myth: 'aboriginal', name: '达拉穆伦', title: '尤因等东南部传统中的祖先人物', tags: ['尤因等东南部族群', '地方祖先', '公开知识边界'],
+    sections: [
+      {title: '身份与来历', text: '达拉穆伦见于尤因及澳大利亚东南部若干族群的公开记述，名字存在多种拼写。部分资料将他与拜阿米联系，另一些突出其自身祖先权威。这些说法不能合成全澳共同谱系，也不意味着不同语言族群共享完全相同的叙事权限。'},
+      {title: '主要叙事', text: '公开尤因概述把达拉穆伦描述为曾在地上活动、与生活秩序相连，后来居于天空的祖先。其他地方记述把他放在拜阿米的后代位置。这里保留两种公开叙述的差别，不把它们强接为父子历险，也不复述与受限传授有关的器物、声音或仪式情节。'},
+      {title: '象征与辨识', text: '独腿形象出现在某些公开释义和图像讨论中，但并不是可移用于所有地区的定式。名字译义、岩刻识别和身体特征的解释，都必须带着具体语言及地点背景。'},
+      {title: '流传与文化语境', text: '早期人类学文本常越过今天强调的知识边界，因此已经出版不等于适合再次传播。学习可从族群所在地、公开祖先观和殖民记述差异入手；进一步内容应以相关共同体主动公开和授权为准。'}
+    ],
+    en: {name: 'Daramulum', title: 'Ancestral figure in Yuin and other southeastern traditions', tags: ['Yuin and southeastern peoples', 'Local ancestral authority', 'Public knowledge boundaries'], sections: [
+      {title: 'Identity and Origins', text: 'Daramulum appears under several spellings in public accounts concerning Yuin and other southeastern Australian peoples. Some sources connect him genealogically with Baiame; others emphasize his own ancestral authority. These accounts cannot be assembled into a universal Australian family tree or assumed to share identical permissions for transmission.'},
+      {title: 'Principal Narratives', text: 'Public Yuin summaries describe Daramulum as an ancestor who acted on earth, was associated with social order, and later dwelt in the sky. Other regional accounts position him as Baiame’s offspring. This entry preserves that difference without inventing joint adventures or repeating restricted objects, sounds, or ceremonial episodes.'},
+      {title: 'Symbols and Recognition', text: 'A one-legged appearance occurs in some public interpretations and discussions of images, but it is not a template transferable to every region. Translations of his name, identification of engravings, and explanations of bodily features require their particular language and place contexts rather than generalized visual certainty.'},
+      {title: 'Transmission and Cultural Context', text: 'Early anthropological publications sometimes crossed boundaries now explicitly recognized by communities, so previous publication does not guarantee appropriate republication. Learning can begin with regional geography, publicly shared ancestral concepts, and differences in colonial records. Further content should depend on what relevant communities actively choose to share and authorize.'}
+    ]}
+  },
+  {
+    id: 'aboriginal-rainbow-serpent', myth: 'aboriginal', name: '公开虹蛇母题', title: '不同族群水域祖先形象的比较标签', tags: ['努恩加尔与昆温库', '水域与土地', '非统一神祇'],
+    sections: [
+      {title: '身份与来历', text: '虹蛇是英语和中文中常用的比较标签，不是一位全澳统一神祇的本名。公开材料可分别讨论西南澳努恩加尔的瓦吉尔，以及西阿纳姆地昆温库等传统中的恩加约德；两者拥有各自的土地、语言与传统守护者，不能视作同一人。'},
+      {title: '主要叙事', text: '努恩加尔公开叙事把瓦吉尔在大地上的移动与德巴尔耶里根即天鹅河等水道的形成联系起来。西阿纳姆地的公开介绍则常把恩加约德与水洼、雨水和生命的生成相连。这里并列具体母题，而不把两地故事拼成一次横跨大陆的旅行或共同创世战争。'},
+      {title: '象征与辨识', text: '蛇形身体、水道与雨季联系是常见线索；角、混合动物特征或色彩会因传统而变。彩虹条纹并非必备外貌，任意蛇形图案也不能未经语境确认就称为虹蛇。'},
+      {title: '流传与文化语境', text: '学校与博物馆常用虹蛇帮助入门，却容易掩盖族群差异。公开艺术也不自动开放所有故事层次；辨识图像应保留艺术家、语言群及土地来源，并尊重水域和相关地点的访问边界。'}
+    ],
+    en: {name: 'Public Rainbow Serpent Motifs', title: 'A comparative label for distinct water-related ancestors', tags: ['Noongar and Kunwinjku', 'Water and Country', 'Not one universal deity'], sections: [
+      {title: 'Identity and Origins', text: 'Rainbow Serpent is a comparative English label, not the personal name of one deity shared throughout Australia. Public examples include the Noongar Wagyl in the southwest and Ngalyod in Kunwinjku and related western Arnhem Land traditions. Each belongs to particular languages, places, and custodians rather than a single merged identity.'},
+      {title: 'Principal Narratives', text: 'Public Noongar accounts link Wagyl’s movements with the formation of waterways including Derbarl Yerrigan, the Swan River. Public western Arnhem Land interpretation connects Ngalyod with waterholes, rain, and generating life. These are distinct narrative settings, not episodes in an invented continent-wide journey or a common creation war.'},
+      {title: 'Symbols and Recognition', text: 'Serpentine bodies, waterways, and seasonal rain are recurring clues, while horns, composite animal features, and colors differ by tradition. Rainbow stripes are not a required appearance. An arbitrary snake design cannot be identified as a Rainbow Serpent without provenance and an appropriate community explanation.'},
+      {title: 'Transmission and Cultural Context', text: 'Schools and museums often use Rainbow Serpent as an introductory category, sometimes obscuring differences among peoples. Public artwork does not automatically reveal every level of its associated story. Interpretation should preserve artist, language-group, and Country information and respect access boundaries around water places and other significant sites.'}
+    ]}
+  },
+  {
+    id: 'aboriginal-julunggul', myth: 'aboriginal', name: '尤隆古尔', title: '尤尔恩古传统中具地方归属的水蛇祖先', tags: ['尤尔恩古诸氏族', '东北阿纳姆地', '公开文化语境'],
+    sections: [
+      {title: '身份与来历', text: '尤隆古尔亦有尤尔隆古尔等转写，见于澳大利亚东北阿纳姆地尤尔恩古传统的公开记述。早期文献可能沿用穆尔恩金等旧称。他属于具体氏族、土地与祖先关系，不能把名字当成所有虹蛇的通称，性别称谓也不宜一概固定。'},
+      {title: '主要叙事', text: '公开博物馆与文化介绍常把尤隆古尔与瓦吉拉格姐妹的祖先旅程联系起来，突出水边停留及强大水中存在所具有的力量。不同讲述牵涉特定地点和氏族权属，因此这里只说明公开叙事框架，不重演吞食、再生等更详细情节，也不据旧采录推补受限内容。'},
+      {title: '象征与辨识', text: '巨蛇、水洼、季雨及雷鸣是公开资料中常见关联。画面上的线条与图案可能承载氏族知识，不能将其拆成任意装饰，也不能仅凭蛇形就断言作品描绘此祖先。'},
+      {title: '流传与文化语境', text: '尤尔恩古艺术中心与博物馆公开说明可提供艺术家、氏族和土地背景，但授权范围因作品而异。可学习公开的水域生态与祖先关系；公开展出不等于允许复制氏族设计，更不等于取得完整叙事的传授资格。'}
+    ],
+    en: {name: 'Julunggul', title: 'A locally grounded water-serpent ancestor in Yolngu traditions', tags: ['Yolngu clans', 'Northeastern Arnhem Land', 'Public cultural context'], sections: [
+      {title: 'Identity and Origins', text: 'Julunggul, also rendered Yurlunggur and through other spellings, appears in public accounts of Yolngu traditions in northeastern Arnhem Land. Older publications may use labels such as Murngin. The ancestor belongs within particular clan, Country, and ancestral relationships, not as a generic name for every Rainbow Serpent or a universally gendered deity.'},
+      {title: 'Principal Narratives', text: 'Public museum and cultural introductions connect Julunggul with the ancestral travels of the Wagilag sisters and powerful encounters at water places. Accounts involve specific locations and clan authority. This entry gives that public framework without reenacting detailed swallowing or renewal episodes, or using old collections to reconstruct restricted knowledge.'},
+      {title: 'Symbols and Recognition', text: 'A great serpent, waterholes, seasonal rain, and thunder recur in public descriptions. Particular lines and designs in artworks may carry clan knowledge and are not freely detachable ornaments. A snake-shaped image alone cannot establish that an artwork depicts this ancestor rather than another locally identified being.'},
+      {title: 'Transmission and Cultural Context', text: 'Public interpretation from Yolngu art centers and museums can supply artist, clan, and Country information, with permissions varying by work. Learning can focus on openly shared water ecology and ancestral relationships. Public exhibition does not authorize copying clan designs or confer the right to receive or retell an entire narrative.'}
+    ]}
+  }
+];
+
+window.FIGURES_EXTRA_EAST = [
+  {
+    "id": "china-leigong",
+    "myth": "china",
+    "name": "雷公",
+    "title": "雷霆之神与天界执法者",
+    "tags": ["雷霆", "惩戒", "民间信仰"],
+    "sections": [
+      {"title": "身份与来历", "text": "雷公是中国传统信仰中司掌雷霆的神灵，名称与形象历代多有变化。《论衡》记述雷公击鼓的图像，道教又把雷霆纳入神圣官署体系；民间所称雷公并不总与某一位道教雷部尊神完全相同。"},
+      {"title": "主要叙事", "text": "有关雷公的故事常围绕以雷声警戒世人、惩处不义展开，但各地对于受罚者及其缘由的解释并不一致。雷公与电母配合行事的说法在后世广为流传，电光照见目标，雷霆随后降下。这类故事表达民间对天道公正的期待，不宜当作所有道教经典共有的一套定论。"},
+      {"title": "象征与辨识", "text": "常见图像以鸟喙、羽翼及鼓表现雷公，手持槌凿或环列雷鼓；各时代造像并不统一。鼓声对应雷鸣，羽翼表现迅疾，凿槌则把难以捉摸的天威化为可见动作。"},
+      {"title": "流传与文化语境", "text": "雷公见于庙宇、道教仪式、戏曲与口头故事。雷雨既关联农事所需的降水，也带来灾害风险，敬畏与祈求因而并存。理解这些传统，应区分地方祭祀、道教雷法与文学想象。"}
+    ],
+    "en": {
+      "name": "Leigong",
+      "title": "Thunder Deity and Heavenly Enforcer",
+      "tags": ["Thunder", "Judgment", "Popular Religion"],
+      "sections": [
+        {"title": "Identity and Origins", "text": "Leigong is a Chinese deity associated with thunder. His names and appearances changed over time. Wang Chong's Lunheng describes images of a thunder deity beating drums. Daoist thunder administrations developed additional hierarchies, so popular Leigong should not automatically be identified with every major thunder divinity."},
+        {"title": "Principal Narratives", "text": "Stories frequently portray Leigong warning people or punishing wrongdoing, but the offenses and circumstances vary locally. Later accounts often pair him with Dianmu, whose lightning reveals a target before thunder strikes. These narratives express hopes for heavenly justice rather than a universally fixed Daoist doctrine."},
+        {"title": "Symbols and Recognition", "text": "Familiar representations include a birdlike beak, wings, drums, and implements resembling a hammer and chisel. Historical images differ considerably. Drums make thunder audible in human terms, wings suggest speed, and striking tools translate an invisible atmospheric force into recognizable bodily action."},
+        {"title": "Transmission and Cultural Context", "text": "Leigong appears in temples, Daoist ritual, theater, and oral storytelling. Thunderstorms can bring agricultural rain as well as destruction, encouraging both petition and apprehension. Local worship, specialized Daoist thunder rites, and literary inventions overlap but should remain analytically distinct."}
+      ]
+    }
+  },
+  {
+    "id": "china-zhurong",
+    "myth": "china",
+    "name": "祝融",
+    "title": "火神与古代火正传统",
+    "tags": ["火", "南方", "古代谱系"],
+    "sections": [
+      {"title": "身份与来历", "text": "祝融既是火神名号，也与古代掌火之官的传统相连。《左传》与《史记》保存不同的祖先谱系和任官说法，涉及黎、重黎及吴回等名字。因此，祝融不能简单还原为生平一致的单一历史人物。"},
+      {"title": "主要叙事", "text": "《史记·楚世家》记载，重黎任帝喾的火正，因有功而被命为祝融；他未能尽诛作乱的共工氏，后来被杀，其弟吴回继任火正，也称祝融。这一叙事把神名、官职和楚人祖先联系起来，与后世把祝融和共工写成水火交战双方的故事并不完全相同。"},
+      {"title": "象征与辨识", "text": "火焰与南方是祝融的重要关联。《山海经·海外南经》写他兽身人面、乘两龙，和后世武将式火神造像有所不同。辨识时须结合文本或题名，不能只凭红衣判断。"},
+      {"title": "流传与文化语境", "text": "祝融进入楚地祖先叙事、地方火神祭祀及后世文学。不同文献中的官名、神格和族群谱系可能互相交织，却不宜强行统一。今天借用祝融命名的科技项目，则属于传统意象的现代转用。"}
+    ],
+    "en": {
+      "name": "Zhurong",
+      "title": "Fire Deity and Ancient Fire Official",
+      "tags": ["Fire", "South", "Ancestral Traditions"],
+      "sections": [
+        {"title": "Identity and Origins", "text": "Zhurong designates a fire deity and is also associated with an ancient office supervising fire. The Zuozhuan and Shiji preserve differing genealogical and administrative accounts involving Li, Chongli, and Wuhui. These materials do not establish one consistent biography of a single historical individual."},
+        {"title": "Principal Narratives", "text": "In the Shiji account of Chu ancestry, Chongli serves Emperor Ku as fire official and receives the designation Zhurong. After failing to eliminate Gonggong's rebels, he is executed; his brother Wuhui succeeds him. Later dramatic battles between personified fire and water represent different narrative developments."},
+        {"title": "Symbols and Recognition", "text": "Fire and the southern direction are central associations. The Shanhaijing describes the southern Zhurong with an animal body, human face, and two dragons. This differs from later martial images, reminding viewers that red clothing alone cannot securely identify a particular deity."},
+        {"title": "Transmission and Cultural Context", "text": "Zhurong appears in Chu ancestral traditions, local fire worship, and later literature. Divine identity, official title, and lineage can intersect without becoming identical across sources. Modern technological names reuse this inherited imagery in settings quite different from ancient ritual and genealogy."}
+      ]
+    }
+  },
+  {
+    "id": "japan-amenouzume",
+    "myth": "japan",
+    "name": "天宇受卖",
+    "title": "岩户神话中的舞蹈与仪礼之神",
+    "tags": ["岩户", "舞蹈", "神乐"],
+    "sections": [
+      {"title": "身份与来历", "text": "天宇受卖是《古事记》和《日本书纪》所载的神祇，汉字表记与具体情节随文献而异。她以天岩户前的表演闻名，也参与迎接猿田彦的故事；其形象与猿女氏承担的宫廷仪礼职能紧密相连。"},
+      {"title": "主要叙事", "text": "天照大神隐入岩户后，世界失去光明。《古事记》叙述天宇受卖踏响倒置的桶，作出引众神大笑的表演，促使天照探问并向外窥看；众神再以镜子及其他手段合力引她出洞。天孙降临时，天宇受卖又奉命询问挡在路口的猿田彦，确认其前来引路的意图。"},
+      {"title": "象征与辨识", "text": "岩户叙事中的桶、榊枝与身体表演是重要线索。后世常把她同阿龟面具联系起来，但面具的圆脸笑容并非早期文本给出的固定相貌，也不能涵盖所有祭祀形象。"},
+      {"title": "流传与文化语境", "text": "她受到神社祭祀，并在神乐及表演艺术的起源叙事中占有要位。不同地区的舞目与解释各有传承，不能把所有神乐都视为岩户表演的直接复原，也不宜仅以娱乐角色理解其神圣身份。"}
+    ],
+    "en": {
+      "name": "Ame-no-Uzume",
+      "title": "Deity of Performance and the Heavenly Cave",
+      "tags": ["Heavenly Cave", "Dance", "Kagura"],
+      "sections": [
+        {"title": "Identity and Origins", "text": "Ame-no-Uzume appears in the Kojiki and Nihon Shoki, whose spellings and narrative details differ. Famous for performing before Amaterasu's cave, she also encounters Sarutahiko. Her stories connect divine performance with the ritual responsibilities claimed by the Sarume lineage at the Japanese court."},
+        {"title": "Principal Narratives", "text": "When Amaterasu withdraws into a cave, Uzume stamps on an overturned vessel and performs provocatively, making the assembled deities laugh. Their reaction draws Amaterasu's attention; a mirror and coordinated divine actions complete her emergence. In the heavenly descent narrative, Uzume questions Sarutahiko about his intentions."},
+        {"title": "Symbols and Recognition", "text": "The overturned vessel, sacred branches, and emphatic bodily performance are useful narrative identifiers. Later associations with the smiling Okame mask are influential but should not be mistaken for a fixed appearance prescribed by early texts or for the full range of her sacred representations."},
+        {"title": "Transmission and Cultural Context", "text": "Uzume is worshipped at shrines and figures prominently in accounts connecting sacred performance with kagura and other arts. Regional repertoires preserve different interpretations. Not every kagura dance directly reconstructs the cave episode, and describing her merely as an entertainer overlooks living religious significance."}
+      ]
+    }
+  },
+  {
+    "id": "japan-sarutahiko",
+    "myth": "japan",
+    "name": "猿田彦",
+    "title": "天孙降临时的引路之神",
+    "tags": ["引路", "天孙降临", "道路"],
+    "sections": [
+      {"title": "身份与来历", "text": "猿田彦见于《古事记》和《日本书纪》的天孙降临叙事，是与地上道路相连的神祇。天宇受卖与他相遇的记载，也解释猿女氏的名号和仪礼传统；各书对于外貌与对话的铺陈并不完全一致。"},
+      {"title": "主要叙事", "text": "琼琼杵尊将从天界降临时，一位光耀的神出现在天之八衢。众神派天宇受卖前去询问，他自称猿田彦，说明自己是来迎接并引导天孙的。《古事记》还写天宇受卖送他返回伊势的阿邪诃。故事重心是相遇、辨明身份和引路，而不是由两神争夺统治权。"},
+      {"title": "象征与辨识", "text": "高鼻、明亮的眼睛和威严面貌是常见辨识线索，部分依据《日本书纪》的描写。祭礼中可见执杖引路者，但高鼻并不意味着他就是天狗，两者传统不能混同。"},
+      {"title": "流传与文化语境", "text": "伊势的猿田彦神社等处奉祀此神，人们常祈求出行顺利或人生方向。他也与道祖神信仰发生联系，但各地合祀与解释不同，不能把所有道路守护神都直接等同为猿田彦。"}
+    ],
+    "en": {
+      "name": "Sarutahiko",
+      "title": "Divine Guide of the Heavenly Descent",
+      "tags": ["Guidance", "Heavenly Descent", "Roads"],
+      "sections": [
+        {"title": "Identity and Origins", "text": "Sarutahiko appears in the heavenly descent narratives of the Kojiki and Nihon Shoki as a deity connected with the earthly realm and its routes. His encounter with Ame-no-Uzume also explains Sarume lineage traditions. Descriptions of his appearance and conversation vary between these sources."},
+        {"title": "Principal Narratives", "text": "As Ninigi prepares to descend, a radiant deity appears at the heavenly crossroads. Uzume questions him, and he identifies himself as Sarutahiko, offering guidance to the arriving heavenly descendant. The Kojiki subsequently has Uzume escort him to Azaka in Ise, emphasizing encounter and guidance rather than conquest."},
+        {"title": "Symbols and Recognition", "text": "A prominent nose, shining eyes, and an imposing face distinguish many representations, drawing partly on the Nihon Shoki. Festival guides may carry a staff. Although a long nose can resemble later tengu imagery, resemblance does not make Sarutahiko and tengu the same religious figure."},
+        {"title": "Transmission and Cultural Context", "text": "Shrines including Sarutahiko Jinja in Ise honor him, and worshippers seek guidance for journeys or life decisions. Associations with roadside guardian traditions developed unevenly. Local identifications and shared worship require context; not every dosojin or protective road deity should be renamed Sarutahiko."}
+      ]
+    }
+  },
+  {
+    "id": "india-lakshmi",
+    "myth": "india",
+    "name": "吉祥天女",
+    "title": "拉克希米：吉祥、福祉与繁荣女神",
+    "tags": ["吉祥", "莲花", "毗湿奴"],
+    "sections": [
+      {"title": "身份与来历", "text": "吉祥天女拉克希米是印度教重要女神，与吉祥、丰饶和福祉相连，也常称室利。她在毗湿奴信仰中具有核心地位，但并非仅是附属角色；不同宗派对于她与毗湿奴的关系及其救度作用有不同理解。"},
+      {"title": "主要叙事", "text": "搅乳海是往世书传统中最著名的故事之一：众神与阿修罗共同搅动乳海，拉克希米从海中显现，随后与毗湿奴相联。各部文本对出场次序及细节的叙述不尽相同。在毗湿奴化身叙事中，悉多和鲁克米尼等又常被视为她的显现，不能把每一种地区解释都当成共同定本。"},
+      {"title": "象征与辨识", "text": "莲花、双象灌水和赐福手势是常见标志，金钱意象表现丰盛，却不能概括她的全部神格。臂数与持物随造像传统变化，猫头鹰则在部分地区具有特别关联。"},
+      {"title": "流传与文化语境", "text": "印度及海外印度教社群在家庭与寺庙中敬奉她，排灯节的吉祥天女祭尤为知名，但节日解释因地区而异。孟加拉等地另有重要祭期；这些实践不能被简化成单纯求财的民俗。"}
+    ],
+    "en": {
+      "name": "Lakshmi",
+      "title": "Goddess of Auspiciousness, Wellbeing, and Prosperity",
+      "tags": ["Auspiciousness", "Lotus", "Vishnu"],
+      "sections": [
+        {"title": "Identity and Origins", "text": "Lakshmi, also called Shri, is a major Hindu goddess associated with auspiciousness, abundance, and wellbeing. She occupies a central place in traditions devoted to Vishnu without being merely an accessory. Different theological communities explain her divine status and role in liberation in distinctive ways."},
+        {"title": "Principal Narratives", "text": "In famous Puranic accounts, gods and asuras churn the ocean of milk, and Lakshmi emerges before becoming associated with Vishnu. Details and sequence vary among texts. Sita and Rukmini are often understood as her manifestations within Vishnu's incarnation narratives, with further regional and theological variations."},
+        {"title": "Symbols and Recognition", "text": "Lotuses, elephants pouring water, and gestures of blessing frequently identify Lakshmi. Coins signify abundance but do not exhaust her religious meaning. The number of arms and accompanying objects varies, while an owl has a particularly important association in some regional traditions."},
+        {"title": "Transmission and Cultural Context", "text": "Hindu households and temples across India and the diaspora honor Lakshmi. Her worship during Diwali is especially prominent, although festival meanings differ regionally. Bengal and other areas maintain additional major observances. These living practices encompass wellbeing and auspicious order, not simply the pursuit of money."}
+      ]
+    }
+  },
+  {
+    "id": "india-saraswati",
+    "myth": "india",
+    "name": "辩才天女",
+    "title": "萨拉斯瓦蒂：河流、言语与学艺女神",
+    "tags": ["知识", "音乐", "河流"],
+    "sections": [
+      {"title": "身份与来历", "text": "萨拉斯瓦蒂在《梨俱吠陀》中兼具河流与神圣女神的面向，后来成为印度教知识、言语、音乐及学艺的重要女神。她常与梵天相联，但关系的表述因文本而异；此处讨论印度语境，不等同日本弁才天。"},
+      {"title": "主要叙事", "text": "吠陀赞歌赞颂萨拉斯瓦蒂的河流力量、滋养作用与神圣助佑，不能把它们都改写成后世女神的完整传记。较晚传统把她与创造、言语和梵天联系起来，有时称为梵天的配偶。不同文本对关系与起源各有叙述，并不存在一套为全部印度教社群共同接受的婚姻故事。"},
+      {"title": "象征与辨识", "text": "白衣、维纳琴、书卷和念珠常见于她的图像，天鹅或孔雀也可伴随出现。白色常关联纯净与知识；持物和坐骑随地区变化，不宜凭某件乐器便断定所有女神身份。"},
+      {"title": "流传与文化语境", "text": "春季的婆娑多五日节常见学生、教师和艺术工作者礼敬女神，部分地区另在九夜节供奉书籍与乐器。她的信仰跨越南亚多种传统，传播到佛教及日本后的变化应另作说明。"}
+    ],
+    "en": {
+      "name": "Saraswati",
+      "title": "Goddess of Rivers, Speech, Learning, and Music",
+      "tags": ["Learning", "Music", "River"],
+      "sections": [
+        {"title": "Identity and Origins", "text": "Saraswati appears in the Rigveda as both a river and a divine presence. Later Hindu traditions especially associate her with knowledge, speech, music, and learning. Connections with Brahma vary across texts. This account concerns Indian religious contexts rather than treating her as identical with Japanese Benzaiten."},
+        {"title": "Principal Narratives", "text": "Vedic hymns praise Saraswati's river power, nourishment, and divine assistance rather than presenting one continuous later biography. Subsequent traditions connect her with creation, speech, and Brahma, sometimes as his consort. Accounts of origins and relationships differ and should not be combined into a universally accepted marriage narrative."},
+        {"title": "Symbols and Recognition", "text": "White clothing, a vina, books, and prayer beads commonly accompany Saraswati, with a swan or peacock in different representations. White often suggests purity and knowledge. Objects and mounts vary regionally, so a musical instrument alone cannot securely identify every image of a goddess."},
+        {"title": "Transmission and Cultural Context", "text": "Students, teachers, and artists often honor Saraswati during Vasant Panchami. Some regions also dedicate books and instruments during Navaratri observances. Her worship crosses several South Asian traditions. Transformations through Buddhist transmission and Japanese Benzaiten worship require separate discussion rather than collapsing distinct communities into one."}
+      ]
+    }
+  },
+  {
+    "id": "korea-yuhwa",
+    "myth": "korea",
+    "name": "柳花",
+    "title": "高句丽建国叙事中的朱蒙之母",
+    "tags": ["河伯之女", "朱蒙", "建国叙事"],
+    "sections": [
+      {"title": "身份与来历", "text": "柳花是高句丽始祖朱蒙的母亲，在《三国史记》及其他传承中被称为河伯之女。她的来历将水域神圣性与王室祖源联系起来；现存史书成书较晚，所保存的建国神话不宜直接等同于同时代实录。"},
+      {"title": "主要叙事", "text": "《三国史记》记柳花自述与解慕漱相遇，后被父亲斥逐，由金蛙收留。日光追随她的身体照耀，她因而怀孕并生下一卵。金蛙试图弃卵，禽兽却不肯伤害，卵最终交还柳花，朱蒙从中出生。这套叙事同时包含天界、水域与卵生母题，其他文献对相遇经过另有铺陈。"},
+      {"title": "象征与辨识", "text": "河水、日光和巨卵构成柳花故事的关键线索，强调朱蒙母系的神圣来源。她没有跨时代通行的固定服饰或持物，现代画像中的王冠与衣装不能充作古代统一标准。"},
+      {"title": "流传与文化语境", "text": "柳花事迹见于史书、相关文学与现代影视重述，并参与高句丽王室祖源的解释。解读时应区分较晚文字记录、可能更早的口传素材与当代创作，不把母神称谓当作各地一致的祭祀事实。"}
+    ],
+    "en": {
+      "name": "Yuhwa",
+      "title": "Mother of Jumong in Goguryeo Foundation Traditions",
+      "tags": ["River Ancestry", "Jumong", "Foundation Narrative"],
+      "sections": [
+        {"title": "Identity and Origins", "text": "Yuhwa is the mother of Jumong, Goguryeo's founding ruler, and is described as a daughter of the river deity Habaek. Her ancestry links royal origins with sacred waters. Surviving historical compilations are later sources, not contemporary transcripts of the events they narrate."},
+        {"title": "Principal Narratives", "text": "In the Samguk Sagi, Yuhwa recounts meeting Haemosu and being expelled by her father before Geumwa shelters her. Pursuing sunlight brings pregnancy, and she lays an egg. Animals refuse to harm the abandoned egg; returned to Yuhwa, it eventually produces Jumong. Other sources elaborate the encounter differently."},
+        {"title": "Symbols and Recognition", "text": "River water, sunlight, and the extraordinary egg identify Yuhwa's narrative and establish sacred maternal ancestry for Jumong. No single costume or attribute identifies her consistently across all periods. Crowns and garments in modern illustrations should not be presented as standardized ancient iconography."},
+        {"title": "Transmission and Cultural Context", "text": "Historical compilations, later literature, and contemporary screen adaptations transmit Yuhwa's story within interpretations of Goguryeo origins. Written records, potentially earlier oral materials, and modern inventions need distinguishing. Calling her a mother goddess does not by itself demonstrate uniform worship across different communities and periods."}
+      ]
+    }
+  },
+  {
+    "id": "korea-geumwa",
+    "myth": "korea",
+    "name": "金蛙",
+    "title": "东扶余之王与朱蒙故事中的收留者",
+    "tags": ["东扶余", "金色蛙儿", "王权"],
+    "sections": [
+      {"title": "身份与来历", "text": "金蛙是朱蒙建国叙事中的东扶余国王。《三国史记》说解夫娄在石下发现形似金色蛙儿的孩子，收为嗣子并取名金蛙。此名关联奇异发现的故事，不意味着所有记载都把他视为同一位蛙神。"},
+      {"title": "主要叙事", "text": "金蛙继位后遇见并收留柳花，又面对她感日生卵的异事。他曾把卵交给动物、弃于野外，也试图破卵，却未能成功，最后归还柳花。朱蒙长大后善射，引起金蛙诸子的猜忌，最终离开扶余。金蛙在故事中既是庇护者，也是不能完全消除宫廷威胁的君主。"},
+      {"title": "象征与辨识", "text": "金色蛙儿与石下发现的场景最能提示金蛙的身世，后来的王者形象则依赖叙事情境。不能仅因名字含蛙，就把所有青蛙图案或祈雨习俗判定为对金蛙的祭祀。"},
+      {"title": "流传与文化语境", "text": "金蛙主要经由扶余与高句丽建国故事为人熟知，现代历史剧又扩展其人物性格。史书中的奇异出生具有王权合法性的叙事作用，但东扶余历史地理与神话细节仍须分层考察。"}
+    ],
+    "en": {
+      "name": "Geumwa",
+      "title": "King of Eastern Buyeo in the Jumong Cycle",
+      "tags": ["Eastern Buyeo", "Golden Frog", "Kingship"],
+      "sections": [
+        {"title": "Identity and Origins", "text": "Geumwa is king of Eastern Buyeo in Jumong's foundation narrative. The Samguk Sagi describes Haeburu discovering a child resembling a golden frog beneath a stone and adopting him as heir. This naming story does not establish a universally recognized frog deity across all traditions."},
+        {"title": "Principal Narratives", "text": "Geumwa shelters Yuhwa but reacts anxiously to her extraordinary egg, exposing it to animals and attempting unsuccessfully to break it before returning it. Jumong later excels at archery, provoking royal sons' jealousy and eventually leaving Buyeo. Geumwa offers protection without fully overcoming the dangers within his court."},
+        {"title": "Symbols and Recognition", "text": "The golden frog and discovery beneath a stone identify Geumwa's origin story most clearly. Later royal representations depend on narrative context rather than distinctive ancient attributes. His name alone provides no basis for assigning every frog image or rainmaking custom to worship of this king."},
+        {"title": "Transmission and Cultural Context", "text": "Geumwa is chiefly known through narratives linking Buyeo and Goguryeo origins, while modern historical dramas expand his characterization. Extraordinary origins can authorize royal succession within a story. Such narrative functions must be distinguished from unresolved questions about Eastern Buyeo's historical geography and chronology."}
+      ]
+    }
+  },
+  {
+    "id": "christianity-john-baptist",
+    "myth": "christianity",
+    "name": "施洗约翰",
+    "title": "旷野中的先知与耶稣的先驱",
+    "tags": ["悔改", "约旦河", "先驱"],
+    "sections": [
+      {"title": "身份与来历", "text": "施洗约翰是第一世纪犹太地区的宗教人物，基督徒尊为耶稣的先驱。《路加福音》以撒迦利亚和以利沙伯为其父母，并叙述奇异降生；犹太史家约瑟夫斯也记载他，但关注重点与福音书有所不同。"},
+      {"title": "主要叙事", "text": "福音书记约翰在旷野宣讲悔改、为人施洗，并与耶稣受洗的事件相连，各卷的叙述方式并不相同。《马可福音》和《马太福音》把他被杀与希罗底及其女儿的宴席故事联系起来；约瑟夫斯则着重希律安提帕对群众动员的政治忧虑，二者不宜无差别拼接。"},
+      {"title": "象征与辨识", "text": "骆驼毛衣、旷野、约旦河与施洗动作是常见标志。羔羊图像关联他指认耶稣为上帝羔羊的经文；托盘上的头颅表现殉难。具体持物随东西方艺术传统而变化。"},
+      {"title": "流传与文化语境", "text": "天主教、东正教及许多新教传统纪念约翰，但圣人敬礼与图像使用各不相同。曼达安宗教也高度尊崇他，却有独立的经典与神学，不应被写成基督教纪念传统的一个分支。"}
+    ],
+    "en": {
+      "name": "John the Baptist",
+      "title": "Wilderness Preacher and Forerunner of Jesus",
+      "tags": ["Repentance", "Jordan River", "Forerunner"],
+      "sections": [
+        {"title": "Identity and Origins", "text": "John the Baptist was a first century Jewish religious figure whom Christians honor as Jesus' forerunner. Luke names his parents Zechariah and Elizabeth and narrates a miraculous birth. The Jewish historian Josephus independently discusses John, although his interests and emphasis differ from those of the Gospels."},
+        {"title": "Principal Narratives", "text": "The Gospels portray John preaching repentance and administering baptism, with differing presentations of Jesus' baptism. Mark and Matthew connect his execution with Herodias and her daughter's banquet performance. Josephus emphasizes Herod Antipas's fear of political unrest. These accounts should not be merged without acknowledging their different explanations."},
+        {"title": "Symbols and Recognition", "text": "Camel hair clothing, wilderness scenery, the Jordan, and baptismal gestures commonly identify John. A lamb recalls his designation of Jesus as the Lamb of God, while a severed head on a platter represents martyrdom. Specific attributes vary across Eastern and Western Christian artistic traditions."},
+        {"title": "Transmission and Cultural Context", "text": "Catholic, Orthodox, and many Protestant communities commemorate John, with differing approaches to saints and images. Mandaeans also hold him in high regard within an independent religious tradition. Their scriptures, rituals, and theology should not be reduced to a branch of Christian devotion to John."}
+      ]
+    }
+  },
+  {
+    "id": "christianity-john-apostle",
+    "myth": "christianity",
+    "name": "使徒约翰",
+    "title": "西庇太之子与约翰著作的归属传统",
+    "tags": ["十二使徒", "西庇太之子", "作者传统"],
+    "sections": [
+      {"title": "身份与来历", "text": "使徒约翰是新约所记十二使徒之一，西庇太之子、雅各的兄弟，与施洗约翰并非同一人。教会传统常将他与第四福音书及其他约翰著作相联，但使徒身份与各书作者的认定应分开说明。"},
+      {"title": "主要叙事", "text": "对观福音记约翰随耶稣受召，并与彼得、雅各见证登山变像和客西马尼园祈祷。《使徒行传》又写他与彼得在圣殿医治瘸腿者后受审。第四福音书中的所爱门徒未直接具名；把这位门徒认作使徒约翰，是重要的教会解释传统，并非经文明说的姓名。"},
+      {"title": "象征与辨识", "text": "鹰常象征福音作者约翰，书卷提示著述，杯中蛇见于后世传说图像。年轻无须或年长有须的形象因传统而异；这些符号不能反过来证明使徒就是全部约翰著作的作者。"},
+      {"title": "流传与文化语境", "text": "许多教会敬奉他为使徒和福音作者。现代研究常区分使徒、所爱门徒、福音书编写者与《启示录》的约翰；书信归属及成书过程也有争论，并不存在一套所有学者一致认可的重建。"}
+    ],
+    "en": {
+      "name": "John the Apostle",
+      "title": "Son of Zebedee and Johannine Authorship Traditions",
+      "tags": ["Twelve Apostles", "Son of Zebedee", "Authorship Traditions"],
+      "sections": [
+        {"title": "Identity and Origins", "text": "John the Apostle is one of the Twelve in the New Testament, a son of Zebedee and brother of James, distinct from John the Baptist. Church traditions associate him with the Fourth Gospel and other Johannine writings, but apostolic identity and literary authorship require separate consideration."},
+        {"title": "Principal Narratives", "text": "The Synoptic Gospels place John with Peter and James at the Transfiguration and in Gethsemane. Acts depicts John accompanying Peter in healing a man at the temple and facing interrogation. The Fourth Gospel leaves its beloved disciple unnamed; identifying that disciple as John belongs to influential church tradition."},
+        {"title": "Symbols and Recognition", "text": "The eagle commonly represents John the Evangelist, books evoke writing, and a serpent emerging from a cup belongs to later legendary imagery. Youthful beardless and elderly bearded depictions coexist. These artistic conventions cannot establish that the apostle authored every text traditionally associated with his name."},
+        {"title": "Transmission and Cultural Context", "text": "Many churches honor John as apostle and evangelist. Modern scholars often distinguish the apostle, beloved disciple, Gospel writers or editors, and the John of Revelation. The letters' attribution and compositional history also remain debated. No single reconstruction commands agreement among all scholars or Christian communities."}
+      ]
+    }
+  }
+];
+
+window.FIGURES_EXTRA_WEST=[
+{id:'greek-demeter',myth:'greek',name:'得墨忒耳',title:'谷物与农耕女神',tags:['谷物','珀耳塞福涅','厄琉息斯'],sections:[{title:'身份与来历',text:'得墨忒耳是克洛诺斯与瑞亚之女，宙斯的姐妹，也是珀耳塞福涅的母亲。她主管谷物生长和人类农耕，并与土地丰产、婚姻秩序及厄琉息斯的祭仪传统密切相连。'},{title:'主要叙事',text:'《荷马颂歌·致得墨忒耳》记述哈得斯掳走珀耳塞福涅，母亲寻女并使谷物停长。在厄琉息斯，她化身老妇照料得摩丰，试图以火使他不死，却被其母打断。最终女儿每年三分之一时间留在地下，其余时间回归母亲。'},{title:'象征与辨识',text:'麦穗、火炬和丰收作物是她常见的辨识物：麦穗指向食粮，火炬呼应寻女。古代造像多呈庄严的成年女性，有时与女儿并列，而非仅以田园丰收为主题。'},{title:'流传与文化语境',text:'厄琉息斯秘仪以她和女儿为核心，但具体仪式因守秘而难以复原。妇女参与的忒斯摩福里亚节也敬奉她；这些传统兼及农业、群体秩序及死后希望，不能简化为四季寓言。'}],en:{name:'Demeter',title:'Goddess of Grain and Agriculture',tags:['Grain','Persephone','Eleusis'],sections:[{title:'Identity and Origins',text:'Demeter is a daughter of Cronus and Rhea, a sister of Zeus, and the mother of Persephone. Greek worship connected her with grain, cultivated land, and agricultural prosperity, while particular festivals also linked her authority to marriage and community order.'},{title:'Principal Narratives',text:'In the Homeric Hymn to Demeter, she searches for Persephone after Hades abducts her and withholds the harvest. At Eleusis she attempts to immortalize Demophon through fire. The settlement gives Persephone one third of each year below and the remainder with her mother.'},{title:'Symbols and Identification',text:'Ears of grain and burning torches frequently identify Demeter in ancient art. Grain expresses her responsibility for food, while torches recall her search. She generally appears as a dignified adult woman, sometimes beside Persephone rather than in an isolated harvest scene.'},{title:'Transmission and Cultural Context',text:'The Eleusinian Mysteries centered on Demeter and Persephone, but secrecy limits reconstruction of their ceremonies. The Thesmophoria also honored Demeter through gatherings of women. These cults addressed fertility, social continuity, and hopes concerning death, not simply a universal explanation of seasons.'}]}},
+{id:'greek-hermes',myth:'greek',name:'赫尔墨斯',title:'使者、旅途与边界之神',tags:['神使','商旅','引魂'],sections:[{title:'身份与来历',text:'赫尔墨斯是宙斯与迈亚之子，传说出生于阿卡迪亚的库勒涅山。他既是诸神使者，也护佑道路、交易和越界行动；其狡黠与口才使他同时关联盗窃、协商及机敏的发明。'},{title:'主要叙事',text:'《荷马颂歌·致赫尔墨斯》写他出生当天便以龟甲制琴，又盗走阿波罗的牛群，并设法隐匿踪迹。争端最终在宙斯面前解决，他以琴换得阿波罗的友谊。在《奥德赛》中，他送给奥德修斯抵御喀耳刻法术的神草。'},{title:'象征与辨识',text:'双蛇缠绕的使者杖、旅行帽和翼鞋是常见标识，但各时代形制不同。路旁赫尔墨斯柱则标记边界与通道；他的双蛇杖不应混同阿斯克勒庇俄斯的单蛇医杖。'},{title:'流传与文化语境',text:'赫尔墨斯在史诗中跨越神界、人间与冥界，并引导亡魂。希腊化时期，他与埃及托特发生融合，形成赫尔墨斯·特里斯墨吉斯托斯传统；这属于后起会通，不是早期希腊神话的原貌。'}],en:{name:'Hermes',title:'Messenger and God of Crossings',tags:['Messenger','Travel','Soul Guide'],sections:[{title:'Identity and Origins',text:'Hermes is the son of Zeus and Maia, associated with Mount Cyllene in Arcadia. His responsibilities include divine messages, roads, exchange, and movement across boundaries. Intelligence and persuasive speech connect him with negotiation and invention as well as theft and deception.'},{title:'Principal Narratives',text:'The Homeric Hymn to Hermes describes the newborn god making a lyre from a tortoise shell and stealing the cattle of Apollo. Their dispute ends in reconciliation and an exchange involving the lyre. In the Odyssey, Hermes supplies Odysseus with protective moly against Circe.'},{title:'Symbols and Identification',text:'His heraldic staff, traveling hat, and winged footwear provide familiar identifiers, although their forms vary across periods. Herm pillars marked routes and boundaries. The staff with two snakes should not be confused with the single serpent rod associated with the healing god Asclepius.'},{title:'Transmission and Cultural Context',text:'Epic presents Hermes moving between divine, human, and underworld settings, including service as a guide of souls. In Hellenistic Egypt he became associated with Thoth. The resulting Hermes Trismegistus tradition belongs to later religious and intellectual synthesis, not an unchanged early Greek identity.'}]}}
+,
+{id:'norse-hel',myth:'norse',name:'赫尔',title:'死者国度的统治者',tags:['冥界','洛基之女','巴德尔'],sections:[{title:'身份与来历',text:'赫尔在斯诺里《散文埃达》中是洛基与女巨人安格尔博达之女，与芬里尔狼、世界蛇同胞。奥丁把她安置在尼福尔海姆，令其收容因疾病或衰老而死者；她并非所有亡者的唯一主宰。'},{title:'主要叙事',text:'巴德尔死后，赫尔莫德骑马赴冥界请求放人。赫尔答应，若世间万物都为巴德尔哭泣，他便可归来。万物响应，唯有名叫索克的女巨人拒绝，于是巴德尔仍须留下。斯诺里称人们认为索克就是洛基所变，这一解释应归于该文本。'},{title:'象征与辨识',text:'斯诺里形容她身体一半青黑、一半呈肤色，神情阴沉；她的居所及器物多有饥饿、疾病之名。现代常见的半边骷髅形象是再创作，并非原文对骨骼的明确描写。'},{title:'流传与文化语境',text:'古诺尔斯语中的赫尔也可指死者居处，须按上下文区分地点与人格化角色。现存系统叙述多经基督教时代作者保存，不能把她径直等同惩罚罪人的撒旦或基督教地狱。'}],en:{name:'Hel',title:'Ruler of a Realm of the Dead',tags:['Underworld','Daughter of Loki','Baldr'],sections:[{title:'Identity and Origins',text:'In the Prose Edda of Snorri Sturluson, Hel is the daughter of Loki and Angrboda, and sister of Fenrir and the world serpent. Odin assigns her a realm in Niflheim, receiving those who die from illness or age, rather than every deceased person.'},{title:'Principal Narratives',text:'After Baldr dies, Hermod rides to her realm to request his release. Hel requires every being to weep for him. All comply except the giantess Thokk, so Baldr remains below. Snorri adds that people believed Thokk was Loki in disguise, an interpretation belonging to that account.'},{title:'Symbols and Identification',text:'Snorri describes Hel as half dark or blue black and half flesh colored, with a grim appearance. Her household carries names evoking hunger and sickness. Popular images giving her an exposed skeletal half are later visual interpretations, not an explicit anatomical description in his text.'},{title:'Transmission and Cultural Context',text:'The Old Norse word hel can designate a dwelling of the dead as well as a personified ruler. Context determines the meaning. Surviving systematic accounts were recorded by Christian authors, but Hel should not simply be equated with Satan or a Christian place of punishment.'}]}},
+{id:'norse-frigg',myth:'norse',name:'弗丽嘉',title:'阿斯加德的王后与巴德尔之母',tags:['奥丁之妻','母职','誓言'],sections:[{title:'身份与来历',text:'弗丽嘉是奥丁之妻、巴德尔之母，在埃达传统中居于女神的重要位置。她的居所名为芬萨利尔，常被解释为沼泽之厅。文本称她知晓命运而不轻易言说，但没有把她写成能够随意改写命运的全能者。'},{title:'主要叙事',text:'在斯诺里的巴德尔故事中，弗丽嘉向万物取得不伤害儿子的誓言，却略过被认为过于幼小的槲寄生。洛基探得这一缺口，利用盲眼的霍德尔投出槲寄生，导致巴德尔死亡。母亲周密的保护未能解除预兆，成为故事的悲剧核心。'},{title:'象征与辨识',text:'弗丽嘉的辨识主要依靠王后身份、芬萨利尔及与巴德尔的亲属关系。后世艺术常加上纺锤、纺车或王冠，但不宜将这些道具都视为埃达中明确规定的固定属性。'},{title:'流传与文化语境',text:'弗丽嘉与芙蕾雅在现存叙事中是不同角色，二者是否源自更早的共同形象仍有争论。英语星期五的名称关联她的日耳曼同源神名，不能仅据词源便抹平不同地区、时期的信仰差异。'}],en:{name:'Frigg',title:'Queen of Asgard and Mother of Baldr',tags:['Wife of Odin','Motherhood','Oaths'],sections:[{title:'Identity and Origins',text:'Frigg is the wife of Odin and mother of Baldr, holding a prominent position among the goddesses of Eddic tradition. Her dwelling is Fensalir, often interpreted as marsh halls. Knowledge of fate is attributed to her, but not unlimited power to alter it.'},{title:'Principal Narratives',text:'In the account by Snorri, Frigg obtains promises that things will not harm Baldr, overlooking mistletoe because it seems too young. Loki discovers the omission and helps the blind Hodr use mistletoe against him. Her extensive precautions therefore become the framework of a tragic failure.'},{title:'Symbols and Identification',text:'Her status as queen, the dwelling Fensalir, and her relationship to Baldr provide stronger textual identifiers than any single object. Later art often supplies a spindle, spinning wheel, or crown. These accessories should not all be treated as attributes explicitly prescribed by Eddic sources.'},{title:'Transmission and Cultural Context',text:'Frigg and Freyja are separate figures in surviving narratives, although scholars debate possible connections in their earlier development. The English weekday Friday derives from a related Germanic divine name. Such linguistic relationships do not erase differences between regional traditions or demonstrate identical medieval mythological roles.'}]}}
+,
+{id:'roman-saturn',myth:'roman',name:'萨图尔努斯',title:'播种之神与黄金时代的旧王',tags:['播种','黄金时代','农神节'],sections:[{title:'身份与来历',text:'萨图尔努斯是罗马古老神祇，传统上关联播种、农业与富足。他后来与希腊克洛诺斯相认同，因而承接被儿子取代的旧神王谱系；这些希腊化叙述不能直接当作早期意大利祭祀的完整起源。'},{title:'主要叙事',text:'罗马文学记述他被朱庇特逐出天界后来到拉丁姆，受到雅努斯接纳，教当地人耕作并带来黄金时代。维吉尔《埃涅阿斯纪》让厄万德追述这位旧王治理的太平岁月；诗中的理想过去也用来反衬后来战争与财产争夺。'},{title:'象征与辨识',text:'镰刀或弯刃工具标示他的农业职能，也承接克洛诺斯的图像传统。神像有双足以羊毛束缚的记载，农神节期间解开；这些祭仪比现代星球图像更有古代依据。'},{title:'流传与文化语境',text:'十二月的农神节以宴饮、赠礼及暂时放宽社会礼法著称，部分场合容许奴隶与主人角色倒置。罗马广场的萨图尔努斯神庙还曾保存国库，显示其崇拜并不限于乡村农业。'}],en:{name:'Saturn',title:'God of Sowing and King of the Golden Age',tags:['Sowing','Golden Age','Saturnalia'],sections:[{title:'Identity and Origins',text:'Saturn, or Saturnus, is an ancient Roman deity traditionally connected with sowing and agricultural abundance. His identification with the Greek Cronus supplied a genealogy involving an overthrown divine ruler. That literary assimilation should not be mistaken for a complete account of early Italian worship.'},{title:'Principal Narratives',text:'Roman literature tells how Saturn reached Latium after Jupiter expelled him, received hospitality from Janus, and taught agriculture. In the Aeneid, Evander recalls the peaceful golden age under his rule. This idealized past also contrasts with subsequent warfare and the pursuit of private wealth.'},{title:'Symbols and Identification',text:'A sickle or curved agricultural blade identifies Saturn, while also reflecting imagery shared with Cronus. Ancient accounts describe the feet of his Roman statue bound with wool and released during Saturnalia. Such ritual details are more historically specific than modern associations with the planet.'},{title:'Transmission and Cultural Context',text:'Celebrated in December, Saturnalia involved feasting, gifts, and temporary relaxation of social conventions, with some contexts permitting reversals between masters and slaves. The Temple of Saturn in the Roman Forum also housed the public treasury, connecting his cult with civic institutions as well as agriculture.'}]}},
+{id:'roman-vulcan',myth:'roman',name:'伏尔甘',title:'火焰与锻冶之神',tags:['火灾','锻造','伏尔甘节'],sections:[{title:'身份与来历',text:'伏尔甘是罗马的火神，其意大利崇拜关注火焰的威力及失控危险。与希腊赫淮斯托斯相认同后，他更鲜明地成为神匠；文学中的家庭关系和锻造故事，不宜全部倒推为早期罗马信仰原有的内容。'},{title:'主要叙事',text:'《埃涅阿斯纪》中，维纳斯请求伏尔甘为埃涅阿斯制造武器，他召集独眼巨人在火山炉坊锻造盾甲，盾面展示罗马未来历史。奥维德则转述他用细密罗网捕住维纳斯与玛尔斯的偷情故事，改写自希腊神匠的叙事传统。'},{title:'象征与辨识',text:'锤、钳、铁砧和工匠帽常用于辨认伏尔甘，炉火表现其生产力量。火山锻坊属于文学和图像中的重要场景，但他在罗马祭祀中也关乎防止城市与储粮遭受火灾。'},{title:'流传与文化语境',text:'八月二十三日的伏尔甘节位于炎热且火险较高的时节。古代作者记有向火中投献小鱼的仪式，并解释为替人命献祭；这是特定祭仪解释，不应泛化成所有火神崇拜的共同规则。'}],en:{name:'Vulcan',title:'God of Fire and the Forge',tags:['Fire Danger','Smithcraft','Volcanalia'],sections:[{title:'Identity and Origins',text:'Vulcan, or Vulcanus, is the Roman god of fire, including its dangerous and destructive potential. Identification with the Greek Hephaestus emphasized his role as a divine craftsman. Literary family relationships and workshop adventures should not automatically be projected back into the earliest Italian cult.'},{title:'Principal Narratives',text:'In the Aeneid, Venus persuades Vulcan to provide armor for Aeneas. He directs the Cyclopes at their volcanic forge, producing a shield that depicts future Roman history. Ovid also retells his trapping of Venus and Mars in a delicate net, adapting a Greek divine adultery narrative.'},{title:'Symbols and Identification',text:'Hammer, tongs, anvil, and a craftsman cap commonly identify Vulcan. Furnace imagery conveys the productive force of fire, while volcanic workshops belong prominently to literature and art. Roman worship also addressed the danger that uncontrolled flames posed to settlements and stored agricultural produce.'},{title:'Transmission and Cultural Context',text:'The Volcanalia fell on August 23, during a hot season with considerable fire risk. Ancient writers describe offerings of small fish thrown into fire and interpret them as substitutes for human lives. That explanation concerns a particular practice, not a universal rule of fire worship.'}]}}
+,
+{id:'celtic-manannan',myth:'celtic',name:'马纳南',title:'爱尔兰海上异界的主人',tags:['爱尔兰','海洋','异界'],sections:[{title:'身份与来历',text:'马纳南·麦克·李尔是爱尔兰叙事中的海上异界人物，名字表明他是李尔之子。他常与达努神族及跨海通向的彼界联系，也与马恩岛传统相连；不宜把这些材料合并成全体凯尔特人共有的统一神谱。'},{title:'主要叙事',text:'《布兰航海记》中，布兰见马纳南驾车越海，对方眼中的鲜花平原正是航海者眼中的海面。在科尔马克历险故事里，他以神奇银枝引王进入异界，又赠予能辨别真假的杯子；故事借款待与考验，揭示凡人判断所见世界的局限。'},{title:'象征与辨识',text:'海面上的车驾、隐蔽异界的迷雾及带金苹果的银枝，都可联系他的不同故事。它们不是一套固定制服：银枝尤其属于科尔马克叙事，辨识时应兼顾具体文本。'},{title:'流传与文化语境',text:'有关马纳南的材料保存在中世纪爱尔兰手稿及更晚的民间传统中，版本间身份与道具会变化。马恩岛也有独立发展的地方传说；现代海神形象不能替代这些各有年代的文本。'}],en:{name:'Manannan mac Lir',title:'Lord of the Irish Otherworld across the Sea',tags:['Ireland','Sea','Otherworld'],sections:[{title:'Identity and Origins',text:'Manannan mac Lir is a supernatural figure of Irish tradition whose patronymic identifies him as the son of Ler. Associated with the sea, the Tuatha De Danann, and otherworldly domains, he also appears in Manx tradition, without representing a uniform deity of every Celtic people.'},{title:'Principal Narratives',text:'In the Voyage of Bran, Manannan travels by chariot over what Bran sees as the sea but he experiences as a flowering plain. In the adventures of Cormac, a magical silver branch leads toward his otherworldly hospitality, and a marvelous cup distinguishes falsehood from truth.'},{title:'Symbols and Identification',text:'His chariot crossing the sea, concealing mist, and the silver branch bearing golden apples connect with different narratives. They are not a standardized costume shared by every source. The branch is particularly relevant to the Cormac story, so identification should remain attentive to textual context.'},{title:'Transmission and Cultural Context',text:'Medieval Irish manuscripts and later folklore preserve differing accounts of Manannan, with changes in roles and magical possessions. The Isle of Man also developed local traditions about him. Modern presentations as a generic sea god should not replace the distinct histories of these sources.'}]}},
+{id:'celtic-boann',myth:'celtic',name:'博安',title:'爱尔兰博因河的神话女性',tags:['爱尔兰','博因河','地名传说'],sections:[{title:'身份与来历',text:'博安是爱尔兰博因河的人格化女性，见于解释地名来历的中世纪诗文。不同叙述把她与奈赫坦、达格达及安格斯联系起来；她首先属于爱尔兰具体河流与地方谱系，而非泛凯尔特的抽象水元素女神。'},{title:'主要叙事',text:'一组《地名传说》叙述她走近奈赫坦的禁忌水井，并逆向绕井而行，井水骤然涌出追赶她，造成重创，最终形成通海的博因河。另一些故事写她与达格达生下安格斯，借延长一个白昼掩藏孕育过程；两类材料不必拼成唯一传记。'},{title:'象征与辨识',text:'博因河、水井、奔涌的水流及沿途地名，是辨认博安的可靠线索。她与诗歌、知识的联系应结合特定水井传统说明，不宜直接套用所有智慧之泉或鲑鱼的故事。'},{title:'流传与文化语境',text:'《地名传说》把河道、死亡与地方记忆编织在一起，保存的并非可直接测绘的地理史。博因河谷的史前遗址早于现存手稿许多世纪，不能仅据后世故事认定其最初建造者信仰。'}],en:{name:'Boann',title:'Mythic Woman of the River Boyne',tags:['Ireland','River Boyne','Place Lore'],sections:[{title:'Identity and Origins',text:'Boann personifies the River Boyne in Irish tradition and appears in medieval accounts explaining the origins of places. Narratives connect her with Nechtan, the Dagda, and Aengus. Her setting is a particular Irish landscape and genealogy, rather than an abstract water goddess shared everywhere.'},{title:'Principal Narratives',text:'Accounts in the Dindshenchas describe Boann approaching the forbidden well of Nechtan and circling it against the customary direction. Water erupts, pursues and wounds her, forming the Boyne. Other narratives concern her union with the Dagda and the prolonged day concealing the conception and birth of Aengus.'},{title:'Symbols and Identification',text:'The Boyne, a well, rushing water, and named places along the river provide the clearest identifiers. Connections with poetic knowledge require attention to particular well traditions. They do not justify assigning every Irish story about a wisdom spring or a salmon directly to Boann.'},{title:'Transmission and Cultural Context',text:'The Dindshenchas weaves landscape, death, and local memory into explanatory narratives rather than straightforward geographical history. Prehistoric monuments of the Boyne valley considerably predate surviving manuscripts. Later stories cannot, by themselves, establish the original religious beliefs or intentions of the people who built those monuments.'}]}}
+,
+{id:'egypt-thoth',myth:'egypt',name:'托特',title:'书写、计量与月亮之神',tags:['书写','月亮','神圣记录'],sections:[{title:'身份与来历',text:'托特是埃及与书写、计算、智慧及月亮相关的神，重要崇拜中心为赫蒙城，即希腊人所称赫尔摩波利斯。他在神界担任记录者、调解者等职能，不同地方神学对其起源和创世作用有不同安排。'},{title:'主要叙事',text:'在亡者审判图像中，托特记录称心的结果，而不是亲自吞食有罪者。较晚的普鲁塔克叙述他与月亮博戏，赢得光亮凑成五个额外日子，使努特得以在原有三百六十日之外生育；这一希腊语记载不能概括全部埃及创世传统。'},{title:'象征与辨识',text:'鹮首人身与狒狒是托特的主要形象，书写用具和月盘也能提示其身份。鹮喙的弧度可让人联想到月形，但具体图像仍须结合题铭，不能仅凭鸟头便确定为托特。'},{title:'流传与文化语境',text:'托特深受书吏尊崇，既参与日常书写观念，也见于宗教和丧葬文本。希腊化及罗马时期，他与赫尔墨斯发生会通，成为赫尔墨斯主义的重要渊源，但两者并非从一开始就完全相同。'}],en:{name:'Thoth',title:'God of Writing, Measurement, and the Moon',tags:['Writing','Moon','Divine Records'],sections:[{title:'Identity and Origins',text:'Thoth is an Egyptian deity associated with writing, calculation, wisdom, and the moon. A major center of worship was Khmun, known to Greeks as Hermopolis. He serves as recorder and mediator among gods, while local theological traditions offer differing accounts of his origins and creative activity.'},{title:'Principal Narratives',text:'In judgment scenes Thoth records the result of weighing the heart; he does not devour the condemned. A much later account by Plutarch describes him winning moonlight through gaming to create five additional days for Nut to give birth outside the original year of 360 days.'},{title:'Symbols and Identification',text:'An ibis headed human figure and a baboon are principal forms of Thoth. Writing equipment and lunar imagery can reinforce identification. The curved ibis bill may suggest the moon, but inscriptions and the surrounding scene remain important: a bird head alone does not establish his identity.'},{title:'Transmission and Cultural Context',text:'Scribes particularly honored Thoth, whose presence extends through practical ideas about writing, religious compositions, and funerary literature. In Hellenistic and Roman settings he was associated with Hermes, contributing to Hermetic traditions. This historical synthesis does not mean the two gods were originally identical.'}]}},
+{id:'egypt-hathor',myth:'egypt',name:'哈托尔',title:'天空、欢悦与护佑之女神',tags:['母牛','音乐','丹德拉'],sections:[{title:'身份与来历',text:'哈托尔是埃及重要女神，涉及天空、母性、爱情、音乐及死者护佑。她的名字常释为荷鲁斯之宫；不同地方传统让她成为荷鲁斯的母亲或配偶，不能把这些关系当作同一神谱中毫无变化的设定。'},{title:'主要叙事',text:'《天牛之书》讲述人类反叛年老的拉，拉遣自己的眼惩罚人类，哈托尔参与这一毁灭性行动。为止住杀戮，拉使大量啤酒染成血色，女神饮下后沉醉。相关传统把拉之眼的狂烈面貌也联系塞赫迈特，二者关系需按版本说明。'},{title:'象征与辨识',text:'母牛、牛耳及夹日盘的牛角是她常见标识，叉铃与梅纳特珠饰关联音乐祭仪。丹德拉的哈托尔柱头有牛耳；牛角日盘后来也用于伊西斯，不能据此独断身份。'},{title:'流传与文化语境',text:'丹德拉是哈托尔的重要崇拜中心，其节庆与埃德富的荷鲁斯崇拜相联系。她也作为西方之女主人迎接亡者；这些丧葬角色与欢悦、舞乐并存，说明她并非只有爱情职能的单一女神。'}],en:{name:'Hathor',title:'Goddess of Sky, Joy, and Protection',tags:['Cow','Music','Dendera'],sections:[{title:'Identity and Origins',text:'Hathor is a major Egyptian goddess connected with the sky, maternity, love, music, and protection of the dead. Her name is commonly interpreted as House of Horus. Different local traditions make her his mother or consort, relationships that should not be flattened into one genealogy.'},{title:'Principal Narratives',text:'The Book of the Heavenly Cow recounts human rebellion against the aging Ra and the dispatch of his Eye to punish humanity, involving Hathor. Ra halts slaughter with beer colored like blood, which intoxicates the goddess. Related traditions also connect the destructive Eye with Sekhmet.'},{title:'Symbols and Identification',text:'Cow form, bovine ears, and horns enclosing a solar disk commonly mark Hathor. The sistrum and menat ornament connect her with ritual music. Hathoric capitals at Dendera display distinctive cow ears. Horns and a sun disk also appear with Isis, so context remains essential.'},{title:'Transmission and Cultural Context',text:'Dendera was a major center of Hathor worship, with festivals linking her to Horus at Edfu. As Mistress of the West she also welcomed the dead. Funerary responsibilities coexisted with celebration and music, resisting any reduction of her identity to a goddess of romantic love.'}]}}
+,
+{id:'mesopotamia-ereshkigal',myth:'mesopotamia',name:'埃列什基伽勒',title:'美索不达米亚冥界女王',tags:['冥界','伊南娜','七道门'],sections:[{title:'身份与来历',text:'埃列什基伽勒是美索不达米亚冥界的女主人，其苏美尔语名字常释为大地之主母，语境中指向地下国度。在伊南娜下冥界的叙事中，她是伊南娜的姐姐；其他文本又发展出她与涅尔伽勒的配偶关系。'},{title:'主要叙事',text:'苏美尔语《伊南娜下冥界》写来访女神经过七道门，逐一被除去服饰与权能标志，最终遭判决成为悬挂的尸体。恩基创造的使者回应埃列什基伽勒的痛苦，取得遗体并使伊南娜复生；离开冥界仍须提供替身，死亡秩序并未就此废除。'},{title:'象征与辨识',text:'冥界宫殿、门禁和王座比单一动物更能提示她的身份。常被称作夜之女王的古代浮雕究竟表现她、伊什塔尔或其他角色，学界仍有分歧，不应当作已证实肖像。'},{title:'流传与文化语境',text:'苏美尔语与阿卡德语冥界故事的情节和人物配置并不完全一致。埃列什基伽勒统治死者之域，却不是基督教意义的魔鬼；相关叙事强调死亡边界、礼法和权力，而非简单的善恶报应。'}],en:{name:'Ereshkigal',title:'Queen of the Mesopotamian Underworld',tags:['Underworld','Inanna','Seven Gates'],sections:[{title:'Identity and Origins',text:'Ereshkigal rules the Mesopotamian realm of the dead. Her Sumerian name is commonly understood as Lady of the Great Earth, referring here to the underworld. Narratives of the descent of Inanna identify her as an elder sister; other compositions develop her relationship with Nergal.'},{title:'Principal Narratives',text:'In the Sumerian descent narrative, Inanna passes seven gates, losing garments and emblems of power before being killed and hung as a corpse. Beings fashioned by Enki respond sympathetically to the suffering of Ereshkigal and obtain the body. Revival still requires a substitute for departure.'},{title:'Symbols and Identification',text:'The underworld palace, controlled gateways, and royal authority provide firmer narrative identifiers than a particular animal. The ancient relief popularly called the Queen of the Night has been attributed to Ereshkigal, Ishtar, and other figures. Its identity remains debated, not a securely established portrait.'},{title:'Transmission and Cultural Context',text:'Sumerian and Akkadian underworld compositions differ in plot and the arrangement of divine roles. Ereshkigal governs the dead but is not a devil in the Christian sense. These narratives explore mortal limits, protocol, and authority rather than simply distributing rewards and punishments for moral conduct.'}]}},
+{id:'mesopotamia-dumuzi',myth:'mesopotamia',name:'杜穆兹',title:'牧者、伊南娜的伴侣与哀悼对象',tags:['牧羊','伊南娜','塔木兹'],sections:[{title:'身份与来历',text:'杜穆兹是苏美尔传统中的牧者神，与伊南娜的爱情、婚配诗歌及死亡哀歌密切相连，后世亦以塔木兹之名流传。同名者也见于王表，但不能不加辨析便把神话角色和各位同名君王当作同一历史人物。'},{title:'主要叙事',text:'在《伊南娜下冥界》中，伊南娜返回后见杜穆兹盛装安坐，没有为她哀悼，便把他交给追索替身的恶魔。相关文本又写他逃亡、求助和被捕，妹妹格什提南娜与他分担地下岁月。不同作品对死亡缘由及轮替安排的叙述并不完全相同。'},{title:'象征与辨识',text:'羊群、牧者身份及乳制品意象，常见于杜穆兹的爱情和丰产诗歌；哀哭提示他的死亡传统。他没有跨越所有时代的唯一造型，不能仅凭牧羊人物就认定身份。'},{title:'流传与文化语境',text:'对杜穆兹的哀悼传播到更广阔的近东，《以西结书》也提及为塔木兹哭泣的妇女。月份名称保存其名，但把全部材料化约成每年春死秋生的植物神公式，会掩盖地方历法及文本差异。'}],en:{name:'Dumuzi',title:'Shepherd, Consort, and Mourned God',tags:['Shepherd','Inanna','Tammuz'],sections:[{title:'Identity and Origins',text:'Dumuzi is a shepherd deity of Sumerian tradition, prominent in love poetry involving Inanna and in laments for his death. He also became known as Tammuz in later traditions. Namesakes also occur in king lists, but the divine figure and every similarly named ruler should not automatically be identified.'},{title:'Principal Narratives',text:'In the descent of Inanna, the returning goddess finds Dumuzi splendidly seated rather than mourning and hands him to demons seeking her substitute. Related compositions recount flight, appeals for help, and capture. His sister Geshtinanna shares time below, although arrangements and explanations differ across texts.'},{title:'Symbols and Identification',text:'Flocks, pastoral identity, and imagery of milk products belong to poems concerning Dumuzi, love, and abundance. Lamentation evokes the traditions of his death. There is no single visual formula valid for every period, so a shepherd figure alone cannot securely establish his presence in an image.'},{title:'Transmission and Cultural Context',text:'Mourning for Dumuzi spread beyond Sumer; the biblical Book of Ezekiel mentions women weeping for Tammuz. Calendar terminology also preserved his name. Reducing all evidence to a vegetation god who dies and returns on one fixed seasonal schedule obscures differences between local calendars and compositions.'}]}}
+,
+{id:'persia-zal',myth:'persia',name:'扎尔',title:'《列王纪》中的白发英雄',tags:['列王纪','白发','鲁斯塔姆之父'],sections:[{title:'身份与来历',text:'扎尔是菲尔多西《列王纪》中的英雄，萨姆之子、鲁斯塔姆之父。他出生便有白发，父亲因恐惧异相将他遗弃山中，由神鸟西摩格养大；他是伊朗史诗中的人类人物，不能直接归类为祆教神祇。'},{title:'主要叙事',text:'萨姆后来悔悟，寻回儿子；西摩格让扎尔带走羽毛，遇险可焚羽求援。扎尔与喀布尔公主鲁达芭相爱，双方家族顾虑其血统与政治后果，终获婚姻认可。鲁达芭难产时，他召来西摩格，依其指点通过切开腹部接生鲁斯塔姆。'},{title:'象征与辨识',text:'与青年面貌反差鲜明的白发，以及联系西摩格的羽毛，是扎尔的重要标志。波斯细密画常将山巢中的婴儿、神鸟和前来寻子的萨姆同绘，须按情节辨识。'},{title:'流传与文化语境',text:'扎尔连接萨姆与鲁斯塔姆的英雄世系，故事涉及身体差异、父子和解及跨家族婚姻。《列王纪》保存早期伊朗传说，但成书于伊斯兰时代，人物伦理不能直接等同宗教的神学教义。'}],en:{name:'Zal',title:'White Haired Hero of the Shahnameh',tags:['Shahnameh','White Hair','Father of Rostam'],sections:[{title:'Identity and Origins',text:'Zal is a human hero in the Shahnameh of Ferdowsi, the son of Sam and father of Rostam. Born with white hair, he is abandoned because his father fears his unusual appearance. The Simurgh raises him; he is not simply a deity of Zoroastrian religion.'},{title:'Principal Narratives',text:'Sam eventually recovers his son, and the Simurgh provides a feather for summoning aid. Zal loves Rudabeh, a princess of Kabul, overcoming dynastic and political objections to their marriage. When childbirth threatens her life, he summons the bird, whose instructions enable the surgical delivery of Rostam.'},{title:'Symbols and Identification',text:'White hair contrasting with a youthful face is a key identifier, alongside the feather linking Zal to the Simurgh. Persian manuscript paintings may show the infant in a mountain nest with the bird and the approaching Sam. Narrative context distinguishes the father, child, and later adult hero.'},{title:'Transmission and Cultural Context',text:'Zal connects the heroic generations of Sam and Rostam through stories of bodily difference, paternal reconciliation, and marriage across political boundaries. The Shahnameh preserves earlier Iranian traditions but was composed in the Islamic period. Its characterization and ethics cannot be equated directly with one religious theology.'}]}},
+{id:'persia-simurgh',myth:'persia',name:'西摩格',title:'《列王纪》中育养英雄的神鸟',tags:['列王纪','扎尔','神鸟'],sections:[{title:'身份与来历',text:'西摩格是伊朗传统中的神鸟，在《列王纪》中栖居高山，养育被遗弃的扎尔，并向英雄传授救难知识。其名称与更早伊朗鸟类神话存在联系，但史诗形象不能一概视为祆教神祇或某种单一教义的化身。'},{title:'主要叙事',text:'西摩格把扎尔抚养成人，分别时赠羽以备召唤，后来指导鲁斯塔姆的接生。鲁斯塔姆与伊斯凡迪亚尔交战受创后，神鸟又治疗他和战马，并指出敌手眼部的弱点，指导制作柽柳箭，同时警告杀死这位王子将招致沉重后果。'},{title:'象征与辨识',text:'巨鸟、山巢与可焚烧求援的羽毛，是辨认《列王纪》西摩格的线索。细密画中的羽色和形体随画家而异；不能仅因古代纹样具有翅膀，便断定都是同一神鸟。'},{title:'流传与文化语境',text:'阿塔尔《百鸟朝凤》让西摩格成为苏菲灵性追寻的终点，并利用三十只鸟的波斯语谐音展开寓意。这与《列王纪》的养育者、医治者角色属于不同文学语境，不能倒置为史诗原意。'}],en:{name:'Simurgh',title:'The Nurturing Bird of the Shahnameh',tags:['Shahnameh','Zal','Mythic Bird'],sections:[{title:'Identity and Origins',text:'The Simurgh is a marvelous bird of Iranian tradition, dwelling on a mountain in the Shahnameh and raising the abandoned Zal. Its name has connections with earlier Iranian bird traditions. This epic portrayal should not automatically be classified as a Zoroastrian deity or a single doctrinal symbol.'},{title:'Principal Narratives',text:'The Simurgh gives Zal a summoning feather and later guides the birth of Rostam. After Rostam battles Esfandiyar, the bird heals him and his horse, reveals the vulnerability of his opponent at the eyes, and advises a tamarisk arrow while warning of grave consequences for killing him.'},{title:'Symbols and Identification',text:'A great bird, a mountain nest, and feathers burned to summon assistance are useful Shahnameh identifiers. Plumage and bodily form vary across manuscript paintings. An ancient winged motif cannot be labeled the Simurgh merely because it has wings; context and the history of interpretation matter.'},{title:'Transmission and Cultural Context',text:'In the Conference of the Birds, Attar makes the Simurgh the goal of a Sufi spiritual quest and develops wordplay involving thirty birds in Persian. This literary setting differs from the nurturing and healing bird of the Shahnameh and should not be read backward as its original meaning.'}]}}
+];
+
+window.FIGURES_EXTRA_WORLD = [
+  {
+    id: 'maya-hun-hunahpu', myth: 'maya', name: '胡纳胡纳赫普', title: '基切英雄双子的父亲与冥界球手', tags: ['基切传统', '双子父亲', '球戏'],
+    sections: [
+      {title: '身份与来历', text: '胡纳胡纳赫普是基切玛雅《波波尔乌》中的球手，名字常译为一胡纳赫普。他与兄弟七胡纳赫普同赴冥界，也是英雄双子胡纳赫普和伊什巴兰克的父亲，不应与同名成分的儿子混淆。'},
+      {title: '主要叙事', text: '兄弟在地面打球的声音惊动西巴尔巴诸主，被召入冥界后未能识破考验，遭到杀害。胡纳胡纳赫普的头悬在葫芦树上，使原本不结果的树结满果实。少女伊什基克来到树前，头颅向她掌心吐出唾液，使她怀上双子，故事由此转入下一代对冥界的挑战。'},
+      {title: '象征与辨识', text: '球场、悬首与结果的树构成主要辨识线索，连结死亡、繁衍和代际延续。他与玉米神的联系是研究议题，不能据此把所有古典玛雅玉米神图像都直接命名为他。'},
+      {title: '流传与文化语境', text: '这一叙事见于殖民时期以拉丁字母记录的基切文本，保留更早的口传传统。应区分基切叙事与其他玛雅社群的不同传统，不把一部作品当作所有玛雅人的统一经典。'}
+    ],
+    en: {
+      name: 'Hun Hunahpu', title: 'Father of the K’iche’ hero twins and an underworld ballplayer', tags: ['K’iche’ tradition', 'Father of the twins', 'Ballgame'],
+      sections: [
+        {title: 'Identity and origins', text: 'Hun Hunahpu, often translated as One Hunahpu, is a ballplayer in the K’iche’ Maya Popol Wuj. He accompanies his brother Seven Hunahpu to the underworld and fathers Hunahpu and Xbalanque. His name must not be confused with that of his heroic son.'},
+        {title: 'Key narratives', text: 'Their ballplaying disturbs the lords of Xibalba, who summon and kill the brothers after failed trials. Hun Hunahpu’s severed head hangs in a calabash tree that becomes fruitful. When Xquic approaches, the head spits into her palm, beginning her pregnancy with the twins.'},
+        {title: 'Symbols and attributes', text: 'The ballcourt, severed head, and fruiting tree connect death with generation and continuity. Scholars discuss relationships between this character and maize divinities, but such comparisons do not justify identifying every Classic Maya image of a maize god as Hun Hunahpu.'},
+        {title: 'Tradition and context', text: 'His story survives in a K’iche’ text written with the Latin alphabet during the colonial period, preserving earlier oral traditions. This particular literary witness should not be treated as a single uniform scripture representing every Maya community or historical period.'}
+      ]
+    }
+  },
+  {
+    id: 'maya-vucub-caquix', myth: 'maya', name: '七金刚鹦鹉', title: '以珠玉光辉自比日月的傲慢巨鸟', tags: ['基切传统', '虚假光辉', '英雄双子'],
+    sections: [
+      {title: '身份与来历', text: '七金刚鹦鹉的基切语名为武库布卡基什，是《波波尔乌》中夸耀自身光辉的巨鸟。他在真正的日月显现之前，凭明亮的眼睛和珠玉牙齿自称太阳与月亮，却并非创造天地的神圣者。'},
+      {title: '主要叙事', text: '胡纳赫普与伊什巴兰克用吹箭射中巨鸟的下颌，巨鸟反扯下胡纳赫普的手臂。双子随后请两位老人假扮医者，谎称能够医治牙痛，拔去巨鸟的珠玉牙齿并以白玉米粒替换，又取走他的眼部珍宝。失去所夸耀的光辉后，巨鸟死去，双子也取回被夺的手臂。'},
+      {title: '象征与辨识', text: '耀眼牙齿、发光眼睛和栖息果树的巨鸟形象最具辨识度。其光芒依赖可被取走的饰物，叙事借此区分炫耀的权势与正当秩序，而不是贬低现实中的金刚鹦鹉。'},
+      {title: '流传与文化语境', text: '故事属于基切玛雅传统，并与巨鸟两个儿子的败亡相互呼应。古代玛雅鸟形图像与此角色的对应仍需具体论证，不能仅凭鸟形或华丽羽毛就断言属于同一人物。'}
+    ],
+    en: {
+      name: 'Vucub Caquix', title: 'Seven Macaw, the bird who claims the light of sun and moon', tags: ['K’iche’ tradition', 'False brilliance', 'Hero twins'],
+      sections: [
+        {title: 'Identity and origins', text: 'Vucub Caquix, commonly called Seven Macaw, is the boastful great bird of the K’iche’ Popol Wuj. Before the true sun and moon appear, he claims their status through his shining eyes and jeweled teeth. He is not the creator of the world.'},
+        {title: 'Key narratives', text: 'Hunahpu wounds his jaw with a blowgun, but the bird tears off the hero’s arm. Two elderly helpers then pose as healers. They replace his splendid teeth with white maize and remove his eye ornaments. Deprived of his brilliance, he dies; the arm is recovered.'},
+        {title: 'Symbols and attributes', text: 'Jeweled teeth, brilliant eyes, and a great bird perched in a fruit tree distinguish him. His removable splendor exposes the fragility of boastful authority. This narrative function concerns a particular character and is not a condemnation of actual macaws or their beauty.'},
+        {title: 'Tradition and context', text: 'The episode belongs specifically to K’iche’ Maya narrative and accompanies the downfall of the bird’s two sons. Proposed connections with ancient Maya bird imagery require careful argument; a magnificent bird or elaborate plumage alone cannot establish the identity of this literary character.'}
+      ]
+    }
+  },
+  {
+    id: 'aztec-xipe-totec', myth: 'aztec', name: '希佩托特克', title: '与更新、剥皮祭仪及工匠相关的神祇', tags: ['墨西加传统', '生命更新', '金工'],
+    sections: [
+      {title: '身份与来历', text: '希佩托特克的纳瓦特尔语名常译为我们的剥皮之主，是墨西加宗教中与农作更新及金工等领域相关的神祇。他的崇拜也见于中部墨西哥其他地区，不能简单视为只属于特诺奇蒂特兰的地方神。'},
+      {title: '主要叙事', text: '关于他的资料尤其集中于仪式而非连续的英雄传记。在特拉卡希佩瓦利斯特利节期间，俘虏被献祭，一些仪式参与者随后披上受祭者皮肤，经过规定时段再将其脱下保存。资料也记载战士参与的格斗式祭仪，展现战争、献祭与季节更新彼此交织的宗教秩序。'},
+      {title: '象征与辨识', text: '造像常以外覆的人皮和下垂的皮手形成双层身体效果，也可能持仪式杖。辨识重点是服饰结构与祭仪语境，而非把黄色、金属或任何剥皮图像都等同于此神。'},
+      {title: '流传与文化语境', text: '认识此神需对读考古造像、图绘文献与殖民时期记载，注意记录者的立场。介绍历史献祭应准确而不猎奇，也不应把古代仪式直接投射为今日原住民社群的实践。'}
+    ],
+    en: {
+      name: 'Xipe Totec', title: 'Our Lord the Flayed One, associated with renewal and skilled work', tags: ['Mexica tradition', 'Renewal', 'Metalworking'],
+      sections: [
+        {title: 'Identity and origins', text: 'Xipe Totec’s Nahuatl name is commonly rendered Our Lord the Flayed One. In Mexica religion he is associated with agricultural renewal and fields including metalworking. His worship also occurred elsewhere in central Mexico, so he should not be reduced to a purely Tenochtitlan deity.'},
+        {title: 'Key narratives', text: 'Evidence emphasizes ceremonies rather than a continuous heroic biography. During Tlacaxipehualiztli, captives were sacrificed and some participants wore the victims’ skins for a prescribed period before removing and depositing them. Accounts also describe staged combat sacrifices, connecting warfare, ritual transformation, and seasonal renewal.'},
+        {title: 'Symbols and attributes', text: 'Sculptures often show an outer human skin, with its dangling hands creating a doubled bodily appearance. An accompanying ritual staff may add context. Identification depends on this structured attire and setting, not on treating every yellow object or skin motif as his emblem.'},
+        {title: 'Tradition and context', text: 'Understanding Xipe Totec requires comparison of archaeological objects, painted manuscripts, and colonial accounts, including their authors’ perspectives. Historical sacrifice should be described accurately without sensationalism. Ancient ceremonial evidence must not be projected indiscriminately onto the practices or identities of present Indigenous communities.'}
+      ]
+    }
+  },
+  {
+    id: 'aztec-xochiquetzal', myth: 'aztec', name: '索奇克察尔', title: '花卉、爱欲与精巧织作的女神', tags: ['花与羽毛', '织作', '墨西加传统'],
+    sections: [
+      {title: '身份与来历', text: '索奇克察尔是中部墨西哥纳瓦传统中与花卉、爱欲、美丽及织作相关的女神，名字通常释为珍贵的花羽。她在墨西加宗教中受到敬奉，但不同文献对她的亲属关系和经历并没有完全一致的说法。'},
+      {title: '主要叙事', text: '部分殖民时期记述把她说成雨神特拉洛克的妻子，后来被特斯卡特利波卡带走。这是一条特定文献线索，不能整理成所有纳瓦社群共同认可的婚姻传记。围绕她的其他材料更重视花卉、性吸引力与女性织作，说明她在仪式和日常技艺中具有多重意义。'},
+      {title: '象征与辨识', text: '花朵、华丽羽饰与精美衣物是常见辨识线索，呈现繁盛、吸引力和制作技艺。她不能与名称相近的花之王索奇皮利混为一体，也不能只用现代爱情女神的标签概括。'},
+      {title: '流传与文化语境', text: '她的形象保存在中部墨西哥图绘文献及殖民时期宗教记录中。阐释时应区分纳瓦地方传统与现代艺术再创作，避免把爱欲、劳动和生育等不同关联压缩为单一职能。'}
+    ],
+    en: {
+      name: 'Xochiquetzal', title: 'Goddess associated with flowers, desire, and fine weaving', tags: ['Flowers and feathers', 'Weaving', 'Mexica tradition'],
+      sections: [
+        {title: 'Identity and origins', text: 'Xochiquetzal belongs to central Mexican Nahua traditions and is associated with flowers, sexual desire, beauty, and weaving. Her name evokes a precious flower or flower feather. Mexica worship is well attested, but surviving accounts do not present one consistent family history for her.'},
+        {title: 'Key narratives', text: 'Some colonial accounts describe her as Tlaloc’s wife before Tezcatlipoca takes her away. This is a particular textual tradition, not a universally accepted Nahua biography. Other evidence emphasizes flowers, attraction, and women’s textile skills, placing her significance within ritual life as well as accomplished work.'},
+        {title: 'Symbols and attributes', text: 'Flowers, elaborate feather ornaments, and fine clothing provide important identifying clues, bringing together abundance, attractiveness, and skilled manufacture. She should not be conflated with the similarly named Xochipilli, nor reduced to a modern category of a goddess concerned only with romantic love.'},
+        {title: 'Tradition and context', text: 'Central Mexican pictorial manuscripts and colonial religious descriptions preserve her imagery and associations. Interpretation should distinguish particular Nahua traditions from contemporary artistic reinvention. Desire, skilled labor, fertility, and beauty intersect in these materials without collapsing into a single exclusive divine function.'}
+      ]
+    }
+  },
+  {
+    id: 'inca-illapa', myth: 'inca', name: '伊利亚帕', title: '安第斯雷鸣、闪电与降雨的神圣力量', tags: ['雷雨', '投石索', '安第斯'],
+    sections: [
+      {title: '身份与来历', text: '伊利亚帕是印加宗教中与雷鸣、闪电及降雨紧密相连的神圣存在，其名也用于雷电现象。雨水关系高地农作与牧养，使他在帝国祭祀中具有重要地位，并与安第斯各地的天气信仰相互联系。'},
+      {title: '主要叙事', text: '殖民时期记录保存了一种解释雷雨的叙述：天上的少女持盛水容器，她的兄弟击碎容器，水便降为雨。有关伊利亚帕的描写又常将雷声比作投石索发射时的巨响。这些材料共同呈现雷电与降水的关联，但不同作者的记录不宜拼成细节完全统一的故事。'},
+      {title: '象征与辨识', text: '投石索、雷光与盛水器是介绍相关叙事时常用的线索，突出雷声和降雨的联系。天象名称、神圣人格与地方祭祀对象之间存在重叠，不能只按现代雷神类别理解。'},
+      {title: '流传与文化语境', text: '关于他的资料主要来自殖民时期的安第斯宗教记述，须与地方历史共同阅读。今日安第斯社群的天气观念仍有丰富差异，不应将帝国祭祀直接当作现代社群的统一信条。'}
+    ],
+    en: {
+      name: 'Illapa', title: 'Andean sacred power of thunder, lightning, and rain', tags: ['Thunderstorms', 'Sling', 'Andes'],
+      sections: [
+        {title: 'Identity and origins', text: 'Illapa is a sacred presence associated with thunder, lightning, and rain in Inca religion; the name also denotes thunderous weather. Rain sustained highland farming and herding, giving this power considerable ceremonial importance while connecting imperial worship with diverse regional Andean understandings of weather.'},
+        {title: 'Key narratives', text: 'Colonial accounts preserve a rain explanation in which a heavenly maiden holds a water vessel and her brother strikes it, releasing rain. Descriptions associated with Illapa also compare thunder to a sling’s report. These related records should not be fused into one perfectly standardized biography.'},
+        {title: 'Symbols and attributes', text: 'The sling, lightning, and water vessel are useful clues to these traditions, emphasizing the relationship between thunder and rainfall. Weather terminology, divine personhood, and local objects of worship can overlap. A modern classification as merely a thunder god obscures that complexity.'},
+        {title: 'Tradition and context', text: 'Much evidence comes from colonial descriptions of Andean religion and requires attention to local histories and the circumstances of recording. Living Andean communities maintain varied understandings of weather; imperial Inca ceremonial patterns cannot simply be presented as their uniform contemporary beliefs.'}
+      ]
+    }
+  },
+  {
+    id: 'inca-mama-cocha', myth: 'inca', name: '玛玛科查', title: '作为滋养之母受到敬奉的海洋', tags: ['海洋母亲', '沿海生计', '安第斯'],
+    sections: [
+      {title: '身份与来历', text: '玛玛科查的克丘亚语名常释为海洋之母，是安第斯宗教语境中对海的母性称谓与神圣人格表达。在印加统治及其记录范围内，她尤其关联海洋的滋养力量，不能因此抹去沿海各族自己的海洋传统。'},
+      {title: '主要叙事', text: '殖民时期的安第斯记述把海描述为鱼类的母亲，也记录沿海居民向海致敬和献供，以求渔获与航行平安。有关玛玛科查的材料主要呈现人、海与生计之间的互惠关系，而不是一套情节完整的英雄冒险；不宜为填补人物传记而另造她与海怪交战的故事。'},
+      {title: '象征与辨识', text: '海水、鱼群与海岸是最稳妥的主题线索，突出养育及水域力量。现存材料不足以规定一种通行的古代女神面貌，现代蓝衣持杖画像不应被说成统一的印加标准形象。'},
+      {title: '流传与文化语境', text: '应区分印加帝国对神圣水域的理解与不同沿海社群的地方实践。海洋崇敬也不等同于所有安第斯水域信仰；介绍今日传统时，须尊重社群自身使用的名称和解释。'}
+    ],
+    en: {
+      name: 'Mama Cocha', title: 'The sea honored as a nourishing mother', tags: ['Mother sea', 'Coastal livelihoods', 'Andes'],
+      sections: [
+        {title: 'Identity and origins', text: 'Mama Cocha is a Quechua designation commonly understood as Mother Sea, expressing the ocean’s maternal sacred presence. Within accounts of the Inca world, she represents nourishing marine power. This imperial framing should not erase the distinct sea traditions of the many peoples along the coast.'},
+        {title: 'Key narratives', text: 'Colonial Andean descriptions call the sea the mother of fish and record coastal offerings seeking catches and safe passage. Such evidence concerns reciprocal relationships among people, ocean, and livelihood rather than a complete heroic biography. Invented adventures against sea monsters would misrepresent the surviving material.'},
+        {title: 'Symbols and attributes', text: 'Seawater, fish, and the coastline provide the most secure thematic clues to nourishment and marine power. Surviving evidence does not establish one standard ancient portrait. Modern pictures of a woman in blue carrying a staff should not be presented as canonical Inca iconography.'},
+        {title: 'Tradition and context', text: 'Imperial Inca perspectives on sacred waters must be distinguished from the practices of particular coastal communities. Reverence for the ocean is not interchangeable with every Andean water tradition. Contemporary descriptions should respect the names, histories, and interpretations maintained by the communities concerned.'}
+      ]
+    }
+  },
+  {
+    id: 'yoruba-oya', myth: 'yoruba', name: '奥雅', title: '与尼日尔河、风暴及转变相联的奥里沙', tags: ['尼日尔河', '风暴', '变形'],
+    sections: [
+      {title: '身份与来历', text: '奥雅是约鲁巴活态宗教中的奥里沙，与尼日尔河及风暴力量关系密切。关于她与尚戈及其他奥里沙的亲属、婚姻叙述因地域而异，她并非仅作为男性神祇的配偶而存在，也有独立的祭祀传统。'},
+      {title: '主要叙事', text: '一组公开流传的故事说，猎人发现能脱下兽皮化为女子的水牛，藏起兽皮后与她成婚，并答应不泄露她的来历。秘密后来被家人揭破，她取回兽皮恢复水牛形态。这个故事把奥雅的家庭关系、威力与变形联系起来，但人物细节和结局随讲述版本变化。'},
+      {title: '象征与辨识', text: '强风、尼日尔河与水牛是常见关联，体现流动与突变。她与墓地入口的关系在部分传统及大西洋彼岸传承中突出，不能因此把她简单等同于统治全部死者的死神。'},
+      {title: '流传与文化语境', text: '奥雅在尼日利亚及美洲非洲裔宗教中仍受敬奉，不同传承有各自名称、仪式和解释。公开神话只是认识她的一个入口，不能替代社群授权的宗教教导或仪式资格。'}
+    ],
+    en: {
+      name: 'Oya', title: 'Orisha associated with the Niger, storms, and transformation', tags: ['Niger River', 'Storms', 'Transformation'],
+      sections: [
+        {title: 'Identity and origins', text: 'Oya is an orisha in living Yoruba religion, closely associated with the Niger River and powerful winds. Accounts of her relationships with Shango and other orishas vary regionally. She possesses religious significance and worship beyond any description of her as a male deity’s wife.'},
+        {title: 'Key narratives', text: 'In a publicly circulated story cycle, a hunter hides the skin of a buffalo who becomes a woman. They marry under a promise of secrecy. After relatives expose her origins, she recovers the skin and resumes buffalo form. Details and endings vary between tellings.'},
+        {title: 'Symbols and attributes', text: 'Strong winds, the Niger, and the buffalo convey movement and sudden transformation. Connections with cemetery entrances are prominent in some traditions, including Atlantic diaspora religions. Those associations should not turn her into a generic death goddess ruling all the dead everywhere.'},
+        {title: 'Tradition and context', text: 'Oya remains actively honored in Nigeria and African diaspora religions, whose lineages maintain distinct names, ceremonies, and interpretations. Public narratives offer one approach to understanding her; they do not confer ritual authority or replace religious teaching authorized by the communities that sustain these traditions.'}
+      ]
+    }
+  },
+  {
+    id: 'yoruba-orunmila', myth: 'yoruba', name: '奥伦米拉', title: '智慧、命运见证与伊法传统的奥里沙', tags: ['伊法', '智慧', '命运见证'],
+    sections: [
+      {title: '身份与来历', text: '奥伦米拉是约鲁巴宗教中与智慧及伊法占卜传统相联的奥里沙，常被称为命运的见证者。他的知识帮助人们理解选择、责任与处境，但不能把他简化为自动预报未来的神，或等同于至高创造者。'},
+      {title: '主要叙事', text: '一组公开传说讲述奥伦米拉因儿子拒绝表达应有的敬意而离开人间，失去指导的人们陷入困境。子女寻访并请求他归来，他则留下与棕榈果仁相关的求知方式，使人们仍能寻求指引。故事将伊法的由来与关系修复相连，各传承保存的具体情节有所不同。'},
+      {title: '象征与辨识', text: '伊法使用的棕榈果仁、占卜链与占卜盘是重要关联物，二百五十六种奥杜构成知识分类框架。器物并非随意摆设，公开介绍不等于提供具体仪式程序或授予占卜资格。'},
+      {title: '流传与文化语境', text: '伊法依靠受训传承者保存和解释庞大的诗句与故事，不只是一套符号算法。尼日利亚与大西洋彼岸社群各有历史脉络，相关知识应尊重传承者和当地宗教规范。'}
+    ],
+    en: {
+      name: 'Orunmila', title: 'Orisha of wisdom, destiny’s witness, and the Ifa tradition', tags: ['Ifa', 'Wisdom', 'Witness to destiny'],
+      sections: [
+        {title: 'Identity and origins', text: 'Orunmila is the Yoruba orisha associated with wisdom and the Ifa divination tradition, often described as a witness to destiny. His knowledge helps people interpret circumstances, choices, and responsibilities. He is neither simply an automatic predictor of events nor identical with the supreme creator.'},
+        {title: 'Key narratives', text: 'One public narrative cycle describes Orunmila leaving the human world after a son refuses proper respect. Without guidance, people suffer. His children seek him and request his return; he instead leaves a means associated with palm nuts for obtaining counsel. Particular versions preserve different details.'},
+        {title: 'Symbols and attributes', text: 'Ifa palm nuts, a divining chain, and the divination tray are important associations. Its 256 odu organize a substantial body of knowledge. These objects are not arbitrary decorations, and public description neither supplies ceremonial instructions nor authorizes someone to practice divination.'},
+        {title: 'Tradition and context', text: 'Trained custodians preserve and interpret extensive verses and stories within Ifa; the tradition is more than a symbolic calculation system. Communities in Nigeria and across the Atlantic possess distinct histories. Their religious standards and the authority of knowledgeable practitioners deserve explicit respect.'}
+      ]
+    }
+  },
+  {
+    id: 'west-africa-onini', myth: 'west-africa', name: '奥尼尼', title: '阿坎阿南西购得故事传说中的蟒蛇', tags: ['阿坎故事', '蟒蛇', '量身计谋'],
+    sections: [
+      {title: '身份与来历', text: '奥尼尼是阿坎阿南西故事中的一条蟒蛇，出现在蜘蛛智者向天神尼亚美换取故事的叙事里。他是这个具体情节中的动物角色，不是统辖蛇类的神祇，也不是可以套用于整个西非的通用神名。'},
+      {title: '主要叙事', text: '尼亚美要求阿南西取得难以捕获的动物，才肯交出故事。阿南西带着长木杆找到奥尼尼，假称自己正与妻子争论蟒蛇究竟比木杆长还是短。奥尼尼为证明长度而伸直身体，阿南西借口身体必须贴紧木杆才能量准，一段段把他绑牢，随后把活捉的蟒蛇交给尼亚美。'},
+      {title: '象征与辨识', text: '长木杆、绳索与伸直的蛇身是这段故事的辨识组合，关键在于把自证身长的愿望变成圈套。奥尼尼的失败服务于机智叙事，不代表阿坎社会把所有蛇都视为愚笨。'},
+      {title: '流传与文化语境', text: '故事属于阿坎语言文化中的阿南西叙事群，经口传和书面改写形成多种版本。应保留其阿坎背景，并把角色名称与具体情节相连，不泛称为所有西非民族共同的蟒蛇神。'}
+    ],
+    en: {
+      name: 'Onini', title: 'The python in the Akan tale of Ananse acquiring stories', tags: ['Akan storytelling', 'Python', 'Measuring trick'],
+      sections: [
+        {title: 'Identity and origins', text: 'Onini is the python in an Akan Ananse tale about obtaining stories from the sky deity Nyame. He is an animal character within that particular narrative, not a god governing snakes and not a universal supernatural figure shared by all West African peoples.'},
+        {title: 'Key narratives', text: 'Nyame demands difficult animal captives as the price of stories. Ananse approaches Onini with a pole, claiming a dispute with his wife over the python’s length. Onini stretches alongside it; Ananse insists accurate measurement requires fastening him tightly, binds him, and delivers the captive.'},
+        {title: 'Symbols and attributes', text: 'The long pole, binding cord, and straightened snake together identify this episode. A desire to establish bodily size becomes the opening for a trap. Onini’s defeat advances a tale about ingenuity; it does not establish an Akan judgment that all snakes lack intelligence.'},
+        {title: 'Tradition and context', text: 'The episode belongs to Akan Ananse storytelling and circulates through oral performance and written adaptations with variable wording. Its Akan setting and specific narrative role should remain visible. Labeling Onini a python god common to all West Africa would erase those essential distinctions.'}
+      ]
+    }
+  },
+  {
+    id: 'west-africa-mmoboro', myth: 'west-africa', name: '姆莫博罗', title: '被阿南西诱入葫芦的阿坎故事黄蜂群', tags: ['阿坎故事', '黄蜂群', '避雨计谋'],
+    sections: [
+      {title: '身份与来历', text: '姆莫博罗是阿坎阿南西购得故事传说中的黄蜂群名称，并非一位有独立神庙或神职的黄蜂神。他们与蟒蛇奥尼尼等动物一起，构成尼亚美向阿南西提出的难题，角色身份必须依附具体故事说明。'},
+      {title: '主要叙事', text: '阿南西准备葫芦容器和水，在黄蜂栖处洒水，自己也装作被雨淋湿，宣称暴雨已经来临。他向黄蜂推荐葫芦作为干燥的避难处，黄蜂群便陆续飞入。阿南西随即堵住开口，把整群黄蜂送给尼亚美；这次捕获成为换取故事的条件之一，计谋依靠伪造的天气与虚假的庇护。'},
+      {title: '象征与辨识', text: '装水器具、避雨的葫芦与被封住的出口构成主要线索。黄蜂原本具有群体防御力量，却被保护承诺诱入困境，故事着重机智的反转，而不是描述真实的养蜂技术。'},
+      {title: '流传与文化语境', text: '不同阿坎讲述及英语改写对名称拼法和细节有所调整，但黄蜂群的故事身份仍应保留。这里采用黄蜂而非泛称蜂神，也不把阿南西叙事中的所有动物自动提升为神祇。'}
+    ],
+    en: {
+      name: 'Mmoboro', title: 'The hornets tricked into a gourd in an Akan Ananse tale', tags: ['Akan storytelling', 'Hornet swarm', 'False rain'],
+      sections: [
+        {title: 'Identity and origins', text: 'Mmoboro names the hornets in the Akan tale of Ananse acquiring stories from Nyame. They are a swarm of story animals, not a hornet deity with an independent cult. Together with Onini and other captives, they belong to the sky deity’s demanding conditions.'},
+        {title: 'Key narratives', text: 'Ananse brings water and a gourd, sprinkles the hornets’ dwelling, and pretends that heavy rain has arrived. He recommends the gourd as dry shelter. Once the hornets enter, he plugs the opening and carries them to Nyame as part of the payment for stories.'},
+        {title: 'Symbols and attributes', text: 'Water, the sheltering gourd, and its stopped opening identify the trick. A swarm capable of collective defense becomes vulnerable through a promise of protection. The reversal serves storytelling about resourcefulness and deception; it is not a practical description of actual beekeeping or hornet management.'},
+        {title: 'Tradition and context', text: 'Akan performances and English adaptations vary in spelling and narrative detail, but the hornets’ particular role should remain clear. Calling them a generic bee god would change both animal identity and cultural status. Not every creature appearing beside Ananse is therefore a deity.'}
+      ]
+    }
+  },
+  {
+    id: 'polynesia-tawhirimatea', myth: 'polynesia', name: '塔菲里马泰阿', title: '毛利传统中风与风暴的阿图阿', tags: ['毛利传统', '风暴', '天地分离'],
+    sections: [
+      {title: '身份与来历', text: '塔菲里马泰阿是毛利传统中与风、云和风暴有关的阿图阿，为天空父亲朗伊努伊与大地母亲帕帕图阿努库之子。他反对兄弟分开父母，公开叙事由此解释天气力量与其他自然领域之间的冲突。'},
+      {title: '主要叙事', text: '塔内把天地分开后，塔菲里马泰阿随父亲来到天上，召集风暴向兄弟进攻。他摧折塔内的森林，搅动坦加罗阿的海域；与栽培食物及野生食物相关的兄弟躲入大地母亲怀中。只有图马陶恩加坚持迎战，故事借这场冲突说明人类与风暴及其他生命之间的关系。'},
+      {title: '象征与辨识', text: '狂风、云层和暴雨是主要辨识线索，其力量贯穿天空、森林与海面。他不是整个波利尼西亚共同采用同名同貌的风神，毛利阿图阿的亲属关系也不能只按气象职能理解。'},
+      {title: '流传与文化语境', text: '这里采用公开流传的毛利天地分离叙事，不涉及受限仪式知识。不同部族与家族传承对名字、次序和解释可能各有侧重，阅读时应尊重当地讲述者与相关谱系。'}
+    ],
+    en: {
+      name: 'Tāwhirimātea', title: 'Māori atua of winds and storms', tags: ['Māori tradition', 'Storms', 'Separation of earth and sky'],
+      sections: [
+        {title: 'Identity and origins', text: 'Tāwhirimātea is the Māori atua associated with winds, clouds, and storms, a child of Ranginui and Papatūānuku. He opposes his siblings’ decision to separate their parents. Public narratives use his response to explain relationships between weather and other domains of the living world.'},
+        {title: 'Key narratives', text: 'After Tāne separates earth and sky, Tāwhirimātea joins his father above and attacks his brothers with storms. Forests break and seas churn, while the brothers associated with cultivated and uncultivated foods shelter within their mother. Tūmatauenga alone stands firm against the assault.'},
+        {title: 'Symbols and attributes', text: 'Strong winds, gathering clouds, and driving rain distinguish his presence across sky, forest, and ocean. He is not a uniformly named wind god shared throughout Polynesia. The kin relationships of Māori atua carry meanings that exceed a simple list of meteorological responsibilities.'},
+        {title: 'Tradition and context', text: 'This account draws on publicly shared Māori narratives of earth and sky separating, not restricted ceremonial knowledge. Iwi and whānau traditions may emphasize different names, sequences, and interpretations. Their genealogical settings and the authority of local narrators should remain visible and respected.'}
+      ]
+    }
+  },
+  {
+    id: 'polynesia-hine-nui-te-po', myth: 'polynesia', name: '希内努伊特波', title: '毛利传统中迎接亡者的夜之伟大女性', tags: ['毛利传统', '死亡边界', '祖先归宿'],
+    sections: [
+      {title: '身份与来历', text: '希内努伊特波的名字常译为夜之伟大女性，是毛利传统中与死亡世界相联的神圣存在。在一组公开叙事里，她原名希内蒂塔玛，发现伴侣塔内也是自己的父亲后离开光明世界，成为迎接后代亡者者。'},
+      {title: '主要叙事', text: '公开流传的玛乌伊故事讲述英雄试图消除人类死亡：他打算趁希内努伊特波熟睡，逆向穿过她的身体再从口中出来。他嘱咐同行鸟类保持安静，但一只小鸟忍不住发笑，女神惊醒，将他夹住致死。这次失败说明人类不能靠英雄的计谋越过死亡的界限。'},
+      {title: '象征与辨识', text: '夜、通向亡者世界的门槛与迎接子孙的角色是重要线索。她并非等同于邪恶魔王，故事也不仅呈现威胁，而是把死亡的不可逃避与亲属延续放在同一关系中理解。'},
+      {title: '流传与文化语境', text: '此处只述毛利公开教育材料中可见的叙事层面，不提供丧葬仪式知识。不同部族保存不同讲法，涉及死亡与祖先时应保持庄重，不把相关神圣叙事当作恐怖猎奇素材。'}
+    ],
+    en: {
+      name: 'Hine-nui-te-pō', title: 'Great woman of night who receives the dead in Māori tradition', tags: ['Māori tradition', 'Mortality', 'Ancestral destination'],
+      sections: [
+        {title: 'Identity and origins', text: 'Hine-nui-te-pō, often translated as Great Woman of Night, is associated with the realm of death in Māori traditions. In one publicly shared account, she was Hine-tītama, who left the world of light after discovering that her partner Tāne was also her father.'},
+        {title: 'Key narratives', text: 'Māui attempts to end human death by passing backward through her sleeping body and emerging from her mouth. He orders accompanying birds to remain silent, but one laughs. Hine-nui-te-pō wakes and crushes him between her thighs, establishing the failure of his challenge to mortality.'},
+        {title: 'Symbols and attributes', text: 'Night, the threshold of the dead, and the reception of descendants provide central themes. She is not equivalent to an evil demon. Her role connects the inevitability of death with kinship and continuing relationships, rather than representing an isolated monster for heroes to defeat.'},
+        {title: 'Tradition and context', text: 'Only narrative material shared in public Māori educational contexts is included here, not funeral procedures or restricted knowledge. Iwi traditions maintain differing accounts. Stories concerning death and ancestors deserve a respectful tone rather than treatment as sensational horror or detached exotic entertainment.'}
+      ]
+    }
+  },
+  {
+    id: 'aboriginal-wagyl', myth: 'aboriginal', name: '瓦吉尔', title: '努恩加尔国土中与水道相联的祖先存在', tags: ['努恩加尔', '澳大利亚西南部', '水道与国土'],
+    sections: [
+      {title: '身份与来历', text: '瓦吉尔是澳大利亚西南部努恩加尔传统中与水、地貌及国土关系密切的蛇形祖先存在，名字也有不同拼写。这里的国土不只是地理空间，还包含祖先、生命与社群责任，不能把其缩减为普通河流神。'},
+      {title: '主要叙事', text: '努恩加尔社群公开分享的说明把瓦吉尔在大地上的移动与河道、谷地和水域的形成联系起来，珀斯一带的天鹅河即是常见例子。祖先的经过使地景成为承载关系与记忆的所在，而非一张空白地图；这些公开概述不意味着所有地点故事或进一步解释都可自由转述。'},
+      {title: '象征与辨识', text: '蛇形祖先、弯曲河道与维系生命的水是公开说明中常见的线索。这里不复制任何社群图样，也不规定一幅通用形象；所谓彩虹蛇并不意味着全澳只有同一位祖先。'},
+      {title: '流传与文化语境', text: '瓦吉尔应置于努恩加尔国土和当代社群的持续关系中理解，而非归为已经消失的信仰。本文只用公开通识，不涉及受限地点、仪式或知识，进一步使用须尊重知识持有者。'}
+    ],
+    en: {
+      name: 'Wagyl', title: 'An ancestral presence associated with waterways in Noongar Country', tags: ['Noongar', 'Southwestern Australia', 'Waterways and Country'],
+      sections: [
+        {title: 'Identity and origins', text: 'Wagyl is a serpentine ancestral presence associated with water, landforms, and Noongar Country in southwestern Australia. Spellings vary. Country includes relationships among ancestors, living beings, places, and community responsibilities; the term cannot be reduced to a neutral geographic area or Wagyl to a generic river god.'},
+        {title: 'Key narratives', text: 'Public Noongar explanations connect Wagyl’s movements with the making of waterways, valleys, and water places; the Swan River around Perth is a familiar example. These accounts present landscape as ancestral relationship and memory. Public summaries do not imply unrestricted permission to retell every local account.'},
+        {title: 'Symbols and attributes', text: 'A serpentine ancestor, winding waterways, and water sustaining life are appropriate public themes. No community designs are reproduced here, and no standardized portrait is prescribed. The broad English label Rainbow Serpent does not establish one identical ancestral being across all Aboriginal Australian peoples.'},
+        {title: 'Tradition and context', text: 'Wagyl belongs within continuing Noongar relationships with Country, not a religion presumed to have disappeared. This entry uses general public knowledge only. Restricted places, ceremonies, and teachings are excluded, and further use should respect the authority and permissions of relevant knowledge holders.'}
+      ]
+    }
+  },
+  {
+    id: 'aboriginal-ngalyod', myth: 'aboriginal', name: '恩加约德', title: '昆温库传统中与水及祖先力量相联的存在', tags: ['昆温库', '阿纳姆地西部', '祖先与水'],
+    sections: [
+      {title: '身份与来历', text: '恩加约德是澳大利亚北部阿纳姆地西部昆温库语言文化语境中的蛇形祖先存在，公开介绍常将其称为彩虹蛇。其身份依托当地国土与传承，并非努恩加尔瓦吉尔的另一拼法，两者属于不同社群。'},
+      {title: '主要叙事', text: '公开通识把恩加约德与水潭、雨季及塑造地貌的祖先力量联系起来。一些公开讲述描述其在行为规范被触犯时，以洪水或吞没带来严厉后果，强调人对地点及社会关系负有责任。这里不拼接不同地点的故事，也不补写受限仪式的经过，只呈现已经公开的共同主题。'},
+      {title: '象征与辨识', text: '蛇形身体与水域力量是公开可述的辨识线索，但具体造型并非随意可复制的装饰。本条不摹写族群图样，不把其他地区彩虹蛇的外貌或属性自动添加到恩加约德身上。'},
+      {title: '流传与文化语境', text: '相关知识由具体社群和知识持有者维系，公开艺术或解说并不等于所有故事均已开放。介绍应保留昆温库背景，尊重地方许可与知识边界，不以泛原住民神话替代其文化身份。'}
+    ],
+    en: {
+      name: 'Ngalyod', title: 'An ancestral presence of water in Kunwinjku traditions', tags: ['Kunwinjku', 'Western Arnhem Land', 'Ancestral waters'],
+      sections: [
+        {title: 'Identity and origins', text: 'Ngalyod is a serpentine ancestral presence in Kunwinjku cultural and language contexts of western Arnhem Land in northern Australia, often introduced publicly as a Rainbow Serpent. This identity belongs to particular Country and traditions, not another spelling of the Noongar ancestral presence Wagyl.'},
+        {title: 'Key narratives', text: 'Public accounts associate Ngalyod with waterholes, seasonal rains, and ancestral forces shaping land. Some describe flooding or swallowing as consequences of violated obligations, emphasizing responsibilities to places and relationships. This summary does not combine site narratives or reconstruct restricted ceremonies beyond those openly shared themes.'},
+        {title: 'Symbols and attributes', text: 'A serpentine body and powerful associations with water provide appropriate public identifying themes. Specific representations are not automatically available as decorative resources. No community designs are copied here, and attributes of Rainbow Serpent traditions elsewhere are not added indiscriminately to Ngalyod’s identity.'},
+        {title: 'Tradition and context', text: 'Particular communities and knowledge holders sustain these traditions. Public artworks or educational descriptions do not make every associated story unrestricted. Interpretation should retain the Kunwinjku context, respect local permissions and knowledge boundaries, and avoid replacing this identity with an undifferentiated category of Aboriginal mythology.'}
+      ]
+    }
+  }
+];
+
+window.FIGURES_MORE_A = [
+{
+ id:'china-sunwukong',myth:'china',name:'孙悟空',title:'从花果山石卵中走出的齐天大圣',tags:['叛逆','神通','取经'],
+ sections:[
+ {title:'身份与来历',text:'孙悟空是《西游记》的核心角色，由花果山顶仙石迸裂而生。其原型可溯至《大唐三藏取经诗话》中的猴行者、宋元话本与民间猴精传说，并吸收了佛教护法神将的形貌。明代百回本《西游记》使其定型，吴承恩的作者身份至今仍有争议。'},
+ {title:'主要叙事',text:'他远渡学艺，得七十二般变化与筋斗云；闯龙宫取得定海神针，入地府勾销死籍；两度受天庭招安，因弼马温之辱与蟠桃会之愤大闹天宫，被如来压于五行山下。皈依后护送唐僧西行，历八十一难，终封斗战胜佛。'},
+ {title:'象征与辨识',text:'金箍棒、紧箍、虎皮裙与筋斗云是稳定标识。金箍棒本是东海定海神针，可大可小；紧箍象征戒律对心性的约束。明清评点以“心猿”解释这一形象，把猴性、妄心与修行次第连成一条线索。'},
+ {title:'流传与文化语境',text:'应把孙悟空理解为文学英雄，而非自古普遍受祀的至上神。闽南、台湾与东南亚可见齐天大圣庙，属小说流行后的民间衍生。戏曲、动画与日韩改编不断重塑他，也使其形象逐渐远离原书语境。'}],
+ en:{name:'Sun Wukong',title:'The Monkey King born from a stone on Flower Fruit Mountain',tags:['Rebellion','Power','Pilgrimage'],sections:[
+ {title:'Identity and origins',text:'Sun Wukong is the central figure of the Ming novel Journey to the West. He is born from a stone egg on Flower Fruit Mountain. His lineage runs through the monkey pilgrim of the Tang-era Sutra of the Monkey Pilgrim, Song and Yuan storyteller tales, and older folk monkey spirits, with Buddhist guardian imagery layered on top.'},
+ {title:'Key narratives',text:'He studies under a Daoist patriarch and gains seventy-two transformations and a cloud-somersault. He seizes the pillar from the Dragon King and erases his name from the registers of death. After two appointments in heaven end in humiliation, he wreaks havoc there and is pinned beneath Five Elements Mountain, later escorting the monk Xuanzang west.'},
+ {title:'Symbols and attributes',text:'His staff, the tightened headband, tiger-skin kilt and somersault cloud identify him at once. The staff was a pillar stabilizing the sea and can shrink or grow at will. The headband stands for discipline imposed on a restless mind, a reading Ming commentators developed through the image of the monkey mind.'},
+ {title:'Tradition and context',text:'He is best understood as a literary hero rather than an ancient universal deity. Temples to the Great Sage appear in Fujian, Taiwan and Southeast Asia, but these are folk offshoots of novel fame. Opera, animation and Japanese and Korean adaptations keep reshaping him, often far from the original text.'}]}
+},
+{
+ id:'china-nezha',myth:'china',name:'哪吒',title:'析骨还父、莲身重生的少年神将',tags:['莲花','少年','战神'],
+ sections:[
+ {title:'身份与来历',text:'哪吒源于佛教护法神那吒，为毗沙门天王之子，唐代密教文献与宋代《景德传灯录》已见其名。中土叙事把他改造成李靖第三子，宋元禅宗灯录与《三教源流搜神大全》逐步丰富其身世，明代《封神演义》与《西游记》完成定型。'},
+ {title:'主要叙事',text:'《封神演义》中他闹海打死龙王三太子，为免连累父母而剖腹剔骨，归还骨肉；太乙真人以莲花与荷叶为其重塑身体，授火尖枪、风火轮与乾坤圈。此后他辅佐周武王伐纣，屡为先锋，最终肉身成圣。'},
+ {title:'象征与辨识',text:'莲花化身是其最鲜明的标志，意味脱去凡胎、超越血缘。图像常作童子相，束发、披甲或裸腹，足踏风火轮，手持火尖枪、混天绫与乾坤圈，身周有火焰纹样，脚踏轮宝可日行万里。'},
+ {title:'流传与文化语境',text:'哪吒故事把孝道、父权冲突与重生主题并置，历代讲唱与戏曲各有偏重。闽台与东南亚的哪吒太子信仰仍活跃，庙会中有阵头与乩童传统；1979年动画《哪吒闹海》与近年电影则给这一形象注入新的反抗色彩。'}],
+ en:{name:'Nezha',title:'The lotus-born boy warrior who returns his bones to his father',tags:['Lotus','Youth','Warrior'],sections:[
+ {title:'Identity and origins',text:'Nezha descends from Nata, a Buddhist guardian and son of Vaisravana, attested in Tang esoteric texts and Song Chan records. Chinese storytellers made him the third son of the general Li Jing. Zen lamp records and the Yuan-Ming compendium of popular deities expanded his biography, which the novels Fengshen Yanyi and Journey to the West fixed.'},
+ {title:'Key narratives',text:'In Fengshen Yanyi he kills the Dragon Kings third son while sporting in the sea. To spare his parents retaliation he cuts open his belly and returns his flesh and bones. His master Taiyi Zhenren rebuilds him from lotus root and petals and arms him with spear, wheels and rings. He then fights for King Wu against the Shang.'},
+ {title:'Symbols and attributes',text:'The lotus body is his sharpest emblem, signalling release from ordinary birth and from blood obligation. He appears as a boy with hair bound, sometimes bare-chested, standing on wind-fire wheels, holding a flame-tipped spear, a length of crimson silk and a golden ring, often framed by flames.'},
+ {title:'Tradition and context',text:'His story sets filial duty against paternal authority and adds rebirth. Ballads, opera and temple ritual each weight these themes differently. Devotion to Prince Nezha remains active in Fujian, Taiwan and Southeast Asia, with possessed mediums in temple processions, while modern animation recasts him as a rebel.'}]}
+},
+{
+ id:'china-erlang',myth:'china',name:'二郎神',title:'灌口三只眼的猎神与伏魔元帅',tags:['天眼','猎神','水患'],
+ sections:[
+ {title:'身份与来历',text:'二郎神以灌口二郎为原型，与战国秦守李冰次子治水传说相关，又有隋代赵昱斩蛟之说，学界亦追溯到氐羌地区的猎神与川西地方神。宋代已获朝廷敕封，后与杨戬之名合流，成为《西游记》《封神演义》中的重要神将。'},
+ {title:'主要叙事',text:'传说他居灌江口，率梅山七圣与一千二百草头神，斩蛟治水、护佑川西。他在《西游记》中奉旨擒拿孙悟空，与齐天大圣斗法变化；《封神演义》里则是玉泉山金霞洞的杨戬，善用八九玄功，屡次化险取胜。'},
+ {title:'象征与辨识',text:'三只眼、三尖两刃刀、哮天犬与弹弓是他的标志，常着鹅黄袍、戴三山帽。天眼象征洞察邪祟，细犬用于追踪擒敌；他也被画成持弓挟弹的狩猎之神，与川西平原的治水记忆相连。'},
+ {title:'流传与文化语境',text:'二郎神信仰以四川灌县为中心，都江堰的二王庙至今祭祀李冰父子，六月二十四日有庙会。文本传统与地方治水祭祀长期并行，戏曲《二郎神醉射锁魔镜》等又添新情节，故其身份始终多元而非单一。'}],
+ en:{name:'Erlang Shen',title:'The three-eyed hunting god of the Guanjiang mouth',tags:['Third eye','Hunting','Flood'],sections:[
+ {title:'Identity and origins',text:'Erlang Shen is rooted in the Guanjiang Erlang cult of western Sichuan, linked to Li Bing, the Qin governor who tamed the Min River, and to his son. A Sui-era tale credits the official Zhao Yu with slaying a dragon. Scholars also trace a Qiang hunting deity. Song courts granted him titles, and he was later merged with the figure Yang Jian.'},
+ {title:'Key narratives',text:'He is said to command the Seven Sages of Meishan and twelve hundred local spirits from his seat at the Guan River mouth. In Journey to the West he is sent to capture Sun Wukong and matches the monkey in shape-shifting combat. In Fengshen Yanyi, as Yang Jian of Mount Yuquan, he wins battles through transformation.'},
+ {title:'Symbols and attributes',text:'A third eye, a double-bladed lance, a slender hound and a pellet bow mark him, along with a yellow robe and a three-peaked cap. The eye sees through demons, the dog tracks them down. He is also painted as a hunter with bow and pellets, tying him to the irrigated plains of Sichuan.'},
+ {title:'Tradition and context',text:'His cult centers on Guanxian in Sichuan, where the Two Kings Temple at Dujiangyan still honours Li Bing and his son, with a fair on the twenty-fourth day of the sixth lunar month. Local water-management ritual and literary epic have run in parallel, and opera keeps adding episodes, so his identity stays plural.'}]}
+},
+{
+ id:'china-kuafu',myth:'china',name:'夸父',title:'追逐落日而道渴的巨人',tags:['逐日','巨人','桃林'],
+ sections:[
+ {title:'身份与来历',text:'夸父是《山海经》中的巨人，记载分见《海外北经》与《大荒北经》，两处文字略有出入。一处称他为后土之孙、信之子，属炎帝谱系；另一处只记他与日竞走。先秦其他典籍少有提及，其形象基本依赖这部地理博物志保存。'},
+ {title:'主要叙事',text:'《海外北经》说他与太阳竞逐，追至禺谷，口渴而饮黄河、渭水，不足，又北饮大泽，未至而道渴而死，弃下的手杖化为邓林，即桃林。《大荒北经》另记黄帝命应龙杀蚩尤后，夸父不从命而被杀，情节与逐日一版不同。'},
+ {title:'象征与辨识',text:'巨人形体、桃木杖与渴死道旁的结局构成主要识别要素。图像多画他迈步追赶落日，或倒地而手杖生根成林。桃林在后世兼具路标与庇荫之意，因此夸父也常被读作失败的追求者，或不肯停下的意志化身。'},
+ {title:'流传与文化语境',text:'陶渊明《读山海经》以“夸父诞宏志，乃与日竞走”咏其事，赋予其悲壮色彩；现代教科书与通俗读物则多强调不屈意志。须注意《山海经》各篇非一时一人所撰，不宜把两种死因强行统一为单一版本。'}],
+ en:{name:'Kuafu',title:'The giant who chased the setting sun and died of thirst',tags:['Sun chase','Giant','Peach grove'],sections:[
+ {title:'Identity and origins',text:'Kuafu is a giant known from the Classic of Mountains and Seas, in two passages that differ in detail. One makes him grandson of Houtu and son of Xin, placing him in the Yan Emperor lineage; the other simply records his race against the sun. Few other pre-Qin texts mention him.'},
+ {title:'Key narratives',text:'He chases the sun to the Yu Valley, then drinks the Yellow River and the Wei and is still thirsty. He heads north for the Great Marsh but dies on the road. His discarded staff becomes Denglin, the peach grove. A separate passage has him killed for disobeying the Yellow Emperor after the battle with Chiyou.'},
+ {title:'Symbols and attributes',text:'His giant body, peach-wood staff and death by the roadside define him. Paintings show him striding after the sinking sun, or fallen while the staff takes root. The grove he leaves behind reads as both a landmark and shade for travellers, so he is often taken as a heroic failure.'},
+ {title:'Tradition and context',text:'Tao Yuanming wrote a famous poem on his grand ambition and race with the sun, giving the tale its tragic colour. Modern textbooks stress perseverance instead. The Classic of Mountains and Seas was compiled by many hands, so the two accounts of his death should not be forced into one.'}]}
+},
+{
+ id:'china-jingwei',myth:'china',name:'精卫',title:'衔木石以填东海的炎帝少女',tags:['复仇','坚持','鸟形'],
+ sections:[
+ {title:'身份与来历',text:'精卫出自《山海经·北山经》：她是炎帝之女女娃，游于东海，溺而不返，化为鸟，名精卫，状如乌鸦，头有花纹，白喙赤足。原文极简短，却是后世诗文反复引用的核心文本；《述异记》等书再补其衔石填海与繁衍的情节。'},
+ {title:'主要叙事',text:'女娃溺死后化为精卫，常衔西山之木石投入东海，欲填平淹死自己的那片海。《述异记》补充说它与海燕配偶，所生之鸟雌雄同体，故其族不息。故事没有终点，填海的重复动作本身即是全部叙事，构成一种不设完成的循环。'},
+ {title:'象征与辨识',text:'白喙、赤足、文首的小鸟是辨识标志，图像常作口衔树枝飞越波涛。填海之举被读作复仇、坚忍或徒劳，各时代取舍不同。“精卫填海”后来成为成语，与愚公移山并称，指不计成败的坚持。'},
+ {title:'流传与文化语境',text:'《山海经》原文简略，后世注家与类书不断增饰，陶渊明、李白都曾以之为题。现代常把它纳入抗争自然的框架，但原文本的重心更近于丧女之痛与不肯中止的执念。它也被用作地名、船名与女性坚毅的象征。'}],
+ en:{name:'Jingwei',title:'The Yan emperors daughter who fills the eastern sea with twigs',tags:['Vengeance','Persistence','Bird'],sections:[
+ {title:'Identity and origins',text:'Jingwei appears in the Classic of Mountains and Seas as the Yan Emperor daughter Nüwa, who drowned while playing in the Eastern Sea and became a bird like a crow, with patterned head, white beak and red feet. The notice is very short, yet later poems return to it constantly, and the Record of Strange Things adds her endless filling of the sea.'},
+ {title:'Key narratives',text:'Drowned, she flies from the western hills carrying twigs and stones in her beak and drops them into the Eastern Sea, the water that killed her. The later account has her mate with a sea swallow and bear young that are both male and female, so the flock never ends. There is no conclusion, only repetition.'},
+ {title:'Symbols and attributes',text:'A small bird with white beak, red feet and a marked head, usually painted carrying a branch over the waves. Her labour has been read as vengeance, as endurance, and as futility, with each age choosing its emphasis. The phrase jingwei filling the sea became a proverb for persistence regardless of outcome.'},
+ {title:'Tradition and context',text:'Commentators and encyclopedias kept enlarging the brief original, and poets from Tao Yuanming to Li Bai took it up. Modern retellings often frame it as defiance of nature, though the older text is closer to grief for a lost daughter and an refusal to stop. It also names places, boats and stubborn courage.'}]}
+},
+{
+ id:'china-chiyou',myth:'china',name:'蚩尤',title:'涿鹿之战中呼风唤雨的九黎之君',tags:['兵主','九黎','涿鹿'],
+ sections:[
+ {title:'身份与来历',text:'蚩尤是九黎之君，先秦文献对其立场分歧明显。《尚书·吕刑》把他写作作乱受罚者，《史记·五帝本纪》记他与黄帝战于涿鹿之野而被擒杀，《山海经·大荒北经》则说黄帝令应龙攻蚩尤。另有记载称他铜头铁额、兄弟八十一人。'},
+ {title:'主要叙事',text:'涿鹿之战中，蚩尤请风伯雨师纵大风雨，黄帝乃下天女魃止雨，并作指南车辨别方向，终擒蚩尤。山东、河北的地方传说又说他被肢解，身首分葬两地。苗族口传则尊他为祖先与英雄，与中原文献的乱贼形象形成鲜明对照。'},
+ {title:'象征与辨识',text:'牛角、铜头、铁额与兵戈是常见标识，后世兵家奉他为“兵主”，汉高祖曾立祠祭祀。图像或作兽面人身，或作手执五兵的首领。他的形象介于部族始祖、战神与叛乱者之间，取决于讲述者所属的传统。'},
+ {title:'流传与文化语境',text:'关于蚩尤并无单一正典：儒典取其乱，兵家取其勇，苗族口传取其祖。秦汉方术与后世小说又添呼风唤雨、铸铁为兵的情节。研究时须留意各文本的政治立场，避免把某一种叙述当作唯一的历史事实。'}],
+ en:{name:'Chiyou',title:'Lord of the Nine Li and storm-raiser at the Zhuolu war',tags:['War god','Nine Li','Zhuolu'],sections:[
+ {title:'Identity and origins',text:'Chiyou is lord of the Nine Li peoples, and early texts judge him very differently. The Book of Documents casts him as a rebel justly punished; the Records of the Grand Historian has him taken and killed by the Yellow Emperor at Zhuolu; the Classic of Mountains and Seas says the emperor sent the dragon Yinglong against him. He is also described with bronze head and iron brow.'},
+ {title:'Key narratives',text:'At Zhuolu he summons the wind and rain masters to batter the Yellow Emperor, who counters with the drought goddess Ba and a south-pointing chariot, then captures him. Regional tales in Shandong and Hebei say his body was quartered and buried in two places. Miao oral tradition honours him as an ancestor.'},
+ {title:'Symbols and attributes',text:'Horns, a metal-hard head and weapons identify him. Later military specialists honoured him as lord of war, and the Han founder built a shrine to him. He is drawn with a beast face on a human body, or as a chief wielding five weapons, standing somewhere between clan founder, war god and rebel.'},
+ {title:'Tradition and context',text:'There is no single canonical Chiyou. Confucian texts take his disorder, soldiers his courage, Miao singers his ancestry. Han occult lore and later fiction add storm magic and casting of metal weapons. Any account should note the political stance of its source rather than treating one version as plain history.'}]}
+},
+{
+ id:'china-xingtian',myth:'china',name:'刑天',title:'断首犹舞干戚的无头巨人',tags:['不屈','无头','干戚'],
+ sections:[
+ {title:'身份与来历',text:'刑天见于《山海经·海外西经》：“刑天与帝至此争神，帝断其首，葬之常羊之山。”原文未言“帝”为谁，注家多解作天帝或黄帝；有版本写作“形天”，属异文。先秦其他典籍不见其人，其形象几乎完全依赖这一条记载。'},
+ {title:'主要叙事',text:'被断首之后，他以双乳为目、以脐为口，继续挥舞盾与斧起舞，不肯倒下。文字极短，既无前因也无结局。后世注家推测其象征失败的抗争，陶渊明《读山海经》以“刑天舞干戚，猛志固常在”咏之，赋予他不肯中止的意志。'},
+ {title:'象征与辨识',text:'无头之身、以乳为目、以脐为口，加上干（盾）与戚（斧），是其唯一稳定的形象要素。图像多画他赤裸上身、双乳作眼，立于常羊之山。陶诗流传之后，“舞干戚”成为不屈的典故，常与精卫填海并提。'},
+ {title:'流传与文化语境',text:'因原文过简，后世解说分歧很大：经学家或读作争位者的下场，文人则取其壮烈。现代通俗读物常把他列为战神，这并非古籍的定位。引用时宜注明出处仅《山海经》，并说明“帝”的身份在学界仍有争论。'}],
+ en:{name:'Xingtian',title:'The headless giant who dances with shield and axe',tags:['Defiance','Headless','Axe'],sections:[
+ {title:'Identity and origins',text:'Xingtian appears in one passage of the Classic of Mountains and Seas: he contends with the supreme lord for divine power, is beheaded, and is buried at Mount Changyang. The text never names that lord, and commentators identify him either as Heaven or the Yellow Emperor. Some editions write his name differently.'},
+ {title:'Key narratives',text:'With his head cut off he uses his nipples as eyes and his navel as a mouth, and keeps dancing with shield and axe instead of falling. The notice gives no cause and no ending. Tao Yuanming turned him into a byword for stubborn resolve that outlasts defeat.'},
+ {title:'Symbols and attributes',text:'A headless torso, breasts used as eyes, a navel as mouth, and the shield and axe are his only fixed features. He is painted bare-chested on Mount Changyang. After Tao poem circulated, dancing with shield and axe became a set phrase for unyielding defiance, often paired with Jingwei filling the sea.'},
+ {title:'Tradition and context',text:'Because the source is so brief, readings diverge: classical scholars saw a rebel punished, literati saw grandeur. Modern popular books list him as a war god, which the old text does not support. Quotations should note that the Classic of Mountains and Seas is the sole source and that the lords identity remains disputed.'}]}
+},
+{
+ id:'china-bai-she',myth:'china',name:'白蛇',title:'西湖断桥畔的蛇身女子白素贞',tags:['蛇','情','雷峰塔'],
+ sections:[
+ {title:'身份与来历',text:'白蛇形象定型于《白蛇传》，远源可溯至宋代《西湖三塔记》的蛇精故事；明代冯梦龙《警世通言》中的《白娘子永镇雷峰塔》已具完整情节，清代方成培《雷峰塔》传奇与各地戏曲再加润色，遂成今日通行的白素贞。'},
+ {title:'主要叙事',text:'白素贞修炼千年化人，在西湖断桥与许仙相遇，结为夫妻并行医。法海认她为妖，端午雄黄使她现出原形，许仙惊死，白娘子盗仙草救夫；后水漫金山，终被镇于雷峰塔下，其子祭塔、塔倒团圆为后世所增。'},
+ {title:'象征与辨识',text:'白衣女子与蛇身原形、断桥与油纸伞、雷峰塔与雄黄酒构成辨识要素。青蛇小青为伴，法海为对立面。故事把医药、水患与寺院权力缠在一起，塔既是镇压也是界限，端午习俗因此与情节相互绑定。'},
+ {title:'流传与文化语境',text:'《白蛇传》属民间传说与戏曲传统，并非宗教经典。它与镇江金山寺、杭州雷峰塔的地方记忆彼此塑造；二十世纪五十年代经田汉改编为京剧与电影，情节更趋反抗礼教。各地说唱与宝卷版本差异明显，不宜只取一种。'}],
+ en:{name:'White Snake',title:'The serpent woman Bai Suzhen by Broken Bridge on West Lake',tags:['Serpent','Love','Pagoda'],sections:[
+ {title:'Identity and origins',text:'The white serpent took her present shape in the Legend of the White Snake. An earlier snake-spirit tale appears in a Song collection about the three pagodas of West Lake; Feng Menglong retold it in the Ming story Bai Niangzi Imprisoned Forever under Leifeng Pagoda, and Qing drama and local opera polished the version now known.'},
+ {title:'Key narratives',text:'Bai Suzhen, cultivated for a thousand years, meets the pharmacist Xu Xian at Broken Bridge and marries him. The monk Fahai denounces her as a demon; realgar wine at the Dragon Boat festival forces her true form, and Xu Xian dies of fright. She steals the herb of immortality, floods Jinshan, and is buried beneath Leifeng Pagoda.'},
+ {title:'Symbols and attributes',text:'A woman in white and her serpent body, Broken Bridge and an oil-paper umbrella, the pagoda and realgar wine are the fixed markers. The green snake Xiaoqing attends her; Fahai opposes her. Medicine, flood and monastic power tangle together, and the pagoda works as both prison and boundary.'},
+ {title:'Tradition and context',text:'This is folk narrative and opera, not scripture. It grew alongside local memory at Jinshan Temple and Leifeng Pagoda. Tian Han rewrote it for stage and film in the 1950s, sharpening its anti-authoritarian edge. Ballad and precious-scroll versions differ widely, so no single text should stand for all.'}]}
+},
+{
+ id:'japan-yamatotakeru',myth:'japan',name:'日本武尊',title:'持草薙剑东征西讨的悲剧皇子',tags:['皇子','草薙剑','东征'],
+ sections:[
+ {title:'身份与来历',text:'日本武尊见于《古事记》与《日本书纪》，为景行天皇之子，本名小碓命，又称倭建命。两书成于八世纪初，叙事带有明显的编纂意图，把他塑成服从王权、替父征讨的皇子；“日本武”是后世的追称，熊袭之役时仍称小碓。'},
+ {title:'主要叙事',text:'他奉命征讨熊袭，男扮女装刺杀川上枭帅；又东征出云与毛野，遭当地人纵火围山，以草薙剑斩草开路脱险。归途在足柄山望见亡妻弟橘媛投海之处，悲叹成疾，最后于伊势能褒野化为白鸟飞去，陵墓与白鸟传说分处多地。'},
+ {title:'象征与辨识',text:'草薙剑（天丛云剑）是核心标志，与八咫镜、八尺琼勾玉并称三种神器。图像多作持剑的年轻皇子，或作白鸟升空之姿。故事中的火攻、渡海与变身，使他在明治以后被反复用作忠君与武勇的宣传素材。'},
+ {title:'流传与文化语境',text:'《古事记》用和文体，重歌谣与情感；《日本书纪》用汉文体，强调制度与天皇权威，两书细节互有出入。中世《平家物语》等屡引其典。近代学校教育与国家神道共同塑造了公众印象，需与八世纪文本区分开看。'}],
+ en:{name:'Yamato Takeru',title:'The tragic prince who carried the grass-cutting sword',tags:['Prince','Sword','Conquest'],sections:[
+ {title:'Identity and origins',text:'Yamato Takeru appears in the Kojiki and Nihon Shoki as a son of Emperor Keiko, born Prince Ousu and also called Yamato Woguna. Both chronicles were compiled in the early eighth century with clear political aims, casting him as a prince who conquers on his fathers behalf. The title Yamato Takeru is a later honorific.'},
+ {title:'Key narratives',text:'Sent against the Kumaso, he dresses as a woman and stabs their chief. On campaign in Izumo and Kenu he is trapped by a grass fire and cuts his way out with the sword Kusanagi. Grieving for his wife Ototachibana, who drowned for him, he falls ill and rises as a white bird at Nobono in Ise.'},
+ {title:'Symbols and attributes',text:'The Kusanagi sword, taken from the eight-headed serpent, is his central emblem and one of the three imperial regalia. He is shown as a young prince with a blade, or as a white bird ascending. Fire, sea crossing and shape-shifting in his story made him useful for Meiji-era lessons in loyalty and martial courage.'},
+ {title:'Tradition and context',text:'The Kojiki uses Japanese-style prose and highlights songs and grief, while the Nihon Shoki uses literary Chinese and stresses institutions and imperial authority; details disagree. Medieval war tales cite him often. Modern schooling and State Shinto shaped the public image, which should be kept distinct from the eighth-century texts.'}]}
+},
+{
+ id:'japan-yamata-no-orochi',myth:'japan',name:'八岐大蛇',title:'出云八头八尾的洪水之蛇',tags:['巨蛇','洪水','斩蛇'],
+ sections:[
+ {title:'身份与来历',text:'八岐大蛇是《古事记》《日本书纪》所记的出云巨蛇，八头八尾，背上生桧与杉，身长跨八谷八丘，腹部常溃烂流血。它每年吞食出云国一名少女，是须佐之男神话的前段。作为怪物而非神格，其名又写作“八俣远吕智”。'},
+ {title:'主要叙事',text:'须佐之男被逐出高天原，降至出云簸川上游，遇见足名椎、手名椎夫妇为第八个女儿栉名田比卖哭泣。他令酿酒八次，筑八门栅栏，置八桶烈酒。大蛇八头各饮一桶而醉卧，他逐一斩之，在尾部取得天丛云剑，献于天照大神。'},
+ {title:'象征与辨识',text:'八头八尾、眼如酸浆、背生林木、腹常流血是固定描写。图像多作盘绕山间的巨蛇，八头各据一谷。酒与八门栅栏是制服它的关键道具，草薙剑由此进入三种神器谱系，斩蛇之地与斐伊川上游的须我神社相连。'},
+ {title:'流传与文化语境',text:'故事为洪水与河道变迁提供解释，也标志须佐之男由暴神转为文化英雄，并为其后裔大国主让出出云埋下伏笔。近代常把大蛇读作水患或制铁集团的隐喻，但这些属解释而非文本明言。出云至今存相关神社与祭仪。'}],
+ en:{name:'Yamata no Orochi',title:'The eight-headed serpent of Izumo and the annual flood',tags:['Serpent','Flood','Slaying'],sections:[
+ {title:'Identity and origins',text:'Yamata no Orochi is the serpent of the Kojiki and Nihon Shoki, with eight heads and eight tails, cedars and cypresses growing on its back, a body spanning eight valleys and eight hills, and a belly that bleeds constantly. It eats one daughter of Izumo each year and belongs to the opening of the Susanoo cycle.'},
+ {title:'Key narratives',text:'Driven from the high plain of heaven, Susanoo meets an old couple weeping over their eighth daughter, Kushinada. He brews liquor eight times, builds an eightfold fence with eight vats, and the serpent dips one head into each and falls asleep. Cutting it apart, he finds the sword Ame no Murakumo in its tail.'},
+ {title:'Symbols and attributes',text:'Eight heads and tails, eyes like winter cherries, forest on its back and a bleeding belly are the fixed details. It is painted coiled across mountains with heads in separate valleys. The liquor and the eight gates are the tools that defeat it, and its tail yields a sword of the imperial regalia.'},
+ {title:'Tradition and context',text:'The tale explains floods and shifting rivers, marks Susanoo turning from storm god into culture hero, and prepares the yielding of Izumo by his descendant Okuninushi. Modern readers often take the serpent as a flood or iron-working metaphor. Shrines and rites along the upper Hii River still point to the site.'}]}
+},
+{
+ id:'japan-onamazu',myth:'japan',name:'鲶鱼',title:'被要石镇压的地震之鲶',tags:['地震','巨鲶','要石'],
+ sections:[
+ {title:'身份与来历',text:'地震鲶是日本民间用来解释地震的巨型鲶鱼，主要流行于近世。它栖于地下或常世之国，翻身即引起地动。鹿岛神宫的祭神武瓮槌命以“要石”将其头尾钉住，另说由香取神宫的经津主神协助镇守。此说在江户文献与鲶绘中大量出现。'},
+ {title:'主要叙事',text:'传说鲶鱼被要石压住，一旦松动便引发地震。1855年安政江户地震之后，市井大量印制“鲶绘”，或画鲶鱼作乱、鹿岛神持剑追赶，或画百姓合力痛打鲶鱼。这类版画兼有泄愤、祈福与讥刺世情之用，因幕府查禁而多有变体。'},
+ {title:'象征与辨识',text:'巨鲶、要石、鹿岛神宫的宝剑与雷纹是辨识要素。鲶绘中常并置鲶鱼、鹿岛大明神、受灾的商人与工匠，构图带讽刺意味。鹿岛要石露出地面的尖端被视为镇压之证，香取要石亦属同一系统。'},
+ {title:'流传与文化语境',text:'地震鲶处在民间信仰与早期地震学的交界，明治以后随近代地震学兴起而转弱，却在动漫、地方祭事与灾害教育中延续。它体现前科学时代以动物行为解释灾异的思路，也保留了江户市民对灾害的幽默与怨气。'}],
+ en:{name:'Onamazu',title:'The giant catfish pinned beneath the earthquake stone',tags:['Earthquake','Catfish','Keystone'],sections:[
+ {title:'Identity and origins',text:'Onamazu is the giant catfish of Japanese folk belief, used to explain earthquakes, mainly from the early modern period. It lies under the earth or in the land of the everworld, and its turning shakes the ground. The deity of Kashima Shrine, Takemikazuchi, pins its head and tail with a keystone, sometimes helped by Katori Shrine.'},
+ {title:'Key narratives',text:'As long as the stone holds, the catfish cannot move; when it slips, the earth quakes. After the Ansei Edo earthquake of 1855, cheap prints called namazu-e flooded the city, showing the fish rampaging, Kashima chasing it with a sword, or townspeople beating it. Censorship produced many variants.'},
+ {title:'Symbols and attributes',text:'A huge catfish, the keystone, a sword and thunder motifs identify the complex. In the prints the fish appears beside the Kashima deity, ruined shopkeepers and carpenters, often with satirical framing. The tip of the stone that shows above ground at Kashima is displayed as proof of its grip.'},
+ {title:'Tradition and context',text:'The catfish sits between folk cosmology and early seismology, fading as scientific geology arrived in the Meiji era but surviving in animation, local festivals and disaster education. It shows a pre-scientific habit of reading animal behaviour as omen, and preserves Edo humour and anger about catastrophe.'}]}
+},
+{
+ id:'japan-shuten',myth:'japan',name:'酒吞童子',title:'大江山统领群鬼的鬼王酒吞童子',tags:['鬼','大江山','退治'],
+ sections:[
+ {title:'身份与来历',text:'酒吞童子是日本最著名的鬼王之一，传说据守丹波国大江山，一说在近江伊吹山，统领群鬼，掠走贵族女子与财宝。其名见于中世《御伽草子》系统的酒吞童子绘卷，能剧《大江山》与谣曲亦演其事，各本情节略有出入。'},
+ {title:'主要叙事',text:'源赖光受命讨伐，携赖光四天王渡边纲、坂田金时、碓井贞光、卜部季武入山。他们得山神指点，扮作山伏，以神便鬼毒酒诱童子饮下，趁其醉卧斩首。首级飞起咬向赖光，被头盔挡下；所用太刀因此得名“童子切安纲”。'},
+ {title:'象征与辨识',text:'赤面、独角、虎皮裈与巨大身躯是常见形象，酒与铁盔是关键道具。图像多作宴饮场面或斩首瞬间。童子切安纲实存并为日本国宝，其与故事的联系属后世附会，却强化了刀剑传说中的英雄谱系。'},
+ {title:'流传与文化语境',text:'酒吞童子与茨木童子、大狱丸等构成鬼退治故事群，经绘卷、能乐、歌舞伎与近代小说不断传播。大江山一带借鬼传说发展观光，福知山等地有相关祭事。其形象也大量进入游戏与动画，与原文本已有相当距离。'}],
+ en:{name:'Shuten Doji',title:'The drunken demon king who ruled the ghosts of Mount Oe',tags:['Demon','Mount Oe','Exorcism'],sections:[
+ {title:'Identity and origins',text:'Shuten Doji is among the best known Japanese demon kings, said to hold Mount Oe in Tamba, or Mount Ibuki in Omi, commanding a band of oni and abducting noble women and treasure. He appears in medieval illustrated tales of the Otogi-zoshi cycle, and in the noh play Oe and its chant, with details varying between versions.'},
+ {title:'Key narratives',text:'The warrior Minamoto no Yorimitsu sets out with his four retainers, including Watanabe no Tsuna and Sakata Kintoki. Guided by mountain deities, they disguise themselves as ascetics and persuade the demon to drink poisoned sake. When he sleeps they cut off his head, which flies at Yorimitsu and is stopped by his helmet.'},
+ {title:'Symbols and attributes',text:'A red face, single horn, tiger-skin trousers and enormous body are standard, with sake and an iron helmet as the decisive props. He is painted at his banquet or at the instant of beheading. The sword Dojigiri, a national treasure, is linked to the deed by later tradition rather than by the tale itself.'},
+ {title:'Tradition and context',text:'He belongs with Ibaraki Doji and Oeyama no Shutendoji in a cluster of demon-quelling tales spread through picture scrolls, noh, kabuki and modern fiction. The Oe area markets the legend to visitors and hold related rites. Games and animation reuse him freely, well beyond the medieval texts.'}]}
+},
+{
+ id:'korea-choe-yeong',myth:'korea',name:'处容',title:'驱散疫神的东海龙王之子',tags:['疫神','处容舞','新罗'],
+ sections:[
+ {title:'身份与来历',text:'处容是统一新罗时期的传说人物，事见《三国遗事》卷二“处容郎·望海寺”条。相传他为东海龙王之子，随海神之女来到新罗京城，因歌舞出众得国王赏识，授级干之职并赐宅第。其故事是现存处容歌与处容舞的直接来源。'},
+ {title:'主要叙事',text:'传说瘟疫神爱慕其妻，夜入其宅与之同寝。处容归来见状，不怒而歌且舞，退而让之。疫神愧悔，现身谢罪，发誓此后凡见处容之像者不入其门。民间遂贴处容画像以驱疫，处容歌与处容舞由此成为仪式表演。'},
+ {title:'象征与辨识',text:'面具、歌舞与门前画像构成其主要标识。处容舞为面具舞，动作舒缓，常由五人着不同衣色演出，属宫廷呈才；图像中的处容或作方面长髯的官员形象。其功能是逐疫与调和，而非战争或丰产。'},
+ {title:'流传与文化语境',text:'《三国遗事》由高丽僧人一然编成，采录民间旧说，故处容故事兼具史事与神话层次。处容舞在朝鲜王朝宫廷被整理为呈才，2009年列入联合国教科文组织人类非物质文化遗产名录，今由国立国乐院等机构传承。'}],
+ en:{name:'Cheoyong',title:'The dragon kings son who drove plague from the house',tags:['Plague','Cheoyongmu','Silla'],sections:[
+ {title:'Identity and origins',text:'Cheoyong belongs to the Unified Silla period and is recorded in the Memorabilia of the Three Kingdoms, in the section on the Cheoyong ward and Manghaesa. He is said to be a son of the East Sea dragon king, who comes to the Silla capital with a sea deity daughter, wins royal favour through song and dance, and receives rank and a house.'},
+ {title:'Key narratives',text:'A plague spirit falls in love with his wife and lies with her while Cheoyong is away. Returning, he does not rage but sings and dances, then steps aside. Ashamed, the spirit appears, apologizes, and swears never to enter a door where Cheoyongs image hangs. Portraits were pasted up against epidemic.'},
+ {title:'Symbols and attributes',text:'Masks, song and dance, and the portrait at the gate identify him. Cheoyongmu is a mask dance in slow, measured steps, often performed by five dancers in different colours as court repertoire. He is pictured as a bearded official with a broad face. His power is against plague and disorder, not war.'},
+ {title:'Tradition and context',text:'The Memorabilia was compiled by the Goryeo monk Iryeon from older local lore, so history and myth overlap in the entry. Cheoyongmu was codified as court dance in the Joseon period and was inscribed on the UNESCO list of intangible heritage in 2009; the National Gugak Center keeps it today.'}]}
+},
+{
+ id:'india-rama',myth:'india',name:'罗摩',title:'流放十四年的阿逾陀王子与法之化身',tags:['化身','达摩','弓'],
+ sections:[
+ {title:'身份与来历',text:'罗摩是史诗《罗摩衍那》的主人公，传统归于诗人蚁垤。他是阿逾陀国王十车王的长子，被视为毗湿奴的第七次化身。史诗经数百年层累而成，约自公元前数世纪至公元初年，另有《罗摩功行录》等各地改写本。'},
+ {title:'主要叙事',text:'因继母吉迦伊求取旧愿，罗摩被放逐十四年，与妻子悉多、弟罗什曼那入林。楞伽魔王罗波那劫走悉多，罗摩与猴族结盟，哈奴曼越海探讯，大军架桥渡海，杀罗波那而复得悉多。归国登位，史称罗摩之治；后续篇章又写其疑悉多贞节，情节转沉痛。'},
+ {title:'象征与辨识',text:'弓与箭、深蓝肤色、王冠，以及与悉多并肩的形象最为常见，哈奴曼为其信使与战士。图像多作持弓欲射之姿，或与悉多、罗什曼那、哈奴曼同列。罗摩之治成为理想政治的代称，排灯节即纪念其归国。'},
+ {title:'流传与文化语境',text:'罗摩在印度教中是活态信仰的对象，被视为达摩的化身，阿逾陀等地有其圣地与节庆。史诗经迦梨陀娑、杜尔西达斯及东南亚诸本（如泰国《拉玛坚》、爪哇皮影）多层改写，各地伦理重点与情节均有差异。'}],
+ en:{name:'Rama',title:'The exiled prince of Ayodhya and embodiment of dharma',tags:['Avatar','Dharma','Bow'],sections:[
+ {title:'Identity and origins',text:'Rama is the hero of the Ramayana, traditionally ascribed to the poet Valmiki. He is the eldest son of Dasharatha, king of Ayodhya, and is held to be the seventh avatar of Vishnu. The epic grew over centuries, roughly from the last centuries BCE into the early common era, and regional retellings such as Tulsidas Hindi version reshape it.'},
+ {title:'Key narratives',text:'His stepmother Kaikeyi claims two old boons, and Rama is exiled for fourteen years with his wife Sita and brother Lakshmana. Ravana of Lanka abducts Sita; Rama allies with the monkeys, Hanuman leaps the sea, a bridge is built, and Ravana is killed. Later books add the painful doubt over Sita.'},
+ {title:'Symbols and attributes',text:'Bow and arrows, dark blue skin, a crown, and his place beside Sita are standard, with Hanuman as messenger and warrior. He is shown drawing the bow or standing with Sita, Lakshmana and Hanuman. Rama Rajya became a byword for just rule, and Diwali marks his return to Ayodhya.'},
+ {title:'Tradition and context',text:'For Hindus Rama is a living focus of devotion and an embodiment of dharma, with sacred sites and festivals at Ayodhya and elsewhere. The epic was retold by Kalidasa, Tulsidas and across Southeast Asia, including the Thai Ramakien and Javanese shadow theatre, with different ethical emphases.'}]}
+},
+{
+ id:'india-krishna',myth:'india',name:'黑天',title:'持笛的牧牛神与俱卢之野的御者',tags:['化身','笛','薄伽梵歌'],
+ sections:[
+ {title:'身份与来历',text:'黑天是印度教最重要的神祇之一，被视为毗湿奴的第八次化身。其形象综合了《摩诃婆罗多》中的战车御者与《薄伽梵往世书》第十篇的牧童，另有多部往世书与《诃利世系》补充谱系。学界多认为牧童黑天的传统源自马图拉一带的民间崇拜。'},
+ {title:'主要叙事',text:'他生于马图拉牢狱，父为婆苏提婆，母为提婆吉，为避舅父康萨迫害而被送往牛庄抚养。少年时降伏毒蛇迦梨耶，举起牛增山为牧人遮雨，与牧女拉达相恋。成年后杀康萨，建多门城；在俱卢之野为阿周那御车，宣讲《薄伽梵歌》。'},
+ {title:'象征与辨识',text:'蓝黑色肤色、孔雀羽冠、黄色绸衣与横笛是标准标识，常作一足交叉的吹笛姿态。少年形象与拉达并置，表达虔诚之爱；《薄伽梵歌》中的御者形象则代表正法与解脱的教导，二者共同构成其神性。'},
+ {title:'流传与文化语境',text:'黑天信仰在印度是活态宗教，马图拉、弗林达文、普里与古吉拉特均有重要圣地与节庆，如黑天诞辰节与洒红节。拉达与黑天之爱被虔诚派诗人反复吟咏，孟加拉、拉贾斯坦与南印度各有地方传统与表演形式。'}],
+ en:{name:'Krishna',title:'The flute-playing cowherd and charioteer at Kurukshetra',tags:['Avatar','Flute','Bhagavad Gita'],sections:[
+ {title:'Identity and origins',text:'Krishna is among the central deities of Hinduism and the eighth avatar of Vishnu. His figure joins the charioteer of the Mahabharata with the cowherd boy of the tenth book of the Bhagavata Purana, and other Puranas and the Harivamsha add genealogy. Scholars often trace the cowherd tradition to devotion around Mathura.'},
+ {title:'Key narratives',text:'Born in a Mathura prison to Vasudeva and Devaki, he is carried to a cowherd village to escape his uncle Kamsa. As a boy he subdues the serpent Kaliya, lifts Govardhan hill to shelter the herdsmen, and loves Radha. He kills Kamsa, founds Dvaraka, and teaches the Bhagavad Gita to Arjuna.'},
+ {title:'Symbols and attributes',text:'Dark blue-black skin, a peacock feather crown, yellow silk and a bamboo flute identify him, usually standing with legs crossed as he plays. With Radha he figures the longing of devotional love; as Arjunas charioteer he figures dharma and release. Both together make up his divinity.'},
+ {title:'Tradition and context',text:'Krishna devotion is living religion in India, with major centres at Mathura, Vrindavan, Puri and in Gujarat, and festivals such as Janmashtami and Holi. The love of Radha and Krishna was sung by devotional poets, and Bengal, Rajasthan and South India each developed distinctive traditions and performance styles.'}]}
+},
+{
+ id:'india-garuda',myth:'india',name:'迦楼罗',title:'背负毗湿奴的金翅鸟王',tags:['金翅','坐骑','蛇敌'],
+ sections:[
+ {title:'身份与来历',text:'迦楼罗是印度神话中的鸟王，毗湿奴的坐骑与旗徽。史诗与往世书说他是迦叶波与毗娜达之子；母亲与迦德卢赌博失败，使他沦为众蛇（那伽）的奴仆，须取甘露赎身。汉译佛典称金翅鸟，佛教将其列为八部众之一。'},
+ {title:'主要叙事',text:'为救母，他力战众神夺取甘露，途中与因陀罗交手，毗湿奴感其勇而允诺他居于自己的旗帜上并得长生。他与那伽世代为仇，以蛇为食。另一系叙事说甘露最终被蛇族设计取得，成为蛇蜕皮的由来，诸本细节并不一致。'},
+ {title:'象征与辨识',text:'金翅、人面鸟身、利爪与擒蛇之姿是辨识要素，常作展翅欲飞或足踏那伽。与蛇的对立表达天界与地下势力的张力。其像见于毗湿奴庙旗杆顶端、门楣与护符，东南亚亦奉为守护神与王权象征。'},
+ {title:'流传与文化语境',text:'迦楼罗在印度教、佛教与耆那教中各有位置。印尼国徽与泰国国徽均用其形，爪哇、巴厘的迦楼罗与本地鹰崇拜混合。佛教故事中他与龙族仍为怨敌，汉地寺院常塑于佛座旁，藏传亦有其专门的护法形态。'}],
+ en:{name:'Garuda',title:'The golden-winged bird king who carries Vishnu',tags:['Golden wings','Mount','Serpent foe'],sections:[
+ {title:'Identity and origins',text:'Garuda is the king of birds in Indian myth, the mount and banner emblem of Vishnu. Epic and Puranic texts make him son of Kashyapa and Vinata; when his mother loses a wager to Kadru, he becomes servant to the nagas and must fetch amrita to buy her freedom. Buddhist texts call him the golden-winged bird.'},
+ {title:'Key narratives',text:'To free his mother he fights the gods and seizes the amrita, clashing with Indra on the way. Pleased by his courage, Vishnu grants him a place on his banner and long life. He is the eternal enemy of the nagas and feeds on snakes, though versions differ on how the nagas finally obtain the amrita.'},
+ {title:'Symbols and attributes',text:'Golden wings, a human face on a bird body, talons and a serpent in his grip identify him, shown spreading his wings or standing on a naga. The enmity with serpents figures the tension between sky and underworld. His image crowns temple flagpoles and doorways across India and Southeast Asia.'},
+ {title:'Tradition and context',text:'Garuda holds a place in Hindu, Buddhist and Jain traditions. Indonesia and Thailand both use him in national emblems, and Javanese and Balinese forms blend with local eagle cults. In Buddhist lore he still opposes the nagas, commonly carved beside Buddha images and given guardian roles in Tibetan art.'}]}
+},
+{
+ id:'india-yama',myth:'india',name:'阎摩',title:'开辟冥途的第一位死者与冥界之王',tags:['冥界','死神','南方'],
+ sections:[
+ {title:'身份与来历',text:'阎摩是印度的死神与冥界之王，也是方位守护者之一，主南方。其名见于《梨俱吠陀》第十卷第十四曲，那里他是第一个死去的人，为亡者开出道路；后来的往世书把他写成依业报审判亡魂的法官，佛教的阎罗王即由此演化。'},
+ {title:'主要叙事',text:'吠陀中说阎摩与妹阎蜜是最早的一对凡人，他死后成为亡者之王，居于天界深处，由两只四眼犬守门。《摩诃婆罗多》与往世书则写他持棒与绳，掌生死簿，遣使拘魂；其侍从“迦罗”（时间）与死亡时刻相关，各派叙事又有调整。'},
+ {title:'象征与辨识',text:'水牛坐骑、棒杖、绳索与南方方位是主要标识；图像或作骑水牛的王者，或作持镜与簿册的判官，肤色深暗，冠饰庄严。两只斑纹四眼犬为其使者，在葬礼咒文中被请求放行亡者。'},
+ {title:'流传与文化语境',text:'阎摩在印度教中是活态信仰的一部分，阎摩二日节与排灯节相连，姊妹为兄弟祈福。佛教的阎魔与藏传阎罗形象大变，汉地十殿阎罗又与之混合，民间图像多为判官而非吠陀中的亡者之王，不宜把各系统等同。'}],
+ en:{name:'Yama',title:'The first mortal to die and lord of the southern realm',tags:['Underworld','Death','South'],sections:[
+ {title:'Identity and origins',text:'Yama is the god of death and king of the underworld in India, and one of the directional guardians, holding the south. He appears in the tenth mandala of the Rig Veda as the first person to die, who opens the path for others. Later Puranas make him a judge who allots rebirth according to karma.'},
+ {title:'Key narratives',text:'In Vedic hymns Yama and his sister Yami are the first mortals; after death he rules the departed in a distant heaven, guarded by two four-eyed dogs. Epic and Puranic accounts give him a staff and noose, a register of lifespans, and messengers who fetch the dying. Details shift between traditions.'},
+ {title:'Symbols and attributes',text:'A water buffalo mount, staff, noose and the southern direction mark him. He is painted as a dark-skinned king on a buffalo, or as a scribe-judge with mirror and ledger. Two brindled four-eyed dogs serve as his messengers and are asked in funeral verses to let the dead pass.'},
+ {title:'Tradition and context',text:'Yama remains part of living Hindu practice; Yama Dwitiya follows Diwali, when sisters pray for their brothers. Buddhist Yama and the Tibetan lord of death differ sharply, and Chinese ten-court imagery blends with both. The popular figure of a stern clerk is far from the Vedic first mortal.'}]}
+},
+{
+ id:'india-agni',myth:'india',name:'阿耆尼',title:'承载祭品的圣火与神人之口',tags:['火','祭献','使者'],
+ sections:[
+ {title:'身份与来历',text:'阿耆尼是吠陀的火神，也是祭火本身，在《梨俱吠陀》中受赞颂的次数仅次于因陀罗。他被称为祭司与祭品之口，把供物送往诸神。其名与拉丁语 ignis 同源，属印欧语系的火神谱系；佛教将其吸收为护法之一。'},
+ {title:'主要叙事',text:'他生于祭坛之火，也生于水中与云中，故有“水生者”之称。诸神派他往返人间与天界，充当使者。史诗与往世书另记他因诅咒隐匿水中，致使世间无火，众神后来请他复出；他与斯瓦哈的婚姻解释了祭献时呼“斯瓦哈”的习俗。'},
+ {title:'象征与辨识',text:'火焰、赤红肤色、三足或四臂、持酥油勺与念珠，骑公羊，为其标识。图像多作正面端坐、口吐火舌，两脸或三脸表示其遍在。祭仪中的三座火坛对应其三种形态：家主火、供火与南火。'},
+ {title:'流传与文化语境',text:'阿耆尼是活态祭祀的核心，印度教婚礼、火供与临终仪式仍以火为中介。佛教中他为火天，密教曼荼罗列有其位；琐罗亚斯德教的火庙常被误与之等同，二者虽出同源词根，神学结构并不相同。'}],
+ en:{name:'Agni',title:'The sacred fire that carries offerings and speaks for gods',tags:['Fire','Sacrifice','Messenger'],sections:[
+ {title:'Identity and origins',text:'Agni is the Vedic god of fire and the ritual flame itself, praised in the Rig Veda more often than any deity except Indra. He is called the priest and the mouth of the offering, carrying gifts to the gods. His name is cognate with Latin ignis, placing him in an Indo-European fire-god family.'},
+ {title:'Key narratives',text:'He is born from the altar fire, and also from water and the storm cloud, hence his epithet of one born in water. The gods use him as envoy between earth and heaven. Epic and Puranic tales say a curse drove him to hide in water, leaving the world without fire until the gods called him back.'},
+ {title:'Symbols and attributes',text:'Flame, red skin, three legs or four arms, a butter ladle and prayer beads, with a ram as mount, identify him. He sits facing the worshipper with fire streaming from his mouth; two or three faces express his presence everywhere. Three ritual fires correspond to his forms.'},
+ {title:'Tradition and context',text:'Agni stands at the centre of living ritual: Hindu weddings, fire offerings and funeral rites still work through flame. Buddhism receives him as the fire deity, with a place in esoteric mandalas. Zoroastrian fire temples are often compared with him, but shared etymology does not mean shared theology.'}]}
+},
+{
+ id:'india-indra',myth:'india',name:'因陀罗',title:'持金刚杵的雷雨之神与天界之王',tags:['雷雨','金刚杵','天帝'],
+ sections:[
+ {title:'身份与来历',text:'因陀罗是吠陀诸神之首，司雷雨与战争，手持金刚杵，饮苏摩，居三十三天。《梨俱吠陀》约四分之一赞歌与他相关。佛教吸收他为帝释天，居忉利天而为护法之主；印度教后期其地位下降，让位于毗湿奴与湿婆。'},
+ {title:'主要叙事',text:'最著名的是他与弗栗多之战：蛇形恶魔阻塞水流，因陀罗以金刚杵击杀之，释放七河。另说他因杀弗栗多或触犯婆罗门而获罪，隐居忏悔。史诗中他屡次试探凡人英雄；《薄伽梵往世书》写他因傲慢降下暴雨，被黑天举牛增山对抗。'},
+ {title:'象征与辨识',text:'金刚杵、白象艾罗婆那、雷云与苏摩酒是标识。图像或作骑白象的王者，或作持杵的战士，周身有千眼，传说因诅咒所化。其天宫与难陀那园在佛典中转为忉利天的善见城，成为帝释天的居所。'},
+ {title:'流传与文化语境',text:'因陀罗在印度仍受祭祀，但相对毗湿奴与湿婆已属次级。尼泊尔加德满都的因陀罗节至今盛大举行，有神像巡游与竹竿仪式。通俗读物常把他比作汉地玉皇大帝，二者功能相近而来源不同，不宜直接等同。'}],
+ en:{name:'Indra',title:'The thunderbolt-wielding king of storm and heaven',tags:['Thunder','Vajra','Heaven'],sections:[
+ {title:'Identity and origins',text:'Indra heads the Vedic pantheon as god of storm and war, carrying the vajra, drinking soma, and ruling from the heaven of the thirty-three gods. About a quarter of the Rig Veda addresses him. Buddhism adopts him as Shakra, lord of the Trayastrimsha heaven and protector of the teaching; later Hinduism subordinates him to Vishnu and Shiva.'},
+ {title:'Key narratives',text:'His great deed is killing Vritra, the serpent demon who holds back the waters, and releasing the seven rivers. Other traditions have him polluted by that killing or by an offence against a brahmin, and he withdraws to do penance. The Bhagavata Purana tells how his pride brings a deluge that Krishna answers by lifting a hill.'},
+ {title:'Symbols and attributes',text:'The vajra, the white elephant Airavata, storm clouds and soma mark him. He appears as a king on an elephant or a warrior with the bolt, his body covered in a thousand eyes said to come from a curse. His palace and Nandana grove became the Buddhist heaven of Shakra.'},
+ {title:'Tradition and context',text:'Indra is still worshipped in India, though secondary to Vishnu and Shiva. Kathmandu holds a large Indra Jatra with processions and the raising of a pole. Popular writing often equates him with the Chinese Jade Emperor; their functions overlap, but their origins and mythologies do not.'}]}
+},
+{
+ id:'korea-bulgasari',myth:'korea',name:'不可杀',title:'以铁为食的朝鲜镇国怪兽',tags:['怪兽','食铁','护国'],
+ sections:[
+ {title:'身份与来历',text:'不可杀是朝鲜传说中的食铁怪兽，名意为“杀不死之物”。传说它由僧人、铁匠或孤苦老妇以米粒、纸张塑形而成，得气而活，专食铁器。故事散见朝鲜王朝野谈与口传，没有早期定本，成书年代与地域已难确考。'},
+ {title:'主要叙事',text:'它初生时只食米粒，渐而吞铁，农具、锅釜、刀剑皆入其腹，民家不堪其扰。一说官方便铸铁像诱其吞食，或以火攻、水淹而无效；蒙古入侵时期的故事则说它吞尽敌军兵器，护佑村庄，故有镇国之称。各本结局不同，或被杀，或隐入山中。'},
+ {title:'象征与辨识',text:'铁齿、巨口与以铁为食的躯体是核心特征，形象或作四足带鳞之兽，或作鼻端生角的巨怪。1985年电影《不可杀》把它塑造成温顺的守护者，与传说中为害的怪兽形成对照，成为今日最流行的一版。'},
+ {title:'流传与文化语境',text:'不可杀属口传母题，朝鲜王朝野谈与近代童谣各有版本，1950年代后的儿童读物又将其简化为友谊故事。1985年影片因版权纠纷成为著名案例，也使它进入流行文化。研究时应区分电影形象与口传内容。'}],
+ en:{name:'Bulgasari',title:'The iron-eating monster that guards Korean villages',tags:['Monster','Iron','Guardian'],sections:[
+ {title:'Identity and origins',text:'Bulgasari is an iron-eating monster of Korean legend, its name meaning the unkillable one. Tales say a monk, a blacksmith or a lonely old woman shaped it from rice grains or paper, and that it came alive and fed on iron. The stories appear in Joseon-era miscellanies and oral tellings, with no early fixed text.'},
+ {title:'Key narratives',text:'It begins by eating rice, then swallows iron, taking in farm tools, cauldrons and swords, until households cannot bear it. Some versions have officials cast an iron image to lure it, or try fire and water without success. In invasion tales it devours enemy weapons and protects villages, earning a reputation as a national guardian.'},
+ {title:'Symbols and attributes',text:'Iron teeth, a huge mouth and a body nourished on metal define it. It is drawn as a four-legged scaly beast or a horned monster. The 1985 North Korean film turned it into a gentle protector rather than a menace, and that version is now the one most people know.'},
+ {title:'Tradition and context',text:'Bulgasari is oral material, retold in Joseon miscellanies, modern songs for children and picture books that soften it into a story about friendship. The 1985 film and its copyright dispute made it famous abroad. Scholarship separates the film figure from the older motif, which has several endings.'}]}
+},
+{
+ id:'korea-gumiho',myth:'korea',name:'九尾狐',title:'化为美女夜取人心的千年狐妖',tags:['狐妖','变身','内丹'],
+ sections:[
+ {title:'身份与来历',text:'九尾狐是中韩共有的狐妖母题，中国《山海经》已有“青丘之狐，其状如狐而九尾”的记载。朝鲜半岛的九尾狐故事见于《三国史记》《三国遗事》及朝鲜朝野谈与口传，通常写修炼千年的狐狸化女惑人、夜取人心或内丹，与中国祥瑞型的九尾狐取向不同。'},
+ {title:'主要叙事',text:'典型故事说狐狸修炼千年，化为美貌女子接近男子，吸取精气或取其肝。男子若识破其真身，须严守禁忌：不点破、不从其言，或熬过百日。另一类故事写女子真心爱慕，却因身份暴露而不得不离开。结局随地域与讲述者而异。'},
+ {title:'象征与辨识',text:'九条尾、月下现身、狐火与内丹是辨识要素；图像多作长发的白衣女子，身后隐现狐尾。九尾象征年久通灵，内丹被人吞下后可获得辨真之力。狐妖形象与山神、巫女在民间叙事中彼此渗透，界限并不固定。'},
+ {title:'流传与文化语境',text:'九尾狐是仍在流传的口传母题，朝鲜半岛的讲述与中国狐仙传统互相影响又各自发展。现代影视与漫画常把它重写为爱情或复仇故事，形象远比口传温柔。应避免把影视设定当成传统信仰，也不宜与日本的狐信仰混为一谈。'}],
+ en:{name:'Gumiho',title:'The nine-tailed fox who takes human form at night',tags:['Fox spirit','Shape-shift','Fox bead'],sections:[
+ {title:'Identity and origins',text:'The nine-tailed fox is a motif shared by China and Korea; the Classic of Mountains and Seas already describes a fox with nine tails in the Green Hills. Korean versions appear in the Historical Records of the Three Kingdoms, the Memorabilia, Joseon miscellanies and oral tales, where a fox of a thousand years becomes a woman and steals energy or a liver.'},
+ {title:'Key narratives',text:'In the usual plot a fox cultivates for a thousand years, takes the form of a beautiful woman, and approaches men to drain their vitality or take their liver. A man who sees through her must keep strict taboos, saying nothing or surviving a hundred days. Other versions make her genuinely loving and doomed by exposure.'},
+ {title:'Symbols and attributes',text:'Nine tails, appearances under the moon, fox fire and the fox bead identify her. She is painted as a long-haired woman in white with tails faintly visible behind her. The bead, swallowed by a man, grants the power to see the truth. Fox, mountain spirit and shaman often blur together in these stories.'},
+ {title:'Tradition and context',text:'Gumiho tales are still told, and Korean telling and Chinese fox-lore have influenced each other while developing apart. Film and comics now recast her as a romantic or vengeful figure far gentler than the oral fox. Screen versions should not be taken for traditional belief, nor confused with Japanese fox lore.'}]}
+},
+{
+ id:'india-nataraja',myth:'india',name:'舞王湿婆',title:'以舞承载宇宙生灭的舞王湿婆',tags:['舞王','铜像','宇宙'],
+ sections:[
+ {title:'身份与来历',text:'舞王相是湿婆的一种造像形式，盛行于南印度朱罗王朝，约九至十三世纪。梵语名“Nataraja”意为舞之王，所跳为阿难陀之舞，象征宇宙的创造、维持与毁灭。核心圣地是泰米尔纳德邦的奇丹巴拉姆，其黄金大厅至今供奉此像。'},
+ {title:'主要叙事',text:'神话中说湿婆在奇丹巴拉姆起舞，以折服异端或向诸神示现。舞姿由若干基本动作组成；他一脚踏住侏儒阿帕斯马拉，象征压伏无明，另一脚抬起，表示解脱与庇护。舞中同时毁灭与再造世界，因此被称为舞中的宇宙。'},
+ {title:'象征与辨识',text:'右上手持鼓，象征创造之音；左上手持火，象征毁灭；右下作施无畏印，左下手臂指向抬起的脚，表示归依；周身火环代表宇宙循环。发间恒河女神、新月与骷髅为附属标志，像座多作莲花，整体呈均衡的三角构图。'},
+ {title:'流传与文化语境',text:'舞王相属活态宗教艺术，奇丹巴拉姆等地仍有铸造与祭祀；朱罗铜像大量流入欧美博物馆，也引发掠夺与归还的争论。它已成印度文化的重要符号，见于节庆、舞台与科研机构雕塑，但解读时不应脱离湿婆信仰。'}],
+ en:{name:'Nataraja',title:'Shiva as lord of the dance that makes and ends worlds',tags:['Dance','Bronze','Cosmos'],sections:[
+ {title:'Identity and origins',text:'Nataraja is a form of Shiva as lord of dance, established in South India under the Chola dynasty between roughly the ninth and thirteenth centuries. The Sanskrit name means king of dancers, and the pose is the dance of bliss, figuring creation, preservation and destruction. Its principal home is the golden hall at Chidambaram in Tamil Nadu.'},
+ {title:'Key narratives',text:'Temple tradition places the dance at Chidambaram, performed to confound rivals or to reveal himself to the gods. The pose is built from units of dance movement. One foot pins the dwarf Apasmara, meaning ignorance, while the other is raised to offer release. In the dance he destroys and remakes the world.'},
+ {title:'Symbols and attributes',text:'The upper right hand holds a drum for the sound of creation, the upper left a flame for destruction. The lower right shows the gesture of fearlessness, and the lower left points to the raised foot as refuge. A ring of fire frames the cosmos, with Ganges, crescent moon and skull in the hair.'},
+ {title:'Tradition and context',text:'Nataraja remains living sacred art, still cast and worshipped at Chidambaram and elsewhere. Chola bronzes entered Western museums in large numbers and are now part of debates over repatriation. The image has become a symbol of Indian culture, yet it should not be read apart from Shaiva devotion.'}]}
+}
+];
+
+window.FIGURES_MORE_B = [
+{
+ id:'greek-prometheus',myth:'greek',name:'普罗米修斯',title:'盗火的提坦神与人类的恩主',tags:['盗火','提坦','牺牲'],
+ sections:[
+ {title:'身份与来历',text:'赫西俄德《神谱》称他是提坦伊阿珀托斯之子，与阿特拉斯、厄庇米修斯为兄弟，母亲或作克吕墨涅或作亚细亚。他属于前奥林匹斯的一代，却在宙斯夺权之战中站在宙斯一边，因此仍留在新的神界秩序之内，而非被投入塔耳塔罗斯。'},
+ {title:'主要叙事',text:'《神谱》与《工作与时日》记他在墨科涅分牛时以油脂裹骨头欺骗宙斯，宙斯藏起火种，他又用茴香杆把火盗回人间，宙斯遂命造潘多拉为罚。埃斯库罗斯《被缚的普罗米修斯》则改写为反抗暴政的殉道者，另加高加索缚身与鹰啄肝脏的情节。'},
+ {title:'象征与辨识',text:'茴香杆火炬是最稳定的标识，后世又添指环与鹰。雅典陶瓶绘有盗火与受罚场面，雕像多表现裸身受难的躯体；“以泥土造人”的母题主要见于晚期作家与罗马艺术，并不属于荷马。'},
+ {title:'流传与文化语境',text:'赫西俄德笔下他是狡黠的欺骗者，受罚理所应当；埃斯库罗斯却把他抬为文明的赐予者与专制的受害者，两种古代评价彼此冲突。歌德、雪莱与马克思各有取用，普罗米修斯因而成为技术、反抗与启蒙的复合象征，而非某一城邦的祭祀对象。'},
+ ],
+ en:{name:'Prometheus',title:'The Titan who stole fire for mortals',tags:['stolen fire','Titan','sacrifice'],
+ sections:[
+ {title:'Identity and origins',text:'In Hesiod the Theogony Prometheus is a Titan, son of Iapetos and brother of Atlas and Epimetheus, born before the Olympian order and so older than Zeus. He nevertheless sided with Zeus in the war against the Titans, which left him inside the new divine order rather than outside it.'},
+ {title:'Key narratives',text:'Hesiod tells how Prometheus tricked Zeus at Mekone, hiding meat under an unappetising hide and bones under fat, and how he later stole fire in a fennel stalk after Zeus hid it. Zeus answered with Pandora. The Prometheus Bound of Aeschylus recasts him as a tortured martyr chained in the Caucasus.'},
+ {title:'Symbols and attributes',text:'Prometheus carries a fennel-stalk torch, and later art adds the ring and the eagle. Attic vase painting shows the theft of fire and the punishment, while statues favour a naked, suffering body. The creator-of-mankind motif, modelling humans from clay, belongs mostly to later writers and Roman art rather than to Homer.'},
+ {title:'Tradition and context',text:'For Hesiod, Prometheus is a clever deceiver whose punishment is deserved. Aeschylus turns him into the benefactor of civilisation and a victim of tyranny, and the two ancient verdicts contradict each other. Goethe, Shelley and Marx each reused him, which is why he now stands for technology, revolt and enlightenment.'},
+ ]}
+},
+{
+ id:'greek-persephone',myth:'greek',name:'珀耳塞福涅',title:'冥后与四季轮转的女儿',tags:['冥府','谷种','回归'],
+ sections:[
+ {title:'身份与来历',text:'宙斯与得墨忒耳之女，少女时代称科瑞（Kore），意为“少女”。荷马体《得墨忒耳颂歌》记她在倪萨草地采花时被哈得斯劫走；赫西俄德《神谱》只简短提到她成为冥府王后，未展开被劫的细节。'},
+ {title:'主要叙事',text:'得墨忒耳悲怒之下令大地荒芜，宙斯只好命哈得斯放人；因她在冥界吃了石榴籽，每年须留住数月，归返时大地回春。奥维德《变形记》又加入她与阿佛洛狄忒争夺阿多尼斯，以及忒修斯与庇里托俄斯闯入冥府的情节。'},
+ {title:'象征与辨识',text:'石榴、麦穗、火炬与蛇是主要标志；作科瑞时手持花篮或谷穗，作冥后时执权杖、戴冠。希腊瓶画中她常与哈得斯并坐，或出现在厄琉西斯祭祀场景，头戴谷穗冠的形象多与得墨忒耳成对。'},
+ {title:'流传与文化语境',text:'厄琉西斯秘仪以她与得墨忒耳为核心，是古代希腊最重要的秘祭，入教者守密。现代解释常把故事简化为四季寓言，但古代文本本身更关注母女分离、冥界权能与谷物的丰产；她既是可怖的冥府女主，也是被迎回的少女。'},
+ ],
+ en:{name:'Persephone',title:'Queen of the underworld and daughter of the harvest',tags:['underworld','grain','return'],
+ sections:[
+ {title:'Identity and origins',text:'Persephone is the daughter of Zeus and Demeter, called Kore, the maiden, before her marriage. The Homeric Hymn to Demeter describes her seizure by Hades while gathering flowers at Nysa. Hesiod mentions her only briefly as queen of the dead, without narrating the abduction itself.'},
+ {title:'Key narratives',text:'Demeter withdraws and the earth starves until Zeus orders her daughter returned. Because Persephone has eaten pomegranate seeds, she must spend part of each year below, and the earth blooms at her return. Ovid adds her quarrel with Aphrodite over Adonis and the failed descent of Theseus and Peirithoos.'},
+ {title:'Symbols and attributes',text:'Pomegranate, wheat ears, torches and snakes mark her. As Kore she holds flowers or grain; as queen she carries a sceptre and wears a crown, often seated beside Hades. Attic vases place her in Eleusinian scenes, and she is regularly paired with Demeter in cult images.'},
+ {title:'Tradition and context',text:'The Eleusinian Mysteries centred on mother and daughter and were the most important secret cult of the Greek world. Modern readers reduce the story to a seasonal allegory, but ancient texts stress separation, reunion and power over the dead. She is both a terrifying queen and a recovered girl.'},
+ ]}
+},
+{
+ id:'greek-hercules',myth:'greek',name:'赫拉克勒斯',title:'十二功业的英雄与凡人升神',tags:['力士','功业','升神'],
+ sections:[
+ {title:'身份与来历',text:'宙斯与阿尔克墨涅之子，名义上的父亲是安菲特律翁，故属忒拜一支；因赫拉的敌意，他从婴儿时便受迫害。希腊语作 Herakles，意为“赫拉的荣耀”，罗马人音译为 Hercules 并纳入自己的宗教与政治象征体系。'},
+ {title:'主要叙事',text:'主要叙事见阿波罗多洛斯《书库》、狄奥多罗斯与欧里庇得斯的悲剧：完成十二功业（涅墨亚狮、九头蛇、刻耳柏洛斯等），受役于欧律斯透斯，远征四方；晚年误穿马人涅索斯的毒血衣，于俄塔山自焚，火葬后升神并娶赫柏。'},
+ {title:'象征与辨识',text:'狮皮头盔与披风、橄榄木棒、弓与箭袋是稳定标识，雕像强调肌肉、短须与矮壮体格。他常在瓶画中与赫拉、雅典娜同场；“赫拉克勒斯之结”与直布罗陀的“赫拉克勒斯之柱”也由他得名。'},
+ {title:'流传与文化语境',text:'斯多亚派把他视为忍苦成德的典范，罗马则奉他为国家与胜利的保护者，在阿文提诺山与博阿里乌姆广场设祭。文艺复兴以后他成为“力量战胜野蛮”的图像，现代流行文化的大力士形象已失去古代原型中暴怒、受难与庇护并存的多面性。'},
+ ],
+ en:{name:'Hercules (Herakles)',title:'The hero of twelve labours who became a god',tags:['strongman','labours','apotheosis'],
+ sections:[
+ {title:'Identity and origins',text:'Herakles is the son of Zeus and Alkmene, his mortal father being Amphitryon, and so belongs to Theban legend. Hera persecutes him from infancy. The Greek name means glory of Hera; the Romans transliterated it as Hercules and absorbed him into their own religious and political symbolism.'},
+ {title:'Key narratives',text:'The main narrative survives in Apollodorus, Diodorus and several tragedies: the twelve labours, including the Nemean lion, the Hydra and Cerberus, service under Eurystheus, and far-flung campaigns. He dies from the poisoned blood of the centaur Nessos, burns on Mount Oeta, and is received among the gods.'},
+ {title:'Symbols and attributes',text:'Lion scalp, olive club, bow and quiver identify him, and statues stress a short, muscular, bearded physique. Vase painting often sets him against Hera or beside Athena. The Herakles knot and the Pillars of Hercules, at the strait of Gibraltar, both take his name.'},
+ {title:'Tradition and context',text:'Stoics read him as endurance turned into virtue, while Rome honoured him as a guardian of state and victory, with shrines at the Aventine and the Forum Boarium. Since the Renaissance he images strength defeating savagery; modern popular culture keeps the muscle but loses the anger, suffering and protection of the ancient figure.'},
+ ]}
+},
+{
+ id:'greek-theseus',myth:'greek',name:'忒修斯',title:'雅典的王与迷宫屠牛者',tags:['迷宫','王权','统一'],
+ sections:[
+ {title:'身份与来历',text:'雅典王埃勾斯之子，一说其父为海神波塞冬；母亲是特洛曾公主埃特拉，故他在特洛曾外祖父家中长大。成年后取道陆路赴雅典，沿途除掉多名强盗。普鲁塔克《忒修斯传》把他与罗慕路斯并列作传，辨析传说中的史实成分。'},
+ {title:'主要叙事',text:'核心故事为入克里特迷宫杀死牛首人身的弥诺陶洛斯，靠阿里阿德涅给的线团脱身，随后弃她于纳克索斯岛；另有与庇里托俄斯的结义、劫走海伦、下冥府受困等情节。归航时忘换白帆，埃勾斯投海而死，爱琴海因此得名。'},
+ {title:'象征与辨识',text:'短剑、线团、凉鞋与棒槌是常见标志；雅典红绘瓶多绘他制服弥诺陶洛斯或擒拿强盗。作为建城英雄，他出现在帕特农神庙与赫菲斯托斯神庙的浮雕中，与雅典娜、赫拉克勒斯并列。'},
+ {title:'流传与文化语境',text:'雅典借他的形象宣示对爱奥尼亚的宗主地位，把“统一阿提卡”说成他的政绩，属政治神话。普鲁塔克对他与罗慕路斯皆有存疑，修昔底德则把他视为传说中的王。现代研究把迷宫母题联系到克诺索斯考古与弥诺斯文明的记忆。'},
+ ],
+ en:{name:'Theseus',title:'The Athenian king who killed the Minotaur',tags:['labyrinth','kingship','synoikism'],
+ sections:[
+ {title:'Identity and origins',text:'Theseus is son of Aegeus of Athens, or in other versions of Poseidon, and of Aethra of Troizen, where he was raised. Coming of age, he travelled to Athens by land and cleared the road of robbers. Plutarch pairs his life with Romulus and weighs the historical against the legendary.'},
+ {title:'Key narratives',text:'His central deed is entering the Cretan labyrinth, killing the bull-headed Minotaur and escaping with Ariadne thread, whom he then abandons on Naxos. Other episodes include his oath-friendship with Peirithoos, the abduction of Helen and a failed descent to Hades. Forgetting to change the sails, he causes his father to leap to death.'},
+ {title:'Symbols and attributes',text:'Short sword, thread, sandals and club identify him, and red-figure vases show him mastering the Minotaur or seizing bandits. As a founding hero he appears on the Parthenon and the Hephaisteion, set beside Athena and Herakles as a model of Athenian courage.'},
+ {title:'Tradition and context',text:'Athens used Theseus to claim leadership of the Ionian world, crediting him with the unification of Attica, a political myth rather than a record. Plutarch doubts details and Thucydides treats him as a legendary king. Modern scholarship links the labyrinth to Knossos and memories of Minoan Crete.'},
+ ]}
+},
+{
+ id:'greek-orpheus',myth:'greek',name:'俄耳甫斯',title:'琴声动冥府的色雷斯歌者',tags:['琴音','冥府','秘仪'],
+ sections:[
+ {title:'身份与来历',text:'传说为色雷斯人，缪斯卡利俄珀与色雷斯王俄阿格罗斯之子，也有更古老的谱系说法。古典文献中他既是随阿耳戈号远航的歌者，又是“俄耳甫斯诗”这一神秘诗篇传统的托名作者，两者不可混为一谈。'},
+ {title:'主要叙事',text:'妻子欧律狄刻被蛇咬死后，他携琴入冥府，以歌声打动哈得斯与珀耳塞福涅，获准带妻返回，条件是途中不得回头；将近地面时他回头一望，妻子遂永留冥界。维吉尔《农事诗》与奥维德《变形记》各有一版，细节与情绪侧重不同。'},
+ {title:'象征与辨识',text:'里拉琴、色雷斯软帽与长袍是稳定标志；瓶画中他常坐在岩石上弹琴，周围聚集走兽与树木，表现音乐驯服自然。后期图像演变为头颅被撕下后仍在歌唱，随水漂流至列斯堡岛。'},
+ {title:'流传与文化语境',text:'其死因古说不一：或被酒神女祭司撕裂，或因轻蔑妇女而被杀，也有被宙斯雷击之说。俄耳甫斯教与毕达哥拉斯派借其名传播灵魂不朽与轮回的观念；蒙特威尔第《奥菲欧》以来，歌剧与诗歌反复重写这段回头之痛。'},
+ ],
+ en:{name:'Orpheus',title:'The Thracian singer who moved the underworld',tags:['lyre','underworld','mystery cult'],
+ sections:[
+ {title:'Identity and origins',text:'Orpheus is a Thracian, son of the Muse Calliope and of Oiagros, though older genealogies exist. Classical sources know him both as the singer who sailed with the Argonauts and as the borrowed name behind the Orphic poems, two things that should not be conflated.'},
+ {title:'Key narratives',text:'When his wife Eurydice dies of a snakebite, Orpheus enters Hades, wins over its rulers with song and is allowed to lead her out on condition that he not look back. He turns, and she is lost. Virgil in the Georgics and Ovid in the Metamorphoses tell the story with different emphases.'},
+ {title:'Symbols and attributes',text:'The lyre, the Thracian cap and long robe identify him. Vases show him seated on a rock, singing, surrounded by animals and trees, music taming nature. Later images have his severed head still singing as it floats to Lesbos, a motif that reshapes the whole story.'},
+ {title:'Tradition and context',text:'Ancient accounts of his death disagree: Maenads tear him apart, or he is killed for scorning women, or Zeus strikes him with lightning. Orphic and Pythagorean circles used his name for teachings on the soul and rebirth. Since Monteverdi, opera and poetry keep returning to that backward glance.'},
+ ]}
+},
+{
+ id:'greek-achilles',myth:'greek',name:'阿喀琉斯',title:'伊利昂城下的捷足英雄',tags:['勇武','愤怒','命运'],
+ sections:[
+ {title:'身份与来历',text:'佩琉斯与海中女神忒提斯之子，统治色萨利弗提亚的密耳弥多涅人。荷马《伊利亚特》开篇即点明“女神的儿子阿喀琉斯的愤怒”为主题；史诗并未提到母亲以冥河之水浸体使他刀枪不入，那是后世的补充。'},
+ {title:'主要叙事',text:'《伊利亚特》只写战争第十年的数十日：因与阿伽门农争夺女俘而罢战，好友帕特罗克洛斯借其铠甲出战被杀，他复出杀死赫克托耳并凌辱尸体，最终应普里阿摩斯之求归还遗体。史诗以赫克托耳的葬礼收束，未写他自己的死亡。'},
+ {title:'象征与辨识',text:'赫菲斯托斯所铸的大盾（刻有宇宙与城邦图景）、长枪、铠甲与神马是主要标志，瓶画中他多赤身持盾。所谓“阿喀琉斯之踵”不见于荷马，而见于斯塔提乌斯《阿喀琉斯纪》等后世文本与图像传统。'},
+ {title:'流传与文化语境',text:'荷马之后的《埃塞俄比斯》等史诗写他死于帕里斯之箭。悲剧与哲学常以他代表“短命而光荣”的抉择，《奥德赛》中他的亡魂却宁可在人间为雇农；这一反差是古代接受史的关键。今日通用的“阿喀琉斯之踵”并非荷马原文。'},
+ ],
+ en:{name:'Achilles',title:'The swift-footed hero before the walls of Troy',tags:['prowess','wrath','fate'],
+ sections:[
+ {title:'Identity and origins',text:'Achilles is the son of Peleus and the sea goddess Thetis and rules the Myrmidons of Phthia in Thessaly. The Iliad opens by naming the wrath of Achilles as its subject. The epic never mentions a mother dipping him in the Styx to make him invulnerable; that belongs to later tradition.'},
+ {title:'Key narratives',text:'The Iliad covers only some weeks of the tenth year: his quarrel with Agamemnon over a captive, his withdrawal, the death of Patroclus in his armour, his return, the killing of Hector and the maltreatment of the corpse, ended by pity for Priam. It closes with the funeral of Hector, not with his own death.'},
+ {title:'Symbols and attributes',text:'The shield forged by Hephaestus, with its cosmos and cities, his spear, armour and immortal horses mark him, and vase painters show him naked behind the shield. The heel is absent from Homer and appears in later texts such as the Achilleid of Statius and in Roman imagery.'},
+ {title:'Tradition and context',text:'Post-Homeric epics such as the Aethiopis have him killed by an arrow from Paris. Tragedy and philosophy make him the choice of a short glorious life, yet in the Odyssey his ghost says he would rather be a hired labourer among the living. The modern Achilles heel is not Homeric.'},
+ ]}
+},
+{
+ id:'greek-icarus',myth:'greek',name:'伊卡洛斯',title:'蜡翼少年与父亲的坠落',tags:['蜡翼','坠落','僭越'],
+ sections:[
+ {title:'身份与来历',text:'工匠代达罗斯之子，母亲据说是弥诺斯家的女奴瑙克拉忒。父子因代达罗斯为帕西淮造木牛、又为阿里阿德涅造迷宫而失宠，被弥诺斯囚禁于克里特。伊卡洛斯本人在故事中始终是少年，没有独立的功业。'},
+ {title:'主要叙事',text:'完整文本主要来自奥维德《变形记》卷八：代达罗斯用羽毛与蜡粘成双翼，叮嘱儿子不要飞得太低以免海水浸湿，也不要太高以免日光融化；伊卡洛斯得意忘形越飞越高，蜡融羽散，坠海而死，父亲在空中呼唤其名，附近的海与岛遂以他命名。'},
+ {title:'象征与辨识',text:'蜡翼、散落的羽毛、伸向海面的手臂是稳定标志；古代图像多表现他裸身张开双臂下坠，代达罗斯在上方呼喊。文艺复兴版画与布鲁盖尔《伊卡洛斯的坠落》构成了最有名的近代图像传统。'},
+ {title:'流传与文化语境',text:'阿波罗多洛斯《书库》与希腊化文献也提到此事，细节略有出入。奥维德的版本关注父子关系与技术之限，后世多以“僭越”读之，也有人读作技术乐观与少年鲁莽的寓言；这两种读法都属接受史，而非古典文本的原意。'},
+ ],
+ en:{name:'Icarus',title:'The boy on wax wings and his fall',tags:['wax wings','fall','hubris'],
+ sections:[
+ {title:'Identity and origins',text:'Icarus is the son of the craftsman Daedalus, his mother said to be Naucrate, a slave in the household of Minos. Father and son are imprisoned in Crete after Daedalus builds the wooden cow for Pasiphae and the labyrinth for Ariadne. Icarus himself has no separate career in the story.'},
+ {title:'Key narratives',text:'The fullest account is Ovid, Metamorphoses book eight. Daedalus joins feathers with wax and warns his son to fly neither low enough for the sea to soak the wings nor high enough for the sun to melt them. Icarus climbs in delight, the wax runs, and he falls; sea and island take his name.'},
+ {title:'Symbols and attributes',text:'Wax wings, falling feathers and an arm stretched towards the water identify him. Ancient images show a naked youth with outspread arms dropping while Daedalus calls from above. Renaissance prints and Bruegels Landscape with the Fall of Icarus created the best known modern version of the scene.'},
+ {title:'Tradition and context',text:'Apollodorus and Hellenistic writers mention the story with small variations. Ovid is interested in the father, the son and the limits of craft; later ages read the tale as hubris, or as a parable of technical confidence and youthful recklessness. Both readings belong to reception, not to the ancient text.'},
+ ]}
+},
+{
+ id:'norse-fenrir',myth:'norse',name:'芬里尔',title:'被缚的巨狼与诸神黄昏',tags:['巨狼','锁链','末日'],
+ sections:[
+ {title:'身份与来历',text:'洛基与女巨人安格尔波达之子，与耶梦加得、海拉为同胞兄妹。斯诺里《散文埃达·吉尔法基宁》记诸神因预言得知他将带来灾祸，把他带到阿斯加德抚养，后因其迅速暴长、形貌可怖而不敢再留。'},
+ {title:'主要叙事',text:'前两条锁链雷锭与德罗米都被他轻易挣断；第三次诸神改用侏儒以猫步、山根、鸟唾等六物制成的格莱普尼尔，他疑心有诈，要求有人把手放入口中作保，提尔伸出右手而失之。他被缚于林格维岛，口中撑剑，涎水成河。'},
+ {title:'象征与辨识',text:'巨狼、张开的巨口、断裂的锁链与撑口的剑是主要标志。冰岛手稿插图与瑞典教堂浮雕常表现他咬断锁链，或与吞日的狼并置；末日图像的核心是“吞下奥丁的狼”，这一母题在中世纪北欧艺术中反复出现。'},
+ {title:'流传与文化语境',text:'《诗体埃达·女巫的预言》与《散文埃达》都写他在诸神黄昏挣脱，吞下奥丁，随后被维达杀死。学界把他联系到狼人、亡命者与被束缚的恶魔母题；中世纪的基督教写手也乐于把他读作恶魔的对应物，但文本本身仍属异教神话的遗产。'},
+ ],
+ en:{name:'Fenrir',title:'The bound wolf that devours Odin',tags:['giant wolf','fetters','Ragnarok'],
+ sections:[
+ {title:'Identity and origins',text:'Fenrir is the son of Loki and the giantess Angrboda, brother of Jormungandr and Hel. Snorri in Gylfaginning says the gods, warned by prophecy that he will bring disaster, raise him in Asgard until his monstrous growth and appearance make them afraid to keep him.'},
+ {title:'Key narratives',text:'He snaps the first two fetters, Leyding and Dromi. The third, Gleipnir, is made by dwarves from six impossible things, including the tread of a cat and the spit of a bird. Suspicious, Fenrir demands a hand in his mouth as pledge; Tyr gives his right hand and loses it. He is bound on Lyngvi.'},
+ {title:'Symbols and attributes',text:'The wolf, the gaping jaw, the broken fetter and the sword propping his mouth open are the standard markers. Icelandic manuscript drawings and Swedish church carvings show him snapping chains or paired with the wolf that swallows the sun. The wolf that devours Odin dominates eschatological imagery.'},
+ {title:'Tradition and context',text:'Voluspa and Snorri agree that he breaks free at Ragnarok, swallows Odin and is then killed by Vidar. Scholars link him to werewolf, outlaw and bound-demon motifs. Medieval Christian writers readily read him as a figure of the devil, but the material remains a pagan mythological inheritance.'},
+ ]}
+},
+{
+ id:'norse-jormungandr',myth:'norse',name:'耶梦加得',title:'环绕中庭的尘世巨蛇与雷神',tags:['巨蛇','海环','宿敌'],
+ sections:[
+ {title:'身份与来历',text:'洛基与安格尔波达之子，与芬里尔、海拉同胞。斯诺里称他为“尘世巨蛇”（Miðgarðsormr）；奥丁把他抛入环绕中庭的大海，他在海中长到能自衔其尾、环抱整个大地，因而与索尔结下宿怨；《女巫的预言》与《散文埃达》都把他列为诸神黄昏的关键角色。'},
+ {title:'主要叙事',text:'他与索尔有三次交锋：在巨人乌特加德-洛基处，索尔所举的“猫”其实是他；在巨人希米尔船上，索尔以牛头为饵把他钓起，举锤欲击时巨人割断钓线；诸神黄昏时两人在维格利德原野互杀，索尔走出九步后中毒倒地。'},
+ {title:'象征与辨识',text:'衔尾蛇形态、毒牙与翻涌的海浪是主要标志。符文石与手稿插图常把“索尔钓蛇”与诸神黄昏并置：索尔站在船上，脚穿破船底，牛头作饵。这一母题在英格兰、瑞典与哥特兰的画像石上都有发现。'},
+ {title:'流传与文化语境',text:'《许米尔之歌》与《散文埃达》都写钓蛇，细节不同：前者近于一次失败的狩猎，后者强调巨人见到蛇头时的惊恐并割断钓线。世界巨蛇母题可与印度阿难陀等相比，但结构相似不等于同源传播，需谨慎。'},
+ ],
+ en:{name:'Jormungandr',title:'The world serpent encircling Midgard',tags:['serpent','ocean ring','nemesis'],
+ sections:[
+ {title:'Identity and origins',text:'Jormungandr is a child of Loki and Angrboda, sibling of Fenrir and Hel. Snorri calls him the world serpent. Odin throws him into the ocean surrounding Midgard, where he grows until he can bite his own tail and encircle the earth, which sets up his lasting feud with Thor.'},
+ {title:'Key narratives',text:'They meet three times. In the hall of Utgard-Loki the cat Thor tries to lift is the serpent. On the giant Hymir boat Thor hauls him up using an ox head as bait until Hymir cuts the line. At Ragnarok they kill each other on the field of Vigrid, Thor walking nine steps before the poison takes him.'},
+ {title:'Symbols and attributes',text:'The tail-biting ring, venomous fangs and heaving sea mark him. Runestones and manuscript pictures pair the serpent with Ragnarok, showing Thor in a boat with an ox head and his foot through the hull. The motif appears on stones in England, Sweden and Gotland.'},
+ {title:'Tradition and context',text:'Hymiskvida and Snorri both tell of the fishing but differ: the poem is closer to a failed hunt, while Snorri stresses the giant terror at the serpent head and his cutting of the line. The world serpent invites comparison with Indian Ananta, though shared structure is not evidence of transmission.'},
+ ]}
+},
+{
+ id:'norse-ymir',myth:'norse',name:'尤弥尔',title:'被分尸造世的原初巨人',tags:['原初','造世','霜巨'],
+ sections:[
+ {title:'身份与来历',text:'《女巫的预言》把他列为巨人一族，斯诺里《散文埃达》则记他由冰与火交汇处埃利瓦加尔河的毒水滴凝成，是霜巨人的始祖；他沉睡时从腋下与双脚生出后代，与母牛奥德姆布拉同以冰霜为食。'},
+ {title:'主要叙事',text:'奥丁与维利、维三兄弟杀死尤弥尔，伤口涌出的血水成洪，淹死大部分霜巨人，只有贝尔格尔米尔乘船逃生，成为新巨人族的祖先。诸神把他的肉造成大地、骨造成山、血造成海、颅骨造成天穹、脑造成云，眉毛围成中庭，蛆虫化为侏儒。'},
+ {title:'象征与辨识',text:'以身体部位命名地貌是北欧创世叙事的特征：巨人躯体与大地结构一一对应、洪血与颅骨天穹是主要意象。中世纪冰岛抄本中有“人形—世界”的图示，但直接标注尤弥尔者多为近代学者的重构，不能当作中世纪原图使用，文本本身并未留下对应的图绘。'},
+ {title:'流传与文化语境',text:'此神话只见于《诗体埃达》与斯诺里，无法确证为更早的共同日耳曼信仰，也可能是冰岛基督教时期文人整理的成果。“以原人之身造世界”与印度普鲁沙、中国盘古结构相似，学界多视为类型学平行，而非传播证据。'},
+ ],
+ en:{name:'Ymir',title:'The primeval giant dismembered to make the world',tags:['primeval','creation','frost giant'],
+ sections:[
+ {title:'Identity and origins',text:'Voluspa counts Ymir among the giants, and Snorri describes him as formed from venomous drops in the river Elivagar where ice and fire meet, the ancestor of all frost giants. While he sleeps, descendants grow from his armpits and feet, and he feeds on the milk of the cow Audhumla.'},
+ {title:'Key narratives',text:'Odin, Vili and Ve kill Ymir, and the blood from his wounds floods the world, drowning all the frost giants except Bergelmir, who escapes by boat and founds a new line. The gods make earth from his flesh, mountains from bones, sea from blood and sky from his skull; his brows wall in Midgard.'},
+ {title:'Symbols and attributes',text:'The correspondence between giant body and world structure, the flood of blood and the skull as sky are his defining images. Some Icelandic manuscripts contain man-and-cosmos diagrams, but the ones explicitly labelled Ymir are mostly modern scholarly reconstructions rather than medieval drawings.'},
+ {title:'Tradition and context',text:'The myth survives only in the Poetic Edda and in Snorri, so it cannot be shown to reflect an older common Germanic belief and may be the work of Christian-era Icelandic compilers. Creating the world from a primal body resembles Indian Purusha and Chinese Pangu, usually read as typological parallels, not evidence of diffusion.'},
+ ]}
+},
+{
+ id:'norse-idun',myth:'norse',name:'伊登',title:'掌管青春苹果的阿萨女神',tags:['青春','苹果','诗艺'],
+ sections:[
+ {title:'身份与来历',text:'斯诺里《散文埃达》称她是诗人布拉吉之妻，属阿萨神族，其名可能与“更新、回春”之义相关。她保管能让诸神保持青春的苹果，装在一只梣木匣中；诸神衰老时便向她索取，她因此是诸神得以不老的条件之一。'},
+ {title:'主要叙事',text:'最完整的故事见《散文埃达·布拉吉的谈话》：巨人夏基化鹰诱捕洛基，洛基以伊登为赎，把她骗出阿斯加德；她一去，诸神迅速衰老，遂逼洛基以隼形把她变回，夏基追至阿斯加德被火堆烧死。另《哈巴尔之歌》保存她与神秘问话者的对话残片。'},
+ {title:'象征与辨识',text:'苹果、梣木匣与四季更新是主要标志。古代图像材料极少，多依文本想象为持果的少女；她的苹果常被与希腊的金苹果、凯尔特阿瓦隆的苹果混同，其实三者属于彼此独立的神话体系。'},
+ {title:'流传与文化语境',text:'该神话以“诸神也会衰老”为前提，说明青春苹果是宇宙秩序得以延续的条件，此点常被忽略。19世纪民族主义与瓦格纳式改写把她浪漫化，当代流行文化中的“青春女神”用法更远离中世纪文本，多属现代再创造。'},
+ ],
+ en:{name:'Idun',title:'The goddess who keeps the apples of youth',tags:['youth','apples','poetry'],
+ sections:[
+ {title:'Identity and origins',text:'Snorri makes Idun the wife of the poet Bragi and one of the Aesir; her name probably relates to renewal or rejuvenation. She keeps the apples that preserve the gods from old age in a box of ash wood, and the gods come to her when they feel age coming on.'},
+ {title:'Key narratives',text:'The fullest story is in Skaldskaparmal: the giant Thjazi, in eagle form, traps Loki, who buys his freedom by luring Idun out of Asgard. With her gone the gods age at once and force Loki to bring her back in falcon shape; Thjazi pursues them and is burned on the walls of Asgard.'},
+ {title:'Symbols and attributes',text:'Apples, the ash-wood box and the renewal of the seasons define her. Ancient images are almost nonexistent, so she is usually imagined from texts as a girl holding fruit. Her apples are often confused with the Greek golden apples or the apples of Avalon, which belong to separate traditions.'},
+ {title:'Tradition and context',text:'The myth assumes that gods can grow old, making the apples a condition for the continued order of the cosmos, a point often overlooked. Nineteenth-century nationalism and Wagnerian rewriting sentimentalised her, and the modern youth goddess of popular culture is a further reinvention rather than a medieval figure.'},
+ ]}
+},
+{
+ id:'norse-brynhild',myth:'norse',name:'布伦希尔德',title:'瓦尔斯伦加萨迦中的女英雄',tags:['女武神','誓言','复仇'],
+ sections:[
+ {title:'身份与来历',text:'主要见于《诗体埃达》英雄诗与十三世纪冰岛散文体《瓦尔斯伦加萨迦》（本于更早诗歌），她是匈人王布德利之女、阿提拉之妹，与《尼伯龙根之歌》的布伦希尔德相对应。她属英雄传说人物，不是《散文埃达》神名录中的瓦尔基里。'},
+ {title:'主要叙事',text:'她与西格德互誓婚约，西格德却因饮下忘情之酒而化形代贡纳尔求婚，越过火墙三日；婚后她发现真相，指认背誓，促成西格德被杀，自己亦在火葬中殉身。萨迦以家族血仇与誓言破裂推动结局，细节与《尼伯龙根之歌》颇有出入。'},
+ {title:'象征与辨识',text:'火墙、盾与铠甲、安德瓦拉纳乌特金戒指是主要标志。图像多来自中世纪北欧教堂门板与木刻，表现她坐于火中或与西格德相会；闪亮的带翼头盔与甲胄则多为19世纪舞台与插画的加工。'},
+ {title:'流传与文化语境',text:'她是文学萨迦（fornaldarsaga）中的英雄，而非宗教崇拜对象；文本成于基督教时期的冰岛，保存了异教英雄世界的记忆。瓦格纳《尼伯龙根的指环》把她与女武神合并，是现代重构，不应回读为中世纪原貌。'},
+ ],
+ en:{name:'Brynhild',title:'The Volsunga heroine behind the ring of fire',tags:['shieldmaiden','oath','revenge'],
+ sections:[
+ {title:'Identity and origins',text:'Brynhild belongs to the heroic poems of the Poetic Edda and to Völsunga saga, a thirteenth-century Icelandic prose compilation drawing on older verse. She is daughter of Budli and sister of Attila, and corresponds to Brunhild in the Nibelungenlied. She is a legendary heroine, not one of the valkyries listed by Snorri.'},
+ {title:'Key narratives',text:'She and Sigurd swear an oath, but Sigurd, made forgetful by a drink, takes his shape to woo her for Gunnar and rides her fire wall for three nights. Learning of the deception, she demands and obtains the death of Sigurd, and dies on his pyre. Family feud and broken oath drive the saga to its end.'},
+ {title:'Symbols and attributes',text:'The wall of flame, shield and mail, and the ring Andvaranaut mark her. Images come mainly from medieval Scandinavian church doors and carvings showing her seated in fire or meeting Sigurd. The winged helmet and shining armour are nineteenth-century stage and illustration work.'},
+ {title:'Tradition and context',text:'She is a figure of legendary saga rather than an object of cult, recorded in Christian-era Iceland that preserved memories of a pagan heroic world. Wagner in the Ring cycle merges her with the valkyries, a modern construction that should not be read back into the medieval sources.'},
+ ]}
+},
+{
+ id:'roman-aeneas',myth:'roman',name:'埃涅阿斯',title:'从特洛伊到拉丁姆的建城先祖',tags:['逃亡','虔敬','建城'],
+ sections:[
+ {title:'身份与来历',text:'特洛伊王子安喀塞斯与女神阿佛洛狄忒（罗马称维纳斯）之子，属特洛伊王族的旁支。荷马《伊利亚特》中他是特洛伊一方的重要战将，屡次在危急时被神救走；罗马传统则把他推为阿尔巴隆加之祖与尤利乌斯家族的祖先，两者层次不同。'},
+ {title:'主要叙事',text:'维吉尔《埃涅阿斯纪》写他背负父亲、携幼子阿斯卡尼乌斯逃离火城，历海上漂泊、迦太基女王狄多之恋与其自杀、下冥府见亡父、抵拉丁姆与图尔努斯决战。这是公元前一世纪的文人史诗，属建城起源叙事，并非同代史料记录。'},
+ {title:'象征与辨识',text:'背负老父、手牵幼子、携家庭神像的“三重形象”是核心标志，钱币与浮雕以此表现虔敬（pietas）。维吉尔笔下他的盾由伏尔甘所铸，刻着未来罗马的史事，明显与《伊利亚特》中阿喀琉斯之盾形成互文。'},
+ {title:'流传与文化语境',text:'奥古斯都时代借埃涅阿斯为朱利乌斯家族与罗马统治立传说谱系，李维、狄奥尼修斯等史家也记录多种异文。中世纪把他读作朝圣者的寓言，近代则视之为帝国意识形态与文学想象的结合；其“历史性”始终是传说谱系，而非编年记录。'},
+ ],
+ en:{name:'Aeneas',title:'The Trojan ancestor of Rome',tags:['flight','piety','foundation'],
+ sections:[
+ {title:'Identity and origins',text:'Aeneas is a Trojan prince, son of Anchises and the goddess Aphrodite, whom the Romans called Venus, and a junior member of the royal house. In the Iliad he is a prominent Trojan fighter repeatedly rescued by gods. Roman tradition made him ancestor of the kings of Alba Longa and of the Julian family.'},
+ {title:'Key narratives',text:'The Aeneid of Virgil, written in the first century BC, has him carry his father from burning Troy and lead his son Ascanius and the household gods westward. He loves and abandons Dido at Carthage, visits the ghost of Anchises below, and fights Turnus in Latium. It is literature, not record.'},
+ {title:'Symbols and attributes',text:'The triple image of a man carrying his aged father, leading the child and bearing the household gods expresses pietas, and coins and reliefs use it. In Virgil his shield, made by Vulcan, carries scenes of future Roman history, deliberately echoing the shield of Achilles in the Iliad.'},
+ {title:'Tradition and context',text:'Augustan writers used Aeneas to give the Julian family and Roman rule a legendary genealogy, while Livy and Dionysius preserved several competing versions. Medieval readers allegorised him as a pilgrim soul; modern criticism treats him as a meeting point of imperial ideology and literary imagination rather than a datable figure.'},
+ ]}
+},
+{
+ id:'roman-romulus',myth:'roman',name:'罗慕路斯',title:'罗马的建城者与首任王',tags:['建城','王权','兄弟'],
+ sections:[
+ {title:'身份与来历',text:'传说为战神玛尔斯与维斯塔贞女瑞亚·西尔维亚之子，与孪生兄弟雷穆斯同被弃于台伯河，由母狼哺育、牧人浮斯图卢斯抚养。普鲁塔克《罗慕路斯传》与李维《建城以来史》各有记载，细节、年代与怀疑程度互有出入。'},
+ {title:'主要叙事',text:'兄弟长大后推翻阿尔巴王阿穆利乌斯，却因在何处建城、以何种占卜为凭而争执；雷穆斯跃过罗慕路斯所挖的城壕（一说城墙）被杀，罗慕路斯遂以自己的名字命名罗马。为补充人口，他设计劫掠萨宾妇女，后又与萨宾人共治。'},
+ {title:'象征与辨识',text:'母狼、双婴、犁沟与城墙是核心标志。建城时以犁划出城界（pomerium），象征神圣边界；著名的卡比托利欧母狼像年代有争议，双婴通常被认为是后来添加的。罗马钱币与浮雕反复使用母狼哺乳的图案。'},
+ {title:'流传与文化语境',text:'建城年被后世定为公元前753年，属推算而非当时记录；王政时期的史事多由共和国与帝国文人重构。帕拉蒂尼山已发现早期聚落与城墙痕迹，却无法证实孪生兄弟其人；雷穆斯之死的不同版本也反映了家族与政治立场的差异。'},
+ ],
+ en:{name:'Romulus',title:'Founder and first king of Rome',tags:['foundation','kingship','twins'],
+ sections:[
+ {title:'Identity and origins',text:'Romulus is said to be son of Mars and the Vestal Rhea Silvia, twin of Remus. The babies are exposed on the Tiber, suckled by a she-wolf and raised by the herdsman Faustulus. Plutarch and Livy tell the story with different details, dates and degrees of scepticism, and both record variant versions.'},
+ {title:'Key narratives',text:'The brothers overthrow Amulius of Alba Longa, then quarrel over the site and the auspices for their city. Remus jumps over the trench, or in some versions the wall, that Romulus has drawn, and is killed; Romulus names Rome after himself. He then seizes the Sabine women to populate the settlement.'},
+ {title:'Symbols and attributes',text:'The she-wolf, the twins, the plough furrow and the wall are the standard markers. Founding involved tracing the boundary, the pomerium, with a plough, marking a sacred limit. The famous Capitoline wolf is of disputed date, and the twins are usually thought to be later additions.'},
+ {title:'Tradition and context',text:'The founding date of 753 BC is a later calculation, not a contemporary record, and the regal period was reconstructed by Republican and Imperial writers. Excavation on the Palatine has revealed early huts and fortifications, but no trace of the twins, whose legend served competing political claims.'},
+ ]}
+},
+{
+ id:'roman-cupid',myth:'roman',name:'丘比特',title:'罗马的爱欲之神与箭矢',tags:['爱欲','箭矢','婚姻'],
+ sections:[
+ {title:'身份与来历',text:'罗马的 Cupido 意为“欲望”，本是拉丁宗教中神性力量的人格化，后与希腊的厄洛斯（Eros）认同，成为维纳斯之子，通常以少年或孩童形象出现。他在早期罗马的国家祭祀中没有独立大神的位置，更多见于文学与私人宗教。'},
+ {title:'主要叙事',text:'阿普列乌斯《金驴记》中的“丘比特与普绪刻”是最完整的拉丁叙事：丘比特夜访普绪刻，约定不得窥其容貌；普绪刻持灯偷看，致其离去，历多项试炼后获朱庇特准许成婚并升为神。希腊化诗歌中的厄洛斯则多为顽劣孩童。'},
+ {title:'象征与辨识',text:'弓与箭、火炬、双翼是主要标志，蒙眼则是后期寓意艺术所加。文艺复兴与巴洛克绘画中的胖童形象（putto）由古代小爱神演化而来，但古典时期并无固定定式，他也常被表现为一群小爱神中的一个。'},
+ {title:'流传与文化语境',text:'罗马文学把爱欲视为需要驯服或戏拟的力量，奥维德《爱经》把他写成军营中的士兵；中世纪寓意诗把丘比特之箭释为贪欲或神圣之爱。现代情人节的天使形象与古代宗教意涵相去甚远，主要属近代印刷与商业文化的产物。'},
+ ],
+ en:{name:'Cupid',title:'The Roman god of desire and his arrows',tags:['desire','arrows','marriage'],
+ sections:[
+ {title:'Identity and origins',text:'Cupido, desire, was a Latin personification of a divine force before being identified with Greek Eros, son of Venus and usually shown as a youth or child. He holds no place among the great state gods of early Rome and appears mainly in literature, private cult and later art.'},
+ {title:'Key narratives',text:'The fullest Latin narrative is Cupid and Psyche in Apuleius, where the god visits Psyche only at night and forbids her to see him. She looks by lamplight, loses him, and after trials wins the consent of Jupiter to marriage and immortality. Hellenistic poetry prefers a mischievous child.'},
+ {title:'Symbols and attributes',text:'Bow, arrows, torch and wings identify him; the blindfold is an addition of later allegorical art. Renaissance and Baroque painters developed the chubby putto from ancient minor loves, but classical art had no single fixed type, and he often appears as one of a plurality of little gods.'},
+ {title:'Tradition and context',text:'Roman poets treat erotic desire as a force to be disciplined or mocked; Ovid in the Art of Love makes Cupid a soldier in his camp. Medieval allegory read his arrows as lust or as divine love. The cherub of modern Valentines belongs to commercial print culture, not to ancient religion.'},
+ ]}
+},
+{
+ id:'celtic-finn',myth:'celtic',name:'芬恩',title:'费尼安传奇的首领与智者',tags:['费尼安','智慧','狩猎'],
+ sections:[
+ {title:'身份与来历',text:'爱尔兰芬尼亚故事循环（Fenian cycle）的首领，名 Fionn mac Cumhaill，父亲库马尔在一次私斗中被杀，他少年时为父复仇。主要文本见于十二世纪《伦斯特之书》所收故事、后世民谣与口传，成文时间晚于以库呼兰为中心的阿尔斯特循环。'},
+ {title:'主要叙事',text:'最著名者为“知识的鲑鱼”：他随诗人菲内卡斯学艺，烤鱼时烫伤拇指，吮指而获得智慧；另有追逐迪尔穆德与格兰妮的私奔、猎野猪、与海外来敌交锋等。晚年他与费尼安武士团渐次失势，结局有多种异文，或说老死于床榻。'},
+ {title:'象征与辨识',text:'智慧之拇指、矛与盾、猎犬与鹿是主要标志；苏格兰与北爱尔兰的“巨人堤道”传说也归在他名下。他是自由武士团（fianna）的首领，而非国王；其子莪相与孙奥斯卡同属这一循环，构成父子孙三代武士的谱系。'},
+ {title:'流传与文化语境',text:'芬尼亚循环与阿尔斯特循环并列，但成文较晚，多经口传与抄写者整理。麦弗逊在1760年代以其子莪相之名发表《莪相集》，实为改写与仿作，曾引起真伪之争，也深刻影响了欧洲浪漫主义对“北方吟游诗人”的想象。'},
+ ],
+ en:{name:'Finn mac Cumhaill',title:'Leader and seer of the Fenian cycle',tags:['Fenian','wisdom','hunting'],
+ sections:[
+ {title:'Identity and origins',text:'Fionn mac Cumhaill leads the fianna, the roving warrior bands of Irish tradition, in the Fenian cycle. His father Cumhall is killed in a private feud and the boy avenges him. The tales survive in twelfth-century manuscripts such as the Book of Leinster, in later ballads and in oral storytelling.'},
+ {title:'Key narratives',text:'His best known story is the salmon of knowledge: while cooking the fish for the poet Finnegas, Fionn burns his thumb, sucks it and gains wisdom. Other tales follow his pursuit of Diarmuid and Grainne, his hunts and clashes with overseas raiders. Accounts of his old age vary considerably.'},
+ {title:'Symbols and attributes',text:'The thumb of knowledge, spear and shield, hounds and deer mark him. Scottish and Ulster legends attach the Giants Causeway to him. He leads a free warrior band rather than a kingdom, and his son Oisin and grandson Oscar belong to the same cycle of three generations.'},
+ {title:'Tradition and context',text:'The Fenian cycle stands beside the Ulster cycle of Cu Chulainn but was written down later, shaped by oral performance and scribal editing. James Macpherson published Ossian in the 1760s as a translation from Oisin, though it was largely his own composition, and the quarrel shaped European romantic ideas of the bard.'},
+ ]}
+},
+{
+ id:'celtic-bran',myth:'celtic',name:'布兰',title:'威尔士的巨人与不列颠之王',tags:['巨人','渡海','头骨'],
+ sections:[
+ {title:'身份与来历',text:'威尔士《马比诺吉昂》四分支之一《布兰文》中的“受祝福的布兰”（Bendigeidfran），为不列颠之王、利尔（Llŷr）之子。他属威尔士本土传统，与爱尔兰海神马纳南·麦克·利尔并非同一人物，二者常被现代读物混为一谈。'},
+ {title:'主要叙事',text:'妹妹布兰文嫁爱尔兰王马索尔威奇后受辱，布兰率军征讨；因海水太浅无法行船，他以身横卧海峡作桥，让军队踏背而过。战事中他被毒矛伤脚，命部下斩下其头带回；头颅在哈莱赫宴饮数十年，据说其埋葬有抵御入侵之力。'},
+ {title:'象征与辨识',text:'巨人之躯、涉海为桥、语鸟与长年是主要标志；“布兰之头”埋于伦敦白丘的传说与王权护佑相关。威尔士文本赋予他王、巨人与渡海者三重身份，与一般的战士英雄明显不同；其名 Bendigeidfran 意为“受祝福的布兰”，也见于威尔士三题诗。'},
+ {title:'流传与文化语境',text:'见于《马比诺吉昂》的白书与红书两件手稿，属十二至十三世纪编定的威尔士散文故事，也保存了更早的口头记忆。学者注意他与爱尔兰“渡海远征”母题的互动，但布兰与马纳南分属不同传统，不应混同。'},
+ ],
+ en:{name:'Bran the Blessed',title:'The Welsh giant king of Britain',tags:['giant','sea crossing','head'],
+ sections:[
+ {title:'Identity and origins',text:'Bendigeidfran, Bran the Blessed, is king of Britain and son of Llyr in Branwen, one of the Four Branches of the Mabinogi. He belongs to Welsh tradition and is not the Irish sea god Manannan mac Lir, although modern retellings often merge the two figures into one.'},
+ {title:'Key narratives',text:'When his sister Branwen is humiliated by Matholwch of Ireland, Bran invades. Finding the sea too shallow for ships, he lies across the strait and his men walk over his body. Wounded in the foot by a poisoned spear, he orders his head cut off and carried home, where it feasts for years.'},
+ {title:'Symbols and attributes',text:'His giant body, the sea crossing, the speaking birds and the long feast mark him. The head, buried on the White Mount in London, was said to protect Britain from invasion. Welsh texts give him three roles at once: king, giant and bridge across water.'},
+ {title:'Tradition and context',text:'The tale survives in the White Book and Red Book manuscripts of the Mabinogion, prose compiled in the twelfth and thirteenth centuries from older oral material. Scholars note links with Irish voyage and invasion tales, but Bran and Manannan belong to different traditions and should not be conflated.'},
+ ]}
+},
+{
+ id:'celtic-aengus',myth:'celtic',name:'安格斯',title:'博因河畔的青春与爱之神',tags:['青春','爱欲','梦'],
+ sections:[
+ {title:'身份与来历',text:'爱尔兰神话中的 Aengus Óg（“年轻的安格斯”），达格达与博因河女神博安之子，属图阿萨·德·达南一族。传说他于一日之内受孕与出生，由米迪尔抚养，故又称“青春之子”（Mac Óc），与青春、爱欲和诗歌相关。'},
+ {title:'主要叙事',text:'核心故事为《艾莲的求婚》：他在梦中爱上少女艾莲，寻访经年，与养父米迪尔争夺，最终以天鹅之形相认相随。另一故事讲他如何从父亲达格达手中求得博因河畔的宫殿（Brú na Bóinne），以“昼与夜”的文字游戏取胜。'},
+ {title:'象征与辨识',text:'天鹅、环绕其头的四鸟（吻旁有三鸟歌唱）、博因河湾与史前墓丘是主要标志。纽格莱奇通道墓在后世传说中被当作他的居所，考古上属新石器时代建筑，与神话并无直接对应关系，不宜当作同一证据。'},
+ {title:'流传与文化语境',text:'文本见于《伦斯特之书》与《黛尔吉的牛劫》等中古爱尔兰抄本，属文人整理的神话与传奇材料。他与青春、爱欲和诗歌相关，并非主管生育的职能神；叶芝等近代作家把他浪漫化为“青春与美”的象征，与中古贵族叙事语境有别。'},
+ ],
+ en:{name:'Aengus Og',title:'God of youth and love by the Boyne',tags:['youth','desire','dream'],
+ sections:[
+ {title:'Identity and origins',text:'Aengus Og, Aengus the Young, is son of the Dagda and the river goddess Boann and belongs to the Tuatha De Danann. Conceived and born within a single day, he is fostered by Midir and called Mac Oc, son of youth, and is associated with youth, love and poetry.'},
+ {title:'Key narratives',text:'In The Wooing of Etain he falls in love with a girl seen in a dream, searches for her for years, contends with his fosterfather Midir and finally recognises her in swan form. Another tale tells how he wins the Bru na Boinne, the bend of the Boyne, from the Dagda by a trick of words.'},
+ {title:'Symbols and attributes',text:'Swans, the four birds around his head, the Boyne bend and the great prehistoric mounds mark him. Newgrange, a Neolithic passage tomb, was later said to be his dwelling, though archaeology and myth are separate orders of evidence and should not be conflated.'},
+ {title:'Tradition and context',text:'His stories appear in medieval Irish manuscripts including the Book of Leinster and the Cattle Raid of Cooley, edited by literate clerics from older material. He concerns youth, desire and poetry rather than fertility as a function. Yeats made him a symbol of beauty in modern verse.'},
+ ]}
+},
+{
+ id:'egypt-sekhmet',myth:'egypt',name:'塞赫美特',title:'狮首的瘟疫与治疗女神',tags:['狮首','瘟疫','王权'],
+ sections:[
+ {title:'身份与来历',text:'孟菲斯神学中的女战神，普塔之妻、奈费尔图姆之母，名意为“强有力的”。她与哈托尔、穆特、巴斯特等女神在职能上常有重叠，被视为“拉之眼”的凶猛形态。相关神学文本见于沙巴卡石碑，该碑是公元前八世纪抄录的古老文本。'},
+ {title:'主要叙事',text:'最著名者为“拉之眼”的毁灭：人类密谋反叛拉，拉遣其眼（此处作哈托尔—塞赫美特）下界杀戮，血流成河；拉以红赭石染酒倾于地面，女神饮醉而止，杀戮遂停。另有大量咒语把她与瘟疫之箭及治疗并置，二者是同一位女神的两面。'},
+ {title:'象征与辨识',text:'狮首女身、日盘与圣蛇、纸草权杖、生命之符是主要标志，常着红色亚麻衣。她的祭司在孟菲斯兼行医术与咒术，被称为“塞赫美特祭司”的医师，是古代埃及少见的兼具神职与医疗身份者。'},
+ {title:'流传与文化语境',text:'她既降瘟疫也解瘟疫，故医生与咒语皆求她；每年“醉宴”以饮酒纪念杀戮的终止，可能与她的祭祀有关。现代读物常把她简化为战争女神，忽略了医疗、王权庇护与“拉之眼”功能的复杂性。'},
+ ],
+ en:{name:'Sekhmet',title:'The lion-headed goddess of plague and healing',tags:['lioness','plague','kingship'],
+ sections:[
+ {title:'Identity and origins',text:'Sekhmet is the Memphite goddess of war and pestilence, wife of Ptah and mother of Nefertem; her name means the powerful one. She overlaps with Hathor, Mut and Bastet and is a fierce form of the Eye of Re. The Memphite theology is known from the Shabaka Stone, an eighth-century copy of an older text.'},
+ {title:'Key narratives',text:'Her best known myth is the slaughter wrought by the Eye of Re. When humanity plots against Re, he sends his eye, here Hathor or Sekhmet, to destroy them. Re dyes beer with red ochre and pours it out; the goddess drinks, becomes drunk and stops. Spells call her arrows of pestilence and her cures alike.'},
+ {title:'Symbols and attributes',text:'A lioness head on a human body, sun disk with uraeus, papyrus sceptre and ankh identify her, and she often wears red linen. Her priests at Memphis combined healing with incantation, so the priests of Sekhmet worked as physicians as well as ritual specialists, an unusual double role.'},
+ {title:'Tradition and context',text:'She both sends and cures plague, so doctors and spells appeal to her. The Festival of Drunkenness, commemorating the end of the slaughter, may belong to her cult. Modern summaries flatten her into a war goddess and lose the medical, royal-protective dimensions of the Eye of Re.'},
+ ]}
+},
+{
+ id:'egypt-ptah',myth:'egypt',name:'普塔',title:'孟菲斯的造物之神与匠神',tags:['造物','工匠','孟菲斯'],
+ sections:[
+ {title:'身份与来历',text:'孟菲斯的主神，与塞赫美特、奈费尔图姆构成三联神。其名或与“开启”、雕刻家相关；在孟菲斯神学中，他不靠生育或战斗，而凭心（思想）与舌（言语）创造万物，因而常被形容为以语言造世的匠神。'},
+ {title:'主要叙事',text:'主要材料是沙巴卡石碑所载的孟菲斯神学：普塔以心构想、以舌命名，诸神与万物由此而生，文本又把传统的九柱神系统纳入普塔名下，宣称孟菲斯为创世之地。这套叙述带有明显的一神论式倾向，与赫利奥波利斯神学形成竞争。'},
+ {title:'象征与辨识',text:'木乃伊状的紧身衣、蓝色颅帽、直杖与安卡是主要标志，有时立于台座上，形如工匠之作。希腊人把他与赫菲斯托斯认同，故孟菲斯在希腊文献中有“火神之城”的称呼；阿匹斯圣牛也与他相关。'},
+ {title:'流传与文化语境',text:'他是工匠、建筑者与匠人的保护神，孟菲斯为其重要祭司中心，阿匹斯圣牛养于附近。沙巴卡石碑本身是公元前八世纪沙巴卡王命人抄录的古老文本，为研究埃及创世论的关键材料，其原件的年代至今仍有争论。'},
+ ],
+ en:{name:'Ptah',title:'The Memphite creator and patron of craftsmen',tags:['creation','craftsmen','Memphis'],
+ sections:[
+ {title:'Identity and origins',text:'Ptah is the chief god of Memphis, forming a triad with Sekhmet and Nefertem. His name may relate to opening or to the sculptor. In Memphite theology he creates by heart and tongue, thought and speech, rather than by generation or combat, and is therefore described as a craftsman god who creates through language.'},
+ {title:'Key narratives',text:'The main source is the Memphite theology on the Shabaka Stone. Ptah conceives in his heart and names with his tongue, and gods and creatures come into being; the text also absorbs the Heliopolitan Ennead into Ptah, claiming Memphis as the site of creation. Its tone is strikingly monolatrous.'},
+ {title:'Symbols and attributes',text:'Mummiform tight garment, blue skullcap, straight staff and ankh mark him, and he sometimes stands on a pedestal like a crafted object. Greeks identified him with Hephaestus, so Memphis is a city of the fire god in Greek sources. The Apis bull is also connected with him.'},
+ {title:'Tradition and context',text:'He protects craftsmen and builders, and Memphis was his great priestly centre, with the Apis bulls kept nearby. The Shabaka Stone itself is an eighth-century BC copy of an older text, a key document for Egyptian creation thought, though the date of the original remains debated.'},
+ ]}
+},
+{
+ id:'egypt-nut',myth:'egypt',name:'努特',title:'以身躯覆盖大地的天穹女神',tags:['天穹','星辰','再生'],
+ sections:[
+ {title:'身份与来历',text:'赫利奥波利斯九柱神之一，空气神舒与湿气神特夫努特之女，地神盖布之妻，奥西里斯、伊西斯、赛特、奈芙蒂斯之母。其名常直接写作“天空”，在文本中她既是神格，也是天穹本身。'},
+ {title:'主要叙事',text:'她与盖布被父亲舒强行分开，天与地由此分离；因拉的诅咒，她与盖布的子女无法在一年之内出生，托特以骰子赢来五个附日，五神遂得降生。太阳神每夜穿行其体内，晨间自其下体再生，构成埃及的日的循环。'},
+ {title:'象征与辨识',text:'女身弓覆大地、身布星辰是核心图像；棺椁内壁常绘努特像，死者进入她体内以求再生。她也可作母牛或母猪，出现吞下太阳再将其生出的图像，与“天母”的宇宙功能一致；她的手指与脚趾触地之处，被说成撑起天穹的四角。'},
+ {title:'流传与文化语境',text:'《金字塔文本》《棺椁文本》与《亡灵书》反复使用努特意象，使“进入天母之身”成为丧葬神学的核心结构。帝王谷陵墓的天文穹顶绘有她的星体图像，用以标示时间与再生，而非现代意义上的占星预测。'},
+ ],
+ en:{name:'Nut',title:'The sky goddess arching over the earth',tags:['sky','stars','rebirth'],
+ sections:[
+ {title:'Identity and origins',text:'Nut is one of the Heliopolitan Ennead, daughter of Shu and Tefnut, wife of Geb and mother of Osiris, Isis, Seth and Nephthys. Her name is written as the sky itself, so she is both a goddess and the vault of heaven arched above the earth.'},
+ {title:'Key narratives',text:'Shu separates her from Geb, and sky and earth are divided. Cursed by Re, she cannot give birth on any day of the year, until Thoth wins five extra days at dice and her five children are born. Each night the sun passes through her body and is reborn from her at dawn.'},
+ {title:'Symbols and attributes',text:'A female body arched over the earth, spangled with stars, is the core image. Coffin lids carry her figure so that the dead may enter her body for rebirth. She can also appear as a cow or a sow, and images of her swallowing and giving birth to the sun state the same cosmic function.'},
+ {title:'Tradition and context',text:'Pyramid Texts, Coffin Texts and the Book of the Dead return constantly to Nut, making entry into the sky mother a central structure of funerary theology. Astronomical ceilings in the Valley of the Kings show her starry body as a map of time and rebirth, not as astrology in the modern sense.'},
+ ]}
+},
+{
+ id:'mesopotamia-tiamat',myth:'mesopotamia',name:'提亚马特',title:'《埃努玛·埃利什》中的咸海之母',tags:['咸海','创世','神战'],
+ sections:[
+ {title:'身份与来历',text:'巴比伦创世史诗《埃努玛·埃利什》（约公元前二千年后半）中的原初咸水之神，与淡水之神阿普苏结为配偶，生出一代代神祇。她是宇宙生成之前的原初水体，而不是一般意义上的“混沌怪兽”，这一区别常被现代读物抹去。'},
+ {title:'主要叙事',text:'阿普苏欲灭诸神而被埃阿所杀；提亚马特在诸神压力下（或说为夫复仇）生出魔怪与十一战将，以金固为统帅。马尔杜克以网、四方之风与洪水迎战，趁她张口时吹风灌入、射箭裂身，以其尸造天地，双眼化为两河之源。'},
+ {title:'象征与辨识',text:'海水、咸味、龙形与多首怪兽是常见描述；带角、鳞、翼的“提亚马特龙”多为十九世纪以后的想象，古代圆柱印章上的怪兽图像来源不一，不能直接对号入座。她首先与水体相关，而非固定的画像类型。'},
+ {title:'流传与文化语境',text:'史诗在巴比伦新年节（Akitu）诵读，确立马尔杜克为众神之王与巴比伦的秩序中心，提亚马特因而是“被秩序征服的原初”，并非被简单否定的恶。学界也反对把她读成女性或自然的单一寓言，那属于现代投射。'},
+ ],
+ en:{name:'Tiamat',title:'The primeval sea mother of Enuma Elish',tags:['salt sea','creation','divine war'],
+ sections:[
+ {title:'Identity and origins',text:'Tiamat is the primeval salt-water deity of Enuma Elish, the Babylonian creation epic of the later second millennium BC. She is paired with Apsu, the fresh water, and together they generate successive generations of gods. She is the primordial water of cosmogony, not a generic chaos monster.'},
+ {title:'Key narratives',text:'Apsu is killed by Ea while planning to destroy the gods. Tiamat, pressed by the gods or avenging her husband, produces monsters and eleven champions under Kingu. Marduk meets her with a net, the four winds and a flood, drives the winds into her open mouth, splits her body and makes heaven and earth from it.'},
+ {title:'Symbols and attributes',text:'Sea, salt water and dragon or multi-headed forms are conventional descriptions. The horned, scaled, winged Tiamat of modern illustration is largely a nineteenth-century invention; monster figures on cylinder seals have various referents and cannot simply be labelled her. Water is her primary identity.'},
+ {title:'Tradition and context',text:'The epic was recited at the Babylonian New Year, establishing Marduk as king of the gods and Babylon as the centre of order. Tiamat is therefore the primordial defeated by order, not simply evil. Scholars also resist reading her as a single allegory of woman or of nature.'},
+ ]}
+},
+{
+ id:'mesopotamia-adapa',myth:'mesopotamia',name:'阿达帕',title:'拒饮永生之水的埃利都智者',tags:['智慧','永生','失落'],
+ sections:[
+ {title:'身份与来历',text:'埃利都的智者与祭司，属 apkallu（七智者）之一，智慧神埃阿之子，职责是为诸神供应面包与鱼。故事见于阿马尔奈文书中的阿卡德语残片及后世抄本，属“智者传说”序列，而非独立的神话史诗。'},
+ {title:'主要叙事',text:'他因折断南风之翼而被召至天界；埃阿嘱他勿食勿饮天上所赐之物，因恐那是死亡之食。阿努赐他永生之水与食，他却依嘱拒绝，阿努大笑而遣返；文本在结尾附近残缺，抄本不存结局，故不应代其补写。'},
+ {title:'象征与辨识',text:'南风之翼、天界之门、面包与鱼是主要标志；他常被列入七智者，与咒术、驱邪和神庙仪式传统相关。图像材料稀少，主要靠文本辨识，也未见明确的独立祭祀或神庙；埃及与亚述的抄本都有发现，说明流传范围颇广。'},
+ {title:'流传与文化语境',text:'该传说与《吉尔伽美什》的永生失落主题相呼应，也常被与《圣经》亚当叙事比较，但二者并无直接承袭证据。因结尾残缺，学界只讨论其“永生失落”的结构与文化功能，不臆测具体结局。'},
+ ],
+ en:{name:'Adapa',title:'The sage of Eridu who refused the water of life',tags:['wisdom','immortality','loss'],
+ sections:[
+ {title:'Identity and origins',text:'Adapa is a sage and priest of Eridu, one of the apkallu, son of the god Ea, and his duty is to supply bread and fish to the gods. The story survives in Amarna tablets and later copies. It belongs to the sage traditions rather than to a standalone epic.'},
+ {title:'Key narratives',text:'He breaks the wing of the south wind and is summoned to heaven. Ea warns him to refuse food and drink offered there, fearing bread and water of death. Anu offers the water and food of life, Adapa refuses as instructed, and Anu laughs and sends him back. The text is fragmentary near the end.'},
+ {title:'Symbols and attributes',text:'The wing of the south wind, the gate of heaven, bread and fish identify him. He is counted among the seven sages and belongs to the traditions of incantation, exorcism and temple ritual. Images are scarce, so he is identified mainly from texts rather than from cult statues.'},
+ {title:'Tradition and context',text:'The tale echoes the failed quest for immortality in Gilgamesh and is often compared with the Adam story, though no direct dependence can be shown. Because the ending is lost, scholarship discusses the structure of lost immortality without inventing a conclusion. He had no evident independent cult.'},
+ ]}
+},
+{
+ id:'persia-suhrab',myth:'persia',name:'苏赫拉布',title:'《列王纪》中被父所杀的少年',tags:['父子','命运','悲剧'],
+ sections:[
+ {title:'身份与来历',text:'菲尔多西《列王纪》（约十世纪末至十一世纪初）中的英雄，鲁斯塔姆与突朗公主塔赫米娜之子。母亲在突朗将他抚养成人，鲁斯塔姆只留下一枚护符为凭。他属史诗文学人物，并非琐罗亚斯德教的神祇。'},
+ {title:'主要叙事',text:'成年后他率突朗军寻找父亲，与鲁斯塔姆对阵三日；前两日被摔倒后，鲁斯塔姆以“英雄不杀无名之辈”为由放走，第三日凭护符认出对方时已将其刺伤，苏赫拉布死于父亲怀中，鲁斯塔姆痛悔欲绝。'},
+ {title:'象征与辨识',text:'护符（臂环）、战马与铠甲是主要标志；波斯细密画与史诗插图反复描绘父子角力与垂死相认的场面。其悲剧结构与《列王纪》中其他父子相残的故事并置，共同构成史诗的宿命主题。'},
+ {title:'流传与文化语境',text:'该故事见于《列王纪》较后的增补部分，部分学者归于后人之手，但它早已成为伊朗民族史诗中最著名的悲剧之一。它与“陌生人决斗”母题（如爱尔兰库呼兰与亲子康拉）在类型上相似，却不宜视为同源传播的证据。'},
+ ],
+ en:{name:'Suhrab',title:'The young hero killed by his own father',tags:['father and son','fate','tragedy'],
+ sections:[
+ {title:'Identity and origins',text:'Suhrab is a hero of the Shahnameh of Firdawsi, composed around the end of the tenth century, son of Rostam and the Turanian princess Tahmina. His mother raises him in Turan with only an armband left by his father as token. He is an epic literary figure, not a Zoroastrian deity.'},
+ {title:'Key narratives',text:'As a young commander he seeks his unknown father and meets him in single combat over three days. Twice Rostam throws him and lets him go as a nameless youth; on the third day he recognises the armband only after fatally wounding him. Suhrab dies in the arms of his father.'},
+ {title:'Symbols and attributes',text:'The armband, horse and armour identify him. Persian miniature painting and epic illustration return repeatedly to the wrestling match and the deathbed recognition. The tragic structure belongs with other father-and-son combats in the Shahnameh, forming its theme of inescapable fate.'},
+ {title:'Tradition and context',text:'The episode belongs to a later, perhaps added portion of the Shahnameh, and some scholars assign it to a continuator, yet it has long been among the most famous tragedies of the Iranian national epic. It resembles stranger-combat motifs elsewhere without implying transmission.'},
+ ]}
+},
+{
+ id:'persia-zahhak',myth:'persia',name:'扎哈克',title:'蛇肩暴君与铁匠卡维的起义',tags:['暴政','蛇肩','起义'],
+ sections:[
+ {title:'身份与来历',text:'《列王纪》中的暴君，阿拉伯—伊朗传说中的蛇肩之王，其原型可溯至阿维斯陀中的恶龙阿兹·达哈卡。史诗里他是被恶魔蛊惑的王子，双肩生出黑蛇，须以人脑喂食；他属史诗与传说人物，而非琐罗亚斯德教的神。'},
+ {title:'主要叙事',text:'他杀父夺位，统治千年，每日以两名青年的脑喂蛇；铁匠卡维以皮围裙为旗聚众反抗，法里东最终以牛头棒将他击败，锁于达马万德山。史诗以“恶的长期统治与终被制服”结构这一段落，并把它写成王朝循环的转折。'},
+ {title:'象征与辨识',text:'双肩黑蛇、王冠与牛头棒是主要标志；细密画常绘蛇自肩头生出、铁匠皮旗（Derafsh-e Kāviān）飘扬的场面。蛇肩是其最鲜明的辨识特征，也解释了“蛇王”这一通行称呼的由来；蛇每日重新长出，须不断喂食，象征暴政无法满足的胃口。'},
+ {title:'流传与文化语境',text:'故事融合了阿维斯陀的恶龙、波斯与阿拉伯的传说以及菲尔多西时代的政治隐喻，被视为暴政的典型形象。史诗以他为“外来暴君”的代表，后世伊朗民族叙事常引用铁匠卡维的起义；但他本身仍属文学人物，不是被崇拜的神。'},
+ ],
+ en:{name:'Zahhak',title:'The snake-shouldered tyrant of the Shahnameh',tags:['tyranny','snake shoulders','revolt'],
+ sections:[
+ {title:'Identity and origins',text:'Zahhak is the tyrant of the Shahnameh, the snake-shouldered king of Iranian and Arab legend whose ancestry reaches the Avestan dragon Azi Dahaka. In the epic he is a prince corrupted by a demon, with two black snakes growing from his shoulders that must be fed on human brains.'},
+ {title:'Key narratives',text:'He kills his father and rules for a thousand years, feeding the snakes with the brains of two young men each day. The blacksmith Kaveh raises a revolt behind his leather apron banner, and Fereydun defeats Zahhak with a bull-headed mace and imprisons him on Mount Damavand.'},
+ {title:'Symbols and attributes',text:'The twin black snakes, the crown and the bull-headed mace identify him. Miniatures show the snakes sprouting from his shoulders while the leather banner of Kaveh flies above the crowd. The snake shoulders are his unmistakable marker and explain the usual title of snake king.'},
+ {title:'Tradition and context',text:'The story fuses the Avestan dragon, Persian and Arab legend and the politics of the time of Firdawsi, and became the standing image of tyranny. Later Iranian national narrative often cites Kaveh and his banner. Zahhak is a literary figure, not an object of worship.'},
+ ]}
+},
+];
+
+window.FIGURES_MORE_C = [
+ {id:'christianity-lucifer',myth:'christianity',name:'路西法',title:'晨星之名的由来与误读',tags:['晨星','以赛亚书','堕落天使'],
+  sections:[
+  {title:'身份与来历',text:'路西法不是基督教所敬拜的神，而是一个称号。它出自拉丁语，意为“带光者”，即晨星金星。《武加大译本》以赛亚书十四章用它指巴比伦王，语境是讽刺其傲慢必倾的短歌。后世神学家把这词与福音书中撒但坠落的话相连，才渐成堕落天使之名。'},
+  {title:'主要叙事',text:'圣经正典并未给路西法立传。以赛亚书的“晨星”是讥讽人间君王的比喻；《路加福音》提到“我看见撒但从天上坠落”；《启示录》十二章描写大龙被摔在地上。把这些经文串成完整故事的是后来的传统与文学，而非单一经文叙事。'},
+  {title:'象征与辨识',text:'常见形象是晨星、坠落的光、折断的翅膀与号角。图像学多取自中世纪与近代艺术：《失乐园》的雄辩独白、但丁《神曲》冰湖中的巨影、布莱克的水彩，都不是古代文本的描写，却塑造了今日大众想象。辨析时宜分清经文、传统与文学三层。'},
+  {title:'流传与文化语境',text:'对许多基督徒而言，这段话题属神学与灵修范畴，而非神话人物传记；不同教派解读也不一致。文学、绘画与流行文化又把他变成反抗者的象征。论述时应避免把他当作“神”，也不宜虚构其生平细节，而应说明经文、教父传统与后世创作各自的层次。'}
+  ],
+  en:{name:'Lucifer',title:'A name for the morning star, not a god',tags:['morning star','Isaiah 14','fallen angel'],
+   sections:[
+   {title:'Identity and origins',text:'Lucifer is not a deity in Christian worship but a title. It comes from Latin for “light-bearer”, the morning star Venus. Jerome’s Vulgate uses it in Isaiah 14 for the king of Babylon, inside a taunt-song about a proud ruler who will fall.'},
+   {title:'Key narratives',text:'No canonical text gives Lucifer a biography. Isaiah’s morning star is a satirical image of a human king; Luke records a saying about Satan falling like lightning; Revelation 12 pictures a dragon thrown down. Later tradition stitched such passages into a single story.'},
+   {title:'Symbols and attributes',text:'Artists gave him broken wings, falling light and horns, drawing on Dante, Milton’s Paradise Lost and Blake rather than on scripture. Readers should separate the biblical verses, patristic teaching and later literature, because popular imagery is largely a literary inheritance.'},
+   {title:'Tradition and context',text:'For most Christians this is a matter of theology and devotion, not a mythic life story, and interpretations differ between churches. Literature and film also turned him into a symbol of rebellion. Respectful accounts avoid calling him a god or inventing episodes, and name their sources plainly.'}
+   ]}
+ },
+ {id:'christianity-eve',myth:'christianity',name:'夏娃',title:'《创世记》中的众生之母',tags:['创世记','伊甸园','众生之母'],
+  sections:[
+  {title:'身份与来历',text:'夏娃见于《创世记》二至四章，希伯来文名意为“活者”，常译作“众生之母”。她与亚当同被安置在伊甸园，是犹太教、基督教与伊斯兰教共享的人物，伊斯兰传统称她为哈娃。经文对她的描写十分简省，因此留下广阔的诠释空间。'},
+  {title:'主要叙事',text:'叙事中她受蛇劝诱，与亚当同食禁果，眼睛明亮而察觉赤身，随后被逐出乐园。耶和华宣告她将承受生育之苦，与后裔的争战也由此展开。该隐与亚伯的故事紧接其后，使她成为人类家庭纷争叙事的起点。'},
+  {title:'象征与辨识',text:'艺术中常以无花果叶、果实、蛇与纺锤辨识她。苹果并非经文所载，而是拉丁语双关与欧洲绘画的附加物；东方教会图像让她着红袍、持纺锤。这些符号多属后世的视觉传统，不能直接当作经文细节来引用。'},
+  {title:'流传与文化语境',text:'犹太释经传统对她的评价分歧，有视其为智慧与母亲者，也有以她为过失之源者，米德拉什各有说法。基督教神学借她展开原罪与救赎的讨论，保罗书信以“第二亚当”对观。今日释经多强调叙事的象征性，并反省历代加于女性的责难。'}
+  ],
+  en:{name:'Eve',title:'Mother of the living in Genesis',tags:['Genesis','Eden','mother of the living'],
+   sections:[
+   {title:'Identity and origins',text:'Eve appears in Genesis 2–4; her Hebrew name is linked to “living” and she is called the mother of all living. Placed with Adam in Eden, she belongs to Jewish, Christian and Islamic scripture alike, where she is named Hawwa. The text says little about her.'},
+   {title:'Key narratives',text:'She is persuaded by the serpent, eats the forbidden fruit with Adam, sees their nakedness and is expelled from the garden. Childbirth pain and conflict with her offspring are announced, and the Cain and Abel story follows at once, making her the starting point of human family strife.'},
+   {title:'Symbols and attributes',text:'Fig leaves, fruit, a serpent and a spindle identify her in art. The apple is not in the text but enters through Latin wordplay and European painting; Eastern icons show her in red with a spindle. These are visual conventions rather than scriptural detail.'},
+   {title:'Tradition and context',text:'Jewish interpretation is divided, reading her as wise mother or as the source of loss, and midrash develops both. Christian theology debates original sin and redemption through her, while modern scholarship stresses the narrative’s symbolic character and reviews centuries of blame placed on women.'}
+   ]}
+ },
+ {id:'christianity-david',myth:'christianity',name:'大卫',title:'牧童出身的以色列君王',tags:['牧童','竖琴','王权'],
+  sections:[
+  {title:'身份与来历',text:'大卫是《撒母耳记》所载的以色列王，约当公元前十一至十世纪。他出身伯利恒的耶西家，少年牧羊、弹琴，被撒母耳膏立。他同时受犹太教、基督教与伊斯兰教尊崇，《古兰经》称他为达乌德，并说他获赐《诗篇》。'},
+  {title:'主要叙事',text:'最著名的故事是以投石索击败非利士巨人歌利亚。此后他因扫罗嫉妒而流亡，最终成为犹大与以色列之王，定都耶路撒冷，把约柜迎入城中。他与拔示巴的私情、借刀杀乌利亚以及押沙龙的叛乱，构成王权叙事里沉重的阴影。'},
+  {title:'象征与辨识',text:'常见标识是投石索、竖琴、王冠与耶路撒冷城。《诗篇》传统归于他名下，故他被视为诗人与礼拜者；“大卫之星”之名虽流行，其六角形符号实为中世纪后期犹太社群所采用，与圣经时代并无直接关联。'},
+  {title:'流传与文化语境',text:'犹太传统视他为弥赛亚谱系的祖先与理想君王；基督教福音书以家谱接续他，称耶稣为“大卫的子孙”；伊斯兰传统强调他的公正、歌喉与《诗篇》。历代君主也常借其形象正当化王权，使他在宗教与政治上被反复引用。'}
+  ],
+  en:{name:'David',title:'Shepherd boy who became king',tags:['shepherd','lyre','kingship'],
+   sections:[
+   {title:'Identity and origins',text:'David is the king of Israel in the books of Samuel, dated roughly to the eleventh to tenth centuries BCE. Youngest son of Jesse of Bethlehem, he herded sheep and played the lyre before Samuel anointed him. Jews, Christians and Muslims honour him; the Quran names him Dawud.'},
+   {title:'Key narratives',text:'His best-known deed is felling the Philistine giant Goliath with a sling. Fleeing Saul’s jealousy, he later ruled Judah and Israel, took Jerusalem and brought the ark into it. His affair with Bathsheba, the death of Uriah and Absalom’s revolt darken the royal story.'},
+   {title:'Symbols and attributes',text:'A sling, lyre, crown and the city of Jerusalem identify him. The Psalms are traditionally ascribed to him, making him a poet and worshipper. The six-pointed “Star of David” is a later medieval Jewish emblem, not a biblical attribute, despite its popular name.'},
+   {title:'Tradition and context',text:'Jewish tradition treats him as ancestor of the Messiah and model king; the Gospels trace Jesus to him as “son of David”; Islam praises his justice, voice and Psalms. Rulers have repeatedly borrowed his image to legitimise power, which is why he is cited in both devotional and political settings.'}
+   ]}
+ },
+ {id:'christianity-solomon',myth:'christianity',name:'所罗门',title:'以智慧与圣殿著称的君王',tags:['智慧','圣殿','列王纪'],
+  sections:[
+  {title:'身份与来历',text:'所罗门是大卫与拔示巴之子，《列王纪上》记他继位后求智慧，上帝赐他“聪明的心”。他主持建造耶路撒冷第一圣殿，使王国达到鼎盛。他同样是伊斯兰教尊崇的先知苏莱曼，被视为通晓鸟语、役使精灵的君王。'},
+  {title:'主要叙事',text:'最脍炙人口的是两位妇人争婴的判案：他命人将婴儿劈开，真母遂放弃争夺，智慧由此显明。叙事也记他大兴土木、与列国通婚、晚年受外邦神祇影响，导致王国在他死后分裂。示巴女王的访问是另一段著名情节。'},
+  {title:'象征与辨识',text:'标志物为圣殿、王座、智慧之书与指环。后世传说赋予他驱使精灵、统御百兽的权能，《所罗门遗训》与犹太、阿拉伯民间故事皆然；“所罗门之印”的六角或五角护符亦属这些传说层，并非经文原载。'},
+  {title:'流传与文化语境',text:'犹太传统以《箴言》《传道书》《雅歌》归其名下，视为智慧文学的代表；基督教以此喻示真正的智慧；埃塞俄比亚传统另有《列王荣耀记》，叙述他与示巴女王之子。各地传说繁多，讨论时宜区分经文记载与后世增益的奇幻材料。'}
+  ],
+  en:{name:'Solomon',title:'King famed for wisdom and the Temple',tags:['wisdom','Temple','Kings'],
+   sections:[
+   {title:'Identity and origins',text:'Solomon, son of David and Bathsheba, asks for wisdom in 1 Kings and is given a discerning heart. He builds the First Temple in Jerusalem and rules at the kingdom’s height. Islam honours him as the prophet Sulayman, said to know bird speech and command jinn.'},
+   {title:'Key narratives',text:'His most famous case is two women claiming one infant: he orders the child cut in two, and the true mother yields. The narrative also records forced labour, foreign marriages and late idolatry that split the kingdom after his death. The queen of Sheba’s visit is another celebrated episode.'},
+   {title:'Symbols and attributes',text:'The Temple, throne, wisdom book and ring are his marks. Later legend grants him power over demons and beasts, as in the Testament of Solomon and Jewish and Arabic tales; the “seal of Solomon” amulet belongs to that legendary layer, not the biblical text.'},
+   {title:'Tradition and context',text:'Jewish tradition ascribes Proverbs, Ecclesiastes and the Song of Songs to him; Christianity reads him as a figure of true wisdom; Ethiopian tradition adds the Kebra Nagast, telling of his son by the queen of Sheba. Accounts should separate scripture from later fantasy material.'}
+   ]}
+ },
+ {id:'christianity-judas',myth:'christianity',name:'犹大',title:'十二门徒中出卖耶稣者',tags:['十二门徒','三十银钱','背叛'],
+  sections:[
+  {title:'身份与来历',text:'犹大·伊斯加略是耶稣十二门徒之一，负责钱囊。福音书说他以三十块银钱为价，向祭司长交出耶稣。他的名字在西方语言中几乎成为“背叛者”的代称，但经文对他动机的交代极少，留下许多猜测空间。'},
+  {title:'主要叙事',text:'最后的晚餐上耶稣预言被卖，随后犹大以亲吻为记号指认他，四福音都记载此事而细节不同。关于他的结局，正典内部即有差异：《马太福音》说他懊悔、退还银钱后自缢；《使徒行传》则说他仆倒腹裂而死，两说并列而未被统一。'},
+  {title:'象征与辨识',text:'记号是三十块银钱、钱袋与亲吻。中世纪的受难剧与绘画常把他画成红发、左手持钱袋的形象，这些是戏剧化的惯例，而非福音书记载。银钱与“血田”的来历，在两种结局叙述中的解释也不相同。'},
+  {title:'流传与文化语境',text:'基督教神学把他放在救赎计划与人的责任之间的张力里讨论：经文既说他“灭亡”了，也说所发生的事按着定命成就。历代反犹宣传曾借他攻击犹太人，教会近年多明确谴责此类曲解。讨论应以经文为本，避免煽情与集体归罪。'}
+  ],
+  en:{name:'Judas',title:'The disciple who handed Jesus over',tags:['twelve disciples','thirty pieces','betrayal'],
+   sections:[
+   {title:'Identity and origins',text:'Judas Iscariot was one of the twelve disciples and kept the common purse. The Gospels say he handed Jesus to the chief priests for thirty pieces of silver. His name became a byword for betrayal in European languages, yet the texts say very little about his motives.'},
+   {title:'Key narratives',text:'At the last supper Jesus foretells the betrayal, and Judas identifies him with a kiss. All four Gospels report this with differing detail. Their accounts of his end differ too: Matthew has him remorseful, returning the money and hanging himself; Acts says he fell and burst open.'},
+   {title:'Symbols and attributes',text:'Coins, a purse and the kiss mark him out. Medieval passion plays and paintings gave him red hair and a money bag in the left hand, theatrical conventions rather than gospel detail. The origin of the thirty pieces and the “field of blood” is explained differently in each ending.'},
+   {title:'Tradition and context',text:'Theology discusses him where providence meets human responsibility, since the texts call him lost while also saying events unfolded as determined. Anti-Jewish polemic long used him against Jews, a distortion churches have increasingly condemned. Accounts should stay close to the texts and avoid sensation.'}
+   ]}
+ },
+ {id:'christianity-magdalene',myth:'christianity',name:'抹大拉的马利亚',title:'复活清晨的首位见证者',tags:['复活见证','抹大拉','门徒'],
+  sections:[
+  {title:'身份与来历',text:'抹大拉的马利亚是四福音都提到的妇女，其名指明她来自加利利海西岸的抹大拉村。路加记耶稣曾从她身上赶出七个鬼，此后她以自己的财物供给耶稣与门徒的团体，是随行门徒中常被点名的女性。'},
+  {title:'主要叙事',text:'她在十字架旁远远观看，又于安息日后的清早带着香料前往坟墓，成为最先看见空墓与复活之主的人。《约翰福音》记她与复活者对话，误认其为园丁；她随后向门徒报信，故被早期教会称为“使徒们的使徒”。'},
+  {title:'象征与辨识',text:'传统图像给她香膏罐、长发与红色披风。西方教会自六世纪起把她与路加福音中无名的“罪妇”、伯大尼的马利亚合并，遂生出“堕落女子”的误读；东方教会从未如此合并，其圣像多只是持香罐的见证者。'},
+  {title:'流传与文化语境',text:'二十世纪以来的研究重新审视这些合并：正典并未说她曾是妓女，路加的无名罪妇亦未指名。诺斯替文献《马利亚福音》等又呈现另一种形象，但属正典之外。今日她被视为复活的首位见证人，也是女性门徒身份的重要范例。'}
+  ],
+  en:{name:'Mary Magdalene',title:'First witness of the resurrection',tags:['resurrection witness','Magdala','disciple'],
+   sections:[
+   {title:'Identity and origins',text:'Mary Magdalene appears in all four Gospels; her name means she came from Magdala on the western shore of the Sea of Galilee. Luke says seven demons left her, and afterwards she supported Jesus and the disciples from her own means, a woman named among his followers.'},
+   {title:'Key narratives',text:'She watched from afar at the cross and went to the tomb with spices at dawn after the sabbath, becoming the first to see it empty and to meet the risen Lord. John has her mistake him for a gardener before she announces the news, so early tradition called her apostle to the apostles.'},
+   {title:'Symbols and attributes',text:'Jars of ointment, long hair and a red cloak identify her in art. From the sixth century the Western church merged her with Luke’s unnamed sinful woman and with Mary of Bethany, creating the “fallen woman” misreading; Eastern icons never merged them and show a jar-bearing witness.'},
+   {title:'Tradition and context',text:'Modern scholarship has reassessed those mergings: the canon never calls her a prostitute, and Luke’s sinner is unnamed. Gnostic works such as the Gospel of Mary add another portrait outside the canon. She is now honoured as first resurrection witness and a model of women’s discipleship.'}
+   ]}
+ },
+ {id:'maya-kukulkan',myth:'maya',name:'库库尔坎',title:'尤卡坦玛雅的羽蛇神祇',tags:['羽蛇','尤卡坦','奇琴伊察'],
+  sections:[
+  {title:'身份与来历',text:'库库尔坎是尤卡坦玛雅人崇奉的羽蛇神，名字在尤卡坦玛雅语中意为“羽蛇”。他的形象与中部墨西哥的羽蛇神克察尔科亚特尔同源，随贸易与政治势力传入玛雅地区，但两者并非同一位格，祭祀方式与神话细节各有在地变化。'},
+  {title:'主要叙事',text:'传说他率众自西方而来，在奇琴伊察建都施政，后因争执返回西方，临行许诺归返。殖民时期的玛雅文献如《奇兰巴兰之书》与兰达的记述混合了这些记忆；西班牙人到来时，当地人也曾以“库库尔坎归来”的传闻理解外来者。'},
+  {title:'象征与辨识',text:'特征是羽蛇之身、太阳圆盘与螺旋形浮雕，常与风、雨、金星及统治者的权威相联。奇琴伊察的库库尔坎金字塔在春分秋分时出现蛇形光影，被视为建筑与天象的结合；但他的神格图像远比“历法奇观”复杂。'},
+  {title:'流传与文化语境',text:'前哥伦布时期的玛雅城邦各有主神与祭祀体系，库库尔坎的地位随政治中心起伏。殖民时代焚毁大量抄本后，相关知识多经西班牙教士与本地记载者转述。今日尤卡坦社区仍存与之相关的地景记忆，研究时宜区分古代信仰、殖民记述与观光叙述。'}
+  ],
+  en:{name:'Kukulkan',title:'Feathered serpent of the Yucatec Maya',tags:['feathered serpent','Yucatan','Chichen Itza'],
+   sections:[
+   {title:'Identity and origins',text:'Kukulkan is the feathered serpent honoured by the Yucatec Maya, his name meaning “feathered serpent” in Yucatec Maya. His figure shares roots with the central Mexican Quetzalcoatl and arrived through trade and political contact, yet the two are not identical, with local differences in cult and story.'},
+   {title:'Key narratives',text:'Traditions tell of a lord who came from the west, ruled at Chichen Itza and returned west after a dispute, promising to come back. Colonial Maya texts such as the Books of Chilam Balam and Landa’s account blend these memories, and rumours of his return shaped how locals first read the Spaniards.'},
+   {title:'Symbols and attributes',text:'He is shown as a plumed serpent with solar discs and spiral reliefs, linked to wind, rain, Venus and rulerly authority. At the pyramid of Kukulkan the equinox throws a serpent-shaped shadow, a fusion of architecture and sky; his iconography is far richer than that single spectacle.'},
+   {title:'Tradition and context',text:'Maya city-states each had their own pantheons, and Kukulkan’s standing rose and fell with political centres. After colonial book burnings, knowledge survives largely through Spanish priests and Maya writers. Landscape memories persist in Yucatan today, so ancient cult, colonial report and tourist narrative should be told apart.'}
+   ]}
+ },
+ {id:'aztec-xolotl',myth:'aztec',name:'索洛特尔',title:'双生、落日与引路的犬神',tags:['双生','金星','冥途'],
+  sections:[
+  {title:'身份与来历',text:'索洛特尔是纳瓦人神系中的一位神祇，名字意为“双生者”或“玩偶”，与金星、落日、火及双生子相关。在《佛罗伦萨抄本》等纳瓦文献里，他是羽蛇神克察尔科亚特尔的双生兄弟，二者常在神话中成对出现，共赴冥界取回人类骨骸。'},
+  {title:'主要叙事',text:'讲述创世的一则故事中，羽蛇神与索洛特尔下到冥界，向冥王求取前代人类的遗骨；索洛特尔受诱戴上羽毛冠而破戒，骨殖落地碎裂，故世人高矮不一。另一类叙述里他化身为犬，为亡者引路过冥河，成为送葬图像常见的身影。'},
+  {title:'象征与辨识',text:'辨识标记是犬首、倒置的脚、残缺或不对称的面部，以及螺旋与骨饰。倒足与下垂的眼睛指向落日与幽冥的方向；双生神像常左右成对。他的形象在后古典期墨西哥中部的石雕与彩绘中频繁出现。'},
+  {title:'流传与文化语境',text:'纳瓦人的宗教在十六世纪被西班牙传教士记录与压制，材料多出自抄本与教士的民族志访谈，需谨慎对待其编排。索洛特尔兼具金星晨昏之象、双生子观念与亡者引路者三重职能，反映出纳瓦人对时间循环与死亡过渡的思考。'}
+  ],
+  en:{name:'Xolotl',title:'Twin, evening star and dog guide',tags:['twin','Venus','underworld'],
+   sections:[
+   {title:'Identity and origins',text:'Xolotl is a Nahua deity whose name means “twin” or “puppet”, associated with Venus, the setting sun, fire and twins. In the Florentine Codex and related sources he is the twin brother of Quetzalcoatl, the two appearing as a pair, notably in the journey to fetch human bones.'},
+   {title:'Key narratives',text:'In one creation account the two descend to the underworld to ask Mictlantecuhtli for the bones of earlier people; Xolotl breaks the rule by wearing a feather crown, the bones shatter and humans differ in height. Elsewhere he becomes a dog guiding the dead across a river.'},
+   {title:'Symbols and attributes',text:'He is identified by a dog head, reversed feet, a damaged or asymmetrical face, spirals and bone ornaments. The backward foot and downcast eye point to sunset and the underworld, and twin figures are carved in pairs. His image is common in Late Postclassic sculpture and painting of central Mexico.'},
+   {title:'Tradition and context',text:'Nahua religion was recorded and suppressed by sixteenth-century friars, so the surviving corpus reflects their editing and questions. Xolotl’s linked roles as evening star, twin and psychopomp show how Nahua thought connected cyclical time with the passage of the dead.'}
+   ]}
+ },
+ {id:'aztec-ehecatl',myth:'aztec',name:'埃埃卡特尔',title:'带来风与雨的羽蛇面相',tags:['风神','羽蛇','呼吸'],
+  sections:[
+  {title:'身份与来历',text:'埃埃卡特尔是纳瓦神系中的风神，名字意为“风”。他常被视为羽蛇神克察尔科亚特尔的另一面相或称号，二者共祀于圆形风神庙。在《佛罗伦萨抄本》的叙述中，正是风神之形为大地清路，使雨神得以下行降雨。'},
+  {title:'主要叙事',text:'创世叙事里，前代人类曾被风毁灭，幸存者化为猿猴；另一则说明雨神与风神如何合作，先由风清扫道路，雨水才能落下。他又与呼吸、生命气息相连，初生婴儿的洗礼仪与呼名常求他护佑；口吹之息被视为他的临在。'},
+  {title:'象征与辨识',text:'辨识特征是锥形嘴或红色鸟喙状面罩、猴形耳饰、贝壳胸饰与旋纹。锥形口面具象征吹风；他常与九风之日、北方及金星相关。圆形神庙的圆基正是为适应风的流动形态而建，是其崇拜的标志性建筑。'},
+  {title:'流传与文化语境',text:'风既赐生命又具破坏力，因此他在纳瓦宗教中兼具创造与毁灭的双面。殖民时期的记载把他与圣灵、神圣气息相比附，这属于传教士的解释框架，未必等同原意。今日墨西哥中部的民俗与舞蹈中，仍可辨识其面具母题的延伸。'}
+  ],
+  en:{name:'Ehecatl',title:'Wind god, an aspect of the feathered serpent',tags:['wind','feathered serpent','breath'],
+   sections:[
+   {title:'Identity and origins',text:'Ehecatl is the Nahua god of wind, his name simply meaning “wind”. He is often treated as an aspect or title of Quetzalcoatl, and the two were worshipped in round temples. In the Florentine Codex it is the wind god who clears a path so that the rain gods can descend.'},
+   {title:'Key narratives',text:'Creation accounts say an earlier humanity was destroyed by wind and survivors became monkeys. Other stories show wind sweeping the road before rain falls. He is also tied to breath and life: naming and bathing rites for newborns asked his protection, and blown breath signalled his presence.'},
+   {title:'Symbols and attributes',text:'A conical mouth or red beak mask, monkey ear ornaments, a shell pectoral and spiral motifs identify him. The cone stands for blowing wind, and he links to the day Nine Wind, the north and Venus. Round temple platforms, built for moving air, are the signature of his cult.'},
+   {title:'Tradition and context',text:'Wind gives life and destroys it, so he holds both faces in Nahua religion. Colonial writers compared him to the Holy Spirit and sacred breath, a missionary frame rather than a native equation. Mask motifs descended from his imagery still appear in central Mexican dance and festival.'}
+   ]}
+ },
+ {id:'inca-chasca',myth:'inca',name:'查斯卡',title:'印加历中的金星与晨昏',tags:['金星','晨昏','历法'],
+  sections:[
+  {title:'身份与来历',text:'查斯卡是印加宗教中被崇奉的金星，其名在克丘亚语中与“鬈发”相关，因金星如乱发般闪烁。它既是晨星也是昏星，印加人分别以两个名号称呼其晨出与夕现之相，视为太阳的侍从与信使，与月神、太阳共同构成天界秩序。'},
+  {title:'主要叙事',text:'编年史家记述，印加人观察金星的运行以定时节与祭祀，认为其出现预示播种或战事。据瓜曼·波马等人的记载，查斯卡的显现与太阳神的事务相关，祭祀在特定的观测点举行，相关仪式多与农业周期和王权庆典相连。'},
+  {title:'象征与辨识',text:'标识是金星、双重的晨昏之相与金色饰物。在殖民时期的图画中，金星常被绘作头戴发光饰物的形象，与太阳、月亮并列显示天界层级。因印加人没有文字，今日所依多是西班牙编年史与克丘亚口头传统的转述。'},
+  {title:'流传与文化语境',text:'安第斯地区至今仍以晨昏之星安排农事与节庆，金星在克丘亚语社区中被称为查斯卡，与黎明、牧群和雨水相联系。研究时须注意：印加帝国时代的天象崇拜与今日村民的实践相隔数百年，不能简单等同，但两者共享对金星周期的长期关注。'}
+  ],
+  en:{name:'Chasca',title:'Venus, the dawn and dusk star of the Inca',tags:['Venus','dawn and dusk','calendar'],
+   sections:[
+   {title:'Identity and origins',text:'Chasca is the planet Venus as honoured in Inca religion; the Quechua name is linked to tangled or radiant hair, because Venus flickers like dishevelled locks. As morning and evening star it was named in two aspects and seen as attendant and messenger of the sun, completing a sky order with moon and sun.'},
+   {title:'Key narratives',text:'Chroniclers report that the Inca watched Venus to fix seasons and sacrifices, taking its appearance as a sign for sowing or war. Guaman Poma and others link its rising to the sun god’s affairs, with rites held at set observation points and tied to farming and royal festivals.'},
+   {title:'Symbols and attributes',text:'Venus, its double aspect and gold ornaments are the markers. Colonial drawings show the star with a radiant headdress beside sun and moon to grade the heavens. Because the Inca left no writing, accounts depend on Spanish chronicles and Quechua oral tradition.'},
+   {title:'Tradition and context',text:'Andean communities still time farm work and festivals by the dawn and dusk star, called Chasca in Quechua and linked to dawn, herds and rain. Imperial sky worship and present practice are centuries apart and should not be simply equated, though both share a long attention to the Venus cycle.'}
+   ]}
+ },
+ {id:'yoruba-yemoja',myth:'yoruba',name:'耶莫雅',title:'水域之母与奥贡河的奥里沙',tags:['奥里沙','水域','母性'],
+  sections:[
+  {title:'身份与来历',text:'耶莫雅是约鲁巴信仰中受供奉的奥里沙，与奥贡河、孕产、母婴及水域相关，被视为众奥里沙之母。她不是民间故事里的角色，而是活生生的崇拜对象：信众通过祭祀、占卜与节庆与她建立关系，奥贡河畔的伊巴马节至今仍有庆典。'},
+  {title:'主要叙事',text:'神话说法随地区而异：一说她是奥卢杜马雷之女，嫁给奥古恩或以水之形流入奥贡河；一说她生养众多奥里沙，因水流受阻而化入河中。诸版本并不统一，崇拜者各有传承，叙述时不宜当作单一的“官方”版本。'},
+  {title:'象征与辨识',text:'辨识之象是水、扇子、白布、螺旋贝壳与蓝白两色的串珠。她的祭司与信众多着白、青色衣物，以示水与洁净；祭祀常见凉水、葫芦与母羊。图像与法器在不同教区与家族传统中差别不小。'},
+  {title:'流传与文化语境',text:'跨大西洋奴隶贸易中，她的信仰随被掳非洲人传入古巴、巴西等地，演化为古巴的圣拉·雷格拉与巴西的伊曼雅，在天主教圣像下隐藏供奉，形成至今活跃的离散传统。援引时应说明其与约鲁巴本土传统的连续与变形，而不应简化为“民俗”。'}
+  ],
+  en:{name:'Yemoja',title:'Mother of waters, orisha of the Ogun River',tags:['orisha','waters','motherhood'],
+   sections:[
+   {title:'Identity and origins',text:'Yemoja is an orisha of living Yoruba religion, linked to the Ogun River, pregnancy, mothers and children and honoured as mother of the orishas. She is no folktale character but a worshipped presence: devotees approach her through offerings, divination and festivals, and the Ibama festival still draws crowds to the river.'},
+   {title:'Key narratives',text:'Myths vary by region. Some make her a daughter of Olodumare who married Ogun or flowed into the Ogun River; others have her bear many orishas and enter the water when its flow was blocked. Versions disagree, each lineage keeps its own, and none should be presented as the single official account.'},
+   {title:'Symbols and attributes',text:'Water, a fan, white cloth, spiral shells and blue-and-white bead strands identify her. Priests and devotees dress in white and pale blue for water and purity, and offerings include cool water, gourds and ewes. Images and implements differ widely between houses and families.'},
+   {title:'Tradition and context',text:'Through the Atlantic slave trade her worship reached Cuba and Brazil, becoming Regla de Ocha’s Yemayá and Brazilian Iemanjá, hidden under Catholic images and still flourishing. Such references should show both continuity with Yoruba tradition and its transformation, never reducing her to folklore.'}
+   ]}
+ },
+ {id:'yoruba-oshosi',myth:'yoruba',name:'奥绍西',title:'林中猎手与奥里沙的弓',tags:['狩猎','林地','弓矢'],
+  sections:[
+  {title:'身份与来历',text:'奥绍西是约鲁巴信仰中的奥里沙，被尊为猎手、林地之主与正义的守望者。他的称号常与“独行者”相关，传说他惯于独自走入丛林，以弓箭与铁器狩猎；他也是奥古恩的兄弟或伙伴，二者在铁、战争与狩猎上的职能相邻。'},
+  {title:'主要叙事',text:'传说中他曾因水之女神未予清水而举箭相向，被众奥里沙责难，后得谅解并与水神订约，这则故事解释了他的信众为何在仪式中以水相敬。另有叙述讲他射落巨鸟，为村庄带来安宁；诸版本细节因城镇而异。'},
+  {title:'象征与辨识',text:'辨识标志是单弦弓、铁箭、鸟羽与独居猎人的装束，串珠多为绿、蓝与黄色。供奉他的神龛常置弓箭与铁器，祭品包括猎物与蜂蜜；其祭仪强调在野外举行，与城市型奥里沙的庙堂供奉有所不同。'},
+  {title:'流传与文化语境',text:'奥绍西崇拜在约鲁巴兰、贝宁与多哥一带延续，并随离散社群进入古巴与巴西的奥里沙传统。他在本土常被视为正义与守约的守护者，在当代语境中也被引作生态与承诺的象征；讨论时仍应尊重其作为崇拜对象的地位。'}
+  ],
+  en:{name:'Oshosi',title:'Hunter of the forest, owner of the bow',tags:['hunting','forest','bow and arrow'],
+   sections:[
+   {title:'Identity and origins',text:'Oshosi is a Yoruba orisha honoured as hunter, master of the forest and guardian of justice. His praise names stress the solitary one who walks into the bush with bow and iron, and he is brother or companion to Ogun, whose domains of iron, war and hunting lie close to his.'},
+   {title:'Key narratives',text:'One story has him shoot at a water goddess who refused him cool water; the other orishas reproach him, and a pact with the waters follows, explaining why his rites honour water. Other accounts tell of him shooting a great bird to bring peace to a town, with details varying by locality.'},
+   {title:'Symbols and attributes',text:'A single-string bow, iron arrows, bird feathers and a hunter’s solitary dress identify him, with green, blue and yellow beads. Shrines hold bows and iron, offerings include game and honey, and his rites stress the open bush rather than the town shrines of other orishas.'},
+   {title:'Tradition and context',text:'His worship continues in Yorubaland, Benin and Togo and travelled with dispersed communities into Cuban and Brazilian orisha traditions. At home he guards justice and promises, and today he is also invoked for ecology and keeping faith; accounts should respect his standing as a worshipped power.'}
+   ]}
+ },
+ {id:'west-africa-adinkra',myth:'west-africa',name:'阿丁克拉符号',title:'阿坎人的谚语纹样系统',tags:['阿丁克拉','阿坎','纹样'],
+  sections:[
+  {title:'身份与来历',text:'首先要说明：阿丁克拉不是神明，而是阿坎人，包括阿散蒂、芳蒂等群体使用的一套视觉符号，多见于布料印花、印章与建筑装饰。每个符号各有名称与对应的谚语，承载伦理、历史与人生哲理，是阿坎文化中的格言图像，而非神话人物。'},
+  {title:'主要叙事',text:'其起源有两则流传较广的说法：一说源于十九世纪阿散蒂与邻邦战争时仿制的敌方纹样，一说来自阿克拉商人的印染工艺。无论何者，符号系统在二十世纪随蜡染布流行而扩充，形成数百个纹样，各有谚语，用于丧礼、婚礼与日常。'},
+  {title:'象征与辨识',text:'辨识方法是把纹样与谚语配对：如“吉耶·尼阿梅”以双手承神之意表达至上，桑科法为回望之鸟，杜阿费为梳。符号多为黑底印于深红或赭色布上，也见于金饰与木雕；单看图形常不足以断定含义，须结合谚语与场合。'},
+  {title:'流传与文化语境',text:'阿丁克拉布在加纳是常见衣着与礼赠，丧礼上尤其讲究纹样选择，以纹样说明逝者品格与生者情谊。这些符号也被用于现代设计、首饰与教育材料。讨论时应明确其为谚语与价值观的图像编码，与崇拜对象不同，并留意商业使用与文化语境的落差。'}
+  ],
+  en:{name:'Adinkra symbols',title:'Akan proverb symbols, not deities',tags:['Adinkra','Akan','symbols'],
+   sections:[
+   {title:'Identity and origins',text:'Adinkra is not a deity but a system of visual symbols used by Akan peoples, including Asante and Fante, printed on cloth and carved on stamps, buildings and goldweights. Each symbol carries a name and a proverb about ethics, history or conduct: these are proverbial images, not mythic persons.'},
+   {title:'Key narratives',text:'Two origin stories circulate: one derives the patterns from designs copied during nineteenth-century Asante wars, the other from printers in Accra. Either way the repertoire expanded with the twentieth-century wax-print trade into hundreds of motifs, each with a proverb, worn at funerals, weddings and daily life.'},
+   {title:'Symbols and attributes',text:'Read them by pairing motif with proverb: Gye Nyame, “except God”, expresses divine supremacy; Sankofa is the bird looking back; Duafe is the comb. Printed black on deep red or ochre cloth, they also appear in gold and woodwork. The shape alone rarely fixes meaning without proverb and occasion.'},
+   {title:'Tradition and context',text:'Adinkra cloth is everyday dress and ceremonial gift in Ghana, with motifs chosen at funerals to praise the dead and console the living. The symbols also serve modern design, jewellery and teaching. They encode values and proverbs rather than objects of worship, and their commercial reuse deserves scrutiny.'}
+   ]}
+ },
+ {id:'west-africa-sankofa',myth:'west-africa',name:'桑科法',title:'回望之鸟与返取的谚语',tags:['桑科法','谚语','阿坎'],
+  sections:[
+  {title:'身份与来历',text:'桑科法同样不是神祇，而是阿坎文化中的符号与观念，常绘为一只回头取蛋的鸟。其谚语意为“回到过去取回所失，并不违逆”，强调从往昔经验中汲取智慧以面对当下，属阿丁克拉符号体系中最广为人知的一则。'},
+  {title:'主要叙事',text:'与此符号相关的故事多讲一只鸟因须前行而回身取回遗落的蛋，解说者以之比拟人应审视过去。它常出现于丧礼、成年礼与纪念场合，提醒生者承继先人之训；也见于谚语对答与说谚语的游戏中，由长者向年轻人解说。'},
+  {title:'象征与辨识',text:'图形要素是鸟身、回折的头颈与蛋，或简化为螺旋式的鸟形。颜色多取黑、赭与黄，可织于布、刻于木或铸于金。与其他阿丁克拉符号一样，其含义依附于谚语，单看图形不足以理解，须说明出处与使用场合。'},
+  {title:'流传与文化语境',text:'二十世纪泛非运动与非洲裔教育者广泛采用桑科法，作为回溯历史以重建自我的象征，加纳的旅游与工艺也大力推广此图。它因此在离散社群中常被误当作古老的神秘符号；说明时应指出其阿坎本源与现代的再造过程。'}
+  ],
+  en:{name:'Sankofa',title:'The bird that looks back, and its proverb',tags:['Sankofa','proverb','Akan'],
+   sections:[
+   {title:'Identity and origins',text:'Sankofa too is no deity but an Akan symbol and idea, usually drawn as a bird turning its head to take back an egg. The proverb says it is no wrong to go back for what you have forgotten, urging wisdom drawn from the past to guide the present. It is the best known of the Adinkra motifs.'},
+   {title:'Key narratives',text:'Stories attached to it describe a bird that must go back for a dropped egg as it moves forward, and explainers read this as a call to examine the past. It appears at funerals, initiations and memorials, reminding the living of ancestral teaching, and in proverb games led by elders.'},
+   {title:'Symbols and attributes',text:'The design shows a bird body, an arched neck and an egg, or a spiralling bird form. Colours are usually black, ochre and yellow, worked in cloth, wood or gold. As with other Adinkra symbols, meaning depends on the proverb, so shape alone is not enough.'},
+   {title:'Tradition and context',text:'Pan-African movements and African-descended educators adopted Sankofa in the twentieth century as a sign of retrieving history to rebuild the self, and Ghanaian tourism and craft promote it widely. It is therefore often mistaken abroad for an ancient mystical sign, obscuring its Akan origin and modern reinvention.'}
+   ]}
+ },
+ {id:'polynesia-kamapuaa',myth:'polynesia',name:'卡马普阿阿',title:'夏威夷传说中的猪形半神',tags:['夏威夷','猪神','变形'],
+  sections:[
+  {title:'身份与来历',text:'卡马普阿阿是夏威夷传统中的一位半神，名字意为“野猪之子”，兼具人形与猪形，力大无比，与土地肥沃、芋头种植及雨水相关。他被视为库普阿（kupua，超自然存在）之一，故事在夏威夷诸岛流传，各岛版本侧重不同。'},
+  {title:'主要叙事',text:'传说中他与火山女神佩莱长期争斗，情节包括争地、斗法与求爱；佩莱以火与熔岩相逼，他则以水与变形相抗，最终二人划定界线，分居迎风与背风之地。另一类故事讲他掘土成田、引水灌芋，解释地景与水系的由来。'},
+  {title:'象征与辨识',text:'辨识特征是猪首或全身猪形、獠牙、粗糙的鬃毛与强壮体格，也常与芋头田、湿地和雨相联系。夏威夷的木雕与树皮布图案中可辨人形与兽形并置；不同岛上的图像细节差异明显，不宜一概而论。'},
+  {title:'流传与文化语境',text:'这些故事属夏威夷原住民的口述传统，十九世纪由夏威夷学者与记录者写成文字，其中部分内容涉及只有特定家族或社群才可讲述的层次。今日的呼拉舞与土地运动中仍可见其形象。引用时应注明来源岛屿与版本差异，避免把诸说混成单一故事。'}
+  ],
+  en:{name:'Kamapuaa',title:'Hawaiian pig demigod of the land',tags:['Hawaii','pig','shapeshifting'],
+   sections:[
+   {title:'Identity and origins',text:'Kamapuaa is a Hawaiian demigod whose name means “pig child”, shifting between human and hog form. He is enormously strong and tied to fertile soil, taro cultivation and rain, counted among the kupua, beings of extraordinary power. Stories spread across the islands with different emphases.'},
+   {title:'Key narratives',text:'He contends for years with the volcano goddess Pele over land, contests of power and courtship, she pressing with fire and lava while he answers with water and transformation, until they divide the island into windward and leeward domains. Other tales explain taro terraces and water channels as his digging.'},
+   {title:'Symbols and attributes',text:'A pig head or whole hog form, tusks, coarse bristles and great strength identify him, along with taro patches, wetlands and rain. Hawaiian carving and barkcloth patterns set human and animal shapes side by side, though details differ noticeably from island to island.'},
+   {title:'Tradition and context',text:'These are Native Hawaiian oral traditions written down in the nineteenth century by Hawaiian scholars and recorders, and some layers belong only to particular families or communities. His image persists in hula and land struggles today. Citations should name island and version rather than merging them.'}
+   ]}
+ },
+ {id:'polynesia-sina',myth:'polynesia',name:'西娜',title:'玻利尼西亚传统中的西娜',tags:['玻利尼西亚','鳗鱼','椰树'],
+  sections:[
+  {title:'身份与来历',text:'西娜是玻利尼西亚广泛流传的女性人物之名，萨摩亚、汤加、纽埃与毛利传统中都出现同名或近名的形象，含义与故事却并不同一。萨摩亚的传说讲述她与一条鳗鱼之间的交往，这则故事与椰子的起源相连，是当地最知名的叙述之一。'},
+  {title:'主要叙事',text:'萨摩亚版本多讲：鳗鱼为西娜所爱或所惧，被村人杀死后嘱其将头埋下，由此长出椰树，树冠的纤维与果实被视为其形态的延续。另有以她为月神或女神者，说她居于月亮的背面，与潮汐和女性技艺相关；各岛谱系不同。'},
+  {title:'象征与辨识',text:'辨识特征是椰树、鳗鱼或海蛇、月光与花饰。萨摩亚的椰子传说常在影像与舞蹈中以此为题；在毛利传统中，同源的名字更多与月、女性工艺及潮汐相连，形象与萨摩亚的西娜并不同一，不应按字形直接等同。'},
+  {title:'流传与文化语境',text:'这些名字的相似反映出玻利尼西亚诸岛共同的南岛语渊源与长期的航海往来，但各社群对人物的理解自有脉络，需按岛屿与家族分别对待。传教士记录以及夏威夷、萨摩亚学者整理的口述文本，构成今日研究的主要依据；通俗读物常简化其差异。'}
+  ],
+  en:{name:'Sina',title:'A Polynesian woman of many versions',tags:['Polynesia','eel','coconut'],
+   sections:[
+   {title:'Identity and origins',text:'Sina is a widely shared Polynesian name, appearing in Samoan, Tongan, Niuean and Maori traditions with related names but unlike stories. The Samoan tale of her dealings with an eel is the best known, since it explains the origin of the coconut and is told throughout the islands.'},
+   {title:'Key narratives',text:'In Samoan versions the eel, loved or feared by Sina, is killed by villagers and asks that its head be buried, from which the coconut palm grows, its husk and fruit continuing its form. Other accounts make her a moon deity living on the moon’s far side, tied to tides and women’s crafts.'},
+   {title:'Symbols and attributes',text:'Coconut palms, eels or sea snakes, moonlight and flower ornaments identify her. Samoan dance and film often take the coconut story as subject; in Maori tradition the cognate name belongs more to the moon, women’s weaving and tides, a distinct figure rather than the same person.'},
+   {title:'Tradition and context',text:'The similar names reflect shared Austronesian roots and centuries of Polynesian voyaging, yet each community holds its own understanding, best treated island by island and family by family. Missionary records and texts compiled by Hawaiian and Samoan scholars are the main sources, while popular books flatten the differences.'}
+   ]}
+ },
+ {id:'aboriginal-emu',myth:'aboriginal',name:'天空鸸鹋',title:'银河暗带中的鸸鹋身影',tags:['鸸鹋','天文','暗云'],
+  sections:[
+  {title:'身份与来历',text:'天空鸸鹋不是单一的神话人物，而是澳大利亚部分原住民族在夜空暗带中辨认出的鸸鹋形象，其轮廓由银河的尘埃暗带构成，头在南十字附近，身在银河之中。这一讲法由特定地区的原住民族公开讲述，并不具有全澳通用的地位。'},
+  {title:'主要叙事',text:'公开流传的版本中，鸸鹋的形影与季节、蛋巢和泉水的出现相关：它在夜空中出现的时段指示何时寻蛋、何时雨水将至。相关叙述常以鸸鹋的坐姿或张开的身影描画暗带轮廓，并与邻近的星座、动物故事一并讲述。'},
+  {title:'象征与辨识',text:'辨认方法是观察银河的暗尘带：南十字附近的头部、颈部的暗隙与银河中心的躯体。它属“暗云星座”一类，与以亮星连线的星座不同；不同语言群体对其命名、分段与解释各异，图形并非全澳统一的图案。'},
+  {title:'流传与文化语境',text:'相关故事与知识由特定民族持有，如维多利亚西北部的布隆人，以及中部与北部的若干语族，各地讲述者决定何者可以外传。近年天文教育与博物馆展示多引用这一天文知识，引用时须标明来源民族，并避免使用受限制的细节。'}
+  ],
+  en:{name:'Sky Emu',title:'The emu shaped by the Milky Way’s dark lanes',tags:['emu','astronomy','dark constellations'],
+   sections:[
+   {title:'Identity and origins',text:'The Sky Emu is not a single mythic person but an emu recognised in the dark lanes of the Milky Way by particular Aboriginal peoples, its head near the Southern Cross and body within the galactic band. Such knowledge is told publicly by specific groups and is not pan-Australian.'},
+   {title:'Key narratives',text:'In published versions the emu’s position marks seasons, nests and water: when it stands in the sky tells people when to seek eggs or expect rain. Narrators trace the dark shape as a sitting or open-winged bird and tell it alongside neighbouring star stories and animal narratives.'},
+   {title:'Symbols and attributes',text:'Look for the dust lanes: the head near the Southern Cross, the dark gap of the neck, the body toward the galactic centre. It belongs with “dark constellations” rather than star-linked figures. Different language groups name and divide it differently, so no single design is universal.'},
+   {title:'Tradition and context',text:'The stories are held by particular nations, such as the Boorong of north-western Victoria and various central and northern language groups, and each determines what may be shared. Astronomy education and museums now cite this knowledge, and should name its source peoples and avoid restricted detail.'}
+   ]}
+ },
+ {id:'persia-kay-khosrow',myth:'persia',name:'凯霍斯鲁',title:'《列王纪》中的理想君王',tags:['列王纪','凯扬王朝','隐遁'],
+  sections:[
+  {title:'身份与来历',text:'凯霍斯鲁是波斯史诗《列王纪》中凯扬王朝的君王，出自菲尔多西的叙述，其原型可追溯到更早的中古伊朗传说与《阿维斯陀》传统。他被塑造成智慧、公正与勇武兼备的理想君主，是伊朗民族记忆中极为重要的形象。'},
+  {title:'主要叙事',text:'他的故事包括少年在土兰受教育、回国夺回王位、为父复仇而与土兰王阿夫拉西亚布长期征战；最终在击败宿敌后，他主动放弃王权，把王位交与卢赫拉斯普，独自隐入雪山，从此不知所终。史诗以他的消失作结，留下“隐遁君王”之说。'},
+  {title:'象征与辨识',text:'标志是王冠、凯扬之旗与王者灵光，以及他与众英雄并列的宫廷场景。细密画常绘他登基、渡海与雪中隐没的画面，其面容多为蓄须、华服。图像传统晚于史诗文本，多受波斯与中亚绘画风格影响。'},
+  {title:'流传与文化语境',text:'《列王纪》成书于十至十一世纪，以新波斯语诗体汇集古伊朗传说，是波斯语文学的基石。凯霍斯鲁被后世用以论说公正王权与弃权的智慧；一些伊斯兰与民间传统附会其隐遁与末世期待，但这些说法与史诗文本应加区分。'}
+  ],
+  en:{name:'Kay Khosrow',title:'The ideal king of the Shahnameh',tags:['Shahnameh','Kayani dynasty','disappearance'],
+   sections:[
+   {title:'Identity and origins',text:'Kay Khosrow is a king of the Kayani dynasty in Ferdowsi’s Shahnameh, his figure rooted in older Middle Iranian legend and Avestan tradition. He is drawn as the ideal ruler, combining wisdom, justice and martial courage, and stands among the most important figures of Iranian national memory.'},
+   {title:'Key narratives',text:'His story takes him to exile and schooling in Turan, back to reclaim the throne, and into long war with Afrasiyab to avenge his father. After defeating his enemy he gives up kingship, hands the throne to Lohrasp and vanishes into the mountains, leaving the epic’s theme of the hidden king.'},
+   {title:'Symbols and attributes',text:'Crown, the Kaviani banner and royal glory mark him, together with court scenes shared with the heroes. Miniatures show his enthronement, sea crossings and snowy disappearance, with bearded face and rich robes. This painting tradition postdates the poem and draws on Persian and Central Asian styles.'},
+   {title:'Tradition and context',text:'The Shahnameh was completed in the tenth to eleventh centuries, gathering ancient Iranian legend in New Persian verse as a foundation of Persian literature. Later writers cite Khosrow on just rule and the wisdom of renouncing power, while Islamic and folk traditions add hidden-imam expectations distinct from the epic itself.'}
+   ]}
+ },
+ {id:'mesopotamia-utnapishtim',myth:'mesopotamia',name:'乌特纳皮什提姆',title:'《吉尔伽美什》中的洪水生还者',tags:['洪水','吉尔伽美什','永生'],
+  sections:[
+  {title:'身份与来历',text:'乌特纳皮什提姆出自《吉尔伽美什史诗》第十一块泥板，是洪水之后获得永生的智者。他向吉尔伽美什讲述众神决定以洪水灭绝人类，而他受神示造舟，携家眷、工匠与鸟兽渡过洪灾，获赐居于河口之地的永生，其名意为“找到生命者”。'},
+  {title:'主要叙事',text:'他的洪水叙事与更早的《阿特拉哈西斯》及苏美尔洪水故事同源，情节结构相近：神祇决定毁灭、一人受启示造船、放鸟试探水退、献祭与神祇的悔意。它与《创世记》挪亚的故事有显著平行，但细节、神学与文类并不相同，不宜直接等同。'},
+  {title:'象征与辨识',text:'标识是方舟、鸽子与燕子、洪水后的献祭与河口之地。泥板上他被称为“远者”，居于诸河汇流之处；史诗借他考验吉尔伽美什，以“永生不可得”作答。图像材料稀少，主要凭泥板文本辨识。'},
+  {title:'流传与文化语境',text:'泥板于十九世纪在尼尼微的亚述巴尼拔图书馆出土，其洪水段落与圣经的相似性当时引起轰动。学界一般认为美索不达米亚传统更早，但两者关系属共享母题而非简单抄袭。史诗本身也有多个版本与残片，叙述时宜说明其苏美尔、巴比伦与亚述的层次。'}
+  ],
+  en:{name:'Utnapishtim',title:'Flood survivor of the Gilgamesh epic',tags:['flood','Gilgamesh','immortality'],
+   sections:[
+   {title:'Identity and origins',text:'Utnapishtim appears on tablet eleven of the Epic of Gilgamesh as the sage made immortal after the flood. He tells Gilgamesh how the gods resolved to destroy humanity, how he was warned to build a boat and carried family, craftsmen and animals through, and was granted life at the river mouths; his name means “he found life”.'},
+   {title:'Key narratives',text:'His flood shares a source with the older Atrahasis and Sumerian flood stories: a divine decision, one man warned to build, birds released to test the water, sacrifice and divine regret. It parallels Noah in Genesis markedly, but the details, theology and genre differ, so the two are not the same tale.'},
+   {title:'Symbols and attributes',text:'The ark, dove and swallow, the sacrifice after the waters fall, and the place where rivers meet identify him. The tablet calls him “the distant one” at the confluence; the epic uses him to test Gilgamesh and answer that immortality cannot be won. Images are scarce, so the text is the main evidence.'},
+   {title:'Tradition and context',text:'The tablet came from Ashurbanipal’s library at Nineveh in the nineteenth century, and its likeness to the Bible caused a sensation. Scholars usually date the Mesopotamian material earlier, while treating the relation as shared motifs rather than simple copying. Multiple recensions exist, Sumerian, Babylonian and Assyrian.'}
+   ]}
+ },
+ {id:'mesopotamia-nergal',myth:'mesopotamia',name:'涅尔伽勒',title:'战争、瘟疫与冥府之神',tags:['冥府','战争','瘟疫'],
+  sections:[
+  {title:'身份与来历',text:'涅尔伽勒是美索不达米亚的冥府之神，兼掌战争与瘟疫。其名早见于苏美尔文献，主要城邦中心为库塔。他原是星神与战神，后被纳入冥界权力结构，与冥后埃蕾什基伽勒并治下界，成为“不再返回之地”的统治者之一。'},
+  {title:'主要叙事',text:'著名故事讲他因不肯向冥后致敬而被邀入冥府，受胁不得复返，遂夺其权柄并与她成婚，共治冥界。这则神话解释了他由天界神祇转为冥府之主的由来。另有叙事把他与瘟疫、战场上的死亡相连；亚述王常祈求他赐予胜利。'},
+  {title:'象征与辨识',text:'标志是双狮头权杖、弯刀与火焰，其形象常与瘟疫之热和战争之火相联。天文上他与火星相关，占卜文献视其行星运行预兆战乱与疫病。库塔的神庙、出土的犬形塑像与仪式文本，是辨识其崇拜的重要材料。'},
+  {title:'流传与文化语境',text:'冥府观念在美索不达米亚宗教中占重要位置：亡者居于尘土之屋，需供祭与记念，涅尔伽勒因此既可怕又不可或缺。他的职能在后期与埃蕾什基伽勒分工明确，也影响了周边地区对冥神的想象。相关研究多依赖泥板文书与印章图像，须注意版本与地方差异。'}
+  ],
+  en:{name:'Nergal',title:'God of war, plague and the underworld',tags:['underworld','war','plague'],
+   sections:[
+   {title:'Identity and origins',text:'Nergal is the Mesopotamian god of the underworld who also governs war and plague. His name appears early in Sumerian texts, and his main cult centre was Kutha. Originally a stellar and warrior god, he was drawn into the powers of the netherworld and ruled it with Ereshkigal as lord of the land of no return.'},
+   {title:'Key narratives',text:'A famous myth has him enter the underworld because he refused to show deference to its queen, then seize power there when return is denied, marrying Ereshkigal and sharing her rule. This explains his shift from sky god to underworld king. Other texts tie him to pestilence and battle death; Assyrian kings prayed for victory.'},
+   {title:'Symbols and attributes',text:'His mace with twin lion heads, curved sword and flames identify him, and he is linked to plague fever and the fire of war. In astronomy he is Mars, whose movements omen texts read as portents of war and disease. Temples at Kutha, dog figurines and ritual texts are the key evidence.'},
+   {title:'Tradition and context',text:'Underworld belief mattered greatly in Mesopotamian religion: the dead lived in a house of dust and needed offerings and remembrance, making Nergal both feared and necessary. His later division of roles with Ereshkigal shaped neighbouring ideas of the netherworld. Study rests on tablets and seals, with variant and local versions.'}
+   ]}
+ }
+];
+
+window.FIGURES_EAST.push(...window.FIGURES_EXTRA_EAST,...window.FIGURES_MORE_A);window.FIGURES_WEST.push(...window.FIGURES_EXTRA_WEST,...window.FIGURES_MORE_B);window.FIGURES_WORLD=[...window.FIGURES_AMERICAS,...window.FIGURES_SOUTH,...window.FIGURES_EXTRA_WORLD,...window.FIGURES_MORE_C];
